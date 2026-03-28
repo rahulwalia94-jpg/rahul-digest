@@ -92,12 +92,12 @@ async function main() {
   };
 
   // ── Write today's digest ─────────────────────────────
-  mkdirSync("digests", { recursive: true });
-  writeFileSync(`digests/${today}.json`, JSON.stringify(digest, null, 2));
-  console.log(`\n✅ Written: digests/${today}.json`);
+  mkdirSync("docs/digests", { recursive: true });
+  writeFileSync(`docs/digests/${today}.json`, JSON.stringify(digest, null, 2));
+  console.log(`\n✅ Written: docs/digests/${today}.json`);
 
   // ── Update index.json (list of all dates, newest first) ─
-  const indexPath = "digests/index.json";
+  const indexPath = "docs/digests/index.json";
   let index = existsSync(indexPath)
     ? JSON.parse(readFileSync(indexPath, "utf8"))
     : [];
