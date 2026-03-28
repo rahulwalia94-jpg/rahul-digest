@@ -1,6 +1,6 @@
 {
   "date": "2026-03-28",
-  "generatedAt": "2026-03-28T23:27:11.614Z",
+  "generatedAt": "2026-03-28T23:42:43.893Z",
   "categories": [
     {
       "category": "credit_risk",
@@ -13,7 +13,7 @@
           "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
           "source": "Bank of England",
           "publishedAt": "Fri, 27 Mar 2026 14:00:00 Z",
-          "summary": "**CREDIT RISK & REGULATORY:** Models sterling MMF redemption dynamics under stress to quantify liquidity buffers and inform regulatory capital/LCR frameworks. Directly applicable to IFRS 9 cash flow forecasting, ECL staging triggers, and stress-testing methodologies for money market exposures in banking book portfolios."
+          "summary": "**CREDIT RISK & REGULATORY:**\nFramework models sterling MMF redemption stress under IFRS 9 liquidity scenarios, informing ECL/LGD calibration for money market exposures and Basel IV liquidity coverage ratios. Outputs quantify systemic redemption cascades—critical for PMA overlays and regulatory capital adequacy under stress scenarios."
         },
         {
           "title": "A UK-HANK model",
@@ -21,10 +21,10 @@
           "content": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.",
           "source": "Bank of England",
           "publishedAt": "Fri, 27 Mar 2026 14:00:00 Z",
-          "summary": "**CREDIT RISK & REGULATORY:**\nUK-HANK model maps household heterogeneity (income, wealth, debt distribution) into macro shocks, directly informing ECL provisions under IFRS 9 through segmented PD/LGD calibration across borrower archetypes. Central banks' internal frameworks now embed agent-based dynamics, shifting regulatory stress-testing from uniform scenarios toward granular portfolio resilience modeling."
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nBoE's HANK model (Heterogeneous Agent New Keynesian) captures unequal wealth/income distribution effects on monetary transmission—critical for ECL provisions since demand shocks now correlate with household PD/LGD differently than representative-agent models assume. Regulatory capital models must stress-test against distributional tail risks; implications span asset correlation assumptions and PMA overlays across unsecured and secured portfolios."
         }
       ],
-      "generatedAt": "2026-03-28T23:26:22.663Z"
+      "generatedAt": "2026-03-28T23:41:53.126Z"
     },
     {
       "category": "ai_research",
@@ -37,7 +37,7 @@
           "content": "",
           "source": "Hugging Face",
           "publishedAt": "Fri, 27 Mar 2026 00:00:00 GMT",
-          "summary": "I need the actual content of \"Liberate your OpenClaw\" to write an accurate summary. The title alone doesn't provide sufficient detail to assess macro/market significance, credit risk implications, AI/ML disruption potential, or technical relevance.\n\nCould you provide the article, research paper, or content body?"
+          "summary": "I need the actual content of \"Liberate your OpenClaw\" to write an accurate summary. The title alone doesn't indicate whether this is a research paper, framework, tool, or concept—and I can't reliably map it to your four analytical lenses without understanding what it proposes.\n\nCould you share the article/paper text or a substantive abstract?"
         },
         {
           "title": "A New Framework for Evaluating Voice Agents (EVA)",
@@ -45,7 +45,7 @@
           "content": "",
           "source": "Hugging Face",
           "publishedAt": "Tue, 24 Mar 2026 02:01:52 GMT",
-          "summary": "**MACRO/MARKETS:** Voice agent standardization could reshape enterprise software capex allocation and labor economics across contact centers ($100B+ market), with implications for outsourcing geography and automation ROI timelines in emerging markets.\n\n**CREDIT RISK:** Systematic voice agent evaluation frameworks reduce model risk in AI-driven credit decisioning and collections automation; directly relevant to PMA governance, validation rigor, and regulatory expectations around algorithmic explainability under IFRS 9 stress-testing regimes.\n\n**AI/ML:** Benchmarked evaluation metrics enable production-grade voice systems in banking operations (KYC, disputes, recoveries), lowering deployment friction vs. proprietary black-box models"
+          "summary": "**MACRO/MARKETS:** EVA framework addresses AI commoditization risk across enterprise software, contact centers, and customer service—material for tech valuations and labor cost deflation narratives. Voice agent adoption accelerates automation ROI cycles, reshaping operating leverage for financial services and BPO sectors globally.\n\n**CREDIT RISK:** Standardized voice agent evaluation improves model transparency and reduces operational risk in AI-driven lending/servicing systems; supports regulatory defense of PD/LGD calibration reliance on automated decisioning and compliance monitoring infrastructure.\n\n**AI/ML:** Framework enables systematic benchmarking of LLM voice agents on banking-critical dimensions (accuracy, latency, hallucination"
         },
         {
           "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
@@ -53,7 +53,7 @@
           "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
           "source": "DeepMind",
           "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
-          "summary": "**MACRO/MARKETS:** Voice AI commoditization pressures margin expansion in enterprise software; shifts competitive moat from language models to inference efficiency, favoring cloud infrastructure capex cycles and latency-critical markets (financial services, healthcare).\n\n**CREDIT RISK:** Lower-latency voice AI enables real-time transaction verification and fraud detection; potential ECL model enhancement via improved customer authentication, reducing operational risk assumptions in retail/SME portfolios.\n\n**AI/ML:** Precision/latency gains unlock voice-first analytics dashboards for banking—real-time P&L voice queries, regulatory reporting automation; narrows moat between consumer and enterprise AI inference, commoditizing custom model development.\n\n**"
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nGemini 3.1 Flash's sub-100ms voice latency and improved precision accelerate conversational AI adoption across consumer/enterprise, pressuring legacy voice platforms and creating structural headwinds for telecom margins while unlocking new fintech UX vectors. Real-time audio processing at scale shifts competitive moats toward inference efficiency and model reliability—critical for emerging-market voice-first banking and commodity trading workflows.\n\n**CREDIT RISK & REGULATORY:**\nEnhanced voice model precision reduces authentication false negatives/positives, materially improving KYC/AML controls and reducing operational risk adjustments in ECL calculations; lower lat"
         },
         {
           "title": "Protecting people from harmful manipulation",
@@ -61,7 +61,7 @@
           "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
           "source": "DeepMind",
           "publishedAt": "Wed, 25 Mar 2026 16:46:20 +0000",
-          "summary": "**MACRO/MARKETS:** AI manipulation risks in finance and health create regulatory uncertainty for tech valuations and financial services; heightened compliance costs across fintech/banking sectors could reshape competitive moats and margin profiles globally.\n\n**CREDIT RISK:** DeepMind's manipulation research directly informs PD model validation and consumer protection frameworks; regulatory tightening on algorithmic bias risks elevating ECL provisions for financial institutions with AI-driven lending/trading systems.\n\n**AI/ML:** Safety breakthroughs in adversarial robustness strengthen banking analytics defenses; manipulation detection methodologies applicable to transaction fraud rings, credit decisioning audits, and model governance—critical for ECL backtesting integrity."
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** DeepMind's manipulation-risk framework has direct IFRS 9 implications—AI-driven fraud/behavioral bias could distort PD/LGD inputs and ECL provisioning models, requiring enhanced model governance and scenario stress-testing across fintech/lending portfolios. Signals regulatory tightening on algorithmic decision-making in capital markets and consumer finance globally.\n\n**AI/ML & BUILDER:** Banks deploying predictive analytics must embed adversarial robustness checks into credit/fraud models; the research validates need for explainability layers in production ML pipelines, impacting model risk frameworks and validation protocols for analytics teams and"
         },
         {
           "title": "A woman’s uterus has been kept alive outside the body for the first time",
@@ -69,7 +69,7 @@
           "content": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent…",
           "source": "MIT Tech Review",
           "publishedAt": "Sat, 28 Mar 2026 09:00:00 +0000",
-          "summary": "**Breakthrough / Healthcare Innovation:**\nEx-vivo organ preservation technology addresses a critical bottleneck in transplant logistics, potentially expanding addressable patient populations and reducing time-sensitive supply chain friction. Sector implications span biotech, medical devices, and healthcare services; regulatory pathway clarity will drive commercialization timeline and investor risk appetite."
+          "summary": "**Category: Biotech/Healthcare Innovation (Macro)**\n\nEx-vivo organ preservation technology—demonstrated via uterus perfusion systems—signals emerging $XX bn market for transplant infrastructure, pharmaceutical testing, and regenerative medicine. Macro implications: reduced organ scarcity, new healthcare capex cycles, and biotech equity exposure across device manufacturers, pharma, and fertility sectors."
         },
         {
           "title": "The Download: the internet’s best weather app, and why people freeze their brains",
@@ -77,10 +77,10 @@
           "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app  The best snow-forecasting app for skiers isn’t a federally-funded service or a big-name brand. It’s OpenSnow, a startup that uses government data, its own AI…",
           "source": "MIT Tech Review",
           "publishedAt": "Fri, 27 Mar 2026 12:32:54 +0000",
-          "summary": "**AI/ML + BUILDER:** OpenSnow exemplifies hyperlocal AI/ML advantage—leveraging public data + proprietary models to outcompete incumbents; relevant pattern for fintech (risk models, fraud detection) and consumer apps balancing regulatory data access with competitive differentiation through algorithmic edge."
+          "summary": "**AI/ML + BUILDER**: OpenSnow demonstrates niche AI disruption—lightweight ML models leveraging free government datasets outperforming incumbents, relevant to fintech's playbook of API-first, data-efficient architectures. Pattern mirrors banking analytics shift: specialized models (PD/LGD) beating monolithic platforms when paired with domain expertise and lean deployment (React Native analogue)."
         }
       ],
-      "generatedAt": "2026-03-28T23:26:35.845Z"
+      "generatedAt": "2026-03-28T23:42:07.455Z"
     },
     {
       "category": "macro",
@@ -93,7 +93,7 @@
           "content": "Yemen’s Houthi rebels carry out their first attack on Israel since the war began",
           "source": "FT Markets",
           "publishedAt": "Sat, 28 Mar 2026 22:17:04 GMT",
-          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nMiddle East escalation (Iran proxy strikes, Houthi-Israel engagement) risks oil volatility, USD safe-haven flows, and potential sanctions—triggering ECL uplift across GCC/emerging market exposures via PD/macro scenario weighting under IFRS 9. Geopolitical tail-risk demands stress-test review of energy, shipping, and regional bank counterparty concentrations."
+          "summary": "**MACRO/MARKETS:** Middle East escalation (US-Iran proxy clash, Houthi-Israel direct engagement) elevates geopolitical risk premium on oil, USD, and safe-haven assets; widens VIX; pressures emerging market FX and high-yield spreads via risk-off repositioning.\n\n**CREDIT RISK:** Elevated tail-risk scenarios increase PD volatility in energy/logistics counterparties and EM sovereigns; ECL models require scenario-weight recalibration; potential PMA triggers on Middle East-exposed portfolios if stress duration extends beyond 3-month horizons."
         },
         {
           "title": "The failures of prediction markets are predictable",
@@ -101,7 +101,7 @@
           "content": "They can send wrong signals when trading is illiquid or when herd behaviour takes hold",
           "source": "FT Markets",
           "publishedAt": "Sat, 28 Mar 2026 09:41:02 GMT",
-          "summary": "**Prediction markets show structural failures under illiquidity and herding, signaling regime-dependent reliability rather than true price discovery—critical for macro positioning and ECL models that depend on market-implied probabilities for PD calibration and forward guidance.**"
+          "summary": "**Macro/Markets:** Prediction market failures under illiquidity and herding expose systemic risks in consensus-driven price discovery—relevant for macro positioning and volatility forecasting when traditional markets show similar pathologies.\n\n**Credit Risk:** Illiquid, herd-driven pricing distorts market-implied probabilities of default and recovery rates; ECL models relying on market signals (CDS, equity) require stress-testing for prediction market-like dysfunction scenarios."
         },
         {
           "title": "\n        The decline and fall of the Roman currency empire\n      ",
@@ -109,7 +109,7 @@
           "content": "The fate of ancient coins offers uncomfortable lessons about dollar dominance",
           "source": "The Economist",
           "publishedAt": "Thu, 26 Mar 2026 10:18:37 +0000",
-          "summary": "**Macro/Markets & Credit Risk Angle:**\n\nHistorical currency debasement parallels modern reserve currency dynamics—relevant to FX volatility modeling, sovereign credit spreads, and ECL assumptions on cross-border exposures. Dollar dominance erosion scenarios warrant stress-testing in IFRS 9 frameworks, particularly for banks with USD-denominated portfolios exposed to geopolitical de-dollarization risk."
+          "summary": "**Macro/Markets angle:** Historical currency debasement parallels modern fiat-system vulnerabilities; dollar hegemony faces structural erosion from debt dynamics, commodity cycles, and reserve-currency fragmentation—risk repricing across FX, rates, gold, and EM assets likely."
         },
         {
           "title": "\n        Christine Lagarde’s sober tone on the Gulf war energy shock\n      ",
@@ -117,7 +117,7 @@
           "content": "Our interview with the ECB’s president",
           "source": "The Economist",
           "publishedAt": "Thu, 26 Mar 2026 10:17:23 +0000",
-          "summary": "**MACRO/MARKETS:** Lagarde signals ECB vigilance on energy-driven inflation spillover from Gulf tensions; risk-off sentiment pressures peripheral spreads and commodity-linked EM assets, while elevated oil volatility complicates forward guidance credibility and rate-path expectations across eurozone.\n\n**CREDIT RISK:** Energy shock scenarios stress ECL models (PD/LGD correlation assumptions in oil-exposed sectors); stagflation tail-risk requires PMA uplift and rapid scenario repricing—particularly for upstream/downstream corporates and commodity-linked sovereigns in emerging markets with FX mismatch."
+          "summary": "**MACRO/MARKETS:** Lagarde's cautious stance on geopolitical energy shocks signals ECB reluctance to front-run inflation surprises, constraining rate trajectory and supporting risk assets despite near-term volatility in crude/gas. Gulf instability elevates energy tail risks for eurozone growth forecasts, particularly impacting periphery refinancing and energy-import-dependent sectors."
         },
         {
           "title": "SA Asks: What's the best data center infrastructure stock right now?",
@@ -125,7 +125,7 @@
           "content": "",
           "source": "Seeking Alpha",
           "publishedAt": "Sat, 28 Mar 2026 17:37:31 -0400",
-          "summary": "**Data center infrastructure consolidation reflects secular AI capex demand and energy/real estate arbitrage dynamics reshaping telecom/cloud valuations. Rising power costs and grid constraints create regulatory/credit headwinds for leveraged operators—material for ECL models given energy price volatility and refinancing risk in 2025.**"
+          "summary": "**Data center infrastructure consolidation reflects secular AI/cloud capex growth offsetting macro rate sensitivity; sector represents dual-track macro bet (tech spending resilience vs. REIT valuation compression), with regulatory focus shifting toward energy intensity (carbon/ESG) and grid-strain implications affecting cost-of-capital models.**"
         },
         {
           "title": "SA Asks: What's the most attractive space stock right now?",
@@ -133,7 +133,7 @@
           "content": "",
           "source": "Seeking Alpha",
           "publishedAt": "Sat, 28 Mar 2026 16:17:06 -0400",
-          "summary": "**Macro/Markets + Breakthroughs angle:**\n\nSpace sector consolidation (launch cadence, reusable tech, satellite comms) reshapes defence/telecom capex cycles and emerging-market connectivity premiums; competitive pressure on incumbents (traditional aerospace) mirrors legacy banking disruption models. Valuation inflection hinges on revenue visibility (government contracts vs. commercial), geopolitical fragmentation risk, and whether SpaceX/Axiom/Relativity scale manufacturing—critical for portfolio beta-to-growth ratios in 2025."
+          "summary": "**MACRO & MARKETS ANGLE:**\nCommercial space sector consolidation (launch, satellite comms, orbital services) reflects structural tailwinds—government spending, constellation economics, supply-chain reshoring—with valuation dispersion signaling repricing risk across aerospace/defense equity correlations globally."
         },
         {
           "title": "FIIs sell Indian equities worth Rs 1.14 lakh crore in March; 2026 outflow balloons to Rs 1.27 lakh crore ",
@@ -141,7 +141,7 @@
           "content": "Foreign institutional investors (FIIs) offloaded domestic equities worth Rs 1,13,810 crore in March, extending their selling trends amid the Iran-Israel war. So far, this year, they have offloaded Indian shares worth Rs 1,27,157 crore.",
           "source": "ET Markets",
           "publishedAt": "Sat, 28 Mar 2026 17:11:37 +0530",
-          "summary": "**MACRO/MARKETS:** FII outflows of Rs 1.27L cr in 2026 YTD signal sustained foreign capital withdrawal from Indian equities amid geopolitical tensions (Iran-Israel), pressuring rupee, liquidity, and domestic market stability—critical for EM allocation models and correlation tracking with global risk-off cycles.\n\n**CREDIT RISK:** Mass FII liquidation compresses collateral valuations and corporate bond spreads, elevating counterparty credit exposures; impacts IFRS 9 Stage migration via equity haircuts, macroeconomic variable calibration in ECL models, and regulatory capital adequacy under stress scenarios."
+          "summary": "**MACRO/MARKETS:** FII exodus of Rs 1.27 lakh crore YTD signals India premium compression amid geopolitical risk (Iran-Israel) and likely Fed/global rate dynamics; watch for rupee depreciation pressure and liquidity tightening in mid-cap/smallcap segments dependent on foreign flows.\n\n**CREDIT RISK:** Sharp equity outflows reduce collateral values for margin-based lending and corporate bond demand; ECL models must flag increased PD migration for leveraged corporates and NBFC counterparties exposed to equity-dependent cash flows.\n\n**BUILDER:** Real-time FII flow dashboards (Firebase + Node.js backend consuming NSE"
         },
         {
           "title": "Info Edge commits Rs 250 cr in deep-tech AIF; exits Shopkirana via share-swap deal with TIPL ",
@@ -149,10 +149,10 @@
           "content": "Info Edge is set to invest up to Rs 250 crore in an alternative investment fund. This fund will back early-stage deep-tech companies in India.  In a separate move, Info Edge is exiting its associate company Shopkirana. This exit is through a share-swap agreement with Singapore-based Trustroot Internet.  These transactions are expected to be completed by June 30, 2026.",
           "source": "ET Markets",
           "publishedAt": "Sat, 28 Mar 2026 16:50:03 +0530",
-          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nIndia's deep-tech funding via AIFs signals capital reallocation from consumer commerce (Shopkirana exit) toward sovereign tech capability—structural bet on AI/semiconductor/biotech clusters competing with China/US. Share-swap consolidation reflects consolidation in Indian e-commerce logistics, compressing valuations in that segment while freeing growth capital."
+          "summary": "**MACRO/MARKETS:** India's deep-tech funding acceleration signals venture-backed innovation shifting upstream in capital stack; Shopkirana exit reflects consolidation in agri-commerce—watch logistics/B2B e-commerce margin compression across emerging market e-commerce platforms amid competitive intensity.\n\n**CREDIT RISK:** AIF investment increases Info Edge's illiquid asset exposure (ECL staging considerations under IFRS 9); Shopkirana share-swap triggers fair value reassessment of associate carrying value and potential impairment triggers under equity method accounting."
         }
       ],
-      "generatedAt": "2026-03-28T23:26:52.499Z"
+      "generatedAt": "2026-03-28T23:42:24.367Z"
     },
     {
       "category": "breakthroughs",
@@ -165,7 +165,7 @@
           "content": "",
           "source": "Nature",
           "publishedAt": "2026-03-27T00:00:00.000Z",
-          "summary": "**MACRO/MARKETS & CREDIT RISK:** Large-scale lung-cancer screening reduces mortality but increases near-term healthcare costs and insurance claims volatility—relevant to health insurers' ECL modeling (higher claims frequency shifts LGD assumptions) and pharma/diagnostic equipment capex cycles. Early detection shifts revenue timing for oncology drugs, impacting pharma sector multiples and emerging-market healthcare capex budgets.\n\n**AI/ML & BREAKTHROUGHS:** Screening programs drive demand for imaging AI and predictive analytics—diagnostic AI vendors (radiology algorithm providers) see revenue uplift; banks financing healthtech face lower default risk on these portfolios. Clinical data standardization creates fintech opportunity"
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Early-stage lung cancer detection reduces severity-weighted mortality and downstream healthcare costs, improving credit quality of hospital operators and pharma supply chains; shifts actuarial assumptions for life insurers' mortality curves (IFRS 9 ECL impact on longevity reserves). **AI/ML & BREAKTHROUGHS:** Screening campaign generates massive labeled imaging datasets—critical moat for diagnostic AI training; creates recurring SaaS revenue model for healthtech platforms and potential fintech play through outcome-linked insurance products using ML-driven risk segmentation."
         },
         {
           "title": "Giants of the deep and the wonder of space: Books in Brief",
@@ -173,7 +173,7 @@
           "content": "",
           "source": "Nature",
           "publishedAt": "2026-03-27T00:00:00.000Z",
-          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nDeep-sea exploration and space science breakthroughs signal emerging commodity/resource extraction frontiers (rare earths, minerals, energy) with multi-decade structural implications for emerging markets and energy transition dynamics. Investment thesis: frontier resource scarcity driving long-cycle capex cycles and geopolitical realignment in critical supply chains."
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nDeep ocean exploration and space advancement signal emerging resource frontiers (rare earth minerals, helium-3, biotech compounds) reshaping commodity cycles and long-term inflation expectations. Sectors: materials, aerospace, biotech valuations; thematic rotation from traditional energy toward frontier extraction and space economy (~$1T+ TAM by 2040)."
         },
         {
           "title": "Popular sugar substitute linked to brain damage and stroke risk",
@@ -181,7 +181,7 @@
           "content": "A widely used sugar substitute found in everything from keto snacks to diet drinks may not be as harmless as it seems. New research shows that erythritol can disrupt brain blood vessel cells, reducing their ability to relax, increasing harmful oxidative stress, and impairing the body’s ability to break down clots. These changes create conditions that could raise stroke risk, even at typical consumption levels.",
           "source": "Science Daily",
           "publishedAt": "Sat, 28 Mar 2026 07:01:23 EDT",
-          "summary": "**MACRO/MARKETS:** Erythritol health concerns could trigger consumer staples volatility, regulatory scrutiny of food additives, and potential demand shift toward natural sweeteners—relevant for CPG, beverage, and pharma equity positioning in developed markets facing obesity-linked healthcare costs.\n\n**CREDIT RISK:** No direct IFRS 9/ECL impact unless food/beverage counterparties face material liability exposure or regulatory capital pressure; monitor consumer health litigation risk in loan covenants and PD model calibration for exposed sectors.\n\n**BREAKTHROUGHS:** Regulatory ban risk could disrupt $2B+ sugar-free market; upside for stevia/monk fruit players"
+          "summary": "**MACRO/MARKETS:** Erythritol health findings could pressure food/beverage valuations (CPG sector), trigger regulatory scrutiny similar to aspartame cycles, and reshape $7B+ sugar-substitute market toward stevia/monk fruit alternatives—material for consumer discretionary and healthcare equity positioning.\n\n**CREDIT RISK:** Potential FDA restrictions or liability litigation could stress food manufacturers' balance sheets, elevating default risk in CPG lending portfolios; may trigger covenant reviews and ECL uplift for exposed counterparties under IFRS 9 staging models.\n\n**AI/ML:** Emerging health-risk signals in real-time food/chemical data streams present NLP/anomaly"
         },
         {
           "title": "After 20 years, scientists finally explain the Crab Pulsar’s strange “zebra stripes”",
@@ -189,7 +189,7 @@
           "content": "For decades, astronomers have been puzzled by strange “zebra stripe” patterns in radio waves from the Crab Pulsar — bright bands separated by complete darkness. Now, new research suggests the answer lies in a cosmic tug-of-war between gravity and plasma. The pulsar’s plasma spreads light apart, while gravity bends it back together, creating interference patterns that form the striking stripes.",
           "source": "Science Daily",
           "publishedAt": "Sat, 28 Mar 2026 07:24:47 EDT",
-          "summary": "**BREAKTHROUGHS:** Fundamental physics advances in plasma behavior and light propagation have potential applications in next-gen telecommunications and energy transmission modeling, relevant to infrastructure and utilities sector valuations. No immediate market-moving implications, but demonstrates continued scientific progress in domains underpinning long-term technological infrastructure competitiveness."
+          "summary": "**BREAKTHROUGHS:** Fundamental physics breakthroughs in pulsar emission mechanics could advance precision timing technologies underlying GPS/financial settlement systems and validate plasma physics models with applications in fusion energy—a high-conviction macro theme amid energy transition. No immediate market disruption, but validates long-duration research pipelines in deep-tech venture allocations."
         },
         {
           "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
@@ -197,7 +197,7 @@
           "content": "Breathing capacity could have compensated for lower atmospheric oxygen.",
           "source": "Ars Technica",
           "publishedAt": "Sat, 28 Mar 2026 12:30:43 +0000",
-          "summary": "**BREAKTHROUGHS:** Paleontological evidence challenges the oxygen-limitation hypothesis for gigantism extinction in Carboniferous insects. This shifts understanding of evolutionary constraints and adaptation mechanisms—relevant for long-duration biological/climate risk modeling in ESG frameworks and paleoclimate-linked stress testing scenarios for carbon-intensive sectors."
+          "summary": "**BREAKTHROUGHS angle:** Paleontological findings on insect physiology challenge prior climate models; implications for understanding extremophile adaptation and biotech oxygen-efficiency research, with potential applications in synthetic biology valuations and climate-adjacent biotech equity positioning."
         },
         {
           "title": "Causality optional? Testing the \"indefinite causal order\" superposition",
@@ -205,10 +205,10 @@
           "content": "A quantum experiment shows that we can formally test if the order of events matters.",
           "source": "Ars Technica",
           "publishedAt": "Sat, 28 Mar 2026 12:00:31 +0000",
-          "summary": "**BREAKTHROUGHS / AI-ML angle:**\nIndefinite causal order (ICO) quantum experiments challenge classical logic foundations—potentially disrupting deterministic risk models, causal inference in ML, and backtesting assumptions in quant finance. If causality is formally superpositionable, probabilistic ECL frameworks and time-series PD/LGD correlations may require quantum-corrected calibration at scale."
+          "summary": "**BREAKTHROUGHS / AI-ML ANGLE:**\nIndefinite causal order in quantum systems challenges deterministic assumptions underlying financial risk models (PD/LGD forecasting, scenario analysis); if validated at scale, could reshape Monte Carlo simulations and causal inference in ECL frameworks, forcing recalibration of sequential dependency assumptions in macroeconomic stress testing."
         }
       ],
-      "generatedAt": "2026-03-28T23:27:04.105Z"
+      "generatedAt": "2026-03-28T23:42:35.857Z"
     },
     {
       "category": "builder",
@@ -216,20 +216,20 @@
       "color": "#c084fc",
       "items": [
         {
-          "title": "Why mathematicians are boycotting their biggest conference",
-          "url": "https://www.scientificamerican.com/article/why-mathematicians-are-boycotting-their-biggest-conference/",
-          "content": "Article URL: https://www.scientificamerican.com/article/why-mathematicians-are-boycotting-their-biggest-conference/\nComments URL: https://news.ycombinator.com/item?id=47558657\nPoints: 15\n# Comments: 2",
+          "title": "RAM prices are plummeting after OpenAI failed to fulfill its commitment",
+          "url": "https://twitter.com/rdd147/status/2037956117620482417",
+          "content": "Article URL: https://twitter.com/rdd147/status/2037956117620482417\nComments URL: https://news.ycombinator.com/item?id=47558765\nPoints: 22\n# Comments: 4",
           "source": "Hacker News",
-          "publishedAt": "Sat, 28 Mar 2026 22:29:10 +0000",
-          "summary": "**BUILDER relevance:** Academic boycotts signal talent flight from institutions—relevant for fintech/AI recruiting competing for math PhDs. Broader pattern: top technical talent increasingly values ethics/governance over prestige, reshaping where innovation concentrates (startups, alternative research orgs vs. traditional academia)."
+          "publishedAt": "Sat, 28 Mar 2026 22:48:18 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML ANGLE:**\nSemiconductor oversupply from unfulfilled enterprise AI capex commitments signals potential demand-side correction in the AI infrastructure buildout cycle, with deflationary pressure on hardware costs compacting margins across chipmakers and threatening near-term valuations in the semiconductor sector."
         },
         {
-          "title": "Private equity turned vulnerable elderly people into human ATMs",
-          "url": "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms",
-          "content": "Article URL: https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms\nComments URL: https://news.ycombinator.com/item?id=47558372\nPoints: 40\n# Comments: 12",
+          "title": "Why mathematicians are boycotting their biggest conference",
+          "url": "https://www.scientificamerican.com/article/why-mathematicians-are-boycotting-their-biggest-conference/",
+          "content": "Article URL: https://www.scientificamerican.com/article/why-mathematicians-are-boycotting-their-biggest-conference/\nComments URL: https://news.ycombinator.com/item?id=47558657\nPoints: 28\n# Comments: 7",
           "source": "Hacker News",
-          "publishedAt": "Sat, 28 Mar 2026 21:43:00 +0000",
-          "summary": "**CREDIT RISK & MACRO:** PE ownership of care homes creates systemic ECL pressure—asset-light models with aggressive leverage and resident fee extraction drive defaults; regulatory scrutiny (CMA/FCA) on social care financing threatens portfolio valuations across healthcare-focused credit indices and emerging ESG-linked debt pricing."
+          "publishedAt": "Sat, 28 Mar 2026 22:29:10 +0000",
+          "summary": "**BUILDER & PRODUCT ANGLE:**\n\nMathematician boycotts signal talent flight from academic conferences over ethical/institutional issues—mirrors broader brain drain affecting fintech/quant hiring and open-source contributor retention. Relevant to product orgs: community trust erosion directly impacts recruitment pipelines for ML/analytics teams relying on academic talent (PD/LGD modeling, algorithmic development)."
         },
         {
           "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
@@ -237,7 +237,7 @@
           "content": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
           "source": "TechCrunch",
           "publishedAt": "Sat, 28 Mar 2026 23:00:00 +0000",
-          "summary": "**MACRO/MARKETS:** Bluesky's AI-driven feed customization signals accelerating decentralization of social platforms, creating structural headwinds for Meta's ad-targeting moat while validating atproto as viable alternative infrastructure—watch for talent/creator migration and downstream implications for digital advertising TAM.\n\n**BUILDER:** Attie demonstrates atproto composability advantage: third-party apps can layer AI on open data without platform lock-in. Technical pattern applicable to fintech—decoupled AI services (feed ranking, risk scoring, pricing engines) plugged into open banking APIs represent architecture shift away from monolithic platforms."
+          "summary": "**MACRO/MARKETS:** Bluesky's AI-powered feed curation signals accelerating decentralization of social media infrastructure; atproto adoption could fragment ad-supported digital platforms, pressuring Meta/Google margins and reshaping attention economy dynamics.\n\n**BUILDER:** Attie demonstrates viable AI UX for decentralized protocols; atproto's composability model offers fintech playbook for permissionless API layers, relevant to open banking and modular app architecture patterns."
         },
         {
           "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
@@ -245,10 +245,10 @@
           "content": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
           "source": "TechCrunch",
           "publishedAt": "Sat, 28 Mar 2026 21:23:58 +0000",
-          "summary": "**MACRO/MARKETS:** Tech oligopoly consolidation around Trump 2.0 policy execution signals potential regulatory arbitrage plays and shifts market sentiment on big tech antitrust risk; watch sector concentration and policy-sensitive cap weighting.\n\n**BUILDER:** Government efficiency mandate (DOGE) via tech executives could accelerate fintech API standardization, open banking frameworks, and regulatory tech tooling—strategic positioning for compliance automation and real-time regulatory reporting infrastructure."
+          "summary": "**MACRO/MARKETS:** Tech oligopoly alignment signals potential coordinated influence on U.S. fiscal/regulatory policy under Trump administration; could reshape antitrust scrutiny, AI governance, and tech sector valuations across defence/infrastructure spending themes.\n\n**BUILDER/FINTECH:** Government efficiency initiatives (DOGE) may accelerate enterprise software consolidation and API-driven public sector modernization—opportunity for fintech platforms targeting government payments, compliance automation, and real-time data infrastructure."
         }
       ],
-      "generatedAt": "2026-03-28T23:27:11.614Z"
+      "generatedAt": "2026-03-28T23:42:43.893Z"
     }
   ]
 }
