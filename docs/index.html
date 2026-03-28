@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rahul's Intelligence Digest</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=IBM+Plex+Mono:wght@300;400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#080810;--surface:#0f0f1c;--surface2:#161626;--border:#2a2a42;
+    --gold:#e8c547;--blue:#5e8aff;--teal:#3dd6c8;--red:#ff6b6b;--purple:#c084fc;
+    --green:#4ade80;--text:#eaeaf8;--text2:#a0a0c0;--muted:#505070;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',sans-serif;font-size:14px;line-height:1.6;min-height:100vh;overflow-x:hidden}
+  body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(94,138,255,.025) 1px,transparent 1px),linear-gradient(90deg,rgba(94,138,255,.025) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;z-index:0}
+  ::-webkit-scrollbar{width:4px;height:4px} ::-webkit-scrollbar-track{background:var(--bg)} ::-webkit-scrollbar-thumb{background:var(--border)}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;position:relative;z-index:1}
+
+  /* HEADER */
+  header{position:sticky;top:0;z-index:200;background:rgba(8,8,16,.97);backdrop-filter:blur(20px);border-bottom:1px solid var(--border)}
+  .h-top{display:flex;align-items:center;justify-content:space-between;padding:16px 0 12px;gap:12px;flex-wrap:wrap}
+  .brand-name{font-family:'Playfair Display',serif;font-size:22px;font-weight:900;color:var(--gold);letter-spacing:-.5px;line-height:1}
+  .brand-name span{font-style:italic;font-weight:700;color:var(--text2)}
+  .brand-tag{font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:3px;color:var(--muted);text-transform:uppercase;margin-top:4px}
+  .h-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .live-badge{display:flex;align-items:center;gap:6px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text2)}
+  .live-dot{width:7px;height:7px;border-radius:50%;background:var(--green);flex-shrink:0;animation:pulse 2.5s ease-in-out infinite}
+  .haiku-pill{padding:4px 10px;background:rgba(232,197,71,.08);border:1px solid rgba(232,197,71,.2);font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--gold);letter-spacing:1.5px;text-transform:uppercase}
+  .gh-link{display:flex;align-items:center;gap:6px;padding:7px 14px;border:1px solid var(--border);background:var(--surface);font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text2);text-decoration:none;letter-spacing:1px;text-transform:uppercase;transition:all .2s}
+  .gh-link:hover{border-color:#3a3a52;color:var(--text)}
+
+  /* VIEW TABS */
+  .vtabs{display:flex;gap:0;margin-top:2px}
+  .vtab{padding:8px 16px;font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--muted);cursor:pointer;border:none;border-bottom:2px solid transparent;background:none;white-space:nowrap;transition:all .2s;margin-bottom:-1px}
+  .vtab:hover{color:var(--text2)}
+  .vtab.on{color:var(--gold);border-bottom-color:var(--gold)}
+
+  /* CAT TABS */
+  .ctabs{display:flex;overflow-x:auto;scrollbar-width:none;padding-top:2px}
+  .ctabs::-webkit-scrollbar{display:none}
+  .ctab{padding:9px 16px;font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--muted);cursor:pointer;border:none;border-bottom:2px solid transparent;background:none;white-space:nowrap;transition:all .2s;margin-bottom:-1px}
+  .ctab:hover{color:var(--text2)}
+  .ctab.on{border-bottom-color:var(--tc,var(--gold));color:var(--tc,var(--gold))}
+
+  /* STATUS BAR */
+  .status{display:flex;flex-wrap:wrap;border:1px solid var(--border);background:var(--surface);margin-bottom:28px;overflow:hidden}
+  .s-item{display:flex;align-items:center;gap:8px;padding:9px 14px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);border-right:1px solid var(--border);white-space:nowrap}
+  .s-item strong{color:var(--text2)}
+
+  /* CARDS */
+  .hero{border:1px solid var(--border);background:var(--surface);display:grid;grid-template-columns:1fr 260px;overflow:hidden;transition:border-color .2s;margin-bottom:14px;animation:fup .4s ease forwards;opacity:0}
+  .hero:hover{border-color:var(--hc,var(--gold))}
+  .hero-body{padding:22px 26px;display:flex;flex-direction:column;gap:13px}
+  .hero-accent{background:linear-gradient(135deg,rgba(255,255,255,.04) 0%,transparent 60%);border-left:1px solid rgba(255,255,255,.06);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;gap:8px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+  .card{border:1px solid var(--border);background:var(--surface);padding:20px;display:flex;flex-direction:column;gap:12px;transition:all .2s;animation:fup .4s ease forwards;opacity:0}
+  .card:hover{background:var(--surface2);transform:translateY(-2px);box-shadow:0 8px 32px rgba(0,0,0,.4)}
+
+  /* CARD ELEMENTS */
+  .chip{font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:2px;text-transform:uppercase;padding:2px 7px;border:1px solid;font-weight:500}
+  .ts{font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--muted)}
+  .card-title{font-size:14px;font-weight:500;line-height:1.45;color:var(--text)}
+  .hero-title{font-family:'Playfair Display',serif;font-size:19px;font-weight:700;line-height:1.3;color:var(--text)}
+  .ai-box{background:rgba(0,0,0,.3);padding:10px 14px;border-left:3px solid}
+  .ai-label{font-family:'IBM Plex Mono',monospace;font-size:8px;letter-spacing:2.5px;text-transform:uppercase;margin-bottom:5px}
+  .ai-text{font-size:13px;line-height:1.65;color:var(--text2);font-style:italic}
+  .rlink{display:inline-flex;align-items:center;gap:6px;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none;padding:7px 14px;border:1px solid;transition:all .2s;width:fit-content;margin-top:auto}
+  .rlink:hover{color:#080810!important;filter:brightness(1.1)}
+
+  /* SECTION HEADER */
+  .sec-hdr{display:flex;align-items:center;gap:12px;margin-bottom:16px;padding-bottom:12px;border-bottom:1px solid var(--border)}
+  .sec-bar{width:3px;height:22px;flex-shrink:0}
+  .sec-title{font-family:'Playfair Display',serif;font-size:18px;font-weight:700}
+  .sec-count{font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--muted);margin-left:auto;padding:2px 8px;border:1px solid var(--border);letter-spacing:2px;text-transform:uppercase}
+
+  /* ARCHIVE SIDEBAR */
+  .arch-wrap{display:grid;grid-template-columns:210px 1fr;gap:20px;align-items:start}
+  .arch-sidebar{border:1px solid var(--border);background:var(--surface);position:sticky;top:130px;max-height:calc(100vh - 160px);overflow:hidden;display:flex;flex-direction:column}
+  .arch-sidebar-hdr{padding:10px 14px;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--muted)}
+  .arch-dates{overflow-y:auto;flex:1}
+  .date-btn{display:block;width:100%;text-align:left;padding:9px 14px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text2);border:none;border-bottom:1px solid var(--border);background:none;cursor:pointer;transition:all .15s;letter-spacing:.5px}
+  .date-btn:hover{background:var(--surface2);color:var(--text)}
+  .date-btn.sel{background:rgba(61,214,200,.06);color:var(--teal);border-left:2px solid var(--teal)}
+
+  /* SEARCH */
+  .srch-input{width:100%;padding:12px 16px;background:var(--surface);border:1px solid var(--border);color:var(--text);font-family:'IBM Plex Sans',sans-serif;font-size:14px;outline:none;transition:border-color .2s}
+  .srch-input:focus{border-color:rgba(94,138,255,.5)}
+  .srch-input::placeholder{color:var(--muted)}
+  .srch-btn{padding:12px 24px;background:var(--gold);color:#080810;border:none;font-family:'IBM Plex Mono',monospace;font-size:10px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;cursor:pointer;transition:all .2s;white-space:nowrap}
+  .srch-btn:hover{background:#f0d060}
+
+  /* LOADING */
+  .loading{text-align:center;padding:60px 0}
+  .spin-icon{font-size:28px;animation:spin .7s linear infinite;display:inline-block}
+  .load-txt{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);letter-spacing:2px;margin-top:12px}
+  .empty{padding:28px;border:1px solid var(--border);background:var(--surface);font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);text-align:center}
+
+  /* FOOTER */
+  footer{border-top:1px solid var(--border);padding:18px 24px;text-align:center;font-family:'IBM Plex Mono',monospace;font-size:10px;color:#383858;letter-spacing:1px;position:relative;z-index:1}
+
+  @keyframes fup{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+  @keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+  @keyframes pulse{0%,100%{opacity:1;box-shadow:0 0 0 0 rgba(74,222,128,.4)}50%{opacity:.6;box-shadow:0 0 0 4px rgba(74,222,128,0)}}
+
+  @media(max-width:700px){
+    .hero{grid-template-columns:1fr}
+    .hero-accent{display:none}
+    .grid{grid-template-columns:1fr}
+    .arch-wrap{grid-template-columns:1fr}
+    .arch-sidebar{position:static;max-height:200px}
+    .haiku-pill{display:none}
+    .live-badge span:last-child{display:none}
+  }
+</style>
+</head>
+<body>
+
+<!-- ══════════════════ HEADER ══════════════════ -->
+<header>
+  <div class="wrap">
+    <div class="h-top">
+      <div>
+        <div class="brand-name">Rahul's <span>Intelligence Digest</span></div>
+        <div class="brand-tag">Credit Risk · AI Research · Macro · Science · Builder</div>
+      </div>
+      <div class="h-right">
+        <div class="live-badge" id="liveBadge" style="display:none">
+          <span class="live-dot"></span>
+          <span id="liveText">Loading...</span>
+        </div>
+        <div class="haiku-pill">✦ Claude Haiku</div>
+        <a class="gh-link" id="ghLink" href="#" target="_blank">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+          View on GitHub
+        </a>
+      </div>
+    </div>
+
+    <!-- View tabs -->
+    <div class="vtabs">
+      <button class="vtab on" onclick="switchView('today',this)">📰 Today</button>
+      <button class="vtab" onclick="switchView('archive',this)">🗄 Archive</button>
+      <button class="vtab" onclick="switchView('search',this)">🔍 Search</button>
+    </div>
+
+    <!-- Cat tabs (today + archive) -->
+    <div class="ctabs" id="catTabs" style="display:none"></div>
+  </div>
+</header>
+
+<main style="padding:28px 0 80px">
+  <div class="wrap">
+
+    <!-- TODAY -->
+    <div id="viewToday">
+      <div id="statusBar" class="status" style="display:none"></div>
+      <div id="todayContent"></div>
+    </div>
+
+    <!-- ARCHIVE -->
+    <div id="viewArchive" style="display:none">
+      <div class="arch-wrap">
+        <div class="arch-sidebar">
+          <div class="arch-sidebar-hdr">🗄 Archive</div>
+          <div class="arch-dates" id="archDates"></div>
+        </div>
+        <div id="archContent">
+          <div class="empty">← Select a date to load that day's digest</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SEARCH -->
+    <div id="viewSearch" style="display:none">
+      <div style="margin-bottom:24px">
+        <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--muted);margin-bottom:10px">
+          Search across all archived digests
+        </div>
+        <div style="display:flex;gap:0">
+          <input class="srch-input" id="srchInput" placeholder="e.g. IFRS 9 · ECL · nuclear · Fed rates · React Native · LNG..."
+            onkeydown="if(event.key==='Enter') doSearch()">
+          <button class="srch-btn" onclick="doSearch()">Search</button>
+        </div>
+        <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--muted);margin-top:6px">
+          Searches titles and summaries across every archived day
+        </div>
+      </div>
+      <div id="srchResults"></div>
+    </div>
+
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    Built for Rahul Walia · GitHub Actions + GitHub Pages · Claude Haiku summaries · ~$0.25/month
+  </div>
+</footer>
+
+<script>
+// ── Config ──────────────────────────────────────────────
+// UPDATE THIS to your actual GitHub Pages base URL after deploy
+const BASE = location.hostname === 'localhost'
+  ? '.'
+  : (document.querySelector('meta[name=base]')?.content || '.');
+
+const ICONS = { credit_risk:'⚖️', ai_research:'🧠', macro:'📈', breakthroughs:'🔬', builder:'🛠️' };
+
+// ── State ────────────────────────────────────────────────
+let currentView  = 'today';
+let currentCat   = 'all';
+let todayDigest  = null;
+let archDigest   = null;
+let archDates    = [];
+let archLoaded   = {};   // cache: date → digest
+let allDigests   = {};   // search cache
+
+// ── Init ─────────────────────────────────────────────────
+(async () => {
+  await loadIndex();
+  await loadToday();
+})();
+
+async function loadIndex() {
+  try {
+    const r = await fetch(`${BASE}/digests/index.json?_=${Date.now()}`);
+    archDates = await r.json();
+    renderArchSidebar();
+  } catch { archDates = []; }
+}
+
+async function loadToday() {
+  const el = document.getElementById('todayContent');
+  el.innerHTML = `<div class="loading"><div class="spin-icon">⟳</div><div class="load-txt">LOADING TODAY'S DIGEST...</div></div>`;
+
+  if (!archDates.length) {
+    el.innerHTML = `<div class="empty">No digests found yet.<br><br>After you deploy and the GitHub Action runs for the first time, your digest will appear here automatically.</div>`;
+    return;
+  }
+
+  const today = archDates[0];
+  const digest = await loadDigest(today);
+  if (!digest) { el.innerHTML = `<div class="empty">Could not load today's digest.</div>`; return; }
+
+  todayDigest = digest;
+  renderStatusBar(digest);
+  document.getElementById('liveBadge').style.display = 'flex';
+  document.getElementById('liveText').textContent = `Updated ${timeAgo(digest.generatedAt)}`;
+  renderCatTabs(digest);
+  renderDigest(digest, el);
+}
+
+async function loadDigest(date) {
+  if (archLoaded[date]) return archLoaded[date];
+  try {
+    const r = await fetch(`${BASE}/digests/${date}.json?_=${Date.now()}`);
+    if (!r.ok) return null;
+    const d = await r.json();
+    archLoaded[date] = d;
+    return d;
+  } catch { return null; }
+}
+
+// ── Views ────────────────────────────────────────────────
+function switchView(view, btn) {
+  currentView = view;
+  document.querySelectorAll('.vtab').forEach(b => b.classList.remove('on'));
+  btn.classList.add('on');
+  document.getElementById('viewToday').style.display   = view==='today'   ? '' : 'none';
+  document.getElementById('viewArchive').style.display = view==='archive' ? '' : 'none';
+  document.getElementById('viewSearch').style.display  = view==='search'  ? '' : 'none';
+  document.getElementById('catTabs').style.display     = view==='search'  ? 'none' : '';
+  if (view==='archive' && archDates.length && !document.querySelector('.date-btn.sel')) {
+    loadArchDate(archDates[0]);
+  }
+}
+
+function switchCat(cat, btn) {
+  currentCat = cat;
+  document.querySelectorAll('.ctab').forEach(b => b.classList.remove('on'));
+  btn.classList.add('on');
+  if (btn.dataset.color) btn.style.setProperty('--tc', btn.dataset.color);
+
+  const digest = currentView==='archive' ? archDigest : todayDigest;
+  if (!digest) return;
+  const el = currentView==='archive'
+    ? document.getElementById('archContent')
+    : document.getElementById('todayContent');
+  renderDigest(digest, el);
+}
+
+// ── Render digest ─────────────────────────────────────────
+function renderCatTabs(digest) {
+  const bar = document.getElementById('catTabs');
+  bar.style.display = '';
+  bar.innerHTML = '';
+  const tabs = [{id:'all', label:'All Stories', color:''},...digest.categories.map(c=>({id:c.category,label:`${ICONS[c.category]||''} ${c.label}`,color:c.color}))];
+  tabs.forEach(t => {
+    const b = document.createElement('button');
+    b.className = `ctab${currentCat===t.id?' on':''}`;
+    b.textContent = t.label;
+    if (t.color) { b.dataset.color = t.color; if(currentCat===t.id) b.style.setProperty('--tc',t.color); }
+    b.onclick = () => switchCat(t.id, b);
+    bar.appendChild(b);
+  });
+}
+
+function renderDigest(digest, container) {
+  renderCatTabs(digest);
+  const cats = currentCat==='all' ? digest.categories : digest.categories.filter(c=>c.category===currentCat);
+  container.innerHTML = cats.map(renderSection).join('');
+  // stagger animations
+  container.querySelectorAll('.card,.hero').forEach((el,i) => {
+    el.style.animationDelay = `${i*0.04}s`;
+  });
+}
+
+function renderSection(cat) {
+  const hero = cat.items[0];
+  const rest  = cat.items.slice(1);
+  return `
+  <section style="margin-bottom:44px">
+    <div class="sec-hdr">
+      <div class="sec-bar" style="background:${cat.color}"></div>
+      <div class="sec-title" style="color:${cat.color}">${ICONS[cat.category]||''} ${cat.label}</div>
+      <div class="sec-count">${cat.items.length} stories</div>
+    </div>
+    ${hero ? renderHero(hero, cat.color, cat.category) : ''}
+    <div class="grid">${rest.map((item,i) => renderCard(item, cat.color, i)).join('')}</div>
+  </section>`;
+}
+
+function renderHero(item, color, cat) {
+  return `
+  <div class="hero" style="--hc:${color}">
+    <div class="hero-body">
+      <div style="display:flex;align-items:center;gap:10px">
+        <span class="chip" style="color:${color};border-color:${color}44">${esc(item.source)}</span>
+        <span class="ts">${timeAgo(item.publishedAt)}</span>
+      </div>
+      <div class="hero-title">${esc(item.title)}</div>
+      <div class="ai-box" style="border-left-color:${color};background:${color}08">
+        <div class="ai-label" style="color:${color}">✦ Haiku Summary</div>
+        <p class="ai-text">${esc(item.summary)}</p>
+      </div>
+      <a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer"
+         class="rlink" style="color:${color};border-color:${color}44">Read Full Story →</a>
+    </div>
+    <div class="hero-accent" style="border-left-color:${color}18">
+      <div style="font-size:44px;opacity:.35">${ICONS[cat]||'📌'}</div>
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:3px;text-transform:uppercase;color:var(--muted);text-align:center">Top Story</div>
+    </div>
+  </div>`;
+}
+
+function renderCard(item, color, i) {
+  return `
+  <div class="card" style="animation-delay:${i*0.05}s">
+    <div style="display:flex;justify-content:space-between;align-items:center">
+      <span class="chip" style="color:${color};border-color:${color}33">${esc(item.source)}</span>
+      <span class="ts">${timeAgo(item.publishedAt)}</span>
+    </div>
+    <div class="card-title">${esc(item.title)}</div>
+    <div class="ai-box" style="border-left-color:${color}">
+      <div class="ai-label" style="color:${color}">✦ Haiku Summary</div>
+      <p class="ai-text">${esc(item.summary)}</p>
+    </div>
+    <a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer"
+       class="rlink" style="color:${color};border-color:${color}44">Read Full Story →</a>
+  </div>`;
+}
+
+// ── Archive ───────────────────────────────────────────────
+function renderArchSidebar() {
+  const container = document.getElementById('archDates');
+  if (!archDates.length) {
+    container.innerHTML = `<div style="padding:14px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted)">No archives yet.<br>Digests saved automatically after first GitHub Action run.</div>`;
+    return;
+  }
+
+  // Group by month
+  const byMonth = {};
+  archDates.forEach(d => {
+    const mon = d.slice(0,7);
+    if (!byMonth[mon]) byMonth[mon] = [];
+    byMonth[mon].push(d);
+  });
+
+  container.innerHTML = Object.entries(byMonth).map(([mon, dates]) => `
+    <div style="padding:6px 14px 2px;font-family:'IBM Plex Mono',monospace;font-size:8px;letter-spacing:2px;text-transform:uppercase;color:var(--muted);background:rgba(0,0,0,.2)">
+      ${fmtMonth(mon)}
+    </div>
+    ${dates.map(d => `
+      <button class="date-btn" data-date="${d}" onclick="loadArchDate('${d}')">${fmtDate(d)}</button>
+    `).join('')}
+  `).join('');
+
+  // GitHub link
+  const repo = `https://github.com/${getRepoName()}`;
+  document.getElementById('ghLink').href = repo;
+}
+
+async function loadArchDate(date) {
+  // Mark selected
+  document.querySelectorAll('.date-btn').forEach(b => b.classList.toggle('sel', b.dataset.date===date));
+  currentCat = 'all';
+
+  const el = document.getElementById('archContent');
+  el.innerHTML = `<div class="loading"><div class="spin-icon">⟳</div><div class="load-txt">LOADING ${date}...</div></div>`;
+
+  const digest = await loadDigest(date);
+  if (!digest) { el.innerHTML = `<div class="empty">No digest found for ${date}</div>`; return; }
+
+  archDigest = digest;
+  el.innerHTML = `
+    <div style="display:flex;align-items:center;gap:12px;margin-bottom:20px;padding:10px 14px;background:var(--surface);border:1px solid var(--border)">
+      <span style="font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--teal)">🗄 Archived:</span>
+      <span style="font-family:'Playfair Display',serif;font-size:16px;font-weight:700">${digest.date}</span>
+      <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--muted);margin-left:auto">
+        ${digest.categories.reduce((a,c)=>a+c.items.length,0)} stories
+      </span>
+    </div>
+    <div id="archDigestContent"></div>
+  `;
+  renderDigest(digest, document.getElementById('archDigestContent'));
+}
+
+// ── Search ────────────────────────────────────────────────
+async function doSearch() {
+  const q = document.getElementById('srchInput').value.trim().toLowerCase();
+  const el = document.getElementById('srchResults');
+  if (!q) return;
+
+  el.innerHTML = `<div class="loading"><div class="spin-icon">⟳</div><div class="load-txt">SEARCHING ALL ARCHIVES...</div></div>`;
+
+  // Load all unloaded digests
+  await Promise.all(archDates.map(d => loadDigest(d)));
+
+  const results = [];
+  for (const [date, digest] of Object.entries(archLoaded)) {
+    if (!digest) continue;
+    for (const cat of digest.categories) {
+      for (const item of cat.items) {
+        if (item.title.toLowerCase().includes(q) || item.summary.toLowerCase().includes(q)) {
+          results.push({ date, item, color: cat.color, catLabel: cat.label, category: cat.category });
+        }
+      }
+    }
+  }
+  results.sort((a,b) => b.date.localeCompare(a.date));
+
+  if (!results.length) {
+    el.innerHTML = `<div class="empty">No results for "<strong>${esc(q)}</strong>" across ${archDates.length} archived days.</div>`;
+    return;
+  }
+
+  el.innerHTML = `
+    <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);margin-bottom:14px;letter-spacing:1px">
+      Found <strong style="color:var(--text2)">${results.length}</strong> results for "<strong style="color:var(--text2)">${esc(q)}</strong>" across ${archDates.length} days
+    </div>
+    <div style="display:flex;flex-direction:column;gap:12px">
+      ${results.map((r,i) => `
+        <div class="card" style="animation-delay:${i*0.03}s">
+          <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+            <span class="chip" style="color:${r.color};border-color:${r.color}33">${esc(r.item.source)}</span>
+            <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;color:${r.color}">${ICONS[r.category]||''} ${esc(r.catLabel)}</span>
+            <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--teal);margin-left:auto">📅 ${fmtDate(r.date)}</span>
+          </div>
+          <div class="card-title">${esc(r.item.title)}</div>
+          <div class="ai-box" style="border-left-color:${r.color}">
+            <div class="ai-label" style="color:${r.color}">✦ Haiku Summary</div>
+            <p class="ai-text">${esc(r.item.summary)}</p>
+          </div>
+          <a href="${esc(r.item.url)}" target="_blank" rel="noopener noreferrer"
+             class="rlink" style="color:${r.color};border-color:${r.color}44">Read Full Story →</a>
+        </div>
+      `).join('')}
+    </div>`;
+}
+
+// ── Status bar ────────────────────────────────────────────
+function renderStatusBar(digest) {
+  const total = digest.categories.reduce((a,c)=>a+c.items.length,0);
+  const bar = document.getElementById('statusBar');
+  bar.style.display = 'flex';
+  bar.innerHTML = [
+    ['📅', digest.date],
+    ['📰', `${total} stories`],
+    ['⚡', '15 sources'],
+    ['✦', 'Claude Haiku'],
+    ['🔁', `Auto-refreshes 7:00 AM IST`],
+    ['🗄', `${archDates.length} days archived`],
+  ].map(([icon,val]) => `
+    <div class="s-item">${icon} <strong>${val}</strong></div>
+  `).join('');
+}
+
+// ── Utils ─────────────────────────────────────────────────
+function timeAgo(iso) {
+  try {
+    const diff = Date.now() - new Date(iso).getTime();
+    const h = Math.floor(diff/3600000);
+    if (h<1) return '<1hr ago';
+    if (h<24) return `${h}hr ago`;
+    return `${Math.floor(h/24)}d ago`;
+  } catch { return ''; }
+}
+function fmtDate(d) {
+  return new Date(d+'T00:00:00').toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'});
+}
+function fmtMonth(ym) {
+  const [y,m] = ym.split('-');
+  return new Date(+y,+m-1,1).toLocaleDateString('en-GB',{month:'long',year:'numeric'});
+}
+function esc(s='') {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function getRepoName() {
+  const h = location.hostname;
+  if (h.includes('github.io')) {
+    const parts = h.split('.');
+    const user = parts[0];
+    const path = location.pathname.split('/').filter(Boolean)[0] || '';
+    return path ? `${user}/${path}` : user;
+  }
+  return 'rahulwalia94-jpg/rahul-digest';
+}
+</script>
+</body>
+</html>
