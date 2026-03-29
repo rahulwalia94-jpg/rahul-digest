@@ -1,0 +1,254 @@
+{
+  "date": "2026-03-29",
+  "generatedAt": "2026-03-29T04:22:01.982Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "A simulation framework for sterling money market funds: estimating redemption capacity and evaluating liquidity requirements",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/a-simulation-framework-for-sterling-money-market-funds",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 27 Mar 2026 14:00:00 Z",
+          "summary": "**CREDIT RISK & REGULATORY FOCUS:**\n\nBank of England research on sterling MMF redemption stress-testing directly informs liquidity coverage ratio (LCR) calibration and counterparty credit exposure modeling under IFRS 9—critical for wholesale funding ECL frameworks. Findings refine systemic risk thresholds relevant to regulatory capital adequacy and stress testing assumptions across major UK banking groups."
+        },
+        {
+          "title": "A UK-HANK model",
+          "url": "https://www.bankofengland.co.uk/macro-technical-paper/2026/a-uk-hank-model",
+          "content": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 27 Mar 2026 14:00:00 Z",
+          "summary": "**CREDIT RISK & REGULATORY**\n\nUK-HANK (Heterogeneous Agent New Keynesian) models monetary policy transmission through household heterogeneity and constrained borrowing, directly impacting ECL overlays and PD calibration under IFRS 9—particularly for mortgages and unsecured lending where income shocks and rate sensitivities drive default probability. BoE internal frameworks like this increasingly inform regulatory stress scenarios, forcing banks to embed agent-based dynamics into existing LGD/EAD models rather than relying on backward-looking correlation assumptions."
+        }
+      ],
+      "generatedAt": "2026-03-29T04:21:11.342Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Liberate your OpenClaw",
+          "url": "https://huggingface.co/blog/liberate-your-openclaw",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 27 Mar 2026 00:00:00 GMT",
+          "summary": "**Unable to generate briefing.** The content title \"Liberate your OpenClaw\" lacks substantive detail—no abstract, methodology, findings, or market context provided. Requires: (1) technical summary of the research, (2) specific sector/asset class focus, (3) quantified impact or novelty claim. Please supply full abstract or key findings for relevance assessment across credit risk models, macro themes, or ML ops."
+        },
+        {
+          "title": "A New Framework for Evaluating Voice Agents (EVA)",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 24 Mar 2026 02:01:52 GMT",
+          "summary": "**Summary:**\n\nEVA provides standardized benchmarking for voice AI agents across conversational quality, reliability, and cost—critical for banks automating customer service, compliance monitoring, and internal workflows. Framework accelerates fintech deployment while raising regulatory questions on model validation, audit trails, and ECL implications for outsourced AI-driven decisioning in lending/collections."
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+          "summary": "**MACRO/MARKETS:** Voice AI commoditization accelerates enterprise automation adoption across banking, customer service, and contact centers—a structural margin-expansion tailwind for large-cap tech and a structural headwind for offshore BPO/labor arbitrage plays in emerging markets.\n\n**CREDIT RISK:** Lower-latency, higher-precision voice models reduce operational friction in customer verification and fraud detection workflows; potential to improve PD/LGD models via better behavioral signal extraction, though introduces new model risk around voice spoofing/deepfake vulnerabilities requiring ECL stress scenarios.\n\n**AI/ML:** Real-time voice processing at scale democratizes conversational AI for retail banking (KYC,"
+        },
+        {
+          "title": "Protecting people from harmful manipulation",
+          "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+          "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 25 Mar 2026 16:46:20 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nDeepMind's manipulation risk framework has direct IFRS 9 / ECL implications—AI-driven fraud and market manipulation could inflate PD/LGD volatility and trigger model recalibration across financial services; regulatory arbitrage risk if safety standards fragment globally, pressuring risk-weighted assets and capital adequacy ratios.\n\n**AI/ML & BREAKTHROUGHS:**\nAdversarial robustness research critical for banking analytics pipelines; detection mechanisms for manipulation in algorithmic trading and loan decisioning represent near-term competitive moat for institutions embedding interpretability layers, reducing model risk and regulatory scrutiny."
+        },
+        {
+          "title": "A woman’s uterus has been kept alive outside the body for the first time",
+          "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+          "content": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Sat, 28 Mar 2026 09:00:00 +0000",
+          "summary": "**BREAKTHROUGHS / HEALTHTECH DISRUPTION:**\nEx-vivo organ preservation technology (uterus perfusion system) signals emerging $50B+ biotech/medtech market; potential to disrupt fertility treatment economics and create new insurance/reinsurance risk categories requiring actuarial recalibration and new regulatory frameworks for organ-as-service business models."
+        },
+        {
+          "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+          "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app  The best snow-forecasting app for skiers isn’t a federally-funded service or a big-name brand. It’s OpenSnow, a startup that uses government data, its own AI…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 27 Mar 2026 12:32:54 +0000",
+          "summary": "**AI/ML + BUILDER:** OpenSnow exemplifies how specialized AI (hyper-local weather modeling) + government data creates defensible moats against incumbents—relevant pattern for fintech: niche ML models + open data sources can disrupt regulated sectors. Technical: demonstrates federated data architecture & real-time inference at scale (skiing conditions = financial risk stratification analogy)."
+        }
+      ],
+      "generatedAt": "2026-03-29T04:21:24.025Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Eurozone borrowing costs soar on fears of fiscal hit from Iran shock",
+          "url": "https://www.ft.com/content/8fbabe23-f9d7-4d6e-b7e0-2281a28d0b2c",
+          "content": "Government bonds face one of worst months of past decade as investors warn of ‘deterioration’ in public finances",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 29 Mar 2026 04:00:17 GMT",
+          "summary": "**MACRO/MARKETS + CREDIT RISK:** Eurozone sovereign stress (widening spreads, bond selloff) signals fiscal fragility amid geopolitical shocks; triggers immediate ECL uplift on peripheral exposures via PD/migration assumptions and may force regulatory capital reviews under IFRS 9 stress scenarios. **INVESTMENT:** Risk-off rotation favors core EU (Bunds) and hedged EM; energy/defense beneficiaries offset macro headwinds."
+        },
+        {
+          "title": "In a world of $100 oil, fast fashion loses its defensive charms",
+          "url": "https://www.ft.com/content/0386a970-07ec-4294-bb2a-531cd70c013c",
+          "content": "Polyester-heavy retailers could soon start to feel the cost of their exposure to higher oil prices",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 29 Mar 2026 04:00:17 GMT",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nOil price shocks erode fast-fashion margins and amplify polyester input volatility, weakening credit profiles of leveraged retailers—forcing ECL model recalibration on PD/LGD for apparel cohorts and stress-testing energy sensitivity in supply-chain-dependent portfolios. Rising feedstock costs compress already-thin margins, increasing default probability in sub-investment-grade retail, particularly for high-leverage operators reliant on synthetic materials."
+        },
+        {
+          "title": "\n        The decline and fall of the Roman currency empire\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/03/26/the-decline-and-fall-of-the-roman-currency-empire",
+          "content": "The fate of ancient coins offers uncomfortable lessons about dollar dominance",
+          "source": "The Economist",
+          "publishedAt": "Thu, 26 Mar 2026 10:18:37 +0000",
+          "summary": "**Macro/Markets angle:**\nHistorical currency debasement parallels suggest dollar hegemony faces structural erosion from fiscal deficits, geopolitical fragmentation, and CBDC competition—risk-off implications for USD carry trades, EM FX volatility, and real asset hedges (commodities, gold) as alternative stores of value."
+        },
+        {
+          "title": "\n        Christine Lagarde’s sober tone on the Gulf war energy shock\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/03/26/christine-lagardes-sober-tone-on-the-gulf-war-energy-shock",
+          "content": "Our interview with the ECB’s president",
+          "source": "The Economist",
+          "publishedAt": "Thu, 26 Mar 2026 10:17:23 +0000",
+          "summary": "**Macro/Markets + Credit Risk Angle:**\nLagarde's measured stance on Gulf supply disruption signals ECB patience on rate cuts despite energy volatility—key for eurozone inflation forecasting and ECB policy transmission. Energy shock scenarios directly impact PD/LGD calibration for oil & gas exposures and IFRS 9 stage migration modeling under stressed macro assumptions."
+        },
+        {
+          "title": "Oil industry executives paint grim picture of Iran war supply disruption",
+          "url": "https://seekingalpha.com/news/4570000-oil-industry-executives-paint-grim-picture-of-iran-war-supply-disruption?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 28 Mar 2026 22:05:05 -0400",
+          "summary": "**MACRO/MARKETS:** Escalating Iran conflict threatens 3–5M bbl/day supply disruption, spiking Brent toward $100+; stagflationary shock risks recession in OECD, commodity-linked EM outperformance, and central bank policy reversal. **CREDIT RISK:** Energy sector exposure in bank portfolios faces elevated PD/LGD stress; ECL models require scenario uplift for supply-chain disruption tail risk and downstream corporates' margin compression."
+        },
+        {
+          "title": "SA Asks: What's the best data center infrastructure stock right now?",
+          "url": "https://seekingalpha.com/news/4569999-sa-asks-whats-the-best-data-center-infrastructure-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 28 Mar 2026 17:37:31 -0400",
+          "summary": "**Data Center Infrastructure: Secular AI Demand Meets Cyclical Rate Sensitivity**\n\nAI capex cycle driving structural growth in data center REITs/operators (secular +15-20% CAGR), but sector exhibits high leverage sensitivity to rates—critical for ECL modeling of real estate debt portfolios and emerging PD/LGD volatility. Margin compression risk if power/cooling costs spike amid geopolitical energy disruption; macro stagflation scenarios warrant stress-testing in IFRS 9 Stage 2 classifications."
+        },
+        {
+          "title": "Iran war, crude, rupee among 8 factors to steer D-Street in holiday-shortened week ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-crude-rupee-among-8-factors-to-steer-d-street-in-holiday-shortened-week/articleshow/129875293.cms",
+          "content": "The Indian stock market faces a holiday-shortened week with significant headwinds. Geopolitical tensions from the Iran-Israel conflict, elevated crude oil prices, and a depreciating rupee are expected to weigh on investor sentiment. Foreign institutional investors continue their selling spree, adding to market uncertainties.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 29 Mar 2026 09:19:45 +0530",
+          "summary": "**MACRO/MARKETS:** Iran-Israel escalation driving crude >$80/bbl and INR weakness creates dual headwinds for Indian equities—import-cost inflation pressures margins while FII outflows amplify volatility; watch crude-rupee correlation for emerging market contagion signals across Asia ex-Japan."
+        },
+        {
+          "title": "Stock market open for only 3 days this week. Anand James on how to trade Nifty ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-open-for-only-3-days-this-week-anand-james-on-how-to-trade-nifty/articleshow/129875260.cms",
+          "content": "Indian stock markets will trade for only three days this week. This shortened trading period, combined with settlement holidays, is expected to increase market volatility. Investors should be aware of potential deferred reactions to global events. Nifty IT shows resilience, while PSU banks are in a corrective phase.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 29 Mar 2026 09:10:39 +0530",
+          "summary": "**MACRO/MARKETS:** 3-day Indian trading week amid settlement holidays elevates volatility risk and may compress price discovery on global macro shocks; IT sector resilience contrasts PSU bank weakness, signaling divergent monetary transmission and FX carry dynamics in EM fixed income."
+        }
+      ],
+      "generatedAt": "2026-03-29T04:21:40.908Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Huge lung-cancer screening campaign boosts early diagnosis",
+          "url": "https://www.nature.com/articles/d41586-026-00954-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-03-27T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Large-scale early lung cancer detection reduces downstream healthcare cost volatility and mortality risk—material for insurers' reserving models (IFRS 9 ECL recalibration on health-linked liabilities) and healthcare equity valuations; shifts risk from acute/terminal care to preventive capex, affecting hospital capex cycles and regional credit quality.\n\n**AI/ML & BREAKTHROUGHS:** Screening automation (imaging AI, radiomics) demonstrates scale in clinical decision support—template for banking credit risk models (automated early-stage default detection, portfolio health signals) and regulatory reporting efficiency; validates real-world precision medicine ROI, attracting"
+        },
+        {
+          "title": "Giants of the deep and the wonder of space: Books in Brief",
+          "url": "https://www.nature.com/articles/d41586-026-00995-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-03-27T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS:** Deep-sea resource exploration and space commercialization represent emerging commodity frontiers with potential to reshape supply chains for rare earths, minerals, and energy—creating volatility in traditional extraction equities while signaling long-term secular shifts in resource allocation and EM currency exposure.\n\n**BREAKTHROUGHS:** Unlocking deep-ocean and space resources could disrupt terrestrial mining/energy sectors, alter commodity price regimes, and create new asset classes—relevant for portfolio positioning on energy transition and inflation hedging theses over 10–20 year horizons."
+        },
+        {
+          "title": "Popular sugar substitute linked to brain damage and stroke risk",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260328065333.htm",
+          "content": "A widely used sugar substitute found in everything from keto snacks to diet drinks may not be as harmless as it seems. New research shows that erythritol can disrupt brain blood vessel cells, reducing their ability to relax, increasing harmful oxidative stress, and impairing the body’s ability to break down clots. These changes create conditions that could raise stroke risk, even at typical consumption levels.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 28 Mar 2026 07:01:23 EDT",
+          "summary": "**MACRO/MARKETS:** Erythritol safety concerns could reshape $7B+ sugar substitute market, pressuring food/beverage giants (PepsiCo, Monster, Nestlé) and keto/wellness sectors; regulatory scrutiny likely triggers reformulation cycles and competitive consolidation in low-calorie sweetener space.\n\n**CREDIT RISK:** Potential product liability litigation and regulatory fines create tail-risk provisions for F&B issuers; IFRS 9 ECL models may require uplift for food-safety-exposed counterparties; reputational contagion risk across health-focused lending portfolios.\n\n**AI/ML:** Ingredient safety flag"
+        },
+        {
+          "title": "After 20 years, scientists finally explain the Crab Pulsar’s strange “zebra stripes”",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260328043605.htm",
+          "content": "For decades, astronomers have been puzzled by strange “zebra stripe” patterns in radio waves from the Crab Pulsar — bright bands separated by complete darkness. Now, new research suggests the answer lies in a cosmic tug-of-war between gravity and plasma. The pulsar’s plasma spreads light apart, while gravity bends it back together, creating interference patterns that form the striking stripes.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 28 Mar 2026 07:24:47 EDT",
+          "summary": "**BREAKTHROUGHS:** Fundamental physics advances in plasma-gravity interaction modeling may accelerate neutron star magnetosphere simulations, potentially unlocking new materials science applications in semiconductor/quantum computing sectors—watch for spillover into defense/aerospace equities and deep-tech VC allocation shifts."
+        },
+        {
+          "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
+          "url": "https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/",
+          "content": "Breathing capacity could have compensated for lower atmospheric oxygen.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 28 Mar 2026 12:30:43 +0000",
+          "summary": "**BREAKTHROUGHS:** Paleontologists challenge the oxygen-depletion hypothesis for Carboniferous gigantism extinction, suggesting evolutionary respiratory adaptability may have allowed mega-insects to persist longer than atmospheric models predicted. Implications for understanding climate-driven extinction mechanisms and biogeochemical feedback loops inform long-term climate risk modeling in ESG frameworks."
+        },
+        {
+          "title": "Causality optional? Testing the \"indefinite causal order\" superposition",
+          "url": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
+          "content": "A quantum experiment shows that we can formally test if the order of events matters.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 28 Mar 2026 12:00:31 +0000",
+          "summary": "**BREAKTHROUGHS / AI-ML:** Indefinite causal order challenges deterministic assumptions underlying risk models; if quantum superposition of causality scales to classical systems, it disrupts sequential dependency structures in PD/LGD correlation matrices and macro scenario chaining—forcing recalibration of causal inference in ECL provisioning and stress-testing frameworks."
+        }
+      ],
+      "generatedAt": "2026-03-29T04:21:53.004Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Will the AI data centre boom become a $9T bust?",
+          "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
+          "content": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723\nComments URL: https://news.ycombinator.com/item?id=47559948\nPoints: 20\n# Comments: 25",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 29 Mar 2026 02:35:59 +0000",
+          "summary": "**MACRO/MARKETS:** AI capex cycle risks $9T in stranded assets if utilization/ROI fail to materialize; echoes 2000 telecom bust dynamics—threatens growth narratives underpinning mega-cap valuations and sector rotation thesis. **CREDIT RISK:** Elevated default risk for hyperscaler capex-funded debt; ECL models require stress scenarios on capex payback periods; PD/LGD assumptions vulnerable to demand-side shocks in cloud/inference workloads."
+        },
+        {
+          "title": "Show HN: PeriodicTableOfElements.org",
+          "url": "https://periodictableofelements.org/?lang=en",
+          "content": "Article URL: https://periodictableofelements.org/?lang=en\nComments URL: https://news.ycombinator.com/item?id=47559509\nPoints: 9\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 29 Mar 2026 00:59:45 +0000",
+          "summary": "**Not material.** Interactive periodic table reference tool—useful chemistry/STEM educational resource but zero relevance to macro markets, credit risk modeling, banking analytics, fintech infrastructure, or equity thesis work. Low engagement (9pts, 0 comments) suggests niche utility only."
+        },
+        {
+          "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+          "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+          "content": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 28 Mar 2026 23:00:00 +0000",
+          "summary": "**MACRO/MARKETS:** Bluesky's AI-driven feed curation signals accelerating decentralization of social platforms; if atproto achieves network effects, threatens ad-dependent incumbents' moats and reshapes digital advertising TAM allocation across mega-cap tech.\n\n**BUILDER:** Attie demonstrates practical atproto tooling maturity; validates decentralized protocol stack viability for consumer apps—relevant precedent for permissionless fintech/banking layers built on open rails vs. walled ecosystems."
+        },
+        {
+          "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+          "url": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+          "content": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 28 Mar 2026 21:23:58 +0000",
+          "summary": "**MACRO/MARKETS:** Tech oligopoly consolidation around U.S. government efficiency agenda signals sector realignment; potential regulatory arbitrage if DOGE (Department of Government Efficiency) drives deregulation favoring Meta/X ecosystems, reshaping digital ad/fintech competition and emerging market digital finance landscapes.\n\n**CREDIT RISK:** Government efficiency mandates could accelerate fintech deregulation, lowering ECL assumptions for digital lending platforms but increasing model uncertainty; regulatory arbitrage creates basis-risk for bank PD/LGD calibrations tied to macro policy volatility.\n\n**AI/ML:** DOGE efficiency drive may fast-track AI adoption in federal data/compliance workflows,"
+        }
+      ],
+      "generatedAt": "2026-03-29T04:22:01.982Z"
+    }
+  ]
+}
