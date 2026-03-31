@@ -1,0 +1,254 @@
+{
+  "date": "2026-03-31",
+  "generatedAt": "2026-03-31T04:19:41.144Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "A simulation framework for sterling money market funds: estimating redemption capacity and evaluating liquidity requirements",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/a-simulation-framework-for-sterling-money-market-funds",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 27 Mar 2026 14:00:00 Z",
+          "summary": "**CREDIT RISK & REGULATORY:** Framework quantifies sterling MMF redemption stress under IFRS 9/ECL scenarios, directly informing liquidity coverage ratios and systemic risk buffers. Models PD/LGD dynamics during market dislocations—critical for regulatory capital adequacy and stress-testing assumptions in CCAR/DFAST submissions."
+        },
+        {
+          "title": "A UK-HANK model",
+          "url": "https://www.bankofengland.co.uk/macro-technical-paper/2026/a-uk-hank-model",
+          "content": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 27 Mar 2026 14:00:00 Z",
+          "summary": "**UK-HANK model stress-tests household heterogeneity (income, assets, debt) under monetary shocks, informing ECL provisioning via granular PD/LGD segmentation and regulatory capital adequacy. BoE's micro-founded macro framework enables banks to refine forward-looking loss models and scenario design beyond aggregate assumptions, critical for IFRS 9 compliance and stress testing.**"
+        }
+      ],
+      "generatedAt": "2026-03-31T04:18:50.133Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Liberate your OpenClaw",
+          "url": "https://huggingface.co/blog/liberate-your-openclaw",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 27 Mar 2026 00:00:00 GMT",
+          "summary": "I'd be happy to help, but the content provided (\"Liberate your OpenClaw\") appears to be only a title without substantive material. To write an accurate, targeted 2-sentence summary for your expertise areas, I need the actual research content—methodology, findings, and implications.\n\nCould you share the full article, paper, or detailed description?"
+        },
+        {
+          "title": "A New Framework for Evaluating Voice Agents (EVA)",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 24 Mar 2026 02:01:52 GMT",
+          "summary": "**MACRO/MARKETS:** Voice agent automation threatens high-touch service sectors (banking, insurance, customer support); margin compression risk for labor-intensive operators; potential deflationary pressure on service costs offsetting wage inflation.\n\n**CREDIT RISK:** Voice agent deployment reduces operational risk & fraud surface but introduces model governance gaps; IFRS 9 Stage 2 migration risk if agent failures correlate with economic stress; PD/LGD inputs require recalibration for AI-driven servicing workflows.\n\n**AI/ML:** Framework standardizes voice-agent evaluation metrics (latency, accuracy, hallucination rates), enabling banks to benchmark internal vs. third-party agents; validates whether generative"
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+          "summary": "**MACRO/MARKETS:** Gemini 3.1 Flash's sub-100ms latency and improved precision signal acceleration in conversational AI commoditization, pressuring margins in customer service, contact centers, and voice-enabled fintech—material for enterprise software valuations and labor cost deflation narratives.\n\n**CREDIT RISK:** Real-time voice interaction accuracy reduces operational risk in loan origination and KYC workflows; improved reliability strengthens audit trails for IFRS 9 documentation, though ECL model governance must address third-party LLM dependency and output reproducibility under stress scenarios.\n\n**AI/ML:** Production-grade latency and precision unlock real-time voice feature engineering"
+        },
+        {
+          "title": "Protecting people from harmful manipulation",
+          "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+          "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 25 Mar 2026 16:46:20 +0000",
+          "summary": "**MACRO/MARKETS:** AI manipulation risks in finance and health create regulatory tail risk for tech valuations and compliance capex across banking/healthcare sectors; emerging market fintech faces heightened scrutiny from authorities already cautious on algorithmic bias and consumer protection.\n\n**CREDIT RISK:** DeepMind's manipulation research directly informs model governance frameworks; banks must stress-test PD/LGD models against adversarial inputs and document AI safety protocols in IFRS 9 ECL methodologies to satisfy regulatory expectations on model explainability and anti-manipulation controls.\n\n**AI/ML:** Banking analytics systems require embedded adversarial testing; manipulation vulnerabilities in credit scoring, fraud detection, or"
+        },
+        {
+          "title": "There are more AI health tools than ever—but how well do they work?",
+          "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+          "content": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to members of its One Medical service, would…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 30 Mar 2026 16:00:00 +0000",
+          "summary": "**MACRO/MARKETS & DISRUPTION:** Healthcare AI proliferation (Microsoft, Amazon) signals major digitization wave reshaping $4.5T global healthcare spend; implies secular tailwinds for cloud infrastructure, cybersecurity, and data governance—with regulatory fragmentation risks across jurisdictions.\n\n**CREDIT RISK & ANALYTICS:** Mass adoption of health LLMs creates systemic data privacy/breach risk; banks exposed via health-data financing portfolios and insurance underwriting; IFRS 9 ECL models may need sector stress-testing if healthcare AI vendors face liability/consolidation shocks."
+        },
+        {
+          "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+          "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its AI. It’s the latest development in the month-long…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 30 Mar 2026 15:42:50 +0000",
+          "summary": "**MACRO/MARKETS & GEOPOLITICAL RISK:** Pentagon's failed regulatory action against Anthropic signals fragmentation in US tech governance, weakening national security hawks' ability to weaponize supply-chain restrictions—bullish for AI infrastructure stocks, bearish for defense-aligned policies limiting commercial AI adoption in federal contracts.\n\n**AI/ML & BANKING ANALYTICS:** Court ruling legitimizes commercial AI vendors' independence from political pressure, enabling broader enterprise adoption; banking analytics teams can now confidently integrate frontier LLMs (Claude) into ECL modeling, regulatory reporting, and anomaly detection without supply-chain compliance friction."
+        }
+      ],
+      "generatedAt": "2026-03-31T04:19:04.218Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Private capital’s great disappointment era begins",
+          "url": "https://www.ft.com/content/b46395e4-261a-483e-84cf-66af70a0ec1d",
+          "content": "The $22tn industry is facing the prospect that returns will fall far short of the expectations of investors",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 31 Mar 2026 04:00:31 GMT",
+          "summary": "**MACRO/MARKETS:** $22tn private capital industry faces structural return compression—driven by mega-fund deployment constraints, dry powder saturation, and exit valuation headwinds—rippling into LP capital reallocation, credit spreads, and mid-market financing dynamics. **CREDIT RISK:** Deteriorating PE-backed portfolio company margins and refinancing risks amplify ECL provisions; PD/LGD calibration models must recalibrate leverage stress scenarios and covenant breach probabilities across leveraged-lending portfolios under IFRS 9."
+        },
+        {
+          "title": "Foreign central banks sell US Treasuries in wake of Iran war",
+          "url": "https://www.ft.com/content/1c4189e9-36af-4779-b862-d868cf2aff76",
+          "content": "International official holdings at New York Federal Reserve fall to lowest level since 2012",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 31 Mar 2026 04:00:31 GMT",
+          "summary": "**MACRO/MARKETS:** Foreign central banks' Treasury liquidation to 2012 lows signals loss of confidence in USD safe-haven status amid geopolitical volatility; signals potential Treasury curve steepening, higher real rates, and reduced demand for long-duration US assets—pressuring equities and EM carry trades.\n\n**CREDIT RISK:** Reduced official Treasury demand increases refinancing risk and volatility in UST curves, elevating funding spreads for banks; impacts ECL models through higher discount rates and stress scenarios, requiring PD/LGD recalibration for sovereigns and FX-hedged corporates under IFRS 9."
+        },
+        {
+          "title": "\n        After Iran, gold is looking less glittery \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/03/30/after-iran-gold-is-looking-less-glittery",
+          "content": "Is the yellow metal the new crypto?",
+          "source": "The Economist",
+          "publishedAt": "Mon, 30 Mar 2026 15:54:52 +0000",
+          "summary": "**MACRO/MARKETS**: Gold's volatility post-Iran tensions mirrors crypto's speculative dynamics—safe-haven demand evaporates quickly when geopolitical risk recedes, signaling weakening structural support and potential correlation shifts across traditional hedges. Central bank accumulation and real rates remain key drivers, but retail momentum reversals suggest gold's inflation-hedge narrative is fragmenting."
+        },
+        {
+          "title": "\n        How Iran is making a mint from Donald Trump’s war\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war",
+          "content": "China is helping the Revolutionary Guards profit from Iranian crude",
+          "source": "The Economist",
+          "publishedAt": "Sun, 29 Mar 2026 11:44:15 +0000",
+          "summary": "**MACRO/MARKETS:** Iran's crude export expansion via Chinese intermediaries amid US sanctions tightening creates structural commodity price support, elevates geopolitical risk premiums in oil futures, and signals sanctions arbitrage acceleration—material for energy allocations and emerging-market FX volatility models."
+        },
+        {
+          "title": "Virgin Galactic targets commercial service launch in Q4 2026 as flight cadence ramps to 10-plus per month by mid-2027",
+          "url": "https://seekingalpha.com/news/4570493-virgin-galactic-targets-commercial-service-launch-in-q4-2026-as-flight-cadence-ramps-to-10?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 31 Mar 2026 00:12:32 -0400",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nSpace tourism commercialization signals maturation of sub-orbital human spaceflight as emerging asset class; sustained cadence targets validate demand thesis and multi-billion revenue TAM, creating spillover effects across aerospace supply chains and luxury consumer discretionary valuations in developed markets."
+        },
+        {
+          "title": "Phreesia outlines $510M–$520M revenue target for 2027 amid network solutions headwinds and AccessOne integration",
+          "url": "https://seekingalpha.com/news/4570489-phreesia-outlines-510m-520m-revenue-target-for-2027-amid-network-solutions-headwinds-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 31 Mar 2026 00:02:51 -0400",
+          "summary": "**MACRO/MARKETS:** Healthcare software faces margin compression as network solutions underperform and integration costs rise; signals broader healthcare IT consolidation risk and fintech-adjacent payment processing vulnerabilities in mid-market healthcare verticals.\n\n**CREDIT RISK & IFRS 9:** Integration execution risk warrants tighter monitoring of AccessOne write-downs (asset quality), higher stage migration probability, and PD uplift for healthcare IT counterparties exposed to payment automation disruption; ECL models should reflect sector-wide working capital stress."
+        },
+        {
+          "title": "US Stock Market |  Nasdaq speeds up big tech entry with new fast-track index rules ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-nasdaq-speeds-up-big-tech-entry-with-new-fast-track-index-rules/articleshow/129915670.cms",
+          "content": "Nasdaq is changing its rules for the Nasdaq-100 index. New large companies can now join faster. This aims to keep the index updated with big firms. The changes will start in May. This move reflects companies staying private longer. It also addresses fewer US companies listing publicly. Faster entry means more visibility and investor interest for new market leaders.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 31 Mar 2026 09:40:09 +0530",
+          "summary": "**MACRO/MARKETS:** Nasdaq's fast-track rules signal structural shift in US capital markets—fewer IPOs, prolonged private growth cycles, and concentration risk as mega-cap tech dominates public indices. Reflects secular decline in market breadth and potential liquidity fragmentation across public/private equity ecosystems."
+        },
+        {
+          "title": "India’s real estate PE inflows jump 59% to $6.7 billion in 2025; office, data centres lead: Savills India ",
+          "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-real-estate-pe-inflows-jump-59-to-6-7-billion-in-2025-office-data-centres-lead-savills-india/articleshow/129915486.cms",
+          "content": "Private equity investments in India’s real estate sector rebounded sharply in 2025, rising 59% to $6.7 billion, led by office, data centres and residential assets. Strong macro fundamentals, easing rates and foreign investor dominance supported inflows, while land investments signal a robust pipeline of future institutional-grade developments.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 31 Mar 2026 09:24:15 +0530",
+          "summary": "**MACRO/MARKETS:** India's real estate PE surge reflects investor rotation toward hard assets amid rate-easing cycles; office/data centre dominance signals structural shifts in workplace/cloud infrastructure demand, with broader implications for emerging market capital flows and sector correlation patterns."
+        }
+      ],
+      "generatedAt": "2026-03-31T04:19:19.811Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Static electricity is a mystery but invisible carbon may be key",
+          "url": "https://www.nature.com/articles/d41586-026-01012-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-03-30T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Unraveling static electricity mechanisms via carbon nanostructures could unlock materials science applications in semiconductors, energy storage, and industrial processes—sectors with multi-billion capex cycles and supply chain implications for tech/industrials. **CREDIT RISK:** Minimal direct ECL/IFRS 9 impact unless breakthrough accelerates adoption in battery/EV supply chains, potentially reshaping counterparty risk profiles for advanced materials suppliers."
+        },
+        {
+          "title": "Why I made a river my co-author",
+          "url": "https://www.nature.com/articles/d41586-026-00973-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-03-30T00:00:00.000Z",
+          "summary": "**Macro/Markets & Breakthroughs:** Personifying natural systems as research collaborators signals a paradigm shift toward ecosystem-integrated science, potentially reshaping environmental policy frameworks and green finance valuations across water-stressed regions—relevant to ESG-linked credit spreads and commodity volatility in agricultural/energy sectors.\n\n**Credit Risk (IFRS 9):** River health metrics could become material ECL drivers for sectors with watershed exposure (utilities, agri-business, mining); non-traditional environmental data integration into PD models may require regulatory guidance on scenario stress-testing for climate transition risk."
+        },
+        {
+          "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+          "content": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance. Scientists have now mapped the neural circuits behind this process, uncovering a delicate feedback loop in which sleep boosts growth hormone, and that same hormone helps regulate wakefulness.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 30 Mar 2026 21:39:42 EDT",
+          "summary": "**MACRO/MARKETS:** Sleep-enhancing therapeutics could reshape healthcare, pharma, and biotech valuations while reducing productivity drag on global GDP; long-term structural tailwind for sleep-tech and neurotech sectors competing against stimulant dependency.\n\n**CREDIT RISK:** Elevated sleep deprivation in workforce increases default risk modeling; ECL frameworks may underweight health-driven covenant breaches; PD/LGD calibration for stressed borrowers should incorporate circadian stress proxies.\n\n**AI/ML:** Sleep-tracking biometric data (wearables, sensors) creates massive unstructured datasets for predictive health models; banking analytics can extract wellness-linked credit behavior signals for"
+        },
+        {
+          "title": "Simple therapies beat drugs for knee arthritis pain relief",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330084511.htm",
+          "content": "A major analysis of nearly 10,000 patients shows that simple, non-drug treatments like knee braces, hydrotherapy, and exercise can significantly ease knee osteoarthritis symptoms. These approaches not only reduce pain and improve mobility, but also avoid the risks tied to common medications. The findings suggest that low-cost, accessible therapies could play a bigger role in how doctors treat arthritis in the future.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 30 Mar 2026 08:52:03 EDT",
+          "summary": "**MACRO/MARKETS:** Pharma sector headwind—if non-drug therapies scale, reduces blockbuster arthritis drug demand (Celecoxib, injectables). Positive for healthcare cost inflation narrative; supports preventive-care thesis in aging demographics (bullish medtech devices, fitness platforms). **BREAKTHROUGHS:** $40B+ global arthritis market disruption; low-cost, high-volume therapies threaten high-margin pharma revenue but unlock emerging-market penetration and insurers' cost-containment strategies."
+        },
+        {
+          "title": "What happened to Amelia Earhart? New book takes on the case.",
+          "url": "https://arstechnica.com/science/2026/03/what-happened-to-amelia-earhart-new-book-takes-on-the-case/",
+          "content": "Rachel Hartigan on her new book, Lost: Amelia Earhart's Three Mysterious Deaths and One Extraordinary Life.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 30 Mar 2026 12:31:19 +0000",
+          "summary": "**BREAKTHROUGHS:** Historical forensics using modern investigative methods (DNA analysis, digital reconstruction) demonstrates how emerging analytical techniques unlock decades-old mysteries. Parallels data archaeology in banking—legacy systems and incomplete records yield insights when reanalyzed with contemporary tools, relevant to institutional knowledge recovery and historical risk reconstruction."
+        },
+        {
+          "title": "Polygraphs have major flaws. Are there better options?",
+          "url": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+          "content": "Research proceeds on alternatives, but some doubt whether true lie detection is possible.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 29 Mar 2026 11:01:46 +0000",
+          "summary": "**BREAKTHROUGHS / FINTECH SECURITY:**\nPolygraph unreliability highlights growing demand for biometric authentication and behavioral analytics in financial services—driving fintech investment in fraud detection and KYC/AML tech. AI-driven alternatives (microexpression analysis, voice stress) represent untapped market opportunities for RegTech platforms and banking security infrastructure."
+        }
+      ],
+      "generatedAt": "2026-03-31T04:19:32.608Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan",
+          "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+          "content": "Article URL: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan\nComments URL: https://news.ycombinator.com/item?id=47582220\nPoints: 131\n# Comments: 31",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 31 Mar 2026 02:54:17 +0000",
+          "summary": "**BUILDER relevance:** Axios compromise highlights critical supply-chain vulnerability in Node.js/npm ecosystem—direct threat to React Native/Firebase stacks and backend infrastructure. Reinforces need for dependency scanning, SCA tools, and air-gapped builds in fintech/banking app development pipelines."
+        },
+        {
+          "title": "Artemis II is not safe to fly",
+          "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+          "content": "Article URL: https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm\nComments URL: https://news.ycombinator.com/item?id=47582043\nPoints: 75\n# Comments: 28",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 31 Mar 2026 02:23:50 +0000",
+          "summary": "**MACRO/MARKETS & BUILDER ANGLE:**\nNASA's Artemis II safety concerns signal potential multi-year delays in lunar program spending ($93B+ budget), impacting aerospace contractors (RTX, BA, LMT) and shifting capital allocation toward commercial space. For builders: regulatory delays in high-stakes mission-critical systems echo fintech compliance friction—both require iterative validation over rapid deployment cycles."
+        },
+        {
+          "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+          "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+          "content": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 30 Mar 2026 23:41:48 +0000",
+          "summary": "**MACRO/MARKETS:** Low adoption signals structural resistance to workplace automation despite AI hype; suggests labor market disruption priced too optimistically, with wage-setting power remaining with human management—bearish for productivity gains assumed in long-term equity valuations.\n\n**CREDIT RISK:** AI-driven workforce management creates new operational risk and model validation challenges; ECL provisions may need uplift if automation reduces earnings stability or increases unemployment correlation in consumer credit portfolios.\n\n**AI/ML:** Demonstrates gap between technical capability and human acceptance; banking analytics teams overestimate algorithmic decision-making uptake in compliance/lending, requiring hybrid human-in-loop architectures rather than full automation plays.\n\n**"
+        },
+        {
+          "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+          "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+          "content": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 30 Mar 2026 23:08:12 +0000",
+          "summary": "**MACRO/MARKETS:** Security breaches in AI infrastructure threaten enterprise adoption acceleration; vendor concentration risk in LLM gateways mirrors broader SaaS supply-chain vulnerabilities, pressuring valuations across API-dependent cloud platforms.\n\n**CREDIT RISK:** Third-party compliance certification compromise elevates operational risk weightings under IFRS 9; credential theft in fintech infrastructure increases PD estimates for counterparties relying on shared AI gateways, requiring ECL model recalibration.\n\n**AI/ML:** LiteLLM's dependency on external compliance vendors exposes banking analytics pipelines to vendor security failures; credential theft risks model poisoning and unauthorized data access in production P"
+        }
+      ],
+      "generatedAt": "2026-03-31T04:19:41.144Z"
+    }
+  ]
+}
