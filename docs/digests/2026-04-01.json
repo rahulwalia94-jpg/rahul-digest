@@ -1,0 +1,238 @@
+{
+  "date": "2026-04-01",
+  "generatedAt": "2026-04-01T04:33:34.775Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Consolidated balance sheet - 31 December 2024",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2024/consolidated-balance-sheet-31-december-2024",
+          "content": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 31 Mar 2026 14:00:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY:** Quarterly balance sheet data enables trailing five-quarter ECL provision tracking and capital adequacy ratio evolution under IFRS 9; consolidated reporting provides aggregated PD/LGD/EAD inputs for regulatory stress-testing and model validation workflows. **MACRO/MARKETS:** Asset composition shifts signal credit cycle positioning, loan-to-deposit ratios reflect monetary policy transmission, and liability structure changes indicate funding cost pressures across rate environments."
+        },
+        {
+          "title": "A simulation framework for sterling money market funds: estimating redemption capacity and evaluating liquidity requirements",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/a-simulation-framework-for-sterling-money-market-funds",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 27 Mar 2026 14:00:00 Z",
+          "summary": "**CREDIT RISK & REGULATORY:** Models sterling MMF redemption dynamics under stress to quantify liquidity buffers and capital adequacy—directly relevant to IFRS 9 ECL assumptions on funding stability, PD/LGD calibration for short-duration instruments, and Basel III liquidity coverage ratios (LCR/NSFR). Provides empirical framework for stress-testing wholesale funding channels and informing regulatory reserve methodologies."
+        }
+      ],
+      "generatedAt": "2026-04-01T04:32:43.422Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 31 Mar 2026 15:10:41 GMT",
+          "summary": "**MACRO/MARKETS:** Enterprise document AI shifts competitive advantage to companies automating compliance/KYC workflows; accelerates digital transformation capex cycles in banking and insurance, pressuring legacy software vendors while boosting cloud infrastructure demand.\n\n**CREDIT RISK:** Sub-3B vision models enable on-premise ECL/PD validation and document classification without cloud dependency; reduces third-party model risk and strengthens IFRS 9 audit trails through explainable local inference.\n\n**AI/ML:** Compact multimodal inference democratizes real-time document intelligence (invoices, statements, forms) across retail/commercial portfolios; enables embedded analytics in core banking systems versus API-dependent approaches, cutting"
+        },
+        {
+          "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+          "url": "https://huggingface.co/blog/trl-v1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 31 Mar 2026 00:00:00 GMT",
+          "summary": "**TRL v1.0 enables rapid LLM fine-tuning cycles, reducing model deployment friction across banking AI/ML stacks—critical for dynamic ECL model retraining, real-time PD/LGD calibration, and regulatory compliance under IFRS 9's evolving best-estimate assumptions.** Open-source post-training infrastructure accelerates fintech differentiation; banks leveraging modular tuning architectures will compress model-to-production timelines, reshaping competitive advantage in algorithmic trading, credit decisioning, and embedded finance ecosystems."
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+          "summary": "**MACRO/MARKETS:** Voice AI commoditization accelerates digital services deflation; pressures margin expansion in telecom/software sectors while enabling efficiency gains across enterprise software—net macro deflationary but productivity-positive for risk assets.\n\n**CREDIT RISK:** Lower-latency voice models reduce operational friction in collections, KYC automation, and fraud detection workflows; improves model throughput and reduces manual intervention costs—marginal ECL benefit via lower LGD assumptions in consumer portfolios if adoption scales.\n\n**AI/ML:** Real-time voice processing at scale disrupts traditional banking chatbots and IVR systems; shifts competitive advantage to inference speed and acoustic precision—analytics teams must retrain"
+        },
+        {
+          "title": "Protecting people from harmful manipulation",
+          "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+          "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 25 Mar 2026 16:46:20 +0000",
+          "summary": "**MACRO/MARKETS:** AI manipulation risks in financial markets could trigger regulatory tightening (MiFID II, Dodd-Frank extensions), pressuring fintech valuations and algorithmic trading volumes; systemic risk from coordinated AI-driven market moves warrants macro hedging strategies across equities and volatility.\n\n**CREDIT RISK:** DeepMind's manipulation framework directly informs IFRS 9 model governance—LGD assumptions must account for AI-driven fraud/behavioral manipulation in retail portfolios; ECL calculations need scenario weighting for tail risks from adversarial AI in credit decisioning.\n\n**AI/ML:** Banking analytics teams must audit PD/LGD"
+        },
+        {
+          "title": "Shifting to AI model customization is an architectural imperative",
+          "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+          "content": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 31 Mar 2026 14:12:50 +0000",
+          "summary": "**AI/ML + Credit Risk + Banking Analytics:**\n\nDomain-specialized LLMs (fused with proprietary data) outpace generic models—critical for ECL/PD-LGD automation, fraud detection, and regulatory compliance. Banks investing in customized architectures gain competitive edge in risk modeling while reducing manual PMA validation; generic LLM gains have plateaued, making organizational data integration the next differentiator."
+        },
+        {
+          "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+          "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work?  In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.  There’s a clear demand…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 31 Mar 2026 12:10:00 +0000",
+          "summary": "**MACRO/MARKETS:** AI health tools proliferation (Microsoft, Amazon, OpenAI) signals tech giants' pivot into high-margin regulated services; validates secular shift in healthcare digitization but raises efficacy/liability questions affecting healthcare sector valuations and insurance pricing models.\n\n**CREDIT RISK:** Clinical AI deployment introduces new model risk—validation frameworks for healthcare chatbots undefined; insurers/providers face contingent liabilities (misdiagnosis, liability concentration) affecting ECL provisioning; regulatory arbitrage risk as FDA/HIPAA clarity lags product rollout velocity.\n\n**AI/ML:** Healthcare AI deployment demonstrates enterprise adoption acceleration; banking analytics teams should model classification accuracy decay in regulated domains where training"
+        }
+      ],
+      "generatedAt": "2026-04-01T04:32:57.439Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "The great unwinding of Unilever",
+          "url": "https://www.ft.com/content/ea185d2f-73e5-4d6f-82f6-fcd28db9b463",
+          "content": "The FTSE 100 group is combining its food business with McCormick to create a $66bn food giant",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 01 Apr 2026 04:00:28 GMT",
+          "summary": "**MACRO/MARKETS:** Unilever's food carve-out signals defensive mega-cap consolidation amid stagflation uncertainty, reducing FTSE 100 exposure to consumer staples volatility while testing M&A financing resilience in higher-rate environment. Creates $66bn comparable to Nestlé, reshaping packaged-food competitive topology and signaling portfolio optimization by mature conglomerates.\n\n**CREDIT RISK:** Post-merger leverage, working capital absorption, and integration debt servicing stress test ECL models; separating food from beauty/personal-care alters segment correlations, requiring PD recalibration and covenant-monitoring framework updates under IFRS 9"
+        },
+        {
+          "title": "High street banks could learn from Revolut’s fee bonanza ",
+          "url": "https://www.ft.com/content/7722ca5a-a6d8-481d-b9d0-7ee1429ee535",
+          "content": "Higher account fees would reduce exposure to interest rates for old-school lenders",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 01 Apr 2026 04:00:27 GMT",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Traditional banks' structural reliance on NII faces secular headwinds; diversifying into fee-heavy fintech models (à la Revolut) reduces duration risk but shifts credit risk profile—lower loan portfolios compress EAD, potentially lower PD but concentrated liquidity/operational risk, raising ECL volatility under IFRS 9. **INVESTMENT/DISRUPTION:** Fintech fee-based models erode legacy bank ROE trajectories; emerging markets banks with lower digital adoption face competitive displacement unless they adopt hybrid revenue models."
+        },
+        {
+          "title": "\n        The energy shock brings coal back into fashion\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/03/31/the-energy-shock-brings-coal-back-into-fashion",
+          "content": "An LNG crunch is good news for the world’s dirtiest fuel",
+          "source": "The Economist",
+          "publishedAt": "Tue, 31 Mar 2026 17:27:53 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nEnergy crisis-driven LNG scarcity is reviving coal demand, reshaping commodity cycles and thermal power credit profiles; ECL models must recalibrate PD/LGD for utilities/coal miners as stranded-asset risk narrative reverses, while volatility spikes across energy correlations. Structural energy transition lag creates medium-term inflation persistence and stagflation tail risks affecting broad EM/DM equity valuations."
+        },
+        {
+          "title": "\n        After Iran, gold is looking less glittery \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/03/30/after-iran-gold-is-looking-less-glittery",
+          "content": "Is the yellow metal the new crypto?",
+          "source": "The Economist",
+          "publishedAt": "Mon, 30 Mar 2026 15:54:52 +0000",
+          "summary": "**MACRO/MARKETS:** Gold's post-Iran volatility spike and subsequent pullback suggest safe-haven demand is weakening as geopolitical premia compress; parallels to crypto volatility indicate commodities losing macro credibility as diversifiers, reshaping portfolio hedging frameworks and energy-adjacent commodity correlations."
+        },
+        {
+          "title": "TruBridge expects modest 2026 revenue growth while anticipating 200 bps adjusted EBITDA margin improvement amid strategic review",
+          "url": "https://seekingalpha.com/news/4571035-trubridge-expects-modest-2026-revenue-growth-while-anticipating-200-bps-adjusted-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 01 Apr 2026 00:04:33 -0400",
+          "summary": "**MACRO/MARKETS:** Healthcare services margin expansion amid cost discipline signals sector-wide operational leverage opportunity; modest top-line growth reflects cautious demand environment, relevant to healthcare equity valuations and defensive positioning in late-cycle macro.\n\n**CREDIT RISK:** 200 bps EBITDA margin improvement without revenue growth suggests restructuring/asset-light transition—requires ECL model refresh on cash flow stability and refinancing risk; PD assumptions may tighten if strategic review unlocks asset sales, reducing leverage volatility."
+        },
+        {
+          "title": "Wednesday’s Economic Calendar",
+          "url": "https://seekingalpha.com/news/4570778-wednesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 01 Apr 2026 00:00:00 -0400",
+          "summary": "**MACRO & MARKETS**\n\nUS CPI and jobless claims will reset rate-cut probability models and volatility surfaces; combined with Fed speakers, expect cross-asset reallocation across duration, credit spreads, and EM carry. Energy prices may spike on geopolitical risk, pressuring global inflation expectations and central bank divergence narratives."
+        },
+        {
+          "title": "Global Market | Oil Shockwave: Iran conflict triggers record surge in 2026 price forecasts ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-oil-shockwave-iran-conflict-triggers-record-surge-in-2026-price-forecasts/articleshow/129940954.cms",
+          "content": "The Iran conflict has triggered an unprecedented shock in global oil markets, disrupting critical supply routes and production. Analysts have sharply raised 2026 price forecasts, with Brent crude now projected to average $82.85 per barrel, a nearly 30% increase from February. Disruptions in the Strait of Hormuz are the primary driver, forcing output cuts and exacerbating shortages.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 01 Apr 2026 09:41:46 +0530",
+          "summary": "**MACRO/MARKETS:** Iran conflict disrupts Strait of Hormuz supply, pushing Brent forecasts to $82.85/bbl (+30% YoY)—major headwind for global growth, inflation expectations, and energy-dependent EM currencies; stagflation risk repriced across equities, rates, FX.\n\n**CREDIT RISK:** Oil shock elevates PD/LGD across leveraged energy, shipping, and EM corporates; ECL models must recalibrate macro scenarios (commodity price paths, FX volatility); IFRS 9 allowances likely to rise YoY, compressing Q1 provisions."
+        },
+        {
+          "title": "Zero returns in 2 years: Should Nifty bulls build a cash fort like Warren Buffett? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/zero-returns-in-2-years-should-nifty-bulls-build-a-cash-fort-like-warren-buffett/articleshow/129941085.cms",
+          "content": "Nifty50 has delivered zero returns over the past two years and is now at a critical juncture amid rising geopolitical tensions, a weakening rupee, and surging crude prices. While domestic investors continue to buy, foreign investors have pulled out a record $13 billion in March, signaling a shift to safer assets. Adding to concerns, Goldman Sachs has downgraded Indian equities to “marketweight” and cut its Nifty target.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 01 Apr 2026 09:35:28 +0530",
+          "summary": "**Macro/Markets:** Nifty's 2-year flat returns amid FPI outflows ($13B March), rupee depreciation, and crude headwinds signal rotation to safer assets; GS downgrade reflects emerging-market vulnerability to geopolitical shocks and US rate persistence, raising broader questions about EM currency/commodity linkages and domestic retail resilience as macro tailwinds fade."
+        }
+      ],
+      "generatedAt": "2026-04-01T04:33:14.746Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "NASA’s asteroid Bennu sample reveals a hidden chemical patchwork",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331231739.htm",
+          "content": "Scientists studying Bennu samples have discovered that its chemistry is far from uniform. Organic compounds and minerals cluster into three distinct types of regions, each shaped differently by past water activity. This uneven pattern shows that water altered the asteroid in a complex, localized way. The survival of delicate organic molecules adds an important clue to how life’s building blocks may persist in space.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 31 Mar 2026 23:40:47 EDT",
+          "summary": "**For BREAKTHROUGHS:** Bennu's heterogeneous organic chemistry validates panspermia risk models and justifies expanded space resource exploration capex—asteroid mining and sample-return missions now have clearer ROI for aerospace/defense allocations amid secular shift toward space economy infrastructure.\n\n**For BUILDER:** Sample heterogeneity mapping mirrors distributed data federation challenges in fintech—localized chemical clustering parallels sharded database consistency problems; same ML clustering algorithms (k-means, DBSCAN) applicable to transaction pattern detection and fraud segmentation at scale."
+        },
+        {
+          "title": "Hardly anyone uses this surprisingly simple blood pressure fix",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331034337.htm",
+          "content": "Salt substitutes offer a simple, low-cost way to reduce sodium intake and improve blood pressure, yet very few Americans actually use them—even among those who need them most. A large national analysis spanning nearly two decades found that usage remains surprisingly low and has not improved over time. Researchers say this gap represents a major missed opportunity for preventing heart disease and stroke.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 31 Mar 2026 06:57:40 EDT",
+          "summary": "**MACRO/MARKETS:** Low salt-substitute adoption despite proven efficacy signals massive pharma/nutraceutical distribution gap; healthcare spending inefficiency worth ~$50B annually in preventable CVD costs could pressure public health budgets and reshape consumer health product positioning across developed markets.\n\n**CREDIT RISK:** Healthcare non-compliance behavior (low adoption of proven preventive measures) mirrors borrower payment discipline—suggests ECL models underestimate behavioral default risk; regulatory stress tests may underweight population health deterioration as systemic economic headwind affecting workforce productivity and loan loss provisions.\n\n**AI/ML:** Adoption friction here is a behavioral analytics play: banks could deploy ML on claims/transaction data to identify at"
+        },
+        {
+          "title": "NASA is leading the way to the Moon, but the military won't be far behind",
+          "url": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
+          "content": "\"I just don't want to get caught flat-footed when we start to have to protect US interests out there.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 01 Apr 2026 01:36:50 +0000",
+          "summary": "**MACRO/MARKETS:** US lunar militarization signals sustained space-industrial spending cycle, benefiting defense contractors and creating geopolitical competition (China, Russia). Long-duration capex theme parallels infrastructure thesis; watch aerospace sector valuations and government contract awards.\n\n**CREDIT RISK:** Increased defense spending reduces sovereign fiscal risk in near term but complicates long-term debt dynamics; monitor PD/EAD assumptions for U.S. Treasury exposure and defense contractor counterparty concentration risk in institutional portfolios.\n\n**BREAKTHROUGHS:** Space economy emerging as material growth vector; lunar resource extraction and satellite infrastructure create decade-long capital deployment cycles analogous to energy transition, reshaping"
+        },
+        {
+          "title": "What's the best cabin layout for aircraft evacuation?",
+          "url": "https://arstechnica.com/science/2026/03/whats-the-best-cabin-layout-for-aircraft-evacuation/",
+          "content": "The key is to evenly distribute elderly passengers, who move more slowly, among the aircraft cabins.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 31 Mar 2026 15:00:57 +0000",
+          "summary": "**BREAKTHROUGHS angle:**\nAircraft cabin layout optimization for evacuation efficiency represents applied operations research with potential sector-wide adoption—relevant to aerospace/defense suppliers and airline operational capex cycles. Regulatory compliance improvements could reduce insurance premiums and litigation risk for carriers, creating margin expansion opportunities in the airline sector."
+        }
+      ],
+      "generatedAt": "2026-04-01T04:33:25.183Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "I built a 516-panel financial terminal in 3 weeks using AI",
+          "url": "https://neuberg.ai/",
+          "content": "Article URL: https://neuberg.ai/\nComments URL: https://news.ycombinator.com/item?id=47596654\nPoints: 9\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 01 Apr 2026 04:00:51 +0000",
+          "summary": "**AI-accelerated financial terminal** demonstrating rapid MVP iteration (516 panels in 3 weeks) signals potential disruption to Bloomberg/Reuters workflows via LLM-driven UI generation. Relevance: validates AI's capacity to compress fintech product cycles; raises questions on data governance, real-time ECL model integration, and regulatory acceptance of AI-generated analytical interfaces in institutional settings."
+        },
+        {
+          "title": "Analyzing Geekbench 6 under Intel's BOT",
+          "url": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+          "content": "Article URL: https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/\nComments URL: https://news.ycombinator.com/item?id=47596457\nPoints: 11\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 01 Apr 2026 03:27:38 +0000",
+          "summary": "**BUILDER & PRODUCT** | Intel's Geekbench 6 benchmarking under BOT (Baseline Optimization Tuning) reveals performance tuning methodologies relevant to backend optimization—critical for high-throughput fintech systems, real-time ECL model computation, and Node.js/Firebase scaling constraints in production analytics platforms. Low engagement (11 pts, 1 comment) suggests niche technical audience; implications for CPU-bound Python/SAS workloads in banking analytics infrastructure merit evaluation against ARM alternatives."
+        },
+        {
+          "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+          "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+          "content": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 01 Apr 2026 01:42:59 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Open-source supply-chain compromises (LiteLLM → Mercor) signal systemic vulnerabilities in AI infrastructure—relevant to enterprise software valuations, cyber insurance pricing, and third-party risk models under IFRS 9's operational risk layers. Extortion crews monetizing data theft raise breach-cost provisioning assumptions for fintech/SaaS exposures.\n\n**AI/ML & BUILDER:** Dependencies on unvetted open-source LLM wrappers create model governance gaps for banking analytics workflows; teams running LiteLLM for NLP pipelines need immediate supply-chain audits, Firebase/Node.js"
+        },
+        {
+          "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
+          "url": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
+          "content": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 01 Apr 2026 01:00:00 +0000",
+          "summary": "**MACRO/MARKETS:** Toyota's VC arm signals automotive OEM pivot toward software/autonomy defensibility amid EV competition. Structural shift in capital allocation from traditional manufacturing toward tech ecosystem bets—relevant for sector rotation and long-cycle industrial disruption thesis.\n\n**CREDIT RISK:** Auto supplier credit cycles increasingly tied to autonomous/cybersecurity capex success rates. ECL modeling for auto-adjacent counterparties requires scenario weighting on tech adoption risk; PD/LGD correlation to autonomous vehicle monetization timelines now material.\n\n**AI/ML:** Autonomous driving datasets and cybersecurity vulnerability modeling demand real-time ML ops infrastructure. Banking analytics teams face similar downstream risk: predict"
+        }
+      ],
+      "generatedAt": "2026-04-01T04:33:34.775Z"
+    }
+  ]
+}
