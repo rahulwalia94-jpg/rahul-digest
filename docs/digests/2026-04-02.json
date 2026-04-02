@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-02",
+  "generatedAt": "2026-04-02T04:12:06.741Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Enhancing the resilience of the gilt repo market – discussion paper feedback statement",
+          "url": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/enhancing-the-resilience-of-the-gilt-repo-market-discussion-paper-feedback-statement",
+          "content": "This feedback statement provides a summary of the responses to the September 2025 discussion paper ‘Enhancing the resilience of the gilt repo market’ and outlines how the Bank intends to progress this work.",
+          "source": "Bank of England",
+          "publishedAt": "Wed, 01 Apr 2026 10:30:00 +0100",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** BoE is tightening gilt repo resilience post-2020 volatility—expect higher haircuts, collateral fragmentation, and tighter liquidity spreads; impacts IFRS 9 ECL modeling (funding cost assumptions, PD/LGD calibration for repo counterparties) and regulatory capital (CVA, collateral valuation under tighter regimes). **FINTECH/BUILDER:** Real-time collateral optimization and repo settlement automation (blockchain/APIs) become competitive moats; margin funding platforms face compliance complexity around dynamic haircut triggers."
+        },
+        {
+          "title": "Systemic Risk Survey Results - 2026 H1",
+          "url": "https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h1",
+          "content": "The Systemic Risk Survey is conducted on a biannual basis, to quantify and track market participants’ views of risks to, and their confidence in, the stability of the UK financial system.",
+          "source": "Bank of England",
+          "publishedAt": "Wed, 01 Apr 2026 10:30:00 +0100",
+          "summary": "**MACRO/MARKETS:** UK financial stability confidence metrics critical for cross-asset volatility assumptions; emerging market contagion risk and energy/commodity price correlation drive ECL forward-looking scenarios and PD volatility benchmarks for stress-testing frameworks.\n\n**CREDIT RISK:** Survey sentiment directly calibrates IFRS 9 Stage 2 migration triggers and collective ECL provisions; systemic risk perception reshapes PMA (post-model adjustments) and regulatory capital buffers across counterparty and concentration risk buckets."
+        }
+      ],
+      "generatedAt": "2026-04-02T04:11:11.562Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Holo3: Breaking the Computer Use Frontier",
+          "url": "https://huggingface.co/blog/Hcompany/holo3",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 01 Apr 2026 16:36:15 GMT",
+          "summary": "**MACRO/MARKETS:** Holo3's computer use capability could accelerate AI-driven automation across finance, potentially reshaping labor productivity metrics, software capex cycles, and valuation multiples for enterprise software and RPA vendors globally—critical macro tail risk for developed market earnings.\n\n**CREDIT RISK:** Autonomous agent systems increase operational risk in regulated environments; IFRS 9 credit models must adapt to capture AI-driven decision velocity, model governance complexity, and concentration risk in algorithmic trading/underwriting workflows.\n\n**AI/ML:** Direct threat to manual data pipeline engineering; banks must retrain analytics teams on prompt engineering, agent oversight, and synthetic data validation rather than ETL—forces P"
+        },
+        {
+          "title": "Falcon Perception",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 01 Apr 2026 07:13:20 GMT",
+          "summary": "I'd be happy to write that summary, but I need the actual content/details about \"Falcon Perception\" to work with. Could you provide:\n\n- What Falcon Perception does (research focus, methodology, output)\n- Key findings or innovations\n- Relevant sector/application domain\n- Any quantified results or benchmarks\n\nOnce you share the content, I'll deliver a sharp 2-sentence summary mapped to the angles most relevant to your profile."
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+          "summary": "**MACRO/MARKETS:** Voice AI commoditization pressures consumer tech valuations; lower latency enables real-time financial advisory at scale, shifting wealth management competitive dynamics globally.\n\n**CREDIT RISK:** Enhanced voice precision reduces transcription error in loan origination workflows and compliance documentation; marginal ECL model improvement via better data quality in unstructured audio capture.\n\n**AI/ML:** Real-time voice inference at scale challenges incumbent banking chatbot vendors; forces internal model refresh cycles for customer interaction analytics and fraud detection retraining.\n\n**BREAKTHROUGHS:** Open-source-adjacent voice models compress go-to-market timelines for fintech apps; reduces dependency on proprietary ASR/"
+        },
+        {
+          "title": "Protecting people from harmful manipulation",
+          "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+          "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 25 Mar 2026 16:46:20 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** DeepMind's manipulation risk framework has direct IFRS 9 implications—AI-driven fraud/market abuse could spike unexpected credit losses and regulatory capital charges; heightens systemic risk premia across fintech and digital banking sectors globally. **AI/ML & BREAKTHROUGHS:** Weaponizes PD/LGD model validation; banks must stress-test algorithmic bias and adversarial attacks on credit decisioning; creates competitive moat for institutions embedding explainability and robustness early."
+        },
+        {
+          "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+          "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 01 Apr 2026 12:10:00 +0000",
+          "summary": "**AI/ML + MACRO/MARKETS + CREDIT RISK angle:**\nGig-economy humanoid training represents emerging labour arbitrage (Nigeria-based remote work) that could reshape automation ROI timelines and capex cycles across manufacturing/logistics—directionally bullish for robotics but bearish for low-skill labour markets in developed economies. For credit risk: rapid automation acceleration pressures default rates in labour-dependent SME segments; ECL models may underestimate cyclicality if gig-labour displacement accelerates faster than historical PD/LGD calibrations."
+        },
+        {
+          "title": "The gig workers who are training humanoid robots at home",
+          "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+          "content": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 01 Apr 2026 11:00:00 +0000",
+          "summary": "**MACRO/MARKETS + AI/ML + BUILDER:**\nDistributed gig labor for AI training (motion capture, data annotation) emerging in low-cost regions creates arbitrage dynamics similar to BPO/IT services offshoring; validates AI infrastructure capex thesis but raises wage-deflation risks across white-collar analytics roles globally. For banking tech teams, signals commoditization pressure on routine ML data prep—higher model velocity but talent cost compression in analytics hiring."
+        }
+      ],
+      "generatedAt": "2026-04-02T04:11:25.470Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Vulture funds circle private equity",
+          "url": "https://www.ft.com/content/bfed8977-3064-49da-8242-f80778dbd7a8",
+          "content": "Distressed-debt funds see a potential bonanza in the downturn in private credit",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 02 Apr 2026 04:00:22 GMT",
+          "summary": "**Macro/Markets & Credit Risk angle:**\nPrivate credit stress is creating distressed-debt opportunities as PE-backed companies face refinancing cliff; this signals potential wave of covenant breaches and restructurings that will elevate ECL provisions and stress test assumptions under IFRS 9, particularly for banks exposed to mid-market leverage."
+        },
+        {
+          "title": "World’s top energy traders wrongfooted in early days of Iran war",
+          "url": "https://www.ft.com/content/22e7678b-e7ec-4bf0-8258-906eaa2d7a42",
+          "content": "Oil traders that normally thrive on volatility caught out by scale of crisis as energy shock unfurled",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 02 Apr 2026 04:00:22 GMT",
+          "summary": "**MACRO/MARKETS & CREDIT RISK**: Geopolitical tail-risk materialization (Iran conflict) exposed model fragility in energy volatility forecasting—traditional VaR/stress-test frameworks underestimated correlation breakdowns, forcing ECL recalibration on oil-linked counterparty exposures and commodity trading desks. Signals systemic liquidity risk in energy derivatives and elevated PD/LGD assumptions for upstream/downstream corporates in 2024-25 stress scenarios."
+        },
+        {
+          "title": "\n        “Liberation Day” has reshaped trade—but not as Donald Trump hoped \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/01/liberation-day-has-reshaped-trade-but-not-as-donald-trump-hoped",
+          "content": "In many ways, global commerce has strengthened",
+          "source": "The Economist",
+          "publishedAt": "Wed, 01 Apr 2026 11:00:11 +0000",
+          "summary": "**Macro/Markets:** Trade reshuffling post-tariff implementation has paradoxically strengthened global commerce through supply-chain diversification and non-USD settlement growth, contradicting protectionist intent—reshaping FX volatility, EM currency resilience, and cross-border flow patterns critical for 2025 macro positioning.\n\n**Credit Risk:** Accelerated trade-route reconfiguration and counterparty shift increase concentration risk granularity in ECL models; PD/LGD calibration requires real-time supply-chain mapping to capture emerging obligor exposure migration beyond traditional geographic/sectoral bucketing."
+        },
+        {
+          "title": "\n        Can a country get too rich?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/01/can-a-country-get-too-rich",
+          "content": "Norway shows the potential pitfalls of uncommon prosperity",
+          "source": "The Economist",
+          "publishedAt": "Wed, 01 Apr 2026 10:59:08 +0000",
+          "summary": "**Macro & Markets:** Norway's oil-wealth concentration illustrates resource curse dynamics—Dutch Disease, currency appreciation, and deindustrialization risks that apply broadly to commodity-dependent economies, affecting FX volatility, sector rotation, and EM credit spreads."
+        },
+        {
+          "title": "Thursday’s Economic Calendar",
+          "url": "https://seekingalpha.com/news/4571726-thursdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 02 Apr 2026 00:00:00 -0400",
+          "summary": "**Macro & Markets Summary:**\n\nThursday's calendar likely includes US inflation data (CPI/PCE) and jobless claims—critical for Fed terminal rate expectations and duration/equity risk premium recalibration. Risk-off scenarios compress credit spreads and inflate ECL overlays; bullish prints may extend equity rallies but pressure fixed income and emerging market carry trades."
+        },
+        {
+          "title": "Franklin Covey reaffirms FY2026 guidance of $265M-$275M revenue and $28M-$33M adjusted EBITDA as multiyear mix reaches 62%",
+          "url": "https://seekingalpha.com/news/4571902-franklin-covey-reaffirms-fy2026-guidance-of-265m-275m-revenue-and-28m-33m-adjusted-ebitda-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 01 Apr 2026 21:02:53 -0400",
+          "summary": "**MACRO/MARKETS:** Franklin Covey's reaffirmed mid-market SaaS guidance signals resilience in B2B training/productivity software despite macro headwinds; 62% multiyear recurring revenue mix validates shift toward subscription stability—a secular tailwind for SaaS defensiveness in a rate-uncertain environment.\n\n**CREDIT RISK:** Elevated MRR composition (62%) improves cash flow predictability and reduces PD volatility under IFRS 9 ECL frameworks; lower revenue concentration risk supports lower probability-weighted loss scenarios in covenant-based credit assessments."
+        },
+        {
+          "title": "From assembly to ambition: How India is building its electronics backbone ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-assembly-to-ambition-how-india-is-building-its-electronics-backbone/articleshow/129966732.cms",
+          "content": "India is shifting from electronics assembly to full-scale manufacturing as the ECMS scheme boosts domestic component production. With rising investments, localisation targets, and strategic focus on critical inputs like rare earth magnets, the sector offers a long-term opportunity, though execution and capacity ramp-up over the next few years remain key risks.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 02 Apr 2026 09:11:51 +0530",
+          "summary": "**MACRO/MARKETS:** India's electronics indigenization via ECMS reshapes global supply chains, reducing China concentration risk and creating a structural growth vector for emerging market equities; sector scaling over 3–5 years will drive capex cycles, rare earth demand, and rupee strength, with material knock-on effects for semiconductor, defense, and renewable equipment valuations across EM.\n\n**CREDIT RISK:** Rapid capacity ramp-up in unfamiliar verticals (rare earth refining, component assembly) elevates counterparty execution risk; IFRS 9 ECL models must embed India regulatory/tariff policy volatility, longer PD tail curves for new entrants, and"
+        },
+        {
+          "title": "Rupee jumps 1.4% as RBI's FX curbs leave traders bracing for unwinding-led dollar glut ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-jumps-as-rbis-fx-curbs-leave-traders-bracing-for-unwinding-led-dollar-glut/articleshow/129966707.cms",
+          "content": "The Indian rupee surged in early trading following the Reserve Bank of India's new measures to curb speculation and arbitrage flows. These actions are expected to lead to increased onshore dollar sales as traders unwind positions. Meanwhile, rising energy prices, driven by Middle East conflict concerns and U.S. President Trump's remarks, add to existing economic pressures.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 02 Apr 2026 09:08:09 +0530",
+          "summary": "**MACRO/MARKETS:** RBI's FX intervention reverses rupee weakness, signaling policy shift toward stability over growth—watch for unwinding-driven dollar supply glut pressuring emerging market carry trades and energy import costs amid geopolitical oil risk. **CREDIT RISK:** Rupee volatility directly impacts ECL models for India-exposed corporates (FX translation risk, refinancing stress); RBI curbs may compress EAD estimates but increase PD/LGD tail risk if unwinding triggers broader EM contagion."
+        }
+      ],
+      "generatedAt": "2026-04-02T04:11:42.172Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Regular physical activity in midlife cuts risk of early death ",
+          "url": "https://www.nature.com/articles/d41586-026-01000-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-02T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Preventive health data strengthens insurers' longevity assumptions and reduces claims volatility—critical for life/disability reserve adequacy under IFRS 9 ECL models. Validates behavioral risk segmentation in underwriting, potentially expanding addressable markets for health-tech and wearables across emerging markets with rising midlife mortality."
+        },
+        {
+          "title": "Structural modifications in strain-engineered bilayer nickelate thin films",
+          "url": "https://www.nature.com/articles/s41586-026-10446-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-01T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nStrain-engineered nickelate thin films unlock high-temperature superconductivity pathways, potentially disrupting semiconductor/materials sectors and attracting strategic capex from energy and advanced manufacturing. Geopolitical significance: rare earth / critical materials supply chains (China exposure) and US-led materials science competitiveness in quantum/clean tech narratives.\n\n**CREDIT RISK (IFRS 9/ECL):**\nNo direct ECL/PD-LGD linkage; monitor materials/semiconductor suppliers' covenant health if nickelate commercialization accelerates capex cycles and working capital stress.\n\n**AI/ML"
+        },
+        {
+          "title": "What’s hiding inside colon cancer could change treatment",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260401071951.htm",
+          "content": "Colorectal cancer may carry a unique microbial “fingerprint,” setting it apart from other cancers and opening a new frontier in diagnosis and treatment. By analyzing DNA from over 9,000 patients, researchers discovered that only colorectal tumors consistently host distinct microbial communities—challenging the long-held belief that all cancers have their own microbial signatures.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 01 Apr 2026 23:54:49 EDT",
+          "summary": "**BREAKTHROUGHS / HEALTHTECH DISRUPTION:**\nColorectal cancer's unique microbial signature enables earlier, non-invasive diagnostic biomarkers—creating a $multi-billion precision oncology market expansion and shifting treatment from one-size-fits-all chemotherapy to targeted microbial-modulation therapies. Biotech/diagnostics firms (NGS, liquid biopsy platforms) face M&A consolidation; pharma reallocates R&D spend from broad-spectrum oncology toward microbiome-targeting therapeutics."
+        },
+        {
+          "title": "Scientists discover bizarre termite that looks like a tiny sperm whale",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260401071943.htm",
+          "content": "High in a South American rainforest canopy, scientists have discovered a bizarre new termite species that looks strikingly like a miniature sperm whale. Named Cryptotermes mobydicki, this tiny insect has an elongated head and concealed mandibles that give it an uncanny resemblance to the iconic marine giant. Researchers were so surprised by its unusual appearance that they initially thought it belonged to an entirely new genus.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 01 Apr 2026 23:06:19 EDT",
+          "summary": "**BREAKTHROUGHS:** Biodiversity discovery in South American rainforests underscores ecosystem fragility and carbon-storage value—relevant to ESG-weighted equity positioning and emerging-market forest-economy opportunities. Limited direct market impact; primarily signals continued Amazon research activity affecting commodity/agricultural outlooks."
+        },
+        {
+          "title": "Research roundup: 7 cool science stories we almost missed",
+          "url": "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/",
+          "content": "Sperm gets lost in space; raccoons solve puzzles; the physics of folding a crepe; and more.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 01 Apr 2026 19:53:31 +0000",
+          "summary": "**BREAKTHROUGHS / SCIENCE:**\n\nMixed-bag discovery bucket with no immediate market or sector themes. Raccoon cognition studies may interest behavioral economics researchers; sperm/space research could eventually inform biotech valuations, but current stage is pre-commercial. No IFRS 9, regulatory, fintech, or macro implications evident."
+        },
+        {
+          "title": "LIGO data hints at supernovae so powerful they leave nothing behind",
+          "url": "https://arstechnica.com/science/2026/04/black-hole-mergers-put-limits-on-star-destroying-supernovae/",
+          "content": "Pair instability supernovae create a \"mass gap\" in black holes.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 01 Apr 2026 15:00:01 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** LIGO's detection of pair-instability supernovae filling the black hole mass gap validates stellar physics models, strengthening confidence in gravitational wave instrumentation as a scientific asset class; potential upstream demand for advanced sensor/detector tech and aerospace/defense contractors supporting next-gen observatories.\n\n**NOT MATERIAL FOR:** Credit risk modeling, IFRS 9 ECL frameworks, banking analytics, or fintech app development—purely astrophysics domain with negligible near-term banking/markets nexus."
+        }
+      ],
+      "generatedAt": "2026-04-02T04:11:55.261Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+          "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+          "content": "Article URL: https://www.phoronix.com/news/Steam-On-Linux-Tops-5p\nComments URL: https://news.ycombinator.com/item?id=47609564\nPoints: 28\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 02 Apr 2026 03:12:24 +0000",
+          "summary": "**BUILDER & PRODUCT**\n\nLinux gaming adoption crossing 5% signals platform maturation and potential market segmentation for consumer software. For app developers, rising Linux-native adoption justifies cross-platform strategies (React Native, Electron) and reduces Windows-lock-in dependency—relevant for fintech UI/UX and reducing technical debt in consumer-facing applications."
+        },
+        {
+          "title": "The Claude Code Leak",
+          "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+          "content": "Article URL: https://build.ms/2026/4/1/the-claude-code-leak/\nComments URL: https://news.ycombinator.com/item?id=47609294\nPoints: 21\n# Comments: 6",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 02 Apr 2026 02:26:05 +0000",
+          "summary": "**AI/ML + BUILDER relevance:** Claude model weights/architecture leak undermines Anthropic's competitive moat and IP protection—critical for fintech builders leveraging proprietary LLMs for credit risk models, fraud detection, or analytics platforms relying on differentiated AI. Raises systemic questions on foundation model security that banking regulators will scrutinize as institutions embed LLMs into ECL workflows and PD estimation."
+        },
+        {
+          "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+          "url": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+          "content": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 01 Apr 2026 22:58:39 +0000",
+          "summary": "**MACRO/MARKETS:** DeFi platform collapse signals systemic liquidity risk in unregulated crypto derivatives; contagion risk to correlated assets (BTC, ETH volatility spikes) and potential regulatory crackdown reshaping digital asset risk premiums across traditional finance gateway exposures.\n\n**CREDIT RISK:** Smart contract exploits create unquantifiable tail risks for IFRS 9 ECL models; counterparty concentration in DeFi platforms (custody, collateral haircuts) now requires stress-testing against \"code-level default\" scenarios beyond traditional PD/LGD/EAD frameworks.\n\n**AI/ML:** Real-time blockchain anomaly detection"
+        },
+        {
+          "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+          "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+          "content": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 01 Apr 2026 22:12:13 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nIP protection failures in AI raise enterprise governance risks and regulatory scrutiny on model transparency—material for valuations of frontier AI firms and broader software/SaaS sector. Accidental mass takedowns signal operational maturity gaps at scale, amplifying concerns on AI company risk premiums versus traditional tech."
+        }
+      ],
+      "generatedAt": "2026-04-02T04:12:06.741Z"
+    }
+  ]
+}
