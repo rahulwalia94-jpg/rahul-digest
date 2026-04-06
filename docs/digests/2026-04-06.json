@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-06",
+  "generatedAt": "2026-04-06T04:28:12.024Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 1 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/1-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 02 Apr 2026 15:00:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY**\n\nBoE weekly asset-liability snapshots are primary inputs for stress-testing frameworks and ECL model calibration—movements in deposit composition, duration risk, and funding spreads directly impact PD/LGD assumptions and regulatory capital adequacy ratios. Real-time weekly granularity enables faster detection of systemic vulnerabilities versus monthly reporting, critical for IFRS 9 Stage 2 migration triggers and PMA overlays."
+        },
+        {
+          "title": "Out of work, out of the labour force? Attachment, search effort and participation flows",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/out-of-work-out-of-the-labour-force",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 02 Apr 2026 14:00:00 +0100",
+          "summary": "**CREDIT RISK & MACRO:** Labour force participation dynamics materially impact PD/unemployment-correlation assumptions in ECL models; cyclical joblessness vs. structural workforce exit shapes macroeconomic scenarios and portfolio loss provisions—critical for regulatory capital adequacy and stress-testing frameworks under IFRS 9."
+        }
+      ],
+      "generatedAt": "2026-04-06T04:27:14.970Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+          "url": "https://huggingface.co/blog/gemma4",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 02 Apr 2026 00:00:00 GMT",
+          "summary": "**Gemma 4 on-device multimodal capability threatens cloud inference cost structures across banking analytics and fintech; regulatory modeling (ECL/PD-LGD) shifts toward edge deployment reduce data residency friction. Frontier model efficiency at device-level enables real-time credit decisioning and market surveillance without latency/compliance overhead—reshaping fintech architecture and institutional analytics infrastructure economics.**"
+        },
+        {
+          "title": "Holo3: Breaking the Computer Use Frontier",
+          "url": "https://huggingface.co/blog/Hcompany/holo3",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 01 Apr 2026 16:36:15 GMT",
+          "summary": "**Holo3 represents a potential inflection in AI-driven automation capable of displacing knowledge work across banking operations, analytics, and compliance—with material implications for labor cost models and productivity assumptions embedded in ECL/PD frameworks. For fintech builders, autonomous agent systems could fundamentally reshape backend infrastructure design, though regulatory lag on AI governance creates near-term model validation and explainability risks.**"
+        },
+        {
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+          "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 02 Apr 2026 16:00:49 +0000",
+          "summary": "**MACRO/MARKETS:** Gemma 4's advanced reasoning capabilities reduce enterprise AI infrastructure costs, pressuring cloud/GPU vendors (NVDA, hyperscalers) while accelerating open-model adoption across financial services, potentially reshaping software licensing economics globally.\n\n**CREDIT RISK:** Open-source reasoning models enable in-house PD/LGD/EAD model development and validation without vendor lock-in; supports explainability for IFRS 9 ECL governance and regulatory backtesting with audit trail control.\n\n**AI/ML:** Direct disruption to proprietary banking analytics platforms; enables real-time PMA workflow automation, fraud detection tuning, and portfolio stress"
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+          "summary": "**MACRO/MARKETS:** Voice AI commoditization accelerates digital deflation in enterprise software; pressures high-margin SaaS valuations while expanding TAM in emerging markets with speech-dominant user bases, favoring chipmakers and cloud infrastructure.\n\n**CREDIT RISK:** Lower-latency voice models reduce fraud detection lag in transaction authentication; improves ECL calibration for retail portfolios through real-time behavioral signals, though model opacity creates PMA documentation burden under IFRS 9 governance frameworks.\n\n**AI/ML:** Sub-100ms voice inference shifts banking analytics from batch ECL pipelines to live scoring; enables streaming PD/LGD updates and real-time customer segmentation"
+        },
+        {
+          "title": "Four things we’d need to put data centers in space",
+          "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+          "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 03 Apr 2026 17:03:19 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Orbital data centers represent infrastructure capex supercycle potential (telecom, semiconductor, launch services), with geopolitical implications for US-China tech sovereignty and latency-arbitrage trading venues; validates mega-cap cloud/satellite consolidation thesis.\n\n**AI/ML & CREDIT RISK:** Ultra-low latency edge compute enables real-time algorithmic trading and ML inference at scale, but concentration risk in space-based infrastructure raises systemic ECL assumptions for telecom/cloud counterparties; regulatory framework gaps create model validation uncertainty."
+        },
+        {
+          "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+          "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices. But looking ahead, further consequences could…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 02 Apr 2026 12:10:00 +0000",
+          "summary": "**MACRO/MARKETS:** Escalating geopolitical tension (Iran conflict) driving fossil fuel volatility with downstream inflationary pressure on plastics/polymers—a stagflation risk factor for consumer discretionary, packaging, and industrial sectors globally; potential energy sector rerating amid supply shocks.\n\n**CREDIT RISK:** Rising commodity input costs compress margins across plastic manufacturing and downstream industries, triggering PD/LGD deterioration in leveraged corporates; ECL models require recalibration for inflation pass-through assumptions and working capital stress in supply-constrained segments."
+        }
+      ],
+      "generatedAt": "2026-04-06T04:27:29.233Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Iran allows Iraqi ships through Hormuz strait",
+          "url": "https://www.ft.com/content/53db0c3d-c897-4ccd-8517-5ad392dfa252",
+          "content": "Tehran’s decision could allow 3mn b/d of oil to be released to international markets",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 05 Apr 2026 15:30:08 GMT",
+          "summary": "**MACRO/MARKETS:** Iran's Hormuz corridor opening could inject 3mn b/d into global oil supply, easing geopolitical risk premium and likely moderating Brent/WTI by $5–15/bbl; bullish for energy importers (EU, Asia), bearish for OPEC+ pricing power and petrocurrency volatility (RUB, AED, SAR).\n\n**CREDIT RISK:** Reduced oil price volatility tightens ECL distributions for energy & shipping counterparties; lower PD assumptions for commodity-linked sovereigns (Gulf, Russia) but requires scenario re-weighting in IFRS 9 models—particularly"
+        },
+        {
+          "title": "How big an impact will the war have on US inflation?",
+          "url": "https://www.ft.com/content/b90f3b1b-ceb4-42d3-bd51-d00002dfe71f",
+          "content": "Market Questions is the FT’s guide to the week ahead",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 05 Apr 2026 11:02:13 GMT",
+          "summary": "**MACRO/MARKETS:** Geopolitical conflict typically inflates energy/commodities, tightening monetary policy cycles and widening real yields—critical for equity valuations, EM currency stability, and cross-asset correlations. Ukraine precedent shows stagflation risk asymmetry between developed and emerging economies."
+        },
+        {
+          "title": "\n        Inflation or recession? The tug of war in bond markets \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/05/inflation-or-recession-the-tug-of-war-in-bond-markets",
+          "content": "Governments’ borrowing costs are being pulled in opposite directions",
+          "source": "The Economist",
+          "publishedAt": "Sun, 05 Apr 2026 08:17:54 +0000",
+          "summary": "**Macro/Markets + Credit Risk Angle:**\nDiverging inflation/recession signals are creating sovereign yield volatility across curves, pressuring term premium assumptions embedded in ECL models and PD calibrations reliant on historical rate regimes. Central bank policy uncertainty forces repricing of government collateral haircuts and LGD assumptions for public sector exposures—critical for IFRS 9 staging triggers and stress testing frameworks."
+        },
+        {
+          "title": "\n        “Liberation Day” has reshaped trade—but not as Donald Trump hoped \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/01/liberation-day-has-reshaped-trade-but-not-as-donald-trump-hoped",
+          "content": "In many ways, global commerce has strengthened",
+          "source": "The Economist",
+          "publishedAt": "Wed, 01 Apr 2026 11:00:11 +0000",
+          "summary": "**MACRO/MARKETS:** Trump's trade policy (\"Liberation Day\") aimed to boost US manufacturing competitiveness but paradoxically strengthened global commerce through supply-chain diversification, nearshoring, and cross-border resilience—reshaping EM exposure, energy demand, and sector rotation away from anticipated protectionist outcomes. **CREDIT RISK/ECL:** Unexpected trade resilience improves macro PD/LGD stability and reduces tail-risk volatility in ECL models; however, persistent tariff uncertainty lengthens forecast horizons and increases model volatility bands—requiring PMA uplift calibration and stress-test recalibration."
+        },
+        {
+          "title": "Most and least shorted large-cap consumer staples at March end",
+          "url": "https://seekingalpha.com/news/4571937-most-and-least-shorted-large-cap-consumer-staples-at-march-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 06 Apr 2026 00:08:27 -0400",
+          "summary": "**Consumer staples short positioning divergence reflects market bifurcation on inflation resilience and margin sustainability—defensive positioning tightens around pricing power leaders while shorts concentrate in volume-vulnerable players, signaling sector rotation risks into potential demand destruction scenarios that warrant ECL provision reviews for leveraged consumer exposure.**"
+        },
+        {
+          "title": "Neurocrine nears $2.5B-plus deal to buy Soleno Therapeutics - FT",
+          "url": "https://seekingalpha.com/news/4572558-neurocrine-nears-2_5b-plus-deal-to-buy-soleno-therapeutics-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sun, 05 Apr 2026 23:20:43 -0400",
+          "summary": "**MACRO/MARKETS:** Biotech M&A acceleration signals risk-on sentiment and capital redeployment toward specialty pharma consolidation; reflects post-rate-cycle confidence in healthcare valuations amid GLP-1 sector tailwinds, offsetting broader uncertainty in rates/geopolitics.\n\n**CREDIT RISK:** Acquirer leverage & integration risk; assess Neurocrine's debt covenants, EBITDA sustainability post-deal, and contingent earnout structures for ECL provisioning under IFRS 9—specialty pharma often exhibits lumpy cash flows sensitive to regulatory/clinical setbacks."
+        },
+        {
+          "title": "Why is stock market falling today? Sensex drops 300 points, Nifty below 22,650 as Trump escalates threats on Iran pushes oil above $110/barrel ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-falling-today-sensex-drops-300-points-nifty-below-22650-as-trump-escalates-threats-on-iran-pushes-oil-above-110/barrel/articleshow/130050473.cms",
+          "content": "Indian stock market got off to a negative start after US President Donald Trump's increased threats towards Iran. Consequently, oil prices surged above $110 per barrel. Major companies like IndiGo, Kotak Mahindra Bank, and Reliance Industries experienced significant losses.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 06 Apr 2026 09:32:27 +0530",
+          "summary": "**MACRO/MARKETS:** Trump-Iran escalation pushing Brent above $110/bbl creates asymmetric tail risk for EM equities; Indian markets repricing geopolitical premium while energy-intensive sectors (refining, aviation, discretionary) face margin compression. Broader implication: risk-off sentiment may persist if escalation narrative dominates earnings season.\n\n**CREDIT RISK:** Oil spike pressures ECL models for corporates with unhedged FX/commodity exposures (airlines, refiners); PD migration risk for leveraged borrowers dependent on energy margins; IFRS 9 stage classification reviews needed if forward curves steepen materially.\n\n**MACRO ("
+        },
+        {
+          "title": "Gold below Rs 1.5 lakh, silver down Rs 2,000 on dollar strength, Trump’s power plant threat to Iran. What should investors do? ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-below-rs-1-5-lakh-silver-down-rs-2000-on-dollar-strength-trumps-power-plant-threat-to-iran-what-should-investors-do/articleshow/130050503.cms",
+          "content": "Gold and silver prices dipped on Monday amid a stronger dollar and escalating Middle East tensions, dampening hopes for U.S. Federal Reserve rate cuts.  Traders are now largely discounting any rate reductions this year. Experts advise caution, suggesting profit-booking on rallies and waiting for dips to initiate fresh positions.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 06 Apr 2026 09:18:17 +0530",
+          "summary": "**MACRO/MARKETS:** Dollar strength and Fed rate-cut expectations collapsing (priced out entirely for 2025) are reshaping asset allocation—gold/silver weakness signals risk-off sentiment despite geopolitical escalation, suggesting equity volatility likely higher; safe-haven flows into USD compete with traditional hedges, reshaping EM currency and commodity exposure."
+        }
+      ],
+      "generatedAt": "2026-04-06T04:27:47.471Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
+          "url": "https://www.nature.com/articles/d41586-026-01103-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-04T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Artemis II lunar exploration accelerates space economy growth (satellite comms, rare earth demand, aerospace supply chains), positioning defence contractors and resource extraction plays as secular beneficiaries amid geopolitical competition for lunar assets and helium-3 potential.\n\n**BUILDER:** Moon mission telemetry & real-time asset tracking mirrors enterprise IoT architectures—Node.js/Firebase patterns scale similarly for remote monitoring systems and space-grade data pipelines."
+        },
+        {
+          "title": "Massive budget cuts for US science proposed again by Trump administration",
+          "url": "https://www.nature.com/articles/d41586-026-01105-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-03T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS:** US science budget cuts risk undermining long-term competitiveness in AI, biotech, and semiconductors—sectors critical to equity valuations and tech/healthcare allocations. Reduced R&D spending could dampen productivity growth assumptions embedded in current risk-on positioning.\n\n**CREDIT RISK:** Tighter federal R&D budgets weaken balance sheets of defense contractors and biotech firms; impacts PD/LGD assumptions for exposures to innovation-dependent sectors and increases concentration risk in model portfolios.\n\n**AI/ML:** Reduced NSF/NIST funding constrains US AI talent pipeline and open-source research infrastructure; banks relying on domestic ML"
+        },
+        {
+          "title": "Scientists found a protein that drives brain aging — and how to stop it",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
+          "content": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 05 Apr 2026 07:08:57 EDT",
+          "summary": "**BREAKTHROUGHS / BIOTECH SECTOR:**\nFTL1 protein discovery positions neuro-regeneration as major pharma/biotech pivot; potential $100B+ market if translatable to human cognitive decline, Alzheimer's treatment. Early-stage but signals secular shift in aging demographics risk pricing across healthcare, insurance, pension liability models.\n\n**CREDIT RISK (IFRS 9/ECL):**\nBreakthrough in dementia reversal could materially reduce long-term credit losses in aged populations; impacts life insurance, aged-care RMBS underwriting assumptions and regulatory capital (longevity risk reclassification). Model recalibration warranted if human"
+        },
+        {
+          "title": "Scientists trap light in a layer 1,000x thinner than hair",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260405003957.htm",
+          "content": "Researchers have created a nanoscale structure that traps infrared light in a layer just 40 nanometers thick—over 1,000 times thinner than a human hair. By using a unique material with exceptional light-bending properties, they can confine and intensify light far beyond previous limits. This setup also dramatically boosts light conversion effects, turning infrared into visible blue light. The advance could pave the way for smaller, faster photonic technologies.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 05 Apr 2026 06:43:13 EDT",
+          "summary": "**BREAKTHROUGHS / MACRO:** Nanophotonic advances enabling sub-wavelength light confinement could reshape semiconductor, defense, and renewable energy sectors; upside for optical computing, thermal imaging, and next-gen solar efficiency—watch materials science equities and capex cycles in advanced manufacturing.\n\n**BUILDER:** Photonic integration miniaturization may unlock edge computing architectures for real-time data processing in mobile/IoT applications; relevant for low-latency fintech and embedded analytics workflows."
+        },
+        {
+          "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
+          "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
+          "content": "Congress will likely reject the White House's NASA cuts, just as it did last year.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 03 Apr 2026 23:19:36 +0000",
+          "summary": "**MACRO/MARKETS:** NASA budget cuts signal potential aerospace/defense sector headwinds and reduced US space infrastructure spending, though Congressional rejection likely preserves status quo. Relevant for tracking defense contractor exposure and long-term US competitiveness in commercial space (SpaceX, Blue Origin ecosystem).\n\n**BREAKTHROUGHS:** Funding uncertainty creates near-term delays in lunar missions but underscores private-sector dominance emerging in space exploration—a secular growth theme offsetting government budget volatility for investors tracking commercialization plays."
+        },
+        {
+          "title": "Ice Age dice show early Native Americans may have understood probability",
+          "url": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
+          "content": "Ice Age hunter-gatherer \"were intentionally relying on random outcomes in repeatable, rule-based ways.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 03 Apr 2026 22:55:29 +0000",
+          "summary": "**BREAKTHROUGHS / AI-ML / BUILDER:**\nIce Age probability artifacts suggest cognitive modeling predates recorded mathematics—validating that stochastic reasoning is hardwired human behavior, with implications for behavioral finance models and algorithmic design in risk systems. This historical precedent strengthens arguments for embedding probabilistic thinking into fintech UX and ML training datasets, particularly for retail investing apps and ECL model validation frameworks relying on human decision-making calibration."
+        }
+      ],
+      "generatedAt": "2026-04-06T04:28:01.200Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+          "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+          "content": "Article URL: https://github.com/mikf/gallery-dl/discussions/9304\nComments URL: https://news.ycombinator.com/item?id=47656659\nPoints: 34\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 06 Apr 2026 03:28:04 +0000",
+          "summary": "**Category: Builder & Product**\n\nGallery-dl's migration to Codeberg following DMCA pressure highlights growing legal friction around open-source tools operating in IP-gray zones—relevant for builders deploying scraping/content-aggregation features in fintech apps, where regulatory scrutiny on data sourcing mirrors banking's compliance evolution. Illustrates decentralized platform resilience as alternative to centralized repo takedown risk."
+        },
+        {
+          "title": "An open-source 240-antenna array to bounce signals off the Moon",
+          "url": "https://moonrf.com/",
+          "content": "Article URL: https://moonrf.com/\nComments URL: https://news.ycombinator.com/item?id=47656622\nPoints: 11\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 06 Apr 2026 03:22:42 +0000",
+          "summary": "**BUILDER & TECHNICAL RELEVANCE:**\n\nOpen-source 240-antenna array for lunar signal bouncing demonstrates distributed signal processing at scale—relevant for fintech infrastructure resilience, edge computing architectures, and real-time data integrity verification. High-frequency RF systems and array signal processing techniques applicable to secure market data feeds and low-latency trading infrastructure robustness."
+        },
+        {
+          "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
+          "url": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+          "content": "A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S. would confirm the rescue of Air Force service members shot down over Iran.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 05 Apr 2026 19:36:03 +0000",
+          "summary": "**MACRO/MARKETS:** Polymarket's takedown signals regulatory tightening on prediction markets—a $2B+ sector gaining institutional adoption. Geopolitical event hedging via crypto-native platforms now faces U.S. political scrutiny, impacting decentralized finance's expansion into traditional risk markets.\n\n**CREDIT RISK:** Immaterial to IFRS 9/ECL modeling; no systemic bank exposure. Highlights regulatory arbitrage risk in crypto derivatives—relevant for monitoring unregulated counterparty concentration in client portfolios.\n\n**AI/ML:** Demonstrates data governance friction: prediction market platforms generate real-time signal data (geopolitical, macro outcomes) valuable for"
+        },
+        {
+          "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+          "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+          "content": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 05 Apr 2026 18:51:37 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK & AI/ML:**\nMicrosoft's legal disclaimer that Copilot is \"entertainment only\" exposes a critical gap between AI deployment hype and regulatory reality—creating liability and model governance risks for banks relying on LLMs for PD/LGD estimation, compliance workflows, or client advisory, while signaling broader enterprise AI adoption may face enforceability challenges under IFRS 9 and financial services regulation. This undercuts the narrative of AI-driven productivity gains across banking operations and raises questions about third-party model risk frameworks that most institutions haven't yet formalized."
+        }
+      ],
+      "generatedAt": "2026-04-06T04:28:12.024Z"
+    }
+  ]
+}
