@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-08T04:20:03.579Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 1 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/1-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 02 Apr 2026 15:00:00 +0100",
+          "summary": "**MACRO/MARKETS:** BoE weekly balance sheet disclosure signals monetary policy stance and sterling liquidity conditions; watch for QT acceleration or gilt holdings shifts affecting UK real yields and GBP FX, with spillovers to EM carry trades and energy hedging curves.\n\n**CREDIT RISK:** Weekly asset-liability reporting enables real-time ECL recalibration triggers—monitor loan book composition changes and deposit flight indicators for PD/EAD model refreshes and regulatory capital buffer adequacy under stress scenarios.\n\n**AI/ML:** Automated BoE data ingestion + time-series anomaly detection on weekly balance sheet volatility patterns could flag systemic stress earlier than monthly regulatory reports"
+        },
+        {
+          "title": "Out of work, out of the labour force? Attachment, search effort and participation flows",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/out-of-work-out-of-the-labour-force",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 02 Apr 2026 14:00:00 +0100",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Labour force participation dynamics directly impact default probability calibration—cyclical job attachment weakness signals higher PD volatility and ECL provisions in consumer portfolios. Search friction and participation flows are leading indicators for unemployment regime shifts affecting macro overlays in IFRS 9 models across retail and SME segments."
+        }
+      ],
+      "generatedAt": "2026-04-08T04:19:08.741Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+          "url": "https://huggingface.co/blog/gemma4",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 02 Apr 2026 00:00:00 GMT",
+          "summary": "**Gemma 4's on-device multimodal capability reduces inference latency and data residency risk, enabling real-time credit decisioning and PD/LGD model recalibration without cloud dependency—material for ECL automation and regulatory compliance. For equities, this accelerates AI adoption across fintech/banking infrastructure while pressuring cloud incumbents; for builders, local inference unlocks privacy-preserving React Native apps with embedded intelligence, reducing server costs and API dependency.**"
+        },
+        {
+          "title": "Holo3: Breaking the Computer Use Frontier",
+          "url": "https://huggingface.co/blog/Hcompany/holo3",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 01 Apr 2026 16:36:15 GMT",
+          "summary": "**Holo3 represents a watershed in agentic AI—autonomous computer use at scale could accelerate software productivity and enterprise automation, reshaping labor economics and software valuations while creating systemic risks for operational resilience in regulated banking environments. For credit modeling: heightened model governance complexity, potential ECL volatility from AI-driven workforce disruption in collateral sectors (business services, IT), and urgent need for operational risk frameworks around AI agent validation in PD/LGD calibration workflows.**"
+        },
+        {
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+          "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 02 Apr 2026 16:00:49 +0000",
+          "summary": "**AI/ML + BUILDER + BREAKTHROUGH:**\nGemma 4's advanced reasoning capabilities enable real-time agentic workflows for credit risk automation—PD/LGD modeling, ECL computation, regulatory reporting—reducing model development cycles and latency-critical trading systems. Open-source deployment cuts cloud costs and regulatory audit burden while enabling fine-tuning on proprietary banking datasets; material edge for fintech/mobile risk platforms."
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+          "summary": "**MACRO/MARKETS:** Gemini 3.1 Flash's latency reduction and precision gains signal accelerating AI commoditization in voice/conversational interfaces, pressuring margins in telecom, contact center outsourcing, and enterprise software—watch for capex rotation toward inference infrastructure and energy demand shifts.\n\n**CREDIT RISK:** Lower-latency voice AI enables real-time conversational KYC/AML screening and behavioral fraud detection, potentially improving PD calibration and operational loss inputs to ECL models; regulatory arbitrage risk if adoption outpaces compliance frameworks.\n\n**AI/ML:** Improved precision/latency directly applicable to banking chatbots, trading desk voice interfaces,"
+        },
+        {
+          "title": "Desalination plants in the Middle East are increasingly vulnerable",
+          "url": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
+          "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Iran has escalated, a crucial resource is under fire: the desalination technology that supplies water across much of the region. In early…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 07 Apr 2026 14:54:06 +0000",
+          "summary": "**MACRO/MARKETS:** Middle East water security crisis threatens regional stability and energy-commodity nexus; desalination disruption elevates geopolitical risk premium across emerging market debt and energy equities, with spillover to global food/agricultural prices via irrigation dependency.\n\n**CREDIT RISK:** Escalating Iran conflict creates tail-risk sovereign stress scenarios; stress-test implications for IFRS 9 ECL models covering MEA exposure—PD/LGD assumptions require uplift on infrastructure/utility counterparties; regulatory scrutiny on concentration risk in water/energy-dependent sectors."
+        },
+        {
+          "title": "Enabling agent-first process redesign",
+          "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+          "content": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 07 Apr 2026 14:00:00 +0000",
+          "summary": "**AI/ML + Credit Risk + Fintech Angle:**\n\nAgent-first workflows enable real-time ECL/PD recalibration and autonomous portfolio monitoring, shifting credit risk models from static quarterly snapshots to dynamic adaptive systems—reducing model lag and improving IFRS 9 compliance. For fintech builders, this unlocks autonomous agent architectures (Node.js/Firebase backends) that embed credit decisioning directly into operational workflows, disrupting legacy banking stack dependencies."
+        }
+      ],
+      "generatedAt": "2026-04-08T04:19:22.960Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "The south-east Asian country at the sharp end of the energy crisis",
+          "url": "https://www.ft.com/content/09ef1a28-36a0-49d9-8428-4c79218eb277",
+          "content": "In the Philippines, surging fuel prices have forced a rethink of energy policy and even relations with China",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 08 Apr 2026 02:57:14 GMT",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Philippine energy crisis escalates sovereign and corporate credit stress (LGD/EAD pressures in utilities, transport sectors); policy uncertainty reshapes ASEAN energy/geopolitical risk premia and EM bond valuations. ECL models require scenario recalibration on currency, refinance, and infrastructure default probabilities given fiscal constraints."
+        },
+        {
+          "title": "China’s new trade front with the world — services",
+          "url": "https://www.ft.com/content/0f912a19-761b-4991-a58f-104c3935266d",
+          "content": "The country is rapidly moving up the global ranks as an exporter of knowledge-intensive products",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 07 Apr 2026 23:01:01 GMT",
+          "summary": "**MACRO/MARKETS:** China's shift toward knowledge-intensive services exports signals structural economic rebalancing away from manufacturing; reshapes global services trade dynamics, impacts developed-market professional services margins, and influences EM currency valuations and capital flows.\n\n**CREDIT RISK:** Rising Chinese services competitiveness pressures profit margins and cash generation for bank clients in consulting, software, fintech—tightening PD/LGD assumptions in developed-market SME/corporate portfolios; ECL provisioning models must reflect sectoral margin compression risk.\n\n**AI/ML:** Chinese services export surge driven by AI/automation talent arbitrage—banking analytics teams face talent cost inflation and IP displacement risk; ECL"
+        },
+        {
+          "title": "\n        Bye, bye to the Trump trades\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/07/bye-bye-to-the-trump-trades",
+          "content": "Markets are calling time on many Donald-adjacent bets",
+          "source": "The Economist",
+          "publishedAt": "Tue, 07 Apr 2026 18:35:51 +0000",
+          "summary": "**MACRO/MARKETS:** Post-election Trump trade unwinding—dollar weakness, rate cut repricing, and sector rotation (financials, energy) reversing. Signals market repricing of fiscal stimulus, tariff intensity, and Fed path; watch volatility spillover to EM FX and commodities as positioning unwinds."
+        },
+        {
+          "title": "\n        As Iran’s civilian economy crumbles, its military economy grows stronger\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/06/as-irans-civilian-economy-crumbles-its-military-economy-grows-stronger",
+          "content": "War is splitting the country in two",
+          "source": "The Economist",
+          "publishedAt": "Mon, 06 Apr 2026 19:45:06 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Iran's dual-economy bifurcation—civilian collapse amid sanctions driving capital flight and currency instability—elevates sovereign default risk and amplifies PD/LGD volatility for emerging market exposures; military-industrial consolidation signals prolonged geopolitical friction, increasing macro volatility premia across oil, FX, and EM credit spreads while straining ECL models dependent on stable macro assumptions."
+        },
+        {
+          "title": "Wednesday’s Economic Calendar",
+          "url": "https://seekingalpha.com/news/4572968-wednesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 08 Apr 2026 00:00:00 -0400",
+          "summary": "**MACRO/MARKETS:**\nUS CPI, jobless claims, and retail sales Wednesday anchor Fed rate-path expectations across equities and credit curves; weak data risks risk-off in EM and commodities, while sticky inflation extends duration repricing and widens credit spreads—critical for positioning ahead of FOMC messaging."
+        },
+        {
+          "title": "Aehr targets high side of $45M-$50M FY2026 revenue as effective backlog reaches $50.9M",
+          "url": "https://seekingalpha.com/news/4573152-aehr-targets-high-side-of-45m-50m-fy2026-revenue-as-effective-backlog-reaches-50_9m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 07 Apr 2026 22:26:59 -0400",
+          "summary": "**Aehr's $50.9M backlog and $45-50M FY2026 guidance signals sustained semiconductor equipment demand**, likely reflecting AI/datacenter capex cycles and supply chain normalization—macro relevance for capex timing and cyclical recovery in semiconductor capital goods. **For credit risk: validates demand visibility for equipment vendors; reduces ECL staging risk on receivables if conversion rates hold, supporting PD/LGD calibration for capex-dependent counterparties.**"
+        },
+        {
+          "title": "Global Market: Truce talk sparks global relief rally; sends oil prices sharply lower ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-truce-talk-sparks-global-relief-rally-sends-oil-prices-sharply-lower/articleshow/130101673.cms",
+          "content": "President Trump's announcement of a two-week ceasefire with Iran has significantly eased fears of a Middle East conflict, prompting a positive global market reaction. Oil prices dropped, while bond and equity markets rallied as supply concerns diminished. Investors are cautiously optimistic, awaiting further developments on the Strait of Hormuz's reopening.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 08 Apr 2026 09:21:51 +0530",
+          "summary": "**MACRO/MARKETS:** Trump-Iran ceasefire eases geopolitical premium; oil selloff (~3-5% expected) reduces inflation tail risk, supporting equity rallies and long-duration bond repricing globally. Flight-to-safety reversal favors risk assets; Strait of Hormuz reopening signals normalization of energy supply, benefiting cyclicals and EM currencies.\n\n**CREDIT RISK:** Oil price collapse improves energy sector PD/LGD profiles; lower CDS spreads reduce CVA charges. ECL models must recalibrate macro scenarios—geopolitical stress component now lower, potentially releasing PMA overlays and reducing Stage 2 migrations for oil"
+        },
+        {
+          "title": "Silver rockets Rs 13,500/kg, gold gains Rs 3,700/10 gms as Iran war ceasefire lifts inflation worries. Right time to buy? ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-rockets-rs-13500/kg-gold-gains-rs-3700/10-gms-as-iran-war-ceasefire-lifts-inflation-worries-right-time-to-buy/articleshow/130101632.cms",
+          "content": "Gold and silver prices surged on Wednesday, mirroring global gains as U.S. President Trump's ceasefire with Iran eased inflation fears. MCX silver futures jumped 6%, while gold futures rose 2.4%. International spot gold hit a near three-week high. Experts advise caution amidst volatility, suggesting buying opportunities above key levels.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 08 Apr 2026 09:19:03 +0530",
+          "summary": "**MACRO/MARKETS:** Iran ceasefire deflates near-term inflation expectations, triggering precious metals rally (+6% silver, +2.4% gold) as safe-haven demand normalizes. Geopolitical de-escalation likely to ease commodity hedging costs, benefiting EM currencies and reducing stagflation tail risks—critical for Fed rate trajectory."
+        }
+      ],
+      "generatedAt": "2026-04-08T04:19:41.614Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "AI and the human mind: only one is a black box",
+          "url": "https://www.nature.com/articles/d41586-026-01094-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-07T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & AI/ML:** AI interpretability advances challenge the \"black box\" narrative, reducing regulatory friction and accelerating enterprise adoption across finance, healthcare, and insurance—reshaping valuations of AI infrastructure and model governance vendors. For banking analytics: explainable AI strengthens IFRS 9 ECL model validation, audit trails, and regulatory acceptance of complex PD/LGD frameworks, lowering model risk capital charges."
+        },
+        {
+          "title": "When page-renumbering causes outrage",
+          "url": "https://www.nature.com/articles/d41586-026-00913-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-07T00:00:00.000Z",
+          "summary": "**BREAKTHROUGHS angle:**\nAcademic publisher Hindawi retracted 500+ papers due to citation manipulation masking AI-generated content—exposing systemic peer-review failures and raising questions about research integrity that could undermine investor confidence in biotech/pharma fundamentals and delay clinical validation timelines across emerging therapies."
+        },
+        {
+          "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+          "content": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it revealed surprising new connections between brain cells that were previously unknown. This could open the door to earlier detection and targeted treatment of neurological diseases.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 07 Apr 2026 21:37:16 EDT",
+          "summary": "**MACRO/MARKETS:** Biotech sequencing and neuroimaging infrastructure play accelerates; pharma/neurology subsectors gain tailwinds on drug discovery velocity—watch Illumina, 10x Genomics, precision medicine fund flows.\n\n**CREDIT RISK:** Immaterial near-term; long-cycle pharma R&D timelines limit ECL model refresh triggers; monitor biotech lending portfolios for IP/clinical-stage risk tightening.\n\n**AI/ML:** Sequencing-as-mapping paradigm mirrors fintech shift from rules to learned patterns; implications for feature engineering in unstructured data (regulatory filings, transaction graphs, fraud networks).\n\n**"
+        },
+        {
+          "title": "Scientists discover reversible male birth control that stops sperm production",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260407193844.htm",
+          "content": "Scientists at Cornell University may be closing in on the long-sought “holy grail” of male contraception: a safe, reversible, nonhormonal method that completely halts sperm production. In a breakthrough mouse study, researchers used a compound called JQ1 to temporarily shut down meiosis—the critical process that produces sperm—without causing lasting harm. After treatment stopped, sperm production bounced back, fertility returned, and the animals produced healthy offspring.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 07 Apr 2026 20:52:22 EDT",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Non-hormonal male contraception could reshape $2.5B+ fertility market, boost pharma/biotech valuations, and reshape emerging market demographics—critical for GDP/labor force modeling in Asia-Pacific. Signals biotech momentum; watch sector rotation and healthcare equity flows.\n\n**CREDIT RISK:** Demographic shifts from contraceptive adoption affect consumer lending profiles (age at family formation, mortgage timing), ALM forecasting, and emerging market credit portfolios; minimal ECL model impact absent mass-market adoption <5yr horizon."
+        },
+        {
+          "title": "Astronauts set distance record, revealing the Moon as a place to be explored",
+          "url": "https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/",
+          "content": "\"Humans have probably not evolved to see what we’re seeing. It is truly hard to describe. It is amazing.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 07 Apr 2026 03:50:32 +0000",
+          "summary": "**MACRO/MARKETS:** Lunar exploration milestone signals sustained US space-tech investment cycle, benefiting aerospace/defense capex and supply chains; emerging market rare earth & materials demand rises as space economy expands.\n\n**CREDIT RISK:** Space programs drive long-duration government contracts; heightened refinancing risk and concentration exposure for aerospace-dependent regional banks require ECL model recalibration on sector-specific PD curves.\n\n**AI/ML:** Autonomous navigation & real-time telemetry processing in extreme environments validate ML robustness standards applicable to banking's operational resilience and remote asset monitoring infrastructure.\n\n**BREAKTHROUGHS:** Space tourism and lunar resource extraction represent $100B+ TA"
+        },
+        {
+          "title": "Trump's next budget once again calls for massive cuts to science",
+          "url": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
+          "content": "Congress rejected huge cuts to science in 2026, but Trump is trying again.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 06 Apr 2026 21:40:40 +0000",
+          "summary": "**MACRO/MARKETS:** Renewed R&D cuts signal policy uncertainty and potential drag on US productivity/innovation competitiveness vs. China/EU; negative for high-beta growth/cleantech sectors and emerging-market commodities dependent on US capex cycles.\n\n**CREDIT RISK:** Sustained science funding cuts weaken long-term US GDP growth assumptions embedded in ECL models; may require upward PD/LGD recalibration for energy transition, biotech, and government contractor portfolios under IFRS 9.\n\n**AI/ML:** Budget cuts to NIST, NIH data standardization threaten fintech training datasets and regulatory compliance frameworks; forces private banking analytics teams"
+        }
+      ],
+      "generatedAt": "2026-04-08T04:19:55.735Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Protect Your Shed",
+          "url": "https://dylanbutler.dev/blog/protect-your-shed/",
+          "content": "Article URL: https://dylanbutler.dev/blog/protect-your-shed/\nComments URL: https://news.ycombinator.com/item?id=47684514\nPoints: 24\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 08 Apr 2026 03:03:33 +0000",
+          "summary": "**BUILDER | Technical Relevance**\n\nDIY IoT security project demonstrating edge computing and real-time alerting patterns applicable to fintech mobile architectures. Relevant for building resilient, low-latency notification systems in React Native/Firebase stacks—critical for banking apps requiring sub-second transaction alerts and anomaly detection workflows."
+        },
+        {
+          "title": "LLM scraper bots are overloading acme.com's HTTPS server",
+          "url": "http://acme.com/updates/archive/229.html",
+          "content": "Article URL: http://acme.com/updates/archive/229.html\nComments URL: https://news.ycombinator.com/item?id=47684506\nPoints: 16\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 08 Apr 2026 03:02:56 +0000",
+          "summary": "**BUILDER relevance:** Web scraping infrastructure attacks highlight resilience requirements for API-driven fintech platforms; rate-limiting, bot detection, and DDoS mitigation are critical for Node.js/Firebase backends serving financial data. Demonstrates why production systems need robust traffic management—directly applicable to mobile app backends handling sensitive banking workflows."
+        },
+        {
+          "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+          "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+          "content": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 07 Apr 2026 21:35:02 +0000",
+          "summary": "**MACRO/MARKETS:** Open-source LLM proliferation pressures proprietary AI moat economics; democratized model access reshapes cloud infrastructure TAM and enterprise software licensing paradigms, challenging incumbents' pricing power across sectors.\n\n**CREDIT RISK:** Proliferation of accessible LLMs reduces barrier to entry for fintech disruptors, increasing competitive pressure on traditional banking margins; ECL models face heightened counterparty risk from undercapitalized AI-native lenders lacking regulatory infrastructure.\n\n**AI/ML:** Open-source alternatives to GPT-4 enable cost-effective embedding in banking analytics workflows—PD/LGD modeling, transaction classification, anomaly detection—"
+        },
+        {
+          "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+          "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+          "content": "Eclipse will put some of that money towards incubating, or building startups.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 07 Apr 2026 21:24:54 +0000",
+          "summary": "**MACRO/MARKETS:** Physical AI (robotics, autonomous systems) capital deployment signals venture confidence in post-software automation. $1.3B allocation to incubation-stage assets suggests sector maturation; watch capex intensity, supply-chain automation adoption rates, and emerging-market robotics adoption as macro tailwinds.\n\n**CREDIT RISK:** Early-stage deep-tech incubation creates concentrated PD/LGD risk; Eclipse's build-vs-back model increases sponsor correlation and sponsor default risk. IFRS 9 ECL models must flag illiquidity adjustments and probability-weighted failure scenarios for portfolio concentration exposure.\n\n**AI/ML:** Physical AI augments banking"
+        }
+      ],
+      "generatedAt": "2026-04-08T04:20:03.579Z"
+    }
+  ]
+}
