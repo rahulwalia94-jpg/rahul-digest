@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T04:04:31.085Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Real domestic effects of banks’ cross-border lending",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/real-domestic-effects-of-banks-cross-border-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Apr 2026 14:00:00 +0100",
+          "summary": "**CREDIT RISK angle:** Cross-border lending amplifies domestic credit cycles and systemic risk; directly impacts ECL provisioning models (PD/LGD correlation assumptions, concentration risk) and regulatory capital adequacy, requiring enhanced granularity in counterparty geography mapping and stress-testing frameworks under IFRS 9."
+        },
+        {
+          "title": "Bank of England Weekly Report 8 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/8-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 09 Apr 2026 15:00:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY**\n\nBoE weekly asset/liability data provides real-time inputs for ECL model recalibration—PD/LGD migration and funding cost shifts directly impact IFRS 9 provisions and capital adequacy ratios. Weekly cadence enables dynamic stress-testing loops and early detection of systemic liquidity or credit drift across exposure classes, critical for regulatory reporting cycles and PMA governance."
+        }
+      ],
+      "generatedAt": "2026-04-11T04:03:40.486Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+          "url": "https://huggingface.co/blog/waypoint-1-5",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "summary": "**MACRO/MARKETS:** Waypoint-1.5 democratizes high-fidelity interactive world simulation on consumer hardware, potentially disrupting gaming, metaverse infrastructure, and GPU demand cycles—relevant to semiconductor super-cycles and cloud computing capex trends.\n\n**AI/ML & CREDIT RISK:** Real-time synthetic environment generation could accelerate agent-based modeling for ECL/PD stress testing and portfolio behavior simulation, reducing computational barriers for complex scenario analysis and regulatory model validation.\n\n**BUILDER:** Local GPU inference for 3D world generation unlocks edge-deployed fintech use cases—real-time market microstructure visualization, VR-native trading terminals, or synthetic data generation"
+        },
+        {
+          "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "summary": "**AI/ML + BUILDER angle:**\nMultimodal embeddings enable real-time semantic matching across text/images—critical for fintech document classification (KYC/AML risk screening) and mobile app personalization. Sentence Transformers' reranking efficiency cuts inference latency by 60–80%, making production deployment feasible for edge models on React Native without backend overhead."
+        },
+        {
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+          "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 02 Apr 2026 16:00:49 +0000",
+          "summary": "**AI/ML + BUILDER + CREDIT RISK angle:**\n\nGemma 4's advanced reasoning capabilities enable on-device agentic workflows for real-time transaction monitoring and anomaly detection, reducing latency in ECL/PD model inference while lowering cloud compute costs—critical for scaling open-source alternatives to proprietary banking analytics stacks. Open accessibility democratizes advanced AI for fintech builders, pressuring legacy vendors on pricing while creating regulatory arbitrage risks around model transparency and IFRS 9 validation frameworks."
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+          "summary": "**MACRO/MARKETS:** Voice AI commoditization accelerates cloud infrastructure demand and threatens traditional telecom/contact center capex cycles; reduces friction for EM fintech adoption where voice > text interfaces dominate.\n\n**CREDIT RISK:** Real-time voice precision enables scalable KYC/AML verification and fraud detection without manual review bottlenecks; improves ECL model input quality via faster customer intent classification for default prediction.\n\n**AI/ML:** Sub-100ms latency voice models democratize conversational banking analytics—embedded risk scoring and portfolio advice now viable on-device; displaces traditional NLP pipelines in regulatory reporting automation.\n\n**BREAKTHROUGHS:** Enterprise contact centers"
+        },
+        {
+          "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+          "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
+          "content": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and emerging pathogens have been dashed by vaccine skeptics in…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 10 Apr 2026 14:04:20 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Moderna faces regulatory/political headwinds threatening its pipeline (personalized cancer immunotherapies, flu shots) under vaccine-skeptical administrations; rebranding risk could fragment biotech narrative, pressuring valuations and sector sentiment. Broader implication: politicization of medical nomenclature erodes investor confidence in pharma innovation cycles and emerging market vaccine adoption."
+        },
+        {
+          "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+          "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations  —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series.   A spacecraft has crash-landed on a hostile planet. The only survivors…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 10 Apr 2026 12:10:00 +0000",
+          "summary": "**AI/ML & BREAKTHROUGHS**: Article highlights AI safety concerns around unreleased models deemed \"too dangerous\"—relevant to banking ML governance, model validation frameworks, and regulatory scrutiny of proprietary risk models (PD/LGD). Signals accelerating AI capability/safety gap that will shape fintech adoption timelines and compliance burden for quantitative risk infrastructure."
+        }
+      ],
+      "generatedAt": "2026-04-11T04:03:53.248Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Lebanon and Israel agree to talks in Washington next week",
+          "url": "https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f",
+          "content": "The talks would be the first direct negotiations between the two countries in more than four decades",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 10 Apr 2026 23:57:54 GMT",
+          "summary": "**MACRO/MARKETS:** De-escalation in Middle East reduces geopolitical premium on oil/rates; potential positive for risk-on sentiment and emerging market debt (Lebanon restructuring implications). Shifts regional stability narrative affecting defense spending, energy hedges, and EM credit spreads.\n\n**CREDIT RISK:** Lebanon sovereign/banking sector ECL models require recalibration if conflict risk materially declines; PD assumptions for Lebanese counterparty exposure and regional banking books need reassessment under IFRS 9 stress scenarios."
+        },
+        {
+          "title": "Cyber security stocks fall on worries over Anthropic’s advanced AI tool",
+          "url": "https://www.ft.com/content/f1205b22-ad87-43bb-bc63-da5b69a942ef",
+          "content": "Mythos model was able to detect critical software vulnerabilities that were missed by legacy systems",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 10 Apr 2026 21:02:35 GMT",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nAdvanced AI vulnerability detection threatens cybersecurity vendors' moat, pressuring a defensive sector and signaling accelerating AI-driven productivity disruption across enterprise software—macro risk to IT spending ROI and valuations. Banking analytics implications: if AI automates complex pattern recognition (fraud, operational risk), legacy model dependencies weaken, forcing ECL/PD frameworks to incorporate AI-driven detection efficacy into regulatory capital assumptions."
+        },
+        {
+          "title": "\n        One neat trick to end extreme poverty\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty",
+          "content": "An age-old problem might have a surprisingly simple solution",
+          "source": "The Economist",
+          "publishedAt": "Thu, 09 Apr 2026 10:03:52 +0000",
+          "summary": "**Macro & Markets angle:** Poverty reduction via simplified policy/mechanism could reshape emerging market growth trajectories, labor force participation, and consumer credit demand—materially affecting EM equity valuations and credit spreads. Potential multiplier effects on GDP, tax bases, and financial inclusion across developing economies."
+        },
+        {
+          "title": "\n        Can the secondary market allay private-credit fears?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/09/can-the-secondary-market-allay-private-credit-fears",
+          "content": "In the short run, a bit. In the long run, a lot more",
+          "source": "The Economist",
+          "publishedAt": "Thu, 09 Apr 2026 10:03:33 +0000",
+          "summary": "**MACRO/MARKETS + CREDIT RISK:**\nSecondary private-credit markets improve liquidity pricing and portfolio transparency, reducing tail risks from forced asset fire-sales—material for ECL stage-migration modeling and regulatory capital relief. Long-term maturation enables real-time mark-to-market benchmarking, reshaping PD/LGD calibration assumptions across illiquid-asset portfolios and institutional risk frameworks."
+        },
+        {
+          "title": "Pump prices likely to stay high after posting biggest monthly increase in nearly 60 years",
+          "url": "https://seekingalpha.com/news/4574196-pump-prices-likely-to-stay-high-after-posting-biggest-monthly-increase-in-nearly-60-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 10 Apr 2026 19:44:06 -0400",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nUnprecedented pump price surge signals stagflation risk, pressuring consumer discretionary/transport sectors and widening ECL provisions for auto/logistics portfolios via higher default probability and reduced collateral values. Commodities volatility demands recalibration of PD/LGD models and energy hedging strategies across corporate lending books."
+        },
+        {
+          "title": "Frp holdings outlines 2026 NOI of $37.1M-$37.7M while integrating Altman platform",
+          "url": "https://seekingalpha.com/news/4574197-frp-holdings-outlines-2026-noi-of-37_1m-37_7m-while-integrating-altman-platform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 10 Apr 2026 19:32:34 -0400",
+          "summary": "**MACRO/MARKETS:** Real estate operating fundamentals normalizing post-cycle; NOI guidance signals stabilizing cap rates and refinance windows reopening for commercial property sector, relevant to inflation expectations and Fed policy transmission into asset valuations.\n\n**CREDIT RISK:** Platform integration (Altman) likely enhances operational transparency and cash flow visibility—improves ECL modeling inputs via better cash conversion tracking; supports PD/LGD calibration for REIT exposure in bank portfolios."
+        },
+        {
+          "title": "US stocks today: US stocks end mixed, notches weekly gains as investors parse Middle East negotiations ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-mixed-notches-weekly-gains-as-investors-parse-middle-east-negotiations/articleshow/130179665.cms",
+          "content": "US stocks closed mixed as investors weighed Middle East tensions and Iran peace talks. Inflation rose due to energy shocks, while Dow and S&P slipped but Nasdaq gained on tech strength. Despite volatility, all major indexes posted weekly gains as traders stayed cautious ahead of major earnings and macro risks.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 11 Apr 2026 01:34:59 +0530",
+          "summary": "**MACRO/MARKETS:** Mixed close masks weekly resilience amid geopolitical risk premiums (energy inflation) and sector rotation (tech outperformance). Risk-on positioning ahead of earnings suggests market pricing manageable near-term escalation; monitor crude correlation and duration sensitivity if Middle East escalates."
+        },
+        {
+          "title": "Fed will need to explain why current inflation jump differs from 2022 surge ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-will-need-to-explain-why-current-inflation-jump-differs-from-2022-surge/articleshow/130177869.cms",
+          "content": "US inflation pressures are rising again as CPI shows the fastest monthly increase in nearly four years, driven mainly by energy costs linked to geopolitical tensions. While headline inflation spikes, core inflation remains relatively stable. The Federal Reserve is expected to hold rates steady, balancing oil-driven volatility and growth risks.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 10 Apr 2026 23:45:47 +0530",
+          "summary": "**MACRO/MARKETS:** Energy-driven CPI resurgence tests Fed's hawkish resolve; geopolitical oil shocks create stagflation risk divergent from 2022's demand-pull inflation, pressuring equities and commodities while inverting duration curves—critical for portfolio hedging across EM, energy, and fixed income.\n\n**CREDIT RISK:** Volatile energy inflation elevates PD/LGD recalibration needs in oil & gas, transport, utility sectors under IFRS 9; ECL models must distinguish transitory commodity shocks from structural credit deterioration to avoid over/under-provisioning."
+        }
+      ],
+      "generatedAt": "2026-04-11T04:04:11.015Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
+          "url": "https://www.nature.com/articles/s41586-026-10484-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-10T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nCorrected multi-omic aging study strengthens biotech/pharma thesis on longevity therapeutics and age-stratified healthcare markets; validates investor thesis that immune-aging datasets drive digital health platforms and precision medicine valuations across EMEA/APAC. Technical depth (multi-omics integration) signals competitive moat for genomics platforms and real-world evidence networks used in clinical trial design and drug efficacy modeling."
+        },
+        {
+          "title": "How the butterfly got its name: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01160-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-10T00:00:00.000Z",
+          "summary": "**Not applicable for briefing.** Etymology of butterfly nomenclature lacks macro market relevance, credit risk implications, AI/ML banking disruption angle, investment thesis, or technical builder applicability. Recommend filtering for content intersecting financial markets, risk analytics, technology disruption, or commodities/EM themes."
+        },
+        {
+          "title": "A common nutrient could supercharge cancer treatment",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260410083114.htm",
+          "content": "A common eye-health nutrient, zeaxanthin, may also help the body fight cancer more effectively. Scientists discovered it strengthens T cells and enhances the impact of immunotherapy treatments. Found in everyday vegetables and supplements, it’s safe, accessible, and shows strong potential as a cancer therapy booster. Human trials are the next step.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 10 Apr 2026 09:55:45 EDT",
+          "summary": "**BREAKTHROUGHS:** Zeaxanthin's immunotherapy enhancement could reshape oncology economics—reducing treatment cycles, improving efficacy ratios, and creating tailwinds for biotech/pharma valuations while pressuring legacy cancer drug portfolios. Commodity-linked play: increased vegetable/supplement demand may ripple through agricultural futures and nutraceutical supply chains."
+        },
+        {
+          "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
+          "content": "A breakthrough in microbiome research could change how colorectal cancer is detected—no colonoscopy required. Scientists used AI to map gut bacteria at an unprecedented level of detail, revealing subtle microbial patterns linked to cancer. By analyzing simple stool samples, their method identified 90% of cases, rivaling one of medicine’s most trusted diagnostic tools.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 09 Apr 2026 22:23:41 EDT",
+          "summary": "**MACRO/MARKETS:** Diagnostic disruption in $40B+ healthcare screening market; shifts capital allocation from procedural centers to lab/biotech, pressures hospital revenue models, strengthens preventive care thesis in emerging markets with limited colonoscopy infrastructure.\n\n**CREDIT RISK:** Reduces credit exposure for GI procedure providers (ASCs, hospital networks); material negative on non-diversified diagnostic centers' cash flow forecasts; IFRS 9 ECL models for healthcare lending portfolios require immediate sensitivity testing on procedure volume assumptions.\n\n**AI/ML:** Microbiome pattern-recognition at scale demonstrates high-ROI diagnostic AI deployment; banking analytics teams should model biotech data licensing as"
+        },
+        {
+          "title": "Four astronauts are back home after a daring ride around the Moon",
+          "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+          "content": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 11 Apr 2026 01:21:10 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** NASA's Artemis mission success re-validates US space-industrial capacity, supporting aerospace/defense equity themes and long-duration capital cycles; validates commercial space economy viability (tourism, resources), signaling secular growth in satellite/launch sectors with macro tailwinds from geopolitical competition and tech infrastructure demand."
+        },
+        {
+          "title": "New paper argues history, not mantle plume, powers Yellowstone",
+          "url": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/",
+          "content": "A now-vanished plate under North America may open the crust below Yellowstone.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 10 Apr 2026 20:06:39 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Geological reframing of Yellowstone's mechanics (plate tectonics vs. mantle plume) reduces perceived geothermal volatility risk, potentially lowering long-term catastrophic tail-risk premiums in US equities and energy hedging strategies while strengthening renewable geothermal investment thesis in western regions.\n\n**CREDIT RISK:** Marginal—only relevant if counterparty portfolio concentrates energy/insurance exposure in Yellowstone zone; ECL models with embedded geophysical tail-risk assumptions may require recalibration if scientific consensus shifts on eruption probability."
+        }
+      ],
+      "generatedAt": "2026-04-11T04:04:23.349Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Artemis II safely splashes down",
+          "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+          "content": "Article URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/\nComments URL: https://news.ycombinator.com/item?id=47725583\nPoints: 551\n# Comments: 195",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 11 Apr 2026 00:10:51 +0000",
+          "summary": "**Artemis II splashdown validates NASA's deep-space architecture**, de-risking multi-billion lunar exploration capex and bolstering aerospace/defense sector confidence—relevant for long-duration infrastructure capex themes and supply-chain resilience in emerging space economy. For builders: demonstrates critical systems reliability under extreme conditions; parallels to fintech resilience architecture (redundancy, failsafe design, real-time monitoring)."
+        },
+        {
+          "title": "Italo Calvino: A traveller in a world of uncertainty",
+          "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+          "content": "Article URL: https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty\nComments URL: https://news.ycombinator.com/item?id=47725403\nPoints: 41\n# Comments: 11",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 10 Apr 2026 23:48:07 +0000",
+          "summary": "**Category: Builder & Product**\n\nCalvino's exploration of narrative uncertainty and fragmented realities mirrors modern product design challenges—how systems handle incomplete data, multiple user contexts, and non-linear workflows. Relevant to fintech UX design where user journeys are probabilistic (like ECL scenario modeling) rather than deterministic."
+        },
+        {
+          "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
+          "url": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+          "content": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 11 Apr 2026 00:44:17 +0000",
+          "summary": "**MACRO/MARKETS:** NASA's successful Artemis II recovery validates US space infrastructure resilience and deepens government spending momentum in aerospace/defense—a structural tailwind for defense contractors and industrial supply chains amid geopolitical tensions.\n\n**BREAKTHROUGHS:** Artemis II's flawless execution de-risks commercial space ecosystem (SpaceX, Blue Origin supply chains), reducing tail risk premiums in aerospace equities and signaling robust demand for lunar economy enablers—materials, propulsion, life support systems."
+        },
+        {
+          "title": "How to watch NASA’s Artemis II splash back down to Earth",
+          "url": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+          "content": "NASA's Artemis II mission has traveled farther from Earth than any mission before. Here's how to watch the crew's return landing in the Pacific Ocean.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 10 Apr 2026 21:18:09 +0000",
+          "summary": "**BUILDER**: NASA's Artemis II represents advanced real-time mission telemetry and public engagement systems—relevant to mobile app architectures handling high-frequency data streams, live event broadcasting via React Native/Firebase, and user experience design under extreme operational constraints."
+        }
+      ],
+      "generatedAt": "2026-04-11T04:04:31.085Z"
+    }
+  ]
+}
