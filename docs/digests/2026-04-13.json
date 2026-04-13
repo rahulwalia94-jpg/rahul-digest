@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T04:43:36.256Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Real domestic effects of banks’ cross-border lending",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/real-domestic-effects-of-banks-cross-border-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Apr 2026 14:00:00 +0100",
+          "summary": "**CREDIT RISK & MACRO:** Cross-border lending dynamics materially affect domestic credit cycles and ECL provisioning via concentrated counterparty/geography risk; central banks' capital constraints on international exposures reshape PD/LGD calibration and regulatory arbitrage opportunities across jurisdictions."
+        },
+        {
+          "title": "Bank of England Weekly Report 8 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/8-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 09 Apr 2026 15:00:00 +0100",
+          "summary": "**MACRO/MARKETS:** BoE weekly asset-liability snapshot signals liquidity positioning amid potential rate volatility; watch for shifts in deposit composition and gilt holdings—key indicators of banking sector health and market confidence ahead of inflation data.\n\n**CREDIT RISK:** Weekly liability flows directly inform counterparty risk, funding stress scenarios, and ECL model calibration; deposits/wholesale funding changes warrant PD/LGD refresh if economic assumptions shift materially."
+        }
+      ],
+      "generatedAt": "2026-04-13T04:42:42.140Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+          "url": "https://huggingface.co/blog/waypoint-1-5",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "summary": "**MACRO/MARKETS:** Waypoint-1.5 democratizes high-fidelity interactive 3D world simulation on consumer GPUs, catalyzing enterprise adoption across gaming, digital twins, and metaverse infrastructure—material for semiconductor, cloud, and spatial computing valuations. Reduces capex barriers for real-time simulation workloads previously requiring enterprise servers.\n\n**CREDIT RISK:** Accelerates GPU-intensive workload migration to cloud; impacts capex cycles for financial simulation infrastructure (VaR, stress-testing, ECL scenario modeling). Lower compute costs may compress margins for legacy simulation vendors; monitor RWA/EAD model dependency on vendor lock-in risk."
+        },
+        {
+          "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "summary": "**MACRO/MARKETS:** Multimodal embeddings enable semantic search across diverse financial data streams (earnings calls, regulatory filings, market sentiment), amplifying alpha extraction and real-time macro signal detection—critical as traditional text-only analysis becomes commoditized in equity research and macro overlays.\n\n**CREDIT RISK:** Reranker models improve ECL model discrimination by semantically ranking borrower documentation and behavioral signals; stronger semantic feature engineering enhances PD/LGD calibration accuracy and reduces model drift under regime shifts—IFRS 9 validation gains relevance.\n\n**AI/ML:** Sentence Transformers democratize embedding infrastructure; combined with rerankers, they disrupt"
+        },
+        {
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+          "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 02 Apr 2026 16:00:49 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nGemma 4's advanced reasoning capability threatens to commoditize AI inference costs across financial services, potentially compressing margins in fintech and algo trading while enabling smaller players to deploy sophisticated models—macro implication: acceleration of AI-driven market structure shifts and volatility clustering in less-liquid segments.\n\n**CREDIT RISK & BUILDER ANGLE:**\nOpen models at this capability tier enable rapid prototyping of ECL/PD model monitoring systems and anomaly detection in Node.js/React Native stacks without enterprise licensing, but introduces model governance and reproducibility risks for regulatory validation—critical for IFRS 9 audit trails and"
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+          "summary": "**MACRO/MARKETS:** Gemini 3.1 Flash's lower-latency voice model accelerates enterprise adoption of conversational AI across customer service, trading floors, and wealth management—strengthening Google's competitive moat against OpenAI/Claude in the $50B+ enterprise AI market while benefiting semiconductor/cloud infrastructure plays.\n\n**CREDIT RISK:** Real-time voice interaction accuracy reduces operational risk in loan origination, KYC/AML workflows, and collections; improved precision strengthens model governance frameworks and reduces false-positive ECL triggers tied to borrower communication parsing and sentiment-based PD adjustments.\n\n**AI/ML:** Latency reduction and precision gains directly enable"
+        },
+        {
+          "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+          "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
+          "content": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and emerging pathogens have been dashed by vaccine skeptics in…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 10 Apr 2026 14:04:20 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Political rhetoric around mRNA therapeutics threatens a $50B+ sector's rebranding strategy; regulatory nomenclature shifts create precedent risk for biotech positioning, affecting valuations across vaccine/therapy pipelines amid weakened public health funding. **CREDIT RISK:** Moderna's debt servicing capacity hinges on pipeline velocity; adverse regulatory classification could compress ECL probability-of-default assumptions and trigger covenant reviews, while reputational damage affects equity cushion for leveraged positions."
+        },
+        {
+          "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+          "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations  —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series.   A spacecraft has crash-landed on a hostile planet. The only survivors…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 10 Apr 2026 12:10:00 +0000",
+          "summary": "**Category: AI & ML Research**\n\nVanderMeer's narrative explores AI safety concerns alongside reporting on models deemed too risky for public release—signaling growing regulatory scrutiny of generative AI deployment that mirrors banking's model governance frameworks (IFRS 9 validation, stress-testing). The cautionary framing reflects broader institutional hesitation on uncontrolled AI rollout, relevant to banking analytics infrastructure decisions and third-party model risk assessment protocols."
+        }
+      ],
+      "generatedAt": "2026-04-13T04:42:57.394Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "We are stuck in a currency doom loop",
+          "url": "https://www.ft.com/content/5cf684f1-d198-40aa-8d4c-2e2bbb5873f0",
+          "content": "Without the dollar, bad situations could be made even worse",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 13 Apr 2026 04:00:13 GMT",
+          "summary": "**Macro & Markets:** Persistent USD strength creates a structural trap for EM/commodity exporters—widening twin deficits, capital flight, and debt servicing stress—while weakening dollar alternatives (EUR, CNY) lack sufficient liquidity depth, forcing central banks into pro-cyclical tightening that amplifies recession risk across emerging markets and commodities complex."
+        },
+        {
+          "title": "Who lost the UK bond market?",
+          "url": "https://www.ft.com/content/4b258818-4935-4507-b554-bccc5fd05b66",
+          "content": "The volatility of gilts is a big problem for the country and must be tackled",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 13 Apr 2026 04:00:12 GMT",
+          "summary": "**Macro/Markets Angle:**\nUK gilt volatility reflects loss of institutional anchors (pension LDI unwind, BoE QT) and foreign investor confidence, elevating sovereign funding costs and transmission risk to corporate spreads—material for gilt/equity correlation reassessment and emerging market contagion scenarios."
+        },
+        {
+          "title": "\n        America’s next Fed chair is caught in a vice\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/12/americas-next-fed-chair-is-caught-in-a-vice",
+          "content": "Inflation was heating up even before the war in Iran",
+          "source": "The Economist",
+          "publishedAt": "Sun, 12 Apr 2026 14:43:26 +0000",
+          "summary": "**MACRO/MARKETS:** Fed chair faces conflicting pressures—pre-existing inflation momentum plus geopolitical supply shocks (Iran conflict)—constraining policy flexibility and raising stagflation risk across equities, rates, and commodities. Emerging markets face fx headwinds and central bank credibility erosion if policy response appears reactive rather than preemptive."
+        },
+        {
+          "title": "\n        One neat trick to end extreme poverty\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty",
+          "content": "An age-old problem might have a surprisingly simple solution",
+          "source": "The Economist",
+          "publishedAt": "Thu, 09 Apr 2026 10:03:52 +0000",
+          "summary": "**Macro & Markets angle:**\nPoverty reduction through proven, scalable mechanisms (likely cash transfers, microfinance, or human capital investment) signals demand tailwinds for fintech infrastructure, remittance corridors, and emerging market consumer credit—key drivers of EM equity valuations and emerging market bank credit growth tied to ECL/PD modeling in developing economies."
+        },
+        {
+          "title": "Trump says gas prices could stay high through November midterm elections",
+          "url": "https://seekingalpha.com/news/4574261-trump-says-gas-prices-could-stay-high-through-november-midterm-elections?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 13 Apr 2026 00:36:25 -0400",
+          "summary": "**MACRO/MARKETS:** Sustained energy price floors through Nov threaten stagflation narrative and consumer discretionary demand; constrains Fed's rate-cut timeline, pressuring duration-heavy equities and EM carry trades while benefiting energy/defensive sectors. **CREDIT RISK:** Elevated commodity volatility widens PD/LGD correlation in consumer & SME portfolios; ECL provisioning models require re-calibration for persistent CPI stickiness impacting repayment capacity across unsecured lending segments."
+        },
+        {
+          "title": "Meta builds AI version of Mark Zuckerberg for employees: FT",
+          "url": "https://seekingalpha.com/news/4574255-meta-builds-ai-version-of-mark-zuckerberg-for-employees-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 13 Apr 2026 00:21:09 -0400",
+          "summary": "**MACRO/MARKETS + AI/ML + BUILDER:**\nMeta's AI avatar deployment signals acceleration of digital worker replacement across enterprise, pressuring labor cost structures and wage inflation narratives—critical for EM currency stability and Fed policy expectations. For banking analytics: automation of routine model governance (IFRS 9 validation, ECL recalibration) via generative AI creates both operational leverage and model risk governance gaps; technical parallel to Node.js microservices deployment patterns in production ML pipelines."
+        },
+        {
+          "title": "Rupee plunges 49 paise to 93.32 against US dollar in early trade ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-plunges-49-paise-to-93-32-against-us-dollar-in-early-trade/articleshow/130224703.cms",
+          "content": "The Indian Rupee weakened significantly against the US Dollar today. Higher crude oil prices and global geopolitical tensions are impacting the currency. Investors are withdrawing funds from domestic stock markets. This situation follows a recent drop in the Rupee's value. The US has announced a blockade of Iranian ports, further affecting oil prices and global trade.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 13 Apr 2026 09:44:18 +0530",
+          "summary": "**MACRO/MARKETS:** INR weakness (93.32/USD) reflects structural headwinds—geopolitical oil shocks + capital outflows—signaling EM FX stress; risk-on unwind likely spreads across frontier currencies, pressuring carry trades and EM bond valuations.\n\n**CREDIT RISK:** Rupee depreciation increases ECL provisions for USD-denominated corporate exposures; cross-currency basis widening affects EAD calibration for India-domiciled borrowers with forex hedges; PD/LGD correlations tighten under currency stress scenarios."
+        },
+        {
+          "title": "Why is stock market crashing today? Sensex plunges 1,600 pts, Nifty below 23,600. 7 key factors explained ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-crashing-today-sensex-plunges-1600-pts-nifty-below-23600-7-key-factors-explained/articleshow/130224414.cms",
+          "content": "Indian equity markets experienced a sharp decline on Monday, with the Sensex and Nifty falling nearly 2% each. This downturn was driven by escalating US-Iran tensions, a blockade threat in the Strait of Hormuz, and a subsequent surge in oil prices above $100 per barrel. Global markets also tumbled, signaling a bearish sentiment.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 13 Apr 2026 09:29:42 +0530",
+          "summary": "**MACRO/MARKETS:** Indian equities declined 2% amid US-Iran escalation and oil spike above $100/bbl, reflecting geopolitical risk repricing and energy cost pass-through concerns across emerging markets. Global contagion signals potential margin compression for oil-import-dependent economies and sector rotation into defensives."
+        }
+      ],
+      "generatedAt": "2026-04-13T04:43:13.870Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
+          "url": "https://www.nature.com/articles/s41586-026-10484-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-10T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS:** Aging demographics in developed economies (Japan, Europe, US) drive healthcare spending and biotech sector growth; immune profiling advances support preventive medicine markets and pharmaceutical R&D efficiency, with implications for healthcare equity valuations and emerging market biotech adoption.\n\n**CREDIT RISK:** Multi-omic datasets improve disease stratification and early intervention, reducing downstream healthcare utilization—material for ECL models in health-linked lending, insurance portfolios, and mortality assumptions in pension/longevity derivative books; regulatory frameworks (IFRS 9) may require revaluation of health-linked contingent liabilities.\n\n**AI/ML:** Large-scale immune profiling datasets enable supervised"
+        },
+        {
+          "title": "How the butterfly got its name: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01160-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-10T00:00:00.000Z",
+          "summary": "**Not material for your profile.** Etymology of \"butterfly\" lacks macro market signals, credit risk implications, AI/ML disruption angles, fintech relevance, or tradeable investment thesis. Pure natural history—file for weekend reading only."
+        },
+        {
+          "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
+          "content": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and behavioral innovations, such as formal burial practices and the symbolic use of ochre for decoration. The findings suggest that human connections, rather than isolation, were key drivers of technological and cultural advancements, highlighting the Levant as a crucial crossroads in early human history.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 12 Apr 2026 07:32:05 EDT",
+          "summary": "**BREAKTHROUGHS / MACRO:** Neanderthal-Homo sapiens collaboration rewrites human innovation theory: cultural exchange, not isolation, drove advancement. Parallels modern cross-border R&D ecosystems; validates \"connectivity premium\" thesis for emerging markets and tech hubs as growth catalysts."
+        },
+        {
+          "title": "Two simple eating habits linked to lower weight, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
+          "content": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock. But skipping breakfast as part of intermittent fasting didn’t offer the same advantage—and may even be tied to unhealthy habits.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 11 Apr 2026 09:24:37 EDT",
+          "summary": "**BREAKTHROUGHS / HEALTH SECTOR:**\nCircadian-aligned eating patterns (extended overnight fasts + early breakfast) show measurable BMI reduction, validating a multi-billion dollar chronobiology/wellness market thesis. Consumer health wearables (Apple Watch, Oura, continuous glucose monitors) will commoditize circadian tracking, creating data moats for companies embedding behavioral nudges into health apps—a secular growth vector within preventive care and longevity investing."
+        },
+        {
+          "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
+          "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
+          "content": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 12 Apr 2026 11:17:26 +0000",
+          "summary": "**MACRO/MARKETS:** Geopolitical risk premium on oil persists despite US production records, signaling energy independence alone cannot insulate domestic prices from Middle East supply shocks—bullish for hedging strategies, bearish for stagflation narratives.\n\n**CREDIT RISK:** Energy sector leverage models underestimate tail-risk correlation between production volumes and realized margins; ECL provisioning for downstream/consumer discretionary exposed to commodity volatility requires stress-testing against Iran conflict escalation scenarios."
+        },
+        {
+          "title": "Four astronauts are back home after a daring ride around the Moon",
+          "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+          "content": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 11 Apr 2026 01:21:10 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Artemis mission success de-risks lunar economy thesis (mining, energy, habitation). Validates long-duration spaceflight; unlocks commercial space sector (SpaceX, Axiom, lunar logistics) as emerging growth theme within industrials/materials; geopolitical implications for US-led space dominance vs. China.\n\n**BUILDER:** NASA's real-time mission telemetry, crew health monitoring, and autonomous systems showcase distributed IoT + cloud architecture patterns applicable to fintech resilience ops and high-reliability Node.js/Firebase backends."
+        }
+      ],
+      "generatedAt": "2026-04-13T04:43:27.076Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Haunt, the 70s text adventure game, is now playable on a website",
+          "url": "https://haunt.madebywindmill.com",
+          "content": "Article URL: https://haunt.madebywindmill.com\nComments URL: https://news.ycombinator.com/item?id=47747248\nPoints: 20\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 13 Apr 2026 03:31:02 +0000",
+          "summary": "**BUILDER RELEVANCE:** Retro text-adventure revival demonstrates sustainable indie web game monetization outside traditional app stores—relevant for cross-platform deployment strategies (web vs. native) and Firebase/Node.js backend patterns for interactive narrative products."
+        },
+        {
+          "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+          "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+          "content": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end\nComments URL: https://news.ycombinator.com/item?id=47747017\nPoints: 52\n# Comments: 42",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 13 Apr 2026 02:53:10 +0000",
+          "summary": "**MACRO/MARKETS + BUILDER angle:** Apple's on-device AI strategy (privacy-first, hardware-integrated) creates structural differentiation in consumer tech moat—contrasts with cloud-dependent competitors facing regulatory/margin pressures. Signals shift from centralized inference to edge computing, reshaping capex allocation across semiconductor and cloud infrastructure sectors."
+        },
+        {
+          "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+          "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+          "content": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 12 Apr 2026 21:14:38 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Contradictory U.S. policy signals on AI vendor risk create regulatory uncertainty; banks may face conflicting guidance on model governance, potentially delaying ECL/PD model validation cycles and increasing compliance costs across the sector.\n\n**AI/ML & BUILDER:** Enterprise AI adoption accelerates despite supply-chain concerns, signaling demand for robust model governance frameworks—relevant for fintech platforms integrating LLMs into analytics pipelines and risk engines."
+        },
+        {
+          "title": "Apple reportedly testing four designs for upcoming smart glasses",
+          "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+          "content": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 12 Apr 2026 19:58:42 +0000",
+          "summary": "**MACRO/MARKETS:** Apple's retreat from ambitious AR/VR to pragmatic smart glasses signals consumer adoption headwinds in spatial computing—challenging the \"next computing platform\" thesis that drove $200B+ capex across tech. Weakness here pressures semiconductor cycle and validates macro concerns over AI/AR hype-to-reality gap.\n\n**BUILDER:** Smart glasses represent edge computing opportunity (local processing, battery efficiency) driving demand for lightweight ML models and distributed inference architectures—relevant for fintech apps requiring low-latency auth/biometric verification without cloud dependency."
+        }
+      ],
+      "generatedAt": "2026-04-13T04:43:36.256Z"
+    }
+  ]
+}
