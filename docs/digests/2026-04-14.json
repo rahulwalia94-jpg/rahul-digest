@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T04:29:28.825Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Operational guide to transfer resolution",
+          "url": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-transfer-resolution",
+          "content": "This publication describes how the Bank could execute a transfer resolution, and the operational processes and arrangements that may be involved in this.",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 13 Apr 2026 11:00:00 +0100",
+          "summary": "**Transfer resolution execution guidance reduces systemic contagion risk during bank failures, directly impacting ECL/PD modeling through altered counterparty risk assumptions and regulatory capital requirements; operationally critical for PMA frameworks governing asset/liability transfer mechanics and fire-sale recovery rates.**"
+        },
+        {
+          "title": "Operational guide to bail-in resolution",
+          "url": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-bail-in-resolution",
+          "content": "This publication describes how the Bank could execute a bail-in resolution, and the operational processes and arrangements that may be involved in this.",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 13 Apr 2026 11:00:00 +0100",
+          "summary": "**Credit Risk & Regulatory:**\nBail-in operationalizes loss-absorption hierarchy (equity→subordinated→senior unsecured debt), directly impacting ECL provisioning models, debt pricing, and capital structure optimization. Clarifies resolution mechanics that influence systemic risk assessment, funding cost spreads, and regulatory capital adequacy calculations across G-SIBs."
+        }
+      ],
+      "generatedAt": "2026-04-14T04:28:36.806Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+          "url": "https://huggingface.co/blog/waypoint-1-5",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "summary": "**MACRO/MARKETS:** Waypoint-1.5 democratizes high-fidelity 3D simulation on consumer GPUs, potentially unlocking $50B+ market in digital twins for supply chain, logistics, and industrial optimization—critical for energy transition modeling and emerging market infrastructure planning.\n\n**AI/ML & CREDIT RISK:** Real-time interactive world simulation on commodity hardware enables banks to stress-test complex systems (trade finance networks, emerging market exposure cascades) and build superior agent-based ECL models, reducing PD/LGD estimation bias in tail scenarios.\n\n**BUILDER:** Direct technical leverage for mobile fintech—GPU-accelerated 3D rendering on-device via"
+        },
+        {
+          "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "summary": "**AI/ML + BUILDER:** Multimodal embeddings enable unified semantic search across unstructured financial data (news, earnings calls, PDFs, regulatory filings), reducing manual feature engineering in credit models. Real-time reranking accelerates alternative data integration into IFRS 9 ECL frameworks and improves signal detection for macro surveillance dashboards—directly applicable to Node.js/Firebase fintech pipelines for institutional clients."
+        },
+        {
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+          "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 02 Apr 2026 16:00:49 +0000",
+          "summary": "**AI/ML + BUILDER angle:** Gemma 4's advanced reasoning capabilities lower barriers for deploying sophisticated ML models in credit risk workflows (PD/LGD estimation, ECL calculations) and fintech applications, while open-source accessibility reduces vendor lock-in—critical for cost optimization in banking analytics and mobile app backends."
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+          "summary": "**MACRO/MARKETS:** Gemini 3.1 Flash's ultra-low latency voice AI signals accelerating commoditization of conversational interfaces across consumer/enterprise, potentially reshaping digital banking TAM and contact center economics globally while intensifying competitive pressure on legacy telco/software incumbents.\n\n**CREDIT RISK:** Voice biometric authentication + real-time conversational AI reduces operational friction in KYC/AML workflows; improves ECL model inputs via enhanced customer verification while introducing new model risk (synthetic voice fraud) requiring PMA uplift and regulatory scrutiny under IFRS 9 operational risk frameworks.\n\n**AI/ML:** Precision improvements in low-latency voice"
+        },
+        {
+          "title": "Why opinion on AI is so divided",
+          "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a sprint, after…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 13 Apr 2026 15:48:28 +0000",
+          "summary": "**AI/ML + MACRO:** Stanford's AI Index reveals fragmented consensus on AI capability/risk trajectory, creating macro uncertainty for tech valuations and regulatory policy divergence across jurisdictions—critical for positioning in AI-heavy indices and emerging market tech exposure. **CREDIT/ANALYTICS:** Disagreement on AI maturity complicates PD/LGD calibration in tech lending and model governance frameworks; ECL provisioning for AI-dependent fintechs requires scenario stress-testing against divergent industry adoption curves."
+        },
+        {
+          "title": "Want to understand the current state of AI? Check out these charts.",
+          "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+          "content": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts through some of that noise. …",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 13 Apr 2026 13:00:00 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML:** Stanford's 2026 AI Index provides empirical data to arbitrage narrative volatility—critical for macro positioning on AI capex cycles, sector rotation, and valuation justification. For banking analytics, clarifies whether AI disrupts traditional PD/LGD modeling pipelines and talent arbitrage in quant roles; directionally signals regulatory urgency on model governance and explainability requirements."
+        }
+      ],
+      "generatedAt": "2026-04-14T04:28:49.356Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Singapore tightens monetary policy as energy shock hits Asia",
+          "url": "https://www.ft.com/content/b5a5d5aa-d106-4914-82e7-30a95af22e69",
+          "content": "Trade-dependent nation vulnerable to sharp increases in oil and gas prices",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 14 Apr 2026 01:48:03 GMT",
+          "summary": "**MACRO/MARKETS:** Singapore's monetary tightening amid energy shock signals hawkish pivot across trade-dependent Asian economies; oil/gas pass-through inflation threatens growth-rate-sensitive sectors (shipping, refining, petrochemicals) and tightens regional financial conditions, pressuring EM currency carry trades and corporate refinancing costs.\n\n**CREDIT RISK:** Energy-driven inflation and policy tightening increase default probability (PD) for commodity-exposed SMEs and energy importers; ECL provisions for Singapore-domiciled corporates and regional trade finance portfolios will rise; LGD scenarios worsen if commodity volatility persists and collateral (receivables, inventory) reprices"
+        },
+        {
+          "title": "Will Tata Sons be forced to go public?",
+          "url": "https://www.ft.com/content/7f37e251-5a1f-4ffc-a78c-7ca527951956",
+          "content": "Also in this newsletter, workers protest for better wages",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 14 Apr 2026 01:30:02 GMT",
+          "summary": "**Macro & Markets angle:** Potential Tata Sons IPO would signal India's institutional maturity and unlock $200B+ conglomerate value, reshaping EM capital markets and Sensex composition; labor cost pressures highlight stagflation risk across Asia's manufacturing-dependent economies."
+        },
+        {
+          "title": "\n        The tech jobs bust is real. Don’t blame AI (yet)\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+          "content": "Why technology firms are shedding workers",
+          "source": "The Economist",
+          "publishedAt": "Mon, 13 Apr 2026 13:19:44 +0000",
+          "summary": "**Tech sector layoffs reflect post-pandemic hiring correction and margin pressure rather than AI displacement, signaling weakening demand elasticity and rising structural unemployment risks. Credit implications: elevated default probability in tech-dependent supply chains; ECL models require updated PD curves for cyclical vs. structural job loss differentiation, affecting counterparty risk assessments and loan loss provisions.**"
+        },
+        {
+          "title": "\n        America’s next Fed chair is caught in a vice\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/12/americas-next-fed-chair-is-caught-in-a-vice",
+          "content": "Inflation was heating up even before the war in Iran",
+          "source": "The Economist",
+          "publishedAt": "Sun, 12 Apr 2026 14:43:26 +0000",
+          "summary": "**Macro/Markets**: Incoming Fed chair inherits stagflationary pressures—pre-existing inflation now compounded by geopolitical oil shocks—forcing hawkish stance that risks growth, complicating rate path and yield curve dynamics across equities, FX, and emerging markets exposure."
+        },
+        {
+          "title": "China’s March trade surplus misses estimates by 50% amid stagnant export growth",
+          "url": "https://seekingalpha.com/news/4574590-chinas-march-trade-surplus-misses-estimates-by-50-amid-stagnant-export-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 14 Apr 2026 00:22:30 -0400",
+          "summary": "**MACRO/MARKETS:** China's weak export growth signals demand softness in developed markets and risks deflationary pressure on global commodity prices; yuan depreciation expectations could trigger EM currency volatility and cross-border capital flow monitoring. **CREDIT RISK:** Slower China export momentum pressures corporates in trade-exposed sectors (shipping, materials, autos), widening PD assumptions in ECL models; regulatory scrutiny on China-linked counterparty concentration and supply-chain lending will intensify for IFRS 9 provisioning reviews."
+        },
+        {
+          "title": "Trump nominates PIMCO executive Erin Browne to lead international affairs at US Treasury",
+          "url": "https://seekingalpha.com/news/4574591-trump-nominates-pimco-executive-to-lead-international-affairs-at-us-treasury?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 14 Apr 2026 00:16:47 -0400",
+          "summary": "**MACRO/MARKETS:** Browne's appointment signals potential shifts in US Treasury's international economic policy, particularly on currency, trade, and multilateral engagement—critical for FX volatility, EM asset repricing, and capital flow dynamics. Her PIMCO background suggests bond-market-aware treasury leadership, relevant to yield curve positioning and sovereign debt strategy."
+        },
+        {
+          "title": "GIFT Nifty jumps 200 pts amid renewed hopes for Iran-US peace talks. What to expect? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-200-pts-amid-renewed-hopes-for-iran-us-peace-talks-what-to-expect/articleshow/130250752.cms",
+          "content": "Dalal Street may witness a relief rally on Wednesday as GIFT Nifty surged nearly 200 points following reports of continued US-Iran peace talks. Despite initial plunges, global markets rallied as oil prices cooled and hopes for a diplomatic resolution emerged, with Wall Street and Asian markets showing gains.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 14 Apr 2026 09:40:45 +0530",
+          "summary": "**MACRO/MARKETS:** Iran-US diplomatic progress eases geopolitical risk premium, cooling crude volatility and supporting risk-on sentiment across equities. Key for EM exposure and energy sector hedging; watch for sustained momentum if talks advance—oil price stability strengthens margin profiles across financials and corporates.\n\n**CREDIT RISK (IFRS 9/ECL):** De-escalation reduces tail-risk scenarios in PD models and improves forward-looking economic assumptions; however, volatile oil creates measurement uncertainty in energy sector LGD/EAD. Flag for PMA reviews if geopolitical shocks persist—stagflation scenarios may need recalibration."
+        },
+        {
+          "title": "15 stocks that Mukul Agrawal, Ashish Kacholia, RK Damani and others bought during March-quarter crash ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/15-stocks-that-mukul-agrawal-ashish-kacholia-rk-damani-and-others-bought-during-march-quarter-crash/slideshow/130250720.cms",
+          "content": "The sharp fall in indices created pockets of opportunity in niche and under-owned stocks.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 14 Apr 2026 09:22:12 +0530",
+          "summary": "**MACRO/MARKETS:** Q1 volatility exposed significant valuation dislocations across micro/mid-cap segments, signaling market inefficiency in illiquid securities and potential mean-reversion plays; institutional accumulation patterns suggest selective sector rotation away from mega-cap concentration."
+        }
+      ],
+      "generatedAt": "2026-04-14T04:29:05.099Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
+          "url": "https://www.nature.com/articles/d41586-026-01211-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-13T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Biosecurity breach elevates tail-risk premiums on healthcare/pharma equities and increases regulatory capital requirements for banks with biotech/healthcare exposure under IFRS 9 stress scenarios; potential PD uplift in leveraged healthcare lending if public health response triggers demand shock. **BREAKTHROUGHS:** Lab escape incidents catalyze biosafety compliance capex and insurance claims volatility—monitors emerging-market contagion risk affecting emerging-market bond valuations and commodity hedging strategies."
+        },
+        {
+          "title": "14 things our PhD supervisors got right and why it mattered",
+          "url": "https://www.nature.com/articles/d41586-026-00853-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-13T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BUILDER RELEVANCE:**\nAcademic rigor in mentorship—emphasizing reproducibility, documentation, and long-term thinking—mirrors best practices in quant finance and production systems; these principles underpin robust model governance, ML ops pipelines, and institutional-grade fintech architecture where oversight gaps compound into systemic risk."
+        },
+        {
+          "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+          "content": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system – based on the novel concept of ‘giant superatoms’. This breakthrough enables quantum information to be protected, controlled, and distributed in new ways and could be a key step towards building quantum computers at scale.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 13 Apr 2026 08:38:46 EDT",
+          "summary": "**BREAKTHROUGHS:** Chalmers' giant superatom theory addresses quantum computing's decoherence problem, potentially unlocking scalable quantum processors that could disrupt cryptography, drug discovery, and optimization—sectors worth $10B+ by 2035. First-mover quantum advantage in hardware/software could reshape competitive moats across tech and pharma.\n\n**MACRO/MARKETS:** Quantum computing breakthroughs accelerate semiconductor capex cycles and shift valuations toward quantum-capable compute platforms; early commercialization (5–10yr horizon) favors semiconductor, cloud, and defense-tech sectors while threatening current encryption-dependent fintech/cybersecurity models."
+        },
+        {
+          "title": "New toothpaste stops gum disease without killing good bacteria",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
+          "content": "Scientists have developed a new way to fight gum disease without wiping out the mouth’s helpful bacteria—a major shift from traditional treatments. Instead of killing everything, this targeted approach blocks only the harmful microbes that drive periodontitis, allowing beneficial bacteria to thrive and restore balance naturally.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 13 Apr 2026 10:02:46 EDT",
+          "summary": "**MACRO/MARKETS:** Selective-pathogen oral care represents a $50B+ addressable market shift toward precision medicine. If validated, drives pharma/consumer staples consolidation; signals investor appetite for microbiome-targeted therapeutics across GI, respiratory sectors.\n\n**CREDIT RISK:** Immaterial to ECL/PD modeling; dental care utilities remain stable. No regulatory ECB/PRA stress implications unless linked to pharma counterparty concentration.\n\n**AI/ML:** Bacterial phenotyping via sequencing data + predictive micro-targeting mirrors banking's move from macro credit scores to granular behavioral segmentation—real-time microbiome monitoring could feed wearable"
+        },
+        {
+          "title": "To teach in the time of ChatGPT is to know pain",
+          "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+          "content": "LLM use is the most demoralizing problem I’ve faced as a college instructor.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 13 Apr 2026 11:00:32 +0000",
+          "summary": "**AI/ML + BREAKTHROUGHS angle:**\nLLM proliferation is creating structural headwinds for knowledge-work credentialing and assessment—forcing institutions to rethink curriculum and evaluation, with downstream implications for talent pipeline quality in technical fields (analytics, finance, engineering). This disruption mirrors prior educational upheaval cycles and signals accelerating skill obsolescence risk across banking's analytical workforce."
+        },
+        {
+          "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
+          "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
+          "content": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 12 Apr 2026 11:17:26 +0000",
+          "summary": "**MACRO/MARKETS:** Geopolitical energy shocks override domestic production gains, exposing structural US price-setting limits. Oil volatility pressures inflation forecasts, threatening Fed policy pivots and equity valuations across rate-sensitive sectors.\n\n**CREDIT RISK:** Energy sector earnings volatility complicates PD/LGD calibration; downstream corporates face margin compression, requiring ECL reserve reassessment under IFRS 9 stress scenarios.\n\n**BREAKTHROUGHS:** Supply-chain resilience becomes differentiated moat; renewable energy capex accelerates as hedge against geopolitical oil risk, reshaping long-term energy infrastructure valuations."
+        }
+      ],
+      "generatedAt": "2026-04-14T04:29:20.283Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
+          "url": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+          "content": "Article URL: https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/\nComments URL: https://news.ycombinator.com/item?id=47760925\nPoints: 16\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 14 Apr 2026 03:32:16 +0000",
+          "summary": "**Builder & Product relevance:** A16Z-backed phone farm breach highlights critical infrastructure vulnerabilities in mobile testing platforms that developers and fintech apps rely on—supply chain security risk for CI/CD pipelines and app deployment ecosystems. Underscores need for hardened authentication, secrets management, and infrastructure isolation in dev tooling, particularly relevant for regulated financial app development."
+        },
+        {
+          "title": "A new spam policy for \"back button hijacking\"",
+          "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+          "content": "Article URL: https://developers.google.com/search/blog/2026/04/back-button-hijacking\nComments URL: https://news.ycombinator.com/item?id=47760764\nPoints: 55\n# Comments: 20",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 14 Apr 2026 03:06:27 +0000",
+          "summary": "**BUILDER relevance:** Google's anti-hijacking policy tightens UX constraints for web apps, forcing React Native/web hybrid developers to audit navigation handling and state management—critical for fintech mobile apps handling sensitive banking flows where back-button hijacking could expose cached PII or transaction states."
+        },
+        {
+          "title": "An Amazon warehouse worker died on the job at Oregon facility",
+          "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+          "content": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 14 Apr 2026 00:26:18 +0000",
+          "summary": "**MACRO/MARKETS:** Amazon warehouse fatality raises operational/ESG risk premium for logistics/e-commerce sector; potential cost inflation from safety compliance could pressure margins across retail/fulfillment services amid already-tight labor markets.\n\n**CREDIT RISK:** Workplace fatality litigation exposure increases contingent liability estimates; may trigger PD/LGD adjustments for Amazon credit facility covenants and amplify ESG-linked covenant thresholds under IFRS 9 provisioning frameworks.\n\n**BUILDER:** Exposure opportunity—automated warehouse monitoring apps using IoT/computer vision to detect safety hazards in real-time; B2B SaaS model targeting logistics operators seeking proactive compliance"
+        },
+        {
+          "title": "OpenAI has bought AI personal finance startup Hiro",
+          "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+          "content": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 14 Apr 2026 00:23:33 +0000",
+          "summary": "**MACRO/MARKETS:** OpenAI's Hiro acquisition signals aggressive fintech disruption of wealth management and financial advisory—a $300B+ advisory market now contestable by LLMs, pressuring traditional robo-advisors and advisory fees across developed markets while exposing EM currency/credit risks to algorithmic allocation shifts.\n\n**CREDIT RISK:** ChatGPT-native financial planning increases unregulated credit counseling and leverage recommendations to retail; regulatory arbitrage gap widens (no ECL provisioning for AI advice), creating systemic tail risk if correlated retail over-leverage triggers credit events across bank portfolios.\n\n**AI/ML:** Embedded financial planning transforms ChatGP"
+        }
+      ],
+      "generatedAt": "2026-04-14T04:29:28.825Z"
+    }
+  ]
+}
