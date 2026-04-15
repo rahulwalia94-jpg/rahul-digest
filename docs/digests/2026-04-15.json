@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-15T04:29:25.674Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Operational guide to transfer resolution",
+          "url": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-transfer-resolution",
+          "content": "This publication describes how the Bank could execute a transfer resolution, and the operational processes and arrangements that may be involved in this.",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 13 Apr 2026 11:00:00 +0100",
+          "summary": "**Credit Risk & Regulatory angle:**\nTransfer resolution frameworks operationalize systemic risk containment by enabling selective asset/liability transfers without full liquidation, reducing contagion and preserving going-concern valuations—critical for IFRS 9 Stage classification stability and ECL model recalibration post-resolution event. Operational playbooks directly inform contingency PD/LGD assumptions and recovery rate modeling for stressed portfolios."
+        },
+        {
+          "title": "Operational guide to bail-in resolution",
+          "url": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-bail-in-resolution",
+          "content": "This publication describes how the Bank could execute a bail-in resolution, and the operational processes and arrangements that may be involved in this.",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 13 Apr 2026 11:00:00 +0100",
+          "summary": "**CREDIT RISK angle:** Bail-in frameworks directly impact ECL provisioning under IFRS 9—subordinated debt reclassification and creditor loss-absorption mechanics alter EAD calculations and senior/junior tranche recovery assumptions, requiring PD/LGD recalibration across resolution scenarios.\n\n**MACRO/MARKETS angle:** Bail-in operational readiness signals systemic resilience post-2008; clarity on haircut sequencing and write-down triggers reduces tail-risk premia on bank capital instruments, reshaping subordinated debt valuations and CDS spreads across G-SIBs."
+        }
+      ],
+      "generatedAt": "2026-04-15T04:28:35.989Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+          "url": "https://huggingface.co/blog/waypoint-1-5",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "summary": "**MACRO/MARKETS:** Waypoint-1.5 democratizes high-fidelity simulation inference across consumer GPUs, enabling real-time digital twin economics and metaverse infrastructure at scale—material for gaming, enterprise software, and AI chip demand cycles.\n\n**AI/ML (Banking Analytics):** Efficient world models on commodity hardware reduce compute barriers for generative synthetic data, scenario simulation, and stress-testing infrastructure—directly applicable to ECL modeling, PD/LGD calibration, and regulatory backtesting workflows."
+        },
+        {
+          "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nMultimodal embeddings enable real-time cross-asset sentiment fusion (equity/FX/commodities via news, earnings calls, ESG data), enhancing alpha generation and volatility forecasting across EM and energy sectors. For banking analytics: reranker models accelerate ECL/PD calibration by intelligently filtering loan narrative risk factors at scale, reducing compute cost and improving regulatory model explainability."
+        },
+        {
+          "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+          "content": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 13 Apr 2026 15:52:13 +0000",
+          "summary": "**MACRO/MARKETS:** Robotics automation acceleration could reshape labor economics and capex cycles across manufacturing/logistics, pressuring wage inflation narratives while boosting industrial capex demand—material for sector rotation and EM supply chain resilience.\n\n**CREDIT RISK:** Enhanced embodied reasoning in autonomous systems reduces deployment failure rates, improving collateral recovery in robotics-heavy sectors (automotive, warehousing); IFRS 9 PD/LGD calibrations may improve as operational risk decreases for these borrowers.\n\n**AI/ML:** Real-time spatial reasoning at edge (vs. cloud inference) cuts latency—directly applicable to mobile banking fraud detection and transaction approval workflows; embodied"
+        },
+        {
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+          "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 02 Apr 2026 16:00:49 +0000",
+          "summary": "**AI/ML + BUILDER relevance:** Gemma 4's advanced reasoning capabilities lower barriers for deploying sophisticated ML models in-house—critical for banks building proprietary PD/LGD models and agentic systems. Open-source accessibility reduces vendor lock-in costs while enabling rapid prototyping of fintech applications (Node.js/React Native backends), though governance frameworks for model validation in regulated ECL workflows remain unsolved."
+        },
+        {
+          "title": "Redefining the future of software engineering",
+          "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+          "content": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative development and from batch to continuous delivery. Now, a third such…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 14 Apr 2026 18:00:00 +0000",
+          "summary": "**AI/ML + BUILDER:** AI-driven code generation fundamentally reshapes software engineering productivity and talent economics; for banking analytics teams, this accelerates model development cycles but demands governance frameworks around validation, auditability (critical for IFRS 9 ECL implementations), and technical debt—key considerations for both enterprise adoption and indie fintech builders scaling with smaller teams."
+        },
+        {
+          "title": "The Download: the state of AI, and protecting bears with drones",
+          "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts.  If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 14 Apr 2026 12:10:00 +0000",
+          "summary": "**AI & ML / MACRO-MARKETS / CREDIT RISK:**\n\nAI sentiment whiplash reflects genuine structural uncertainty—gold-rush narratives mask unresolved scaling economics and regulatory risk, creating potential drawdowns in high-valuation AI infrastructure plays. For banking: ECL model validation frameworks must stress-test against AI-driven market dislocations; PD/LGD recalibration may be required if tech sector volatility persists or AI capex cycles compress credit availability."
+        }
+      ],
+      "generatedAt": "2026-04-15T04:28:48.367Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "BlackRock profits jump as it draws in $130bn ",
+          "url": "https://www.ft.com/content/418c5be3-7292-4a49-bfbe-ca570a436cc4",
+          "content": "Earnings for first quarter underline asset manager’s push into investment products that generate higher fees",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 14 Apr 2026 22:52:48 GMT",
+          "summary": "**MACRO/MARKETS:** BlackRock's $130bn net inflows and higher-margin product mix signal sustained institutional demand despite rate volatility, validating mega-cap asset manager consolidation and fee compression resistance in alternatives/ETFs—bullish for financial sector earnings but signals retail capital rotation into passive indexing. **CREDIT RISK:** Rising AUM under management increases systemic leverage exposure in ECL models; correlation assumptions in PD/LGD stress scenarios must account for procyclical fund flows during credit downturns and potential margin compression feedback loops affecting sponsor solvency."
+        },
+        {
+          "title": "The ‘deep fried’ stocks more expensive than Nvidia",
+          "url": "https://www.ft.com/content/19778ef0-a271-4fb5-98c1-259b9ad948fe",
+          "content": "Indonesian regulators investigating ‘broad range of potential market misconduct’",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 14 Apr 2026 21:00:03 GMT",
+          "summary": "**MACRO/MARKETS:** Indonesian market integrity probe signals emerging-market regulatory risk escalation, potentially triggering capital outflows from SE Asian equities and widening EM credit spreads. Elevated misconduct risk may force repricing of illiquid small-cap valuations globally, creating correlation spillover to frontier-market ETFs and emerging-market bond funds."
+        },
+        {
+          "title": "\n        How to build a portfolio when bonds fail to buffer stocks\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/14/how-to-build-a-portfolio-when-bonds-fail-to-buffer-stocks",
+          "content": "The classic hedge has fallen apart, but don’t dump it just yet",
+          "source": "The Economist",
+          "publishedAt": "Tue, 14 Apr 2026 17:12:12 +0000",
+          "summary": "**Summary:**\n\nTraditional 60/40 equity-bond portfolios face structural headwinds as synchronized rate cycles erode negative correlation; investors must pivot toward diversifiers (commodities, alternatives, volatility strategies) while acknowledging duration risk impacts IFRS 9 fair-value reserves and ECL models through asset-liability management repricing cycles."
+        },
+        {
+          "title": "\n        The tech jobs bust is real. Don’t blame AI (yet)\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+          "content": "Why technology firms are shedding workers",
+          "source": "The Economist",
+          "publishedAt": "Mon, 13 Apr 2026 13:19:44 +0000",
+          "summary": "**Tech layoffs reflect cyclical overexpansion (2020–22 hiring) and margin compression from higher rates, not structural AI displacement yet.** Credit risk: elevated default probability in VC-backed cohorts; ECL models must decompose AI-driven automation (secular) from macro headwinds (cyclical) to avoid procyclical provisions; banking tech vendors face revenue volatility impacting counterparty risk assessments."
+        },
+        {
+          "title": "Spyre Therapeutics prices upsized $403M stock deal; gross proceeds exceed initial $300M goal",
+          "url": "https://seekingalpha.com/news/4575038-spyre-therapeutics-prices-upsized-403m-stock-deal-gross-proceeds-exceed-initial-300m-goal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 15 Apr 2026 00:26:02 -0400",
+          "summary": "**MACRO/MARKETS:** Biotech capital-raising momentum signals investor appetite for growth-stage therapeutics despite rate environment; upsized offerings indicate sector confidence but also highlight equity dilution risks in higher-for-longer rate regime.\n\n**CREDIT RISK:** Increased equity issuance reduces leverage ratios and improves debt servicing capacity for biotech issuers, lowering PD assumptions in ECL models; however, dilution pressures future cash generation, warranting upward EAD adjustments for related debt facilities."
+        },
+        {
+          "title": "Constellation Software’s Vela to acquire majority interest in Derbysoft Holdings",
+          "url": "https://seekingalpha.com/news/4575027-constellation-softwares-vela-to-acquire-majority-interest-in-derbysoft-holdings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 15 Apr 2026 00:22:02 -0400",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nConstellation Software's Vela (hospitality tech) acquiring Derbysoft signals consolidation in travel-tech SaaS—a bellwether for M&A velocity in software-as-a-service amid rate stability. Vertical software roll-ups remain resilient despite macro headwinds, reinforcing tech-to-discretionary rotation thesis in post-peak-rates cycle."
+        },
+        {
+          "title": "Bullish on Adani group? GQG raises stakes in 3 stocks even as FIIs cut back in market crash ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/bullish-on-adani-group-gqg-raises-stakes-in-3-stocks-even-as-fiis-cut-back-in-market-crash/articleshow/130272459.cms",
+          "content": "GQG Partners, long bullish on the Adani group, modestly raised stakes in key companies during the March quarter despite mixed stock performance. It increased holdings in Adani Energy Solutions, Adani Green and Adani Enterprises. In contrast, foreign institutional investors and LIC largely maintained or reduced their exposure, reflecting a more cautious stance on the group’s risk-reward outlook.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 15 Apr 2026 09:23:17 +0530",
+          "summary": "**MACRO/MARKETS:** Divergence in FII behavior during equity volatility signals bifurcated risk appetite—mega-cap conglomerates attracting specialist allocators while generalist flows retreat. Reflects broader EM rotation dynamics and concentrated bet-taking replacing diversified positioning in Indian large-caps."
+        },
+        {
+          "title": "Hyundai Motor among 5 F&amp;O stocks with sharp rise in futures open interest ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hyundai-motor-among-5-fo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/130272416.cms",
+          "content": "A significant rise in futures open interest indicates a substantial increase in the number of active, unexpired contracts in a given security.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 15 Apr 2026 09:15:15 +0530",
+          "summary": "**Macro & Markets Angle:**\nRising F&O open interest in auto stocks signals retail/institutional repositioning ahead of earnings or sector rotation; watch for volatility spillover into broader emerging market indices and auto supply-chain exposure, particularly Korea's growth trajectory amid EV transition uncertainty and commodity cost pressures."
+        }
+      ],
+      "generatedAt": "2026-04-15T04:29:04.475Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Imaging interface-controlled bulk oxygen spillover",
+          "url": "https://www.nature.com/articles/s41586-026-10324-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-15T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Oxygen spillover catalysis advances could disrupt hydrogen economy scaling (fuel cells, green H₂ production), benefiting energy transition plays and reducing capex for clean hydrogen infrastructure—material for commodity cycles and energy equity valuations.\n\n**CREDIT RISK:** Enhanced catalytic efficiency may accelerate hydrogen/fuel cell commercialization timelines, improving credit metrics for green energy borrowers and reducing technology risk premiums in ECL models for renewable energy/cleantech portfolios."
+        },
+        {
+          "title": "Dozens of AI disease-prediction models were trained on dubious data",
+          "url": "https://www.nature.com/articles/d41586-026-00697-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-15T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** AI disease-prediction model degradation signals systemic data governance risk across healthcare, pharma, and insurtech sectors—potential regulatory clashdown on model validation standards (IFRS 9 precedent) and repricing of health-linked credit exposures. **AI/ML & BREAKTHROUGHS:** Banking analytics must tighten training-data provenance audits; healthcare fintech (lending, insurance) faces model recalibration cycles—opportunity for vendors offering synthetic/validated datasets and explainability frameworks."
+        },
+        {
+          "title": "Blocking a single protein supercharges the immune system against cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260414090114.htm",
+          "content": "Scientists have discovered a way to supercharge the immune system’s T cells by blocking a protein called Ant2, forcing the cells to rewire how they generate energy. This shift makes them more powerful, resilient, and effective at finding and destroying cancer cells.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 14 Apr 2026 09:08:30 EDT",
+          "summary": "**MACRO/MARKETS:** Ant2 inhibition validates immunotherapy as durable growth vector; biotech sector (CRSP, XBI) re-rates higher if phase trials confirm; oncology spending shifts upstream to prevention, impacting pharma margins globally and emerging market healthcare capex.\n\n**CREDIT RISK:** Biotech loan books face valuation risk if Ant2 becomes standard-of-care; IFRS 9 Stage 2 migration likely for leveraged biotech credits; ECL models must incorporate clinical trial binary outcomes and probability-weighted cash flow scenarios into covenant monitoring frameworks.\n\n**AI/ML:** T-cell metabolic rewiring generates novel biomarker datasets"
+        },
+        {
+          "title": "Scientists just recreated a rare cosmic reaction never seen before",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
+          "content": "A breakthrough experiment has shed new light on one of astrophysics’ biggest mysteries: the origin of rare proton-rich elements. For the first time, scientists directly measured a key reaction that creates selenium-74 using a rare isotope beam. The results sharpen models of how these elements form in supernova explosions, cutting uncertainty in half. But the findings also reveal gaps in current theories, hinting that the story isn’t complete yet.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 14 Apr 2026 10:06:43 EDT",
+          "summary": "**BREAKTHROUGHS:** Rare isotope beam experiments refining supernova nucleosynthesis models have marginal near-term market impact but validate scientific instrumentation demand (lab equipment, detector tech). Long-horizon play: advances in nuclear physics accelerate fusion energy commercialization timelines, a macro tail-risk hedge against energy scarcity in decarbonization scenarios."
+        },
+        {
+          "title": "Physicists think they've resolved the proton size puzzle",
+          "url": "https://arstechnica.com/science/2026/04/physicists-think-theyve-resolved-the-proton-size-puzzle/",
+          "content": "\"We believe this is the final nail in the coffin of the proton radius puzzle.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 14 Apr 2026 16:52:34 +0000",
+          "summary": "**BREAKTHROUGHS:** Proton radius measurement consensus eliminates a decade-long experimental anomaly, validating fundamental physics models. Indirectly strengthens confidence in precision measurement methodologies across particle physics—relevant for quantum computing R&D valuations and next-gen sensor tech sectors, though no direct market-moving implications for equities or credit risk."
+        },
+        {
+          "title": "NASA chose the right crew to launch a new era of human space exploration",
+          "url": "https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/",
+          "content": "\"It’s a special thing to be human, and it’s a special thing to be on planet Earth.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 14 Apr 2026 16:10:17 +0000",
+          "summary": "**MACRO/MARKETS:** NASA's crewed spaceflight restart signals renewed US space-industrial momentum, supporting aerospace/defense sector valuations and long-duration capex cycles, while signaling geopolitical competition with China in space exploration—material for defense ETFs and emerging space economy plays.\n\n**BREAKTHROUGHS:** Human spaceflight capability recovery de-risks commercial space ventures (launch services, orbital logistics, tourism), potentially accelerating private sector valuations in LEO infrastructure and reducing single-supplier bottleneck risk for satellite constellation deployments."
+        }
+      ],
+      "generatedAt": "2026-04-15T04:29:17.112Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Dependency cooldowns turn you into a free-rider",
+          "url": "https://calpaterson.com/deps.html",
+          "content": "Article URL: https://calpaterson.com/deps.html\nComments URL: https://news.ycombinator.com/item?id=47773812\nPoints: 22\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 15 Apr 2026 02:03:12 +0000",
+          "summary": "**BUILDER & PRODUCT — Technical Debt & Dependency Management**\n\nDependency cooldowns create moral hazard in software ecosystems: maintainers delay patches under artificial rate limits, shifting security/stability risk to downstream consumers. Directly relevant to fintech infrastructure—poorly managed dependency chains in trading systems, payment rails, or risk models can cascade failures similar to liquidity contagion in markets."
+        },
+        {
+          "title": "Not all elementary functions can be expressed with exp-minus-log",
+          "url": "https://www.stylewarning.com/posts/not-all-elementary/",
+          "content": "Article URL: https://www.stylewarning.com/posts/not-all-elementary/\nComments URL: https://news.ycombinator.com/item?id=47773788\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 15 Apr 2026 01:59:18 +0000",
+          "summary": "**BUILDER/TECHNICAL:** Mathematical proof that elementary functions cannot always be composed from exp-log operations challenges assumptions in numerical libraries and algorithmic optimization—relevant to precision-critical fintech calculations (derivatives pricing, ECL modeling) where function composition efficiency directly impacts computational cost and model stability in production systems."
+        },
+        {
+          "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+          "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+          "content": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 15 Apr 2026 02:31:04 +0000",
+          "summary": "**MACRO/MARKETS:** AI valuation compression signals potential peak in generative AI hype cycle; Anthropic's relative discount suggests investor skepticism on OpenAI's $1.2T IPO assumptions, risking broader SaaS/tech multiple contraction if enterprise adoption disappoints.\n\n**CREDIT RISK / IFRS 9:** Rising AI startup valuations increase counterparty concentration risk for enterprise clients; ECL models must stress-test AI capex-heavy businesses for revenue sustainability given uncertain monetization paths and competitive intensity.\n\n**AI/ML / BANKING ANALYTICS:** Anthropic's valuation traction validates open-source/alternative LLM viability; banks should divers"
+        },
+        {
+          "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+          "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+          "content": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 14 Apr 2026 21:33:38 +0000",
+          "summary": "**MACRO/MARKETS:** AI infrastructure capex boom accelerating—Fluidstack's $18B valuation and $50B Anthropic deal signal sustained compute demand, inflationary pressure on capex cycles, and consolidation in edge/distributed compute. Raises questions on debt/equity financing sustainability across AI stack as rates remain elevated.\n\n**CREDIT RISK:** Rising concentration risk in AI infrastructure lending; ECL models must capture tech-capex cyclicality and customer concentration (Anthropic dependency). PD/LGD assumptions for high-growth, unproven operators need stress-testing against demand cliff scenarios and capex write-down risk.\n\n**AI/ML:** Real-time"
+        }
+      ],
+      "generatedAt": "2026-04-15T04:29:25.674Z"
+    }
+  ]
+}
