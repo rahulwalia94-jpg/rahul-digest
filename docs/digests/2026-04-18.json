@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T04:14:53.851Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "The Bank of England's fees regime for financial market infrastructure supervision 2026/27",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-financial-market-infrastructure-supervision-2026-27",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 17 Apr 2026 12:00:00 +0100",
+          "summary": "Consultation paper..."
+        },
+        {
+          "title": "Bank of England Weekly Report 15 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/15-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 16 Apr 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-04-18T04:14:48.123Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 17 Apr 2026 16:17:55 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+          "url": "https://huggingface.co/blog/ecom-rlve",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 16 Apr 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+          "content": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 15 Apr 2026 16:03:19 +0000",
+          "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation...."
+        },
+        {
+          "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+          "content": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 13 Apr 2026 15:52:13 +0000",
+          "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics...."
+        },
+        {
+          "title": "Pie Day 2026",
+          "url": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+          "content": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 17 Apr 2026 14:07:41 +0000",
+          "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-p..."
+        },
+        {
+          "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+          "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 17 Apr 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a th..."
+        }
+      ],
+      "generatedAt": "2026-04-18T04:14:49.759Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Investors pile into Hungarian assets in bet on closer EU ties",
+          "url": "https://www.ft.com/content/50c94642-d8cc-42fb-a257-5e7e72716c6e",
+          "content": "Stocks, bonds and the forint are up on hopes that Péter Magyar’s landslide victory will lead to pro-market reform",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 18 Apr 2026 04:00:40 GMT",
+          "summary": "Stocks, bonds and the forint are up on hopes that Péter Magyar’s landslide victory will lead to pro-market reform..."
+        },
+        {
+          "title": "The declining appeal of the Hong Kong expat",
+          "url": "https://www.ft.com/content/b1f029f7-c4d5-445e-9fad-3158528a711f",
+          "content": "Demand for mainlanders with Mandarin skills is on the rise",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 18 Apr 2026 04:00:40 GMT",
+          "summary": "Demand for mainlanders with Mandarin skills is on the rise..."
+        },
+        {
+          "title": "\n        Hormuz is (apparently) unblocked. Energy markets remain a mess\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/17/hormuz-is-apparently-unblocked-energy-markets-remain-a-mess",
+          "content": "Mines, mistrust and missing ships will keep markets tight for months",
+          "source": "The Economist",
+          "publishedAt": "Fri, 17 Apr 2026 19:42:15 +0000",
+          "summary": "Mines, mistrust and missing ships will keep markets tight for months..."
+        },
+        {
+          "title": "\n        Global imbalances are back. Who’s to blame?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/16/global-imbalances-are-back-whos-to-blame",
+          "content": "The suspects look familiar",
+          "source": "The Economist",
+          "publishedAt": "Thu, 16 Apr 2026 09:58:29 +0000",
+          "summary": "The suspects look familiar..."
+        },
+        {
+          "title": "Persian Gulf oil recovery will take months once war ends, Strait of Hormuz opens",
+          "url": "https://seekingalpha.com/news/4576325-persian-gulf-oil-recovery-will-take-months-once-war-ends-strait-of-hormuz-opens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 17 Apr 2026 19:40:18 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "What is next for Bank Of America after Q1 earnings?",
+          "url": "https://seekingalpha.com/news/4576163-what-is-next-for-bank-of-america-after-q1-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 17 Apr 2026 19:40:02 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Berkshire CEO Abel sold stocks managed by ex-portfolio manager Combs, WSJ reports ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-ceo-abel-sold-stocks-managed-by-ex-portfolio-manager-combs-wsj-reports/articleshow/130346726.cms",
+          "content": "Berkshire Hathaway CEO Greg Abel has divested stocks once overseen by Todd Combs. Combs departed Berkshire in December for JPMorgan Chase. This move signals a significant shift in Berkshire's investment portfolio under Abel, who took over as CEO in January. Warren Buffett continues as Chairman. Berkshire is expected to reveal more details on its equity holdings soon.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 18 Apr 2026 09:28:53 +0530",
+          "summary": "Berkshire Hathaway CEO Greg Abel has divested stocks once overseen by Todd Combs. Combs departed Berkshire in December for JPMorgan Chase. This move signals a significant shift in Berkshire's investme..."
+        },
+        {
+          "title": "5 world market themes for the week ahead ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/130346710.cms",
+          "content": "Markets are optimistic as U.S. President Trump signals an end to the Iran war. Talks may resume soon. However, upcoming economic data could show slowing business and rising prices. Investors also await the Federal Reserve nominee's Congressional hearing. Tesla earnings are also a key focus for U.S. corporations this week.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 18 Apr 2026 09:26:16 +0530",
+          "summary": "Markets are optimistic as U.S. President Trump signals an end to the Iran war. Talks may resume soon. However, upcoming economic data could show slowing business and rising prices. Investors also awai..."
+        }
+      ],
+      "generatedAt": "2026-04-18T04:14:51.608Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: Penguins pick up PFAS pollution",
+          "url": "https://www.nature.com/articles/d41586-026-01263-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-17T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Immune cells have a surprising role in exercise endurance",
+          "url": "https://www.nature.com/articles/d41586-026-01245-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-17T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Can sparkling water boost metabolism and help with weight loss?",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260417001658.htm",
+          "content": "Sparkling water is often seen as a simple, healthy drink—but could it also help with weight loss? New research suggests it may slightly boost how the body processes blood sugar and energy. However, the effect is very small, meaning it’s no substitute for diet and exercise.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 17 Apr 2026 03:17:58 EDT",
+          "summary": "Sparkling water is often seen as a simple, healthy drink—but could it also help with weight loss? New research suggests it may slightly boost how the body processes blood sugar and energy. However, th..."
+        },
+        {
+          "title": "Scientists supercharge immune cells to destroy cancer more effectively",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260416072001.htm",
+          "content": "Researchers have found a way to make cancer-killing immune cells more powerful and precise. By adding specific signaling components, they boosted the cells’ readiness to attack tumors. Surprisingly, briefly suppressing the cells with a drug before use made them even more effective later. The approach could help create safer, stronger next-gen cancer treatments.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 16 Apr 2026 23:28:07 EDT",
+          "summary": "Researchers have found a way to make cancer-killing immune cells more powerful and precise. By adding specific signaling components, they boosted the cells’ readiness to attack tumors. Surprisingly, b..."
+        },
+        {
+          "title": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
+          "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch/",
+          "content": "Blue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 17 Apr 2026 13:06:24 +0000",
+          "summary": "Blue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster...."
+        },
+        {
+          "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
+          "url": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
+          "content": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 17 Apr 2026 03:15:54 +0000",
+          "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy..."
+        }
+      ],
+      "generatedAt": "2026-04-18T04:14:52.828Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Casus Belli Engineering",
+          "url": "https://marcosmagueta.com/blog/casus-belli-engineering/",
+          "content": "Article URL: https://marcosmagueta.com/blog/casus-belli-engineering/\nComments URL: https://news.ycombinator.com/item?id=47812331\nPoints: 15\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 18 Apr 2026 01:14:02 +0000",
+          "summary": "Article URL: https://marcosmagueta.com/blog/casus-belli-engineering/\nComments URL: https://news.ycombinator.com/item?id=47812331\nPoints: 15\n# Comments: 1..."
+        },
+        {
+          "title": "A simplified model of Fil-C",
+          "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+          "content": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 130\n# Comments: 67",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 17 Apr 2026 21:38:20 +0000",
+          "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 130\n# Comments: 67..."
+        },
+        {
+          "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+          "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+          "content": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 17 Apr 2026 22:34:02 +0000",
+          "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships...."
+        },
+        {
+          "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+          "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+          "content": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 17 Apr 2026 20:38:17 +0000",
+          "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI...."
+        }
+      ],
+      "generatedAt": "2026-04-18T04:14:53.850Z"
+    }
+  ]
+}
