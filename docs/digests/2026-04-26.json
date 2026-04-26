@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T04:44:54.679Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Substitution between RTGS and instant payment schemes: the impact of the 2022 Faster Payments transaction limit increase on CHAPS",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/substitution-between-rtgs-and-instant-payment-schemes",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Apr 2026 14:00:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY**\n\nUK real-time payment infrastructure shift (CHAPS→Faster Payments post-2022 limit increase) signals structural liquidity and settlement risk migration; implications for counterparty credit exposure modeling, intraday PD/LGD calibration, and regulatory capital treatment under IFRS 9 stage classification—particularly relevant for systemic banks managing concentration in instant vs. deferred settlement buckets."
+        },
+        {
+          "title": "Agents' summary of business conditions - April 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/april-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Apr 2026 09:30:00 +0100",
+          "summary": "I'd be happy to write this summary, but I need you to provide the actual content from the Agents' summary of business conditions for April 2026. Please share the report text, key findings, or data points you'd like me to synthesize.\n\nOnce you provide that, I'll deliver a sharp 2-sentence brief covering the relevant angles (macro/credit risk/ECL implications, regulatory flags, sector themes, etc.) in under 70 words."
+        }
+      ],
+      "generatedAt": "2026-04-26T04:44:04.871Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "DeepSeek-V4: a million-token context that agents can actually use",
+          "url": "https://huggingface.co/blog/deepseekv4",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 24 Apr 2026 00:00:00 GMT",
+          "summary": "**DeepSeek-V4 context breakthrough reshapes AI economics & fintech modeling:** million-token window at <$0.14/M input tokens enables real-time multi-document credit analysis, regulatory filing synthesis, and backtesting without chunking—directionally deflating inference costs for large-scale ECL/PD modeling and agent-driven compliance workflows while intensifying competitive pressure on closed-model LLM vendors (OpenAI, Anthropic)."
+        },
+        {
+          "title": "How to Use Transformers.js in a Chrome Extension",
+          "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 23 Apr 2026 00:00:00 GMT",
+          "summary": "**Transformers.js enables lightweight NLP inference directly in browser extensions, eliminating backend dependencies and latency—critical for real-time financial data processing, sentiment analysis, and compliance monitoring at the edge. For fintech builders, this unlocks offline-capable analytics apps (React Native + Firebase) and reduces infrastructure costs; for credit risk teams, it enables rapid document classification and ECL-relevant text feature extraction without model serving overhead.**"
+        },
+        {
+          "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+          "url": "https://deepmind.google/blog/decoupled-diloco/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 22 Apr 2026 10:20:03 +0000",
+          "summary": "**MACRO/MARKETS:** Decoupled DiLoCo enables distributed AI training without centralized compute, reducing infrastructure concentration risk and lowering barriers for emerging market tech adoption—bullish for semiconductor diversity, cloud alternatives, and geopolitical AI decoupling narratives.\n\n**CREDIT RISK:** Distributed training architecture reduces single-point-of-failure risk in model governance and regulatory backtesting; improves audit trail fragmentation issues relevant to IFRS 9 model validation and PD/LGD stability under stress scenarios.\n\n**AI/ML:** Unlocks real-time ECL recalibration across federated data silos without exposing sensitive credit portfolios; enables banks"
+        },
+        {
+          "title": "Partnering with industry leaders to accelerate AI transformation",
+          "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+          "content": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 21 Apr 2026 14:54:15 +0000",
+          "summary": "**MACRO/MARKETS:** DeepMind's consultant partnerships signal accelerating enterprise AI adoption across sectors, potentially reshaping productivity assumptions embedded in equity valuations and macro growth forecasts; watch for margin expansion in professional services and disruption risk in routine cognitive work.\n\n**CREDIT RISK:** Systemic AI deployment raises model governance complexity—banks must stress-test PD/LGD frameworks against rapid labor displacement, concentration risk in AI infrastructure providers, and new operational risk correlations; IFRS 9 ECL models need scenario updates reflecting AI-driven economic regime shifts.\n\n**AI/ML:** Direct threat to traditional analytics workflows; banks deploying frontier models for customer segmentation, fraud detection, and"
+        },
+        {
+          "title": "Three reasons why DeepSeek’s new model matters",
+          "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+          "content": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 24 Apr 2026 21:40:58 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nDeepSeek V4's open-source, efficiency-optimized architecture threatens proprietary AI moat valuations (Nvidia, OpenAI peers) while enabling rapid fintech/banking adoption of advanced NLP for regulatory reporting, fraud detection, and ECL model enhancement—material for EM tech thesis and US tech sector repricing.\n\n**CREDIT RISK & BUILDER:**\nExtended context window capability accelerates deployment of AI-driven document analysis for PD/LGD calibration and KYC automation, reducing model governance overhead but requiring urgent validation frameworks for IFRS 9 compliance and bias audit trails."
+        },
+        {
+          "title": "The Download: supercharged scams and studying AI healthcare",
+          "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 24 Apr 2026 12:10:00 +0000",
+          "summary": "**AI & ML Research / Scams + Healthcare**\n\nGenerative AI enabling sophisticated fraud at scale poses systemic credit risk (potential ECL uplift via PD/fraud losses) and regulatory scrutiny for banks; simultaneously, AI-driven healthcare applications signal emerging sector disruption with macro implications for healthcare capex cycles and emerging-market healthcare fintech expansion."
+        }
+      ],
+      "generatedAt": "2026-04-26T04:44:18.351Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Iran war hits pistachio supplies amid Dubai chocolate boom",
+          "url": "https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347",
+          "content": "Prices for the nuts have surged after disruption to export routes from Iran, a major producer of the nut",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 26 Apr 2026 04:00:08 GMT",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nIran supply disruption driving pistachio price inflation—exposure for food & beverage corporates (margin compression, FX hedging needs) and emerging market exporters; Dubai's confectionery boom masks underlying commodity volatility that ECL models must capture via scenario stress-testing and macroeconomic variable correlation to geopolitical shocks."
+        },
+        {
+          "title": "Marketing collective The Independents explores $1bn stake sale ",
+          "url": "https://www.ft.com/content/4652e9cf-8b59-41eb-9c5e-b48f4f7ecd8c",
+          "content": "Paris-based group in talks with its investors amid slump in high-end market",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 25 Apr 2026 10:00:09 GMT",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Luxury sector valuation reset signals demand weakness in high-net-worth consumption; elevated portfolio concentration risk for wealth/asset managers with HNW exposure may trigger ECL provisions under IFRS 9 if client asset base contracts. **INVESTMENT ANGLE:** Distressed creative agency asset sales reflect broader advertising/marketing spend volatility tied to macro uncertainty—relevant for discretionary sector positioning and emerging market ad-tech disruption narratives."
+        },
+        {
+          "title": "\n        Wanted: a new finance writer\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/23/wanted-a-new-finance-writer",
+          "content": "An opportunity to join the staff of The Economist",
+          "source": "The Economist",
+          "publishedAt": "Thu, 23 Apr 2026 16:45:12 +0000",
+          "summary": "**Macro/Markets angle:** The Economist's hiring signals sustained demand for differentiated macro analysis amid geopolitical fragmentation and central bank policy divergence. Reflects structural shift toward specialized financial journalism as markets demand deeper analysis of inflation, FX regimes, and emerging market volatility—key inputs for portfolio construction and macro hedging strategies."
+        },
+        {
+          "title": "\n        Has the World Bank performed a U-turn on industrial policy?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/23/has-the-world-bank-performed-a-u-turn-on-industrial-policy",
+          "content": "Interventionists who think so should read its new report more closely",
+          "source": "The Economist",
+          "publishedAt": "Thu, 23 Apr 2026 09:16:41 +0000",
+          "summary": "**MACRO/MARKETS**: World Bank's nuanced stance on industrial policy—neither full endorsement nor rejection—signals complexity in state-led growth narratives. Implications span EM currency exposure, commodity demand cycles, and sector rotation (green tech vs. traditional manufacturing), affecting equity valuations in intervention-dependent economies."
+        },
+        {
+          "title": "Trump safe after shots fired at White House Correspondents' Dinner hotel",
+          "url": "https://seekingalpha.com/news/4579718-trump-safe-after-shots-fired-white-house-correspondents-dinner-hotel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 25 Apr 2026 21:40:15 -0400",
+          "summary": "**MACRO/MARKETS:** Political violence risk premium may compress if perceived as isolated; USD/equities could see modest relief rally, but sustained uncertainty around policy implementation (tariffs, fiscal) remains the dominant macro driver through year-end."
+        },
+        {
+          "title": "U.S. shale industry reluctant to boost oil production in response to Iran war 'chaos'",
+          "url": "https://seekingalpha.com/news/4579703-u-s-shale-industry-reluctant-to-boost-oil-production-in-response-to-iran-war-chaos?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 25 Apr 2026 20:25:18 -0400",
+          "summary": "**MACRO/MARKETS:** U.S. shale producers' production restraint amid geopolitical oil supply shocks signals structural shift toward capital discipline over volume growth—constraining global oil supply elasticity and sustaining elevated energy cost inflation, with ripple effects on energy-intensive sectors and emerging market fx stability.\n\n**CREDIT RISK:** Reduced shale capex volatility improves PD/LGD stability for energy sector borrowers, but structural underinvestment in spare capacity increases tail-risk scenarios (supply disruption → price spike → macro shock); IFRS 9 ECL models may underestimate stress correlation between commodity price shocks and broad portfolio credit deterioration."
+        },
+        {
+          "title": "IDFC First Bank Q4 profit up 5% on lower provisions; fraud hits ops 42% ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q4-profit-up-5-on-lower-provisions-fraud-hits-ops-42/articleshow/130526185.cms",
+          "content": "IDFC First Bank reported a modest 5% rise in Q4 net profit, aided by a 40% decline in provisions. However, a Rs 645-crore fraud at its Chandigarh branch sharply dented operating performance, leading to a 42% drop in operating profit after the bank fully expensed the impact during the quarter.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 26 Apr 2026 09:39:40 +0530",
+          "summary": "**MACRO/MARKETS:** Indian banking sector faces renewed operational risk scrutiny; IDFC First's provisions cliff (40% decline masking fraud impact) signals potential ECL model underestimation across emerging market lenders lacking robust fraud detection, pressuring valuations amid RBI tightening cycles.\n\n**CREDIT RISK:** Full P&L expensing of fraud vs. staged provisioning raises IFRS 9 Stage 3 classification questions—suggests possible weakness in early-warning systems and PD/LGD calibration for operational risk; regulatory capital adequacy reviews likely imminent across Indian mid-tier banks.\n\n**AI/ML:** Fraud's Rs 645-crore"
+        },
+        {
+          "title": "Fed FOMC, Q4 earnings and FII action among 9 factors set to steer D-Street this week ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fed-fomc-q4-earnings-and-fii-action-among-9-factors-set-to-steer-d-street-this-week/articleshow/130526129.cms",
+          "content": "Markets may remain volatile amid key triggers this week, including the Fed policy decision, Q4 earnings and geopolitical tensions. Technically, Nifty’s near-term bias has turned weak below 23,900, with support at 23,500 and resistance at 24,200–24,500. The rupee logged its steepest weekly fall since September 2022, while Vedanta and Hindustan Zinc will be in focus on key corporate actions.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 26 Apr 2026 09:33:09 +0530",
+          "summary": "**MACRO/MARKETS:** Fed's policy stance will anchor global risk-on/off and INR carry trades; Nifty's 23,500–24,500 range reflects macro uncertainty with potential spillover to emerging market flows and commodity-linked sectors (metals, energy). Rupee weakness signals capital outflows—monitor FII redemptions and RBI intervention impact on EM asset correlations."
+        }
+      ],
+      "generatedAt": "2026-04-26T04:44:34.159Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
+          "url": "https://www.nature.com/articles/s41586-026-10518-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-24T00:00:00.000Z",
+          "summary": "**BREAKTHROUGHS (Niche Academic):**\nCorrected findings on yeast-bacteria pathogenesis interactions lack direct market or credit implications; relevance confined to biotech/pharma R&D pipelines and potential therapeutic targets in antimicrobial space—monitor only if tracking precision medicine or microbiome-focused biotech valuations."
+        },
+        {
+          "title": "Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects",
+          "url": "https://www.nature.com/articles/s41586-026-10552-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-24T00:00:00.000Z",
+          "summary": "**For BREAKTHROUGHS/PHARMA:** Corrected µ-opioid superagonist with minimal adverse effects addresses $50B+ pain management market and opioid crisis liability exposure; potential blockbuster reshapes pharma risk profiles and reduces litigation/regulatory ECL provisions for manufacturers facing opioid-related contingent liabilities. **For MACRO/MARKETS:** Success de-risks pharmaceutical sector valuations tied to opioid settlements; reduces systemic healthcare cost inflation from addiction treatment, benefiting payer economics and emerging-market healthcare infrastructure spending."
+        },
+        {
+          "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260425091216.htm",
+          "content": "A gut bacterium may be quietly fueling depression through an unexpected chemical twist. Researchers found that when Morganella morganii interacts with a common pollutant, it produces a molecule that triggers inflammation—something strongly linked to depression. This finding helps explain how gut microbes can influence brain health at a molecular level. It also raises the possibility of new treatments that target the immune system rather than just the brain.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 25 Apr 2026 11:39:01 EDT",
+          "summary": "**BREAKTHROUGHS / HEALTHTECH DISRUPTION:**\nGut microbiome-inflammation-depression linkage validates immunotherapy biomarker sector; opens $50B+ mental health therapeutic market with diagnostic/pharma screening opportunities. Microbiome testing platforms (Viome, Everlywell model) and immune-modulating therapeutics attract VC/PE as depression treatment shifts from CNS-only to microbiota-targeting interventions.\n\n**MACRO/MARKETS:**\nValidates microbiome/precision health as structural growth theme across diagnostics, therapeutics, and consumer wellness; supports biotech rotation if depression repositioned as inflammatory rather than neurochemical disorder, potentially reshaping"
+        },
+        {
+          "title": "Gravitational waves may have created dark matter in the early universe",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260424233217.htm",
+          "content": "In the chaotic first moments after the Big Bang, ripples in spacetime may have done more than just echo through the cosmos—they could have helped create dark matter itself. New research suggests that faint, ancient gravitational waves might have transformed into particles that eventually became the invisible substance shaping galaxies today.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 25 Apr 2026 10:16:00 EDT",
+          "summary": "**BREAKTHROUGHS:** If validated, primordial gravitational wave-to-dark-matter conversion reframes cosmological models underlying inflation theory and long-duration asset valuations; minimal near-term market impact but shifts fundamental physics priors informing deep-tech venture allocation and quantum computing timelines."
+        },
+        {
+          "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
+          "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
+          "content": "\"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 25 Apr 2026 11:40:58 +0000",
+          "summary": "**BREAKTHROUGHS / MACRO:**\nArtemis II's lunar distance record signals accelerating space infrastructure commercialization—unlocking satellite, communications, and resource-extraction supply chains with multi-decade GDP tailwinds. Indirect play: aerospace/defense contractors, launch services, and emerging orbital economy ETFs benefit from de-risked NASA validation."
+        },
+        {
+          "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
+          "url": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
+          "content": "\"If boost-phase intercept from space is not affordable and scalable, we will not produce it.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 25 Apr 2026 02:52:37 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Space-based missile defense commercialization signals major DoD budget reallocation toward hypersonics/counter-space capex, reshaping defense contractor valuations and geopolitical risk pricing across emerging markets and energy futures. Cost/scalability barriers will determine whether this becomes material defense sector restructuring or remains niche R&D."
+        }
+      ],
+      "generatedAt": "2026-04-26T04:44:45.417Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "EU Age Control: The trojan horse for digital IDs",
+          "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+          "content": "Article URL: https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/\nComments URL: https://news.ycombinator.com/item?id=47907130\nPoints: 24\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 26 Apr 2026 03:44:28 +0000",
+          "summary": "**BUILDER & PRODUCT / REGULATORY RISK**\n\nEU age-verification mandate risks creating centralized digital identity infrastructure with surveillance implications, potentially triggering data protection backlash, regulatory fragmentation, and compliance costs for fintech platforms. For banking analytics: ECL models must factor regulatory/reputational risk from identity data breaches; PMA frameworks need stress scenarios around forced ID system adoption and resulting customer churn or sanctions exposure."
+        },
+        {
+          "title": "Reviving BrowserID in 2026",
+          "url": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
+          "content": "Article URL: https://wakamoleguy.com/p/reviving-browserid-in-2026\nComments URL: https://news.ycombinator.com/item?id=47906770\nPoints: 8\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 26 Apr 2026 02:38:51 +0000",
+          "summary": "**BUILDER relevance:** BrowserID revival addresses decentralized identity authentication—critical infrastructure for fintech apps requiring passwordless login and regulatory compliance (KYC/AML). Reduced reliance on centralized identity providers cuts operational friction and third-party vendor risk for embedded finance platforms."
+        },
+        {
+          "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+          "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+          "content": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 25 Apr 2026 21:43:37 +0000",
+          "summary": "**MACRO/MARKETS:** AI-driven autonomous commerce signals potential structural shift in transaction efficiency and market microstructure; if scalable, could compress intermediation spreads across B2B/C2C, impacting fintech valuations and traditional marketplace economics.\n\n**CREDIT RISK:** Agent autonomy in real financial transactions creates novel counterparty & operational risk vectors; IFRS 9 ECL models must incorporate AI decision-opacity, model risk concentration, and systemic contagion from correlated agent failures—regulatory guidance lagging.\n\n**AI/ML:** Validates large language models for autonomous decision-making in high-stakes commerce; validates feasibility of agent-based market infrastructure, directly applicable"
+        },
+        {
+          "title": "Maine’s governor vetoes data center moratorium",
+          "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+          "content": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 25 Apr 2026 20:57:08 +0000",
+          "summary": "**MACRO/MARKETS:** Maine's veto preserves US data center expansion capacity amid global AI/cloud infrastructure race, supporting tech sector capex cycles and energy demand narratives—critical for commodity/power price forecasting and EM exposure to semiconductor supply chains.\n\n**CREDIT RISK:** Unrestricted data center development increases counterparty concentration risk in power utilities and real estate portfolios; ECL models must reflect rising stranded asset risk if renewable transition lags demand, affecting PD/LGD calibration for energy-adjacent obligors.\n\n**AI/ML:** Data center proliferation directly enables large-scale model training and inference infrastructure—validates thesis that banking analytics platforms (real-time ECL"
+        }
+      ],
+      "generatedAt": "2026-04-26T04:44:54.679Z"
+    }
+  ]
+}
