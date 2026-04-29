@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T04:55:23.510Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Substitution between RTGS and instant payment schemes: the impact of the 2022 Faster Payments transaction limit increase on CHAPS",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/substitution-between-rtgs-and-instant-payment-schemes",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Apr 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Monthly Decision Maker Panel data - April 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Apr 2026 09:30:00 +0100",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        }
+      ],
+      "generatedAt": "2026-04-29T04:55:18.070Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Apr 2026 15:58:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+          "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 27 Apr 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+        },
+        {
+          "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+          "url": "https://deepmind.google/blog/decoupled-diloco/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 22 Apr 2026 10:20:03 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+          "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 28 Apr 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s futu..."
+        },
+        {
+          "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+          "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+          "content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 27 Apr 2026 22:52:57 +0000",
+          "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici..."
+        }
+      ],
+      "generatedAt": "2026-04-29T04:55:19.719Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Ken Griffin suggests wealthy individuals do not understand private credit risks ",
+          "url": "https://www.ft.com/content/130a68e2-d8cc-449b-a32a-a0b8e2471e89",
+          "content": "Founder of Citadel says some investors may not have realised they cannot quickly withdraw all their money from funds",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 29 Apr 2026 04:00:27 GMT",
+          "summary": "Founder of Citadel says some investors may not have realised they cannot quickly withdraw all their money from funds..."
+        },
+        {
+          "title": "UAE opens up an Opec fissure",
+          "url": "https://www.ft.com/content/1e39d1ce-87d3-4bd6-9716-b45d78fc27ba",
+          "content": "Exit represents a rejection of the production-control system dominated in recent years by Saudi Arabia",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 29 Apr 2026 04:00:27 GMT",
+          "summary": "Exit represents a rejection of the production-control system dominated in recent years by Saudi Arabia..."
+        },
+        {
+          "title": "\n        A global fight over banking rules is just getting started\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/28/a-global-fight-over-banking-rules-is-just-getting-started",
+          "content": "Co-operation on the financial system will be the casualty",
+          "source": "The Economist",
+          "publishedAt": "Tue, 28 Apr 2026 17:39:57 +0000",
+          "summary": "Co-operation on the financial system will be the casualty..."
+        },
+        {
+          "title": "\n        San Francisco, AI capital of the world, is an economic laggard\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+          "content": "Artificial intelligence is booming. Its heartland is not",
+          "source": "The Economist",
+          "publishedAt": "Sun, 26 Apr 2026 16:23:37 +0000",
+          "summary": "Artificial intelligence is booming. Its heartland is not..."
+        },
+        {
+          "title": "Australia March CPI accelerates to 4.6% amid Middle East energy volatility",
+          "url": "https://seekingalpha.com/news/4581272-australia-march-cpi-accelerates-to-46-amid-middle-east-energy-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 29 Apr 2026 00:40:29 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "SNDL Q1 Earnings Preview",
+          "url": "https://seekingalpha.com/news/4580896-sndl-q1-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 29 Apr 2026 00:32:33 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Vijay Kedia-backed Websol Energy shares jump 45% in six days. What's driving the rally? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-backed-websol-energy-shares-jump-45-in-six-days-whats-driving-the-rally/articleshow/130596060.cms",
+          "content": "Websol Energy System shares surged 5% to the upper circuit for the third day, marking a 45% rally in six days. Strong quarterly earnings, with net profit soaring 158% and revenue up 132%, coupled with ace investor Vijay Kedia's fresh purchases, have significantly boosted investor confidence and the stock's performance.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 29 Apr 2026 10:17:33 +0530",
+          "summary": "Websol Energy System shares surged 5% to the upper circuit for the third day, marking a 45% rally in six days. Strong quarterly earnings, with net profit soaring 158% and revenue up 132%, coupled with..."
+        },
+        {
+          "title": "Silver rebounds Rs 1,300, gold at Rs 1.50 lakh ahead of US Fed decision, Iran conflict uncertainty. Key levels for today ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-29-april-2026-silver-rebounds-rs-1300-gold-at-rs-1-50-lakh-ahead-of-us-fed-decision-iran-conflict-uncertainty-key-levels-for-today/articleshow/130596096.cms",
+          "content": "Gold and silver prices edged higher on MCX as investors await the US Federal Reserve’s policy decision amid ongoing Iran-related tensions. While inflation concerns from elevated oil prices support bullion, rising rate expectations cap gains. Analysts expect continued volatility and advise caution before taking fresh positions in precious metals.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 29 Apr 2026 10:17:12 +0530",
+          "summary": "Gold and silver prices edged higher on MCX as investors await the US Federal Reserve’s policy decision amid ongoing Iran-related tensions. While inflation concerns from elevated oil prices support bul..."
+        }
+      ],
+      "generatedAt": "2026-04-29T04:55:21.243Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Quantum error correction below the surface code threshold",
+          "url": "https://www.nature.com/articles/s41586-026-10559-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The equity paradox of environmental DNA for biodiversity monitoring",
+          "url": "https://www.nature.com/articles/d41586-026-01349-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
+          "content": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This breakthrough not only strengthens the weird reality of quantum mechanics but also opens the door to new experiments involving antimatter, including the possibility of testing how gravity affects it—something never directly measured before.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 28 Apr 2026 09:35:37 EDT",
+          "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wav..."
+        },
+        {
+          "title": "NASA Curiosity rover finds mysterious life linked molecules on mars",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260428045549.htm",
+          "content": "Curiosity has detected a surprising variety of organic molecules on Mars, including compounds tied to the chemistry of life. Some of these molecules may be billions of years old, preserved in ancient clay-rich rocks that once held water. One standout find resembles building blocks of DNA, raising exciting questions about Mars’ past. Although not proof of life, the discovery suggests the Red Planet may have once been far more biologically promising than we thought.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 28 Apr 2026 10:02:08 EDT",
+          "summary": "Curiosity has detected a surprising variety of organic molecules on Mars, including compounds tied to the chemistry of life. Some of these molecules may be billions of years old, preserved in ancient ..."
+        },
+        {
+          "title": "Electrical current might be the key to a better cup of coffee",
+          "url": "https://arstechnica.com/science/2026/04/electrical-current-might-be-the-key-to-a-better-cup-of-coffee/",
+          "content": "University of Oregon scientists repurposed battery-testing tool to better measure coffee's flavor profile",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 28 Apr 2026 15:00:11 +0000",
+          "summary": "University of Oregon scientists repurposed battery-testing tool to better measure coffee's flavor profile..."
+        },
+        {
+          "title": "Neanderthal brains measure up to ours—literally",
+          "url": "https://arstechnica.com/science/2026/04/neanderthal-brains-measure-up-to-ours-literally/",
+          "content": "The differences between our brains and Neanderthals' were likely cosmetic.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 28 Apr 2026 11:05:46 +0000",
+          "summary": "The differences between our brains and Neanderthals' were likely cosmetic...."
+        }
+      ],
+      "generatedAt": "2026-04-29T04:55:22.416Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Bugs Rust won't catch",
+          "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+          "content": "Article URL: https://corrode.dev/blog/bugs-rust-wont-catch/\nComments URL: https://news.ycombinator.com/item?id=47943499\nPoints: 53\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 29 Apr 2026 02:19:11 +0000",
+          "summary": "Article URL: https://corrode.dev/blog/bugs-rust-wont-catch/\nComments URL: https://news.ycombinator.com/item?id=47943499\nPoints: 53\n# Comments: 5..."
+        },
+        {
+          "title": "When the Internet Was a Place",
+          "url": "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/",
+          "content": "Article URL: https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/\nComments URL: https://news.ycombinator.com/item?id=47943190\nPoints: 10\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 29 Apr 2026 01:36:52 +0000",
+          "summary": "Article URL: https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/\nComments URL: https://news.ycombinator.com/item?id=47943190\nPoints: 10\n# Comments: 0..."
+        },
+        {
+          "title": "How one venture firm is investing in an increasingly fragmented world",
+          "url": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
+          "content": "Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 29 Apr 2026 03:00:00 +0000",
+          "summary": "Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world...."
+        },
+        {
+          "title": "At his OpenAI trial, Musk relitigates an old friendship",
+          "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+          "content": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 29 Apr 2026 00:40:16 +0000",
+          "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath...."
+        }
+      ],
+      "generatedAt": "2026-04-29T04:55:23.510Z"
+    }
+  ]
+}
