@@ -1,0 +1,254 @@
+{
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T04:58:25.860Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "The Bank of England's approach to cost benefit analysis",
+          "url": "https://www.bankofengland.co.uk/paper/2024/sop/the-bank-of-englands-approach-to-cost-benefit-analysis",
+          "content": "Statement of policy",
+          "source": "Bank of England",
+          "publishedAt": "Wed, 29 Apr 2026 09:30:00 +0100",
+          "summary": "Statement of policy..."
+        },
+        {
+          "title": "Substitution between RTGS and instant payment schemes: the impact of the 2022 Faster Payments transaction limit increase on CHAPS",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/substitution-between-rtgs-and-instant-payment-schemes",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Apr 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-04-30T04:58:20.490Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "AI evals are becoming the new compute bottleneck",
+          "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 16:45:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite 4.1 LLMs: How They’re Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 15:01:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+        },
+        {
+          "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+          "url": "https://deepmind.google/blog/decoupled-diloco/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 22 Apr 2026 10:20:03 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: storing nuclear waste and orchestrating agents",
+          "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 29 Apr 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear ener..."
+        },
+        {
+          "title": "It’s time to make a plan for nuclear waste",
+          "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+          "content": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it’s time to talk about an old problem:…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 29 Apr 2026 08:00:00 +0000",
+          "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a re..."
+        }
+      ],
+      "generatedAt": "2026-04-30T04:58:21.967Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Private equity’s tempest in a teapot",
+          "url": "https://www.ft.com/content/424d4180-f970-4fae-8379-2647c817602e",
+          "content": "CVC and KKR are facing the prospect of extended ownership of food businesses they acquired from Unilever",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 30 Apr 2026 04:00:27 GMT",
+          "summary": "CVC and KKR are facing the prospect of extended ownership of food businesses they acquired from Unilever..."
+        },
+        {
+          "title": "Bank of England in stand-off with FCA over trading firms’ capital",
+          "url": "https://www.ft.com/content/64faa5f8-3f70-4131-86dc-fa6e2218bbe2",
+          "content": "Rare dispute emerges after watchdog proposes to boost liquidity for groups such as Jane Street and Citadel Securities",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 30 Apr 2026 04:00:27 GMT",
+          "summary": "Rare dispute emerges after watchdog proposes to boost liquidity for groups such as Jane Street and Citadel Securities..."
+        },
+        {
+          "title": "\n        A global fight over banking rules is just getting started\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/28/a-global-fight-over-banking-rules-is-just-getting-started",
+          "content": "Co-operation on the financial system will be the casualty",
+          "source": "The Economist",
+          "publishedAt": "Tue, 28 Apr 2026 17:39:57 +0000",
+          "summary": "Co-operation on the financial system will be the casualty..."
+        },
+        {
+          "title": "\n        San Francisco, AI capital of the world, is an economic laggard\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+          "content": "Artificial intelligence is booming. Its heartland is not",
+          "source": "The Economist",
+          "publishedAt": "Sun, 26 Apr 2026 16:23:37 +0000",
+          "summary": "Artificial intelligence is booming. Its heartland is not..."
+        },
+        {
+          "title": "Climb Global Solutions Non-GAAP EPS of $0.19 misses by $0.06, revenue of $182.4M beats by $31.06M",
+          "url": "https://seekingalpha.com/news/4582454-climb-global-solutions-non-gaap-eps-of-019-misses-by-006-revenue-of-1824m-beats-by-3106m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 30 Apr 2026 00:49:32 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "California Water Service GAAP EPS of $0.07 misses by $0.16, revenue of $214.57M beats by $4.3M",
+          "url": "https://seekingalpha.com/news/4582453-california-water-service-gaap-eps-of-007-misses-by-016-revenue-of-21457m-beats-by-43m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 30 Apr 2026 00:46:01 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Silver rises Rs 2,700, gold near Rs 1.50 lakh as US Fed holds rate; Iran war uncertainty caps gains. What should you do? ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-30-april-2026-silver-rises-rs-2700-gold-near-rs-1-50-lakh-as-us-fed-holds-rate-iran-war-uncertainty-caps-gains-what-should-you-do/articleshow/130623181.cms",
+          "content": "Gold and silver prices edged higher on Thursday, recovering from oversold levels but facing headwinds from persistent inflation concerns and elevated oil prices. The Federal Reserve's recent decision to hold interest rates, coupled with a divided vote, has shifted market expectations, with traders now ruling out rate cuts this year and anticipating potential hikes by March 2027.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 30 Apr 2026 10:06:58 +0530",
+          "summary": "Gold and silver prices edged higher on Thursday, recovering from oversold levels but facing headwinds from persistent inflation concerns and elevated oil prices. The Federal Reserve's recent decision ..."
+        },
+        {
+          "title": "Stock market holiday alert: Are BSE, NSE open or closed on May 1? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-alert-are-bse-nse-open-or-closed-on-may-1/articleshow/130623178.cms",
+          "content": "Stock market holidays 2026: Indian stock markets will observe a shortened trading week, with both NSE and BSE closed on Friday, May 1, for Maharashtra Day. A total of 16 holidays are scheduled for 2026, with 8 more closures to follow after this week. MCX will have a partial closure, while NCDEX will be fully closed.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 30 Apr 2026 10:05:32 +0530",
+          "summary": "Stock market holidays 2026: Indian stock markets will observe a shortened trading week, with both NSE and BSE closed on Friday, May 1, for Maharashtra Day. A total of 16 holidays are scheduled for 202..."
+        }
+      ],
+      "generatedAt": "2026-04-30T04:58:23.379Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "An electrifying test to find a good coffee",
+          "url": "https://www.nature.com/articles/d41586-026-01289-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Broadly stable atmospheric CO<sub>2</sub> and CH<sub>4</sub> levels over the past 3 million years",
+          "url": "https://www.nature.com/articles/s41586-026-10600-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "50-foot ancient snake discovered in India may be one of the largest ever",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260429043500.htm",
+          "content": "A massive prehistoric snake discovered in India may rank among the largest ever to slither across Earth. Named Vasuki indicus, this ancient giant lived around 47 million years ago and is estimated to have stretched an astonishing 11 to 15 meters long—rivaling the legendary Titanoboa. Fossilized vertebrae unearthed from a lignite mine in Gujarat reveal a thick-bodied, powerful snake likely built for slow, stealthy ambush attacks, similar to modern anacondas.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 29 Apr 2026 05:13:03 EDT",
+          "summary": "A massive prehistoric snake discovered in India may rank among the largest ever to slither across Earth. Named Vasuki indicus, this ancient giant lived around 47 million years ago and is estimated to ..."
+        },
+        {
+          "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
+          "content": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This breakthrough not only strengthens the weird reality of quantum mechanics but also opens the door to new experiments involving antimatter, including the possibility of testing how gravity affects it—something never directly measured before.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 28 Apr 2026 09:35:37 EDT",
+          "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wav..."
+        },
+        {
+          "title": "Professional school grads from diverse classes get higher salaries",
+          "url": "https://arstechnica.com/science/2026/04/professional-school-grads-from-diverse-classes-get-higher-salaries/",
+          "content": "Study authors say courts should reconsider rulings in light of this new evidence.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 29 Apr 2026 15:55:55 +0000",
+          "summary": "Study authors say courts should reconsider rulings in light of this new evidence...."
+        },
+        {
+          "title": "Electrical current might be the key to a better cup of coffee",
+          "url": "https://arstechnica.com/science/2026/04/electrical-current-might-be-the-key-to-a-better-cup-of-coffee/",
+          "content": "University of Oregon scientists repurposed battery-testing tool to better measure coffee's flavor profile",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 28 Apr 2026 15:00:11 +0000",
+          "summary": "University of Oregon scientists repurposed battery-testing tool to better measure coffee's flavor profile..."
+        }
+      ],
+      "generatedAt": "2026-04-30T04:58:24.711Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+          "url": "https://burrito.bio/essays/biology-is-a-burrito",
+          "content": "Article URL: https://burrito.bio/essays/biology-is-a-burrito\nComments URL: https://news.ycombinator.com/item?id=47957714\nPoints: 28\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 30 Apr 2026 03:24:41 +0000",
+          "summary": "Article URL: https://burrito.bio/essays/biology-is-a-burrito\nComments URL: https://news.ycombinator.com/item?id=47957714\nPoints: 28\n# Comments: 4..."
+        },
+        {
+          "title": "Where the goblins came from",
+          "url": "https://openai.com/index/where-the-goblins-came-from/",
+          "content": "Article URL: https://openai.com/index/where-the-goblins-came-from/\nComments URL: https://news.ycombinator.com/item?id=47957688\nPoints: 178\n# Comments: 79",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 30 Apr 2026 03:21:04 +0000",
+          "summary": "Article URL: https://openai.com/index/where-the-goblins-came-from/\nComments URL: https://news.ycombinator.com/item?id=47957688\nPoints: 178\n# Comments: 79..."
+        },
+        {
+          "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+          "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+          "content": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 30 Apr 2026 03:58:22 +0000",
+          "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure...."
+        },
+        {
+          "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+          "url": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
+          "content": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 30 Apr 2026 01:00:00 +0000",
+          "summary": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions...."
+        }
+      ],
+      "generatedAt": "2026-04-30T04:58:25.860Z"
+    }
+  ]
+}
