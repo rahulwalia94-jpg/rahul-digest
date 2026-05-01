@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T05:09:48.120Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 29 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Apr 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Monetary Policy Report - April 2026",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-report/2026/april-2026",
+          "content": "Our quarterly Monetary Policy Report sets out the economic analysis and inflation projections that the Monetary Policy Committee uses to make its interest rate decisions.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Apr 2026 12:00:00 +0100",
+          "summary": "Our quarterly Monetary Policy Report sets out the economic analysis and inflation projections that the Monetary Policy Committee uses to make its interest rate decisions...."
+        }
+      ],
+      "generatedAt": "2026-05-01T05:09:39.996Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "AI evals are becoming the new compute bottleneck",
+          "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 16:45:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite 4.1 LLMs: How They’re Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 15:01:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+        },
+        {
+          "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+          "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+          "content": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories: Access all subscriber-only eBooks:",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 30 Apr 2026 18:42:50 +0000",
+          "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to s..."
+        },
+        {
+          "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+          "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+          "content": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 30 Apr 2026 15:59:41 +0000",
+          "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a mo..."
+        }
+      ],
+      "generatedAt": "2026-05-01T05:09:41.289Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Todd Boehly’s insurance empire",
+          "url": "https://www.ft.com/content/2409b109-ba6d-4957-b806-08c02af7559d",
+          "content": "The billionaire investor’s insurer is the biggest user of an unusual investment structure being targeted by US regulators",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 01 May 2026 04:00:28 GMT",
+          "summary": "The billionaire investor’s insurer is the biggest user of an unusual investment structure being targeted by US regulators..."
+        },
+        {
+          "title": "WPP boss faces pay battle after opposition from proxy shareholder groups ",
+          "url": "https://www.ft.com/content/82eb49bf-df06-42d1-ad17-7590b805095d",
+          "content": "Investors told to vote against proposed £11mn pay deal for chief executive Cindy Rose next week",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 01 May 2026 04:00:28 GMT",
+          "summary": "Investors told to vote against proposed £11mn pay deal for chief executive Cindy Rose next week..."
+        },
+        {
+          "title": "\n        Can countries grow richer by exporting people, not goods?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/30/can-countries-grow-richer-by-exporting-people-not-goods",
+          "content": "That depends where those people end up",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Apr 2026 09:40:15 +0000",
+          "summary": "That depends where those people end up..."
+        },
+        {
+          "title": "\n        India’s weak currency reflects deeper problems than the Iran war\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/30/indias-weak-currency-reflects-deeper-problems-than-the-iran-war",
+          "content": "It highlights a persistent inability to draw in foreign investors",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Apr 2026 09:38:15 +0000",
+          "summary": "It highlights a persistent inability to draw in foreign investors..."
+        },
+        {
+          "title": "Dolby forecasts FY2026 revenue of $1.4B-$1.45B while targeting 50-100 bps non-GAAP operating margin improvement",
+          "url": "https://seekingalpha.com/news/4583602-dolby-forecasts-fy2026-revenue-of-1_4b-1_45b-while-targeting-50minus-100-bps-non-gaap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 01 May 2026 01:02:22 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Li Auto April deliveries flat year-over-year at 34,085 units; cumulative total hits 1.67M",
+          "url": "https://seekingalpha.com/news/4583586-li-auto-april-deliveries-flat-year-over-year-at-34085-units-cumulative-total-hits-167m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 01 May 2026 01:01:10 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Japan bond outflows surge as oil prices raise inflation worries ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/japan-bond-outflows-surge-as-oil-prices-raise-inflation-worries/articleshow/130670516.cms",
+          "content": "Foreign investors significantly offloaded Japanese bonds, totaling over 1.8 trillion yen in the week ending April 25, driven by inflation fears from soaring oil prices and anticipation of the Bank of Japan's policy stance. Despite this, they continued their strong buying trend in Japanese stocks for a fourth consecutive week.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 01 May 2026 10:26:52 +0530",
+          "summary": "Foreign investors significantly offloaded Japanese bonds, totaling over 1.8 trillion yen in the week ending April 25, driven by inflation fears from soaring oil prices and anticipation of the Bank of ..."
+        },
+        {
+          "title": "Powell’s Next Move: Stability at the Fed or Political Storm? ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/powells-next-move-stability-at-the-fed-or-political-storm/slideshow/130670470.cms",
+          "content": "Jerome Powell plans to stay on the Federal Reserve board post-tenure, aiming to safeguard independence amid political tensions, though risks of leadership conflict and communication challenges remain.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 01 May 2026 10:11:35 +0530",
+          "summary": "Jerome Powell plans to stay on the Federal Reserve board post-tenure, aiming to safeguard independence amid political tensions, though risks of leadership conflict and communication challenges remain...."
+        }
+      ],
+      "generatedAt": "2026-05-01T05:09:43.384Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "This organoid can menstruate — and shows how tissue can repair itself",
+          "url": "https://www.nature.com/articles/d41586-026-01428-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Continuously graded-doped SnO<sub>2</sub> for efficient n–i–p perovskite solar cells",
+          "url": "https://www.nature.com/articles/s41586-026-10587-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-04-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists reveal the best exercise for knee arthritis pain relief",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
+          "content": "A major review of 217 trials shows that aerobic exercise is the most effective option for managing knee osteoarthritis. Activities like walking, cycling, and swimming outperformed other exercise types in reducing pain and improving movement. While alternatives like strength training and mind-body exercises help, they are best used alongside aerobic workouts. The findings also confirm that exercise is a safe and essential part of treatment.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 30 Apr 2026 03:30:17 EDT",
+          "summary": "A major review of 217 trials shows that aerobic exercise is the most effective option for managing knee osteoarthritis. Activities like walking, cycling, and swimming outperformed other exercise types..."
+        },
+        {
+          "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260429232851.htm",
+          "content": "For the first time, scientists have watched a subduction zone literally fall apart beneath the ocean floor. Using advanced seismic imaging, they found the Juan de Fuca plate splitting into fragments as it sinks beneath North America. Rather than collapsing all at once, the plate is tearing piece by piece, like a train slowly derailing. The finding helps explain ancient plate fragments and could refine how scientists understand earthquake behavior.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 29 Apr 2026 23:36:37 EDT",
+          "summary": "For the first time, scientists have watched a subduction zone literally fall apart beneath the ocean floor. Using advanced seismic imaging, they found the Juan de Fuca plate splitting into fragments a..."
+        },
+        {
+          "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
+          "url": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+          "content": "Using AI tools, the team reworked part of the ribosome to need one less amino acid.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 30 Apr 2026 19:34:15 +0000",
+          "summary": "Using AI tools, the team reworked part of the ribosome to need one less amino acid...."
+        },
+        {
+          "title": "Professional school grads from diverse classes get higher salaries",
+          "url": "https://arstechnica.com/science/2026/04/professional-school-grads-from-diverse-classes-get-higher-salaries/",
+          "content": "Study authors say courts should reconsider rulings in light of this new evidence.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 29 Apr 2026 15:55:55 +0000",
+          "summary": "Study authors say courts should reconsider rulings in light of this new evidence...."
+        }
+      ],
+      "generatedAt": "2026-05-01T05:09:44.833Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
+          "url": "https://github.com/kernalix7/winpodx",
+          "content": "Article URL: https://github.com/kernalix7/winpodx\nComments URL: https://news.ycombinator.com/item?id=47970690\nPoints: 46\n# Comments: 25",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 01 May 2026 02:23:43 +0000",
+          "summary": "Article URL: https://github.com/kernalix7/winpodx\nComments URL: https://news.ycombinator.com/item?id=47970690\nPoints: 46\n# Comments: 25..."
+        },
+        {
+          "title": "OpenWarp",
+          "url": "https://openwarp.zerx.dev",
+          "content": "Article URL: https://openwarp.zerx.dev\nComments URL: https://news.ycombinator.com/item?id=47970622\nPoints: 52\n# Comments: 54",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 01 May 2026 02:10:46 +0000",
+          "summary": "Article URL: https://openwarp.zerx.dev\nComments URL: https://news.ycombinator.com/item?id=47970622\nPoints: 52\n# Comments: 54..."
+        },
+        {
+          "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+          "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+          "content": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 01 May 2026 02:00:00 +0000",
+          "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits...."
+        },
+        {
+          "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+          "url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+          "content": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 30 Apr 2026 23:59:15 +0000",
+          "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business...."
+        }
+      ],
+      "generatedAt": "2026-05-01T05:09:48.120Z"
+    }
+  ]
+}
