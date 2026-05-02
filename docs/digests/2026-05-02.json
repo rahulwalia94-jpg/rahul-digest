@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T04:42:57.349Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Market Participants Survey results - April 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-april-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 01 May 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        },
+        {
+          "title": "Bank of England Weekly Report 29 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Apr 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-02T04:42:50.919Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "AI evals are becoming the new compute bottleneck",
+          "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 16:45:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite 4.1 LLMs: How They’re Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 15:01:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+        },
+        {
+          "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+          "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+          "content": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 01 May 2026 22:08:19 +0000",
+          "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h..."
+        },
+        {
+          "title": "Cyber-Insecurity in the AI Era",
+          "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+          "content": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 01 May 2026 15:54:01 +0000",
+          "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s..."
+        }
+      ],
+      "generatedAt": "2026-05-02T04:42:52.435Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Farage accused of ‘conflict of interest’ over £5mn gift from crypto investor",
+          "url": "https://www.ft.com/content/6a56c3fb-07c9-42c2-902a-3b6294640b0a",
+          "content": "Rival parties highlight how Reform UK has proposed cutting tax and regulation on the digital assets industry",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 02 May 2026 04:00:41 GMT",
+          "summary": "Rival parties highlight how Reform UK has proposed cutting tax and regulation on the digital assets industry..."
+        },
+        {
+          "title": "Meta stock might look cheap if it weren’t for Mark Zuckerberg",
+          "url": "https://www.ft.com/content/85732906-e384-4706-be04-644023d18121",
+          "content": "Not only is the Facebook boss spinning a lot of plates, but his worldview is not like that of a typical chief executive",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 02 May 2026 04:00:41 GMT",
+          "summary": "Not only is the Facebook boss spinning a lot of plates, but his worldview is not like that of a typical chief executive..."
+        },
+        {
+          "title": "\n        Can countries grow richer by exporting people, not goods?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/30/can-countries-grow-richer-by-exporting-people-not-goods",
+          "content": "That depends where those people end up",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Apr 2026 09:40:15 +0000",
+          "summary": "That depends where those people end up..."
+        },
+        {
+          "title": "\n        India’s weak currency reflects deeper problems than the Iran war\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/30/indias-weak-currency-reflects-deeper-problems-than-the-iran-war",
+          "content": "It highlights a persistent inability to draw in foreign investors",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Apr 2026 09:38:15 +0000",
+          "summary": "It highlights a persistent inability to draw in foreign investors..."
+        },
+        {
+          "title": "8 out of 10 S&P 500 utility stocks beat EPS estimates this week: Earnings Scorecard",
+          "url": "https://seekingalpha.com/news/4584114-8-out-of-10-sp-500-utility-stocks-beat-eps-estimates-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 02 May 2026 00:15:43 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Liberty Global outlines EUR 500M 2028 free cash flow path for Ziggo Group while reconfirming 2026 guidance",
+          "url": "https://seekingalpha.com/news/4584435-liberty-global-outlines-eur-500m-2028-free-cash-flow-path-for-ziggo-group-while-reconfirming?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 01 May 2026 20:32:37 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Dollar set for sharp weekly loss versus yen after Japan steps in ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-set-for-sharp-weekly-loss-versus-yen-after-japan-steps-in/articleshow/130709940.cms",
+          "content": "The dollar logged its sharpest weekly drop against the yen since February amid suspected Japanese intervention. Authorities signalled discomfort with currency volatility, keeping markets cautious. However, sustained yen strength remains uncertain due to policy divergence with the Federal Reserve, while traders watch for further intervention during Japan’s Golden Week holiday period.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 02 May 2026 09:52:53 +0530",
+          "summary": "The dollar logged its sharpest weekly drop against the yen since February amid suspected Japanese intervention. Authorities signalled discomfort with currency volatility, keeping markets cautious. How..."
+        },
+        {
+          "title": "Gold turns positive as oil eases on hopes for Iran talks ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-turns-positive-as-oil-eases-on-hopes-for-iran-talks/articleshow/130709912.cms",
+          "content": "Gold edged higher after recovering from sharp early losses, supported by hopes of easing Iran tensions and a softer dollar. However, the metal remained on track for a weekly decline amid a hawkish Federal Reserve stance. Inflation risks and elevated yields continued to cap gains, while silver outperformed on strong demand outlook.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 02 May 2026 09:50:47 +0530",
+          "summary": "Gold edged higher after recovering from sharp early losses, supported by hopes of easing Iran tensions and a softer dollar. However, the metal remained on track for a weekly decline amid a hawkish Fed..."
+        }
+      ],
+      "generatedAt": "2026-05-02T04:42:54.781Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
+          "url": "https://www.nature.com/articles/s41586-026-10601-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
+          "url": "https://www.nature.com/articles/d41586-026-01439-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
+          "content": "Deep in a dried-up riverbed in Brazil, scientists uncovered a bizarre prehistoric mystery—twisted jawbones from a strange, long-lost animal unlike anything seen before. Dating back 275 million years, this creature, named Tanyka amnicola, belonged to an ancient lineage that should have already faded away, making it a kind of “living fossil” of its time.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 01 May 2026 09:07:15 EDT",
+          "summary": "Deep in a dried-up riverbed in Brazil, scientists uncovered a bizarre prehistoric mystery—twisted jawbones from a strange, long-lost animal unlike anything seen before. Dating back 275 million years, ..."
+        },
+        {
+          "title": "This “Pink Floyd” spider hunts prey 6x its size and lives in walls",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260501052851.htm",
+          "content": "Scientists have uncovered a tiny wall-dwelling spider named Pikelinia floydmuraria, inspired by Pink Floyd. Despite its size, it’s a fierce predator that hunts ants much larger than itself and helps reduce common urban pests like mosquitoes and flies. Its clever strategy of building webs near lights makes it especially effective. The discovery also raises new questions about its mysterious link to similar spiders in the Galápagos.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 01 May 2026 08:27:27 EDT",
+          "summary": "Scientists have uncovered a tiny wall-dwelling spider named Pikelinia floydmuraria, inspired by Pink Floyd. Despite its size, it’s a fierce predator that hunts ants much larger than itself and helps r..."
+        },
+        {
+          "title": "Scorpions go terminator mode and reinforce their weapons with metal",
+          "url": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
+          "content": "Different hunting patterns seem to dictate different distributions of metal.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 01 May 2026 16:24:45 +0000",
+          "summary": "Different hunting patterns seem to dictate different distributions of metal...."
+        },
+        {
+          "title": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts",
+          "url": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
+          "content": "Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 01 May 2026 12:39:03 +0000",
+          "summary": "Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network...."
+        }
+      ],
+      "generatedAt": "2026-05-02T04:42:56.166Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Ask Jeeves Shut Down",
+          "url": "https://www.ask.com/",
+          "content": "Article URL: https://www.ask.com/\nComments URL: https://news.ycombinator.com/item?id=47983226\nPoints: 50\n# Comments: 20",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 02 May 2026 04:12:35 +0000",
+          "summary": "Article URL: https://www.ask.com/\nComments URL: https://news.ycombinator.com/item?id=47983226\nPoints: 50\n# Comments: 20..."
+        },
+        {
+          "title": "Create an MP4 video of a web page scrolling at a steady speed",
+          "url": "https://github.com/upenn/web-scroll-video",
+          "content": "Article URL: https://github.com/upenn/web-scroll-video\nComments URL: https://news.ycombinator.com/item?id=47982763\nPoints: 4\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 02 May 2026 02:26:38 +0000",
+          "summary": "Article URL: https://github.com/upenn/web-scroll-video\nComments URL: https://news.ycombinator.com/item?id=47982763\nPoints: 4\n# Comments: 1..."
+        },
+        {
+          "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+          "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+          "content": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 01 May 2026 23:06:50 +0000",
+          "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a..."
+        },
+        {
+          "title": "Musely secures $360M from General Catalyst without giving up equity",
+          "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+          "content": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 01 May 2026 22:39:05 +0000",
+          "summary": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition...."
+        }
+      ],
+      "generatedAt": "2026-05-02T04:42:57.349Z"
+    }
+  ]
+}
