@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T05:01:08.922Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Market Participants Survey results - April 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-april-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 01 May 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        },
+        {
+          "title": "Bank of England Weekly Report 29 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Apr 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-03T05:01:03.097Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "AI evals are becoming the new compute bottleneck",
+          "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 16:45:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite 4.1 LLMs: How They’re Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 15:01:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+        },
+        {
+          "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+          "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+          "content": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 01 May 2026 22:08:19 +0000",
+          "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h..."
+        },
+        {
+          "title": "Cyber-Insecurity in the AI Era",
+          "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+          "content": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 01 May 2026 15:54:01 +0000",
+          "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s..."
+        }
+      ],
+      "generatedAt": "2026-05-03T05:01:04.657Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Detroit carmakers warn of $5bn commodities shock due to Iran war",
+          "url": "https://www.ft.com/content/a24a24f6-064b-4f00-a339-edf597596d5a",
+          "content": "Sector faces rising prices for supplies from aluminium to plastics and paint",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 03 May 2026 04:00:13 GMT",
+          "summary": "Sector faces rising prices for supplies from aluminium to plastics and paint..."
+        },
+        {
+          "title": "Investors pile into clean energy as Iran war drives push for energy security",
+          "url": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
+          "content": "Renewables funds attract biggest flows for five years, as focus shifts from climate change to geopolitical crisis",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 03 May 2026 04:00:05 GMT",
+          "summary": "Renewables funds attract biggest flows for five years, as focus shifts from climate change to geopolitical crisis..."
+        },
+        {
+          "title": "\n        Can countries grow richer by exporting people, not goods?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/30/can-countries-grow-richer-by-exporting-people-not-goods",
+          "content": "That depends where those people end up",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Apr 2026 09:40:15 +0000",
+          "summary": "That depends where those people end up..."
+        },
+        {
+          "title": "\n        India’s weak currency reflects deeper problems than the Iran war\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/30/indias-weak-currency-reflects-deeper-problems-than-the-iran-war",
+          "content": "It highlights a persistent inability to draw in foreign investors",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Apr 2026 09:38:15 +0000",
+          "summary": "It highlights a persistent inability to draw in foreign investors..."
+        },
+        {
+          "title": "Exxon CEO turns 'positive' on 'uninvestable' Venezuela, where oil exports hit seven-year high",
+          "url": "https://seekingalpha.com/news/4584453-exxon-ceo-turns-positive-on-uninvestable-venezuela-where-oil-exports-hit-seven-year-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 02 May 2026 21:25:23 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "11 out of 13 materials stocks deliver EPS wins this week: Earnings Scorecard",
+          "url": "https://seekingalpha.com/news/4584296-11-out-of-13-materials-stocks-deliver-eps-wins-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 02 May 2026 15:50:10 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Kotak CEO flags IDBI valuation concerns as privatization drags ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-ceo-flags-idbi-valuation-concerns-as-privatization-drags/articleshow/130727492.cms",
+          "content": "IDBI Bank, backed by Life Insurance Corp. of India, reported quarterly earnings that missed estimates on Thursday, adding another layer of uncertainty to the timing and pricing of the divestment.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 03 May 2026 10:16:30 +0530",
+          "summary": "IDBI Bank, backed by Life Insurance Corp. of India, reported quarterly earnings that missed estimates on Thursday, adding another layer of uncertainty to the timing and pricing of the divestment...."
+        },
+        {
+          "title": "Election results of West Bengal and others on Monday. How should investors trade Nifty in that noise? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/election-results-of-west-bengal-and-others-on-monday-how-should-investors-trade-nifty-in-that-noise/articleshow/130727425.cms",
+          "content": "Foreign institutional investors (FIIs) remained net sellers for the tenth straight month in April, offloading around Rs 70,100 crore worth of Indian equities. So far in calendar 2026, overseas investors have pulled nearly Rs 2.4 lakh crore from local equities, pressured by a weaker rupee, rising US yields and crude oil hovering above $110 a barrel amid the Iran conflict.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 03 May 2026 10:10:51 +0530",
+          "summary": "Foreign institutional investors (FIIs) remained net sellers for the tenth straight month in April, offloading around Rs 70,100 crore worth of Indian equities. So far in calendar 2026, overseas investo..."
+        }
+      ],
+      "generatedAt": "2026-05-03T05:01:06.073Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
+          "url": "https://www.nature.com/articles/s41586-026-10601-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
+          "url": "https://www.nature.com/articles/d41586-026-01439-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "18th-century mechanical volcano roars to life 250 years later",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
+          "content": "A centuries-old vision of a mechanical volcano has finally erupted into reality, as two University of Melbourne engineering students recreated a design first imagined in 1775 by volcanology enthusiast Sir William Hamilton. Drawing from an 18th-century watercolor and a preserved sketch, they used modern tools like LED lighting and electronic systems to simulate the glowing flows and explosive drama of Mount Vesuvius.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 02 May 2026 09:27:56 EDT",
+          "summary": "A centuries-old vision of a mechanical volcano has finally erupted into reality, as two University of Melbourne engineering students recreated a design first imagined in 1775 by volcanology enthusiast..."
+        },
+        {
+          "title": "Boosting one protein helps the brain fight Alzheimer’s",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260502013550.htm",
+          "content": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 02 May 2026 08:57:35 EDT",
+          "summary": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost ..."
+        },
+        {
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "url": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
+          "content": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 02 May 2026 14:23:31 +0000",
+          "summary": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more..."
+        },
+        {
+          "title": "Scorpions go terminator mode and reinforce their weapons with metal",
+          "url": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
+          "content": "Different hunting patterns seem to dictate different distributions of metal.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 01 May 2026 16:24:45 +0000",
+          "summary": "Different hunting patterns seem to dictate different distributions of metal...."
+        }
+      ],
+      "generatedAt": "2026-05-03T05:01:07.236Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+          "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+          "content": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/\nComments URL: https://news.ycombinator.com/item?id=47993235\nPoints: 34\n# Comments: 8",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 03 May 2026 04:05:28 +0000",
+          "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/\nComments URL: https://news.ycombinator.com/item?id=47993235\nPo..."
+        },
+        {
+          "title": "Windows API Is Successful Cross-Platform API",
+          "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
+          "content": "Article URL: https://retrocoding.net/windows-api-is-successful-cross-platform-api\nComments URL: https://news.ycombinator.com/item?id=47992859\nPoints: 35\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 03 May 2026 02:53:29 +0000",
+          "summary": "Article URL: https://retrocoding.net/windows-api-is-successful-cross-platform-api\nComments URL: https://news.ycombinator.com/item?id=47992859\nPoints: 35\n# Comments: 7..."
+        },
+        {
+          "title": "AI-generated actors and scripts are now ineligible for Oscars",
+          "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+          "content": "Bad news for Tilly Norwood.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 02 May 2026 21:54:58 +0000",
+          "summary": "Bad news for Tilly Norwood...."
+        },
+        {
+          "title": "Farewell, Jeeves: Ask.com shuts down",
+          "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+          "content": "Owner IAC says it's discontinuing its search business.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 02 May 2026 21:11:28 +0000",
+          "summary": "Owner IAC says it's discontinuing its search business...."
+        }
+      ],
+      "generatedAt": "2026-05-03T05:01:08.922Z"
+    }
+  ]
+}
