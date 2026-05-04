@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T05:01:07.246Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Market Participants Survey results - April 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-april-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 01 May 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        },
+        {
+          "title": "Bank of England Weekly Report 29 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Apr 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-04T05:01:02.612Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "AI evals are becoming the new compute bottleneck",
+          "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 16:45:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite 4.1 LLMs: How They’re Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 15:01:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+        },
+        {
+          "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+          "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+          "content": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 01 May 2026 22:08:19 +0000",
+          "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h..."
+        },
+        {
+          "title": "Cyber-Insecurity in the AI Era",
+          "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+          "content": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 01 May 2026 15:54:01 +0000",
+          "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s..."
+        }
+      ],
+      "generatedAt": "2026-05-04T05:01:03.573Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "UAE fertiliser giant resorts to trucks to shift product out of Gulf",
+          "url": "https://www.ft.com/content/11a513b6-e0bf-4973-abfc-1d76cf9796ab",
+          "content": "Abu Dhabi’s Fertiglobe switches to land cargo to avoid Strait of Hormuz as soaring prices allow it to shoulder extra costs",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 04 May 2026 04:00:42 GMT",
+          "summary": "Abu Dhabi’s Fertiglobe switches to land cargo to avoid Strait of Hormuz as soaring prices allow it to shoulder extra costs..."
+        },
+        {
+          "title": "How America’s retail army came to rule the stock market",
+          "url": "https://www.ft.com/content/ee8a0604-84cb-44da-bb33-f36818944581",
+          "content": "Unbowed by the Iran war and other shocks, individual investors are buying their way to new heights of influence",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 04 May 2026 04:00:33 GMT",
+          "summary": "Unbowed by the Iran war and other shocks, individual investors are buying their way to new heights of influence..."
+        },
+        {
+          "title": "\n        Can countries grow richer by exporting people, not goods?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/30/can-countries-grow-richer-by-exporting-people-not-goods",
+          "content": "That depends where those people end up",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Apr 2026 09:40:15 +0000",
+          "summary": "That depends where those people end up..."
+        },
+        {
+          "title": "\n        India’s weak currency reflects deeper problems than the Iran war\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/04/30/indias-weak-currency-reflects-deeper-problems-than-the-iran-war",
+          "content": "It highlights a persistent inability to draw in foreign investors",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Apr 2026 09:38:15 +0000",
+          "summary": "It highlights a persistent inability to draw in foreign investors..."
+        },
+        {
+          "title": "Universal Logistics declares $0.105 dividend",
+          "url": "https://seekingalpha.com/news/4584508-universal-logistics-declares-0105-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 04 May 2026 00:42:38 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Petrus Resources declares CAD 0.01 dividend",
+          "url": "https://seekingalpha.com/news/4584507-petrus-resources-declares-cad-001-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 04 May 2026 00:37:41 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Zen Technologies shares tumble 11% after Q4 profit plunges 69% YoY ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/zen-technologies-shares-tumble-11-after-q4-profit-plunges-69-yoy/articleshow/130748592.cms",
+          "content": "Zen Technologies shares saw a sharp fall of 11 percent. This happened after the company reported a significant drop in its March quarter earnings. Net profit declined by 69 percent year-on-year. Revenue from operations also faced pressure, falling 45 percent. The company announced a final dividend of Re 1 per share. Its order book stood at Rs 1,336 crore.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 04 May 2026 09:51:42 +0530",
+          "summary": "Zen Technologies shares saw a sharp fall of 11 percent. This happened after the company reported a significant drop in its March quarter earnings. Net profit declined by 69 percent year-on-year. Reven..."
+        },
+        {
+          "title": "US Stock Market | Oil shock risk builds beneath AI-driven market euphoria ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oil-shock-risk-builds-beneath-ai-driven-market-euphoria/articleshow/130748431.cms",
+          "content": "Global equities are rallying on AI-driven optimism, with the S&P 500 hitting record highs amid strong earnings and stable economic conditions. However, a looming risk is emerging from the physical oil market, which is signalling potential disruption not yet priced into financial assets.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 04 May 2026 09:49:38 +0530",
+          "summary": "Global equities are rallying on AI-driven optimism, with the S&P 500 hitting record highs amid strong earnings and stable economic conditions. However, a looming risk is emerging from the physical oil..."
+        }
+      ],
+      "generatedAt": "2026-05-04T05:01:05.584Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
+          "url": "https://www.nature.com/articles/s41586-026-10601-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
+          "url": "https://www.nature.com/articles/d41586-026-01439-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260502233926.htm",
+          "content": "Astronomers have unleashed a powerful new AI tool called RAVEN to comb through data from NASA’s TESS mission—and it’s paying off in a big way. By analyzing millions of stars, the system has confirmed over 100 exoplanets, including 31 brand-new worlds, and identified thousands more promising candidates. What makes this especially exciting is the discovery of rare and extreme planets, like those that whip around their stars in less than a day and others lurking in the mysterious “Neptunian desert,” where planets are thought to be scarce.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 03 May 2026 00:56:52 EDT",
+          "summary": "Astronomers have unleashed a powerful new AI tool called RAVEN to comb through data from NASA’s TESS mission—and it’s paying off in a big way. By analyzing millions of stars, the system has confirmed ..."
+        },
+        {
+          "title": "Are your memories real? Physicists revisit the Boltzmann brain paradox",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260502233922.htm",
+          "content": "A new analysis of the “Boltzmann brain” paradox suggests our memories and sense of reality could, in theory, be random illusions born from cosmic chaos. By uncovering circular reasoning in how physicists think about time and entropy, the study raises fresh doubts about what we can truly know about the past.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 03 May 2026 07:47:08 EDT",
+          "summary": "A new analysis of the “Boltzmann brain” paradox suggests our memories and sense of reality could, in theory, be random illusions born from cosmic chaos. By uncovering circular reasoning in how physici..."
+        },
+        {
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "url": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
+          "content": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 02 May 2026 14:23:31 +0000",
+          "summary": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more..."
+        },
+        {
+          "title": "Scorpions go terminator mode and reinforce their weapons with metal",
+          "url": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
+          "content": "Different hunting patterns seem to dictate different distributions of metal.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 01 May 2026 16:24:45 +0000",
+          "summary": "Different hunting patterns seem to dictate different distributions of metal...."
+        }
+      ],
+      "generatedAt": "2026-05-04T05:01:06.325Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Humanoid Robot Actuators: The Complete Engineering Guide",
+          "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+          "content": "Article URL: https://www.firgelli.com/pages/humanoid-robot-actuators\nComments URL: https://news.ycombinator.com/item?id=48004380\nPoints: 7\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 04 May 2026 03:42:09 +0000",
+          "summary": "Article URL: https://www.firgelli.com/pages/humanoid-robot-actuators\nComments URL: https://news.ycombinator.com/item?id=48004380\nPoints: 7\n# Comments: 0..."
+        },
+        {
+          "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+          "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+          "content": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility\nComments URL: https://news.ycombinator.com/item?id=48002938\nPoints: 144\n# Comments: 61",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 03 May 2026 23:59:02 +0000",
+          "summary": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility\nComments URL: https://news.ycombinator.com/item?id=48002938\nPoints: 144\n# Comments: 61..."
+        },
+        {
+          "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+          "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+          "content": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 04 May 2026 02:02:25 +0000",
+          "summary": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process...."
+        },
+        {
+          "title": "‘This is fine’ creator says AI startup stole his art",
+          "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "content": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 03 May 2026 20:16:51 +0000",
+          "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"..."
+        }
+      ],
+      "generatedAt": "2026-05-04T05:01:07.246Z"
+    }
+  ]
+}
