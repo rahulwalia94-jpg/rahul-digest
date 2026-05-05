@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T04:44:06.851Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Market Participants Survey results - April 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-april-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 01 May 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        },
+        {
+          "title": "Bank of England Weekly Report 29 April 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-april-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Apr 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-05T04:44:02.753Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "AI evals are becoming the new compute bottleneck",
+          "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 16:45:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite 4.1 LLMs: How They’re Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 15:01:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+        },
+        {
+          "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+          "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 04 May 2026 15:51:27 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk..."
+        },
+        {
+          "title": "Tailoring AI solutions for health care needs",
+          "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+          "content": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 04 May 2026 13:00:00 +0000",
+          "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of carin..."
+        }
+      ],
+      "generatedAt": "2026-05-05T04:44:03.887Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Consumers face more pain as companies threaten price rises",
+          "url": "https://www.ft.com/content/f2d0d112-6e04-4f88-878e-30cb34ce1c2a",
+          "content": "Executives warn that a prolonged energy shock would increase pressure to pass on costs to customers",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 05 May 2026 04:00:34 GMT",
+          "summary": "Executives warn that a prolonged energy shock would increase pressure to pass on costs to customers..."
+        },
+        {
+          "title": "Why the Iran war might not spur a faster transition to low-carbon energy",
+          "url": "https://www.ft.com/content/2dc28c0c-ff06-4eea-bd19-60939c0da9bb",
+          "content": "Increased priority on security of power supply might see some countries double down on fossil fuels",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 05 May 2026 04:00:34 GMT",
+          "summary": "Increased priority on security of power supply might see some countries double down on fossil fuels..."
+        },
+        {
+          "title": "\n        The EU wants to unshackle its economy. For real this time\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/04/the-eu-wants-to-unshackle-its-economy-for-real-this-time",
+          "content": "Eurocrats are belatedly developing a healthy distaste for red tape",
+          "source": "The Economist",
+          "publishedAt": "Mon, 04 May 2026 19:47:42 +0000",
+          "summary": "Eurocrats are belatedly developing a healthy distaste for red tape..."
+        },
+        {
+          "title": "\n        Bad government statistics can cost the economy billions\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/04/bad-government-statistics-can-cost-the-economy-billions",
+          "content": "A new study tries to put a number on the value of reliable numbers",
+          "source": "The Economist",
+          "publishedAt": "Mon, 04 May 2026 18:21:33 +0000",
+          "summary": "A new study tries to put a number on the value of reliable numbers..."
+        },
+        {
+          "title": "ADP prices senior notes due 2036",
+          "url": "https://seekingalpha.com/news/4585310-adp-prices-senior-notes-due-2036?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 05 May 2026 00:39:06 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Delek Logistics Partners prices $800M senior notes",
+          "url": "https://seekingalpha.com/news/4585301-delek-logistics-partners-prices-800m-senior-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 05 May 2026 00:30:45 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "IPO investors brace for 83 lock-in expiries worth $55 billion in three months. Do you own any? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ipo-investors-brace-for-83-lock-in-expiries-worth-55-billion-in-three-months-do-you-own-any/articleshow/130816007.cms",
+          "content": "IPO investors are bracing for a significant wave of lock-in expiries between May and August, with shares of 83 newly-listed companies valued at $55 billion becoming eligible for trade. This period will see major companies like Lenskart, Groww, and Pine Labs experience their lock-in periods ending, potentially impacting market dynamics.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 05 May 2026 09:56:51 +0530",
+          "summary": "IPO investors are bracing for a significant wave of lock-in expiries between May and August, with shares of 83 newly-listed companies valued at $55 billion becoming eligible for trade. This period wil..."
+        },
+        {
+          "title": "US Stock Market: US equity fund inflows hit six-week low amid oil price surge and rate uncertainty ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-us-equity-fund-inflows-hit-six-week-low-amid-oil-price-surge-and-rate-uncertainty/articleshow/130815691.cms",
+          "content": "Investor demand for US equities weakened, with fund inflows falling to a six-week low of $911 million. Rising oil prices and uncertainty around interest rates, especially ahead of the Federal Reserve policy decision, dampened risk appetite and made investors more cautious.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 05 May 2026 09:49:16 +0530",
+          "summary": "Investor demand for US equities weakened, with fund inflows falling to a six-week low of $911 million. Rising oil prices and uncertainty around interest rates, especially ahead of the Federal Reserve ..."
+        }
+      ],
+      "generatedAt": "2026-05-05T04:44:05.116Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Powerful tools are revealing the ‘control knobs’ of the genome",
+          "url": "https://www.nature.com/articles/d41586-026-01410-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Hantavirus crops up on a cruise ship — what scientists are watching",
+          "url": "https://www.nature.com/articles/d41586-026-01450-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists say travel could slow aging and boost your health",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
+          "content": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 04 May 2026 22:42:07 EDT",
+          "summary": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay ..."
+        },
+        {
+          "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+          "content": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers created exotic quantum states that could be far more stable and resistant to errors—one of the biggest challenges in quantum computing. This breakthrough suggests that the future of quantum technology may depend not just on what materials are made of, but how they’re manipulated in time.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 04 May 2026 22:48:12 EDT",
+          "summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials w..."
+        },
+        {
+          "title": "Trump administration cites national security in stalling 165 wind farms",
+          "url": "https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/",
+          "content": "Onshore wind development in the United States is being brought to a standstill.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 04 May 2026 13:23:22 +0000",
+          "summary": "Onshore wind development in the United States is being brought to a standstill...."
+        },
+        {
+          "title": "MIT's virtual violin offers luthiers a new design tool",
+          "url": "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/",
+          "content": "Computational model lets users tweak parameters to hear effect on the sound in early design process.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 04 May 2026 13:12:26 +0000",
+          "summary": "Computational model lets users tweak parameters to hear effect on the sound in early design process...."
+        }
+      ],
+      "generatedAt": "2026-05-05T04:44:06.018Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+          "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+          "content": "Article URL: https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/\nComments URL: https://news.ycombinator.com/item?id=48017813\nPoints: 19\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 05 May 2026 03:43:08 +0000",
+          "summary": "Article URL: https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/\nComments URL: https://news.ycombinator.com/item?id=48017813\nPoints: 19\n# Comments: 5..."
+        },
+        {
+          "title": "An LLM agent that runs on any Linux box",
+          "url": "https://getclaw.site/#demo",
+          "content": "Article URL: https://getclaw.site/#demo\nComments URL: https://news.ycombinator.com/item?id=48017602\nPoints: 11\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 05 May 2026 03:00:50 +0000",
+          "summary": "Article URL: https://getclaw.site/#demo\nComments URL: https://news.ycombinator.com/item?id=48017602\nPoints: 11\n# Comments: 1..."
+        },
+        {
+          "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+          "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+          "content": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 05 May 2026 03:31:54 +0000",
+          "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated...."
+        },
+        {
+          "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+          "url": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+          "content": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 05 May 2026 00:13:30 +0000",
+          "summary": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion...."
+        }
+      ],
+      "generatedAt": "2026-05-05T04:44:06.851Z"
+    }
+  ]
+}
