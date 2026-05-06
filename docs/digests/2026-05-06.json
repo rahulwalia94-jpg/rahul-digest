@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T04:57:07.447Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q1",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q1",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 05 May 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        },
+        {
+          "title": "Market Participants Survey results - April 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-april-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 01 May 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        }
+      ],
+      "generatedAt": "2026-05-06T04:57:02.858Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Granite 4.1 LLMs: How They’re Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 15:01:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+          "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 29 Apr 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+        },
+        {
+          "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+          "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 05 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the ..."
+        },
+        {
+          "title": "A blueprint for using AI to strengthen democracy",
+          "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+          "content": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 05 May 2026 09:00:00 +0000",
+          "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, repr..."
+        }
+      ],
+      "generatedAt": "2026-05-06T04:57:04.268Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Samsung Electronics hits $1tn value on AI euphoria",
+          "url": "https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8",
+          "content": "Memory chip giant’s surge pushes South Korea’s Kospi to new record",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 06 May 2026 04:01:00 GMT",
+          "summary": "Memory chip giant’s surge pushes South Korea’s Kospi to new record..."
+        },
+        {
+          "title": "Kravis and Roberts on KKR at 50",
+          "url": "https://www.ft.com/content/f52559cf-0639-4746-8326-78c1b83da2d9",
+          "content": "The original private equity barbarian celebrates its birthday as the $22tn private markets face a fraught moment",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 06 May 2026 04:00:41 GMT",
+          "summary": "The original private equity barbarian celebrates its birthday as the $22tn private markets face a fraught moment..."
+        },
+        {
+          "title": "\n        Can Bill Ackman save the closed-end fund?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/05/can-bill-ackman-save-the-closed-end-fund",
+          "content": "An outspoken financier wants to build a modern-day Berkshire Hathaway",
+          "source": "The Economist",
+          "publishedAt": "Tue, 05 May 2026 19:59:27 +0000",
+          "summary": "An outspoken financier wants to build a modern-day Berkshire Hathaway..."
+        },
+        {
+          "title": "\n        The EU wants to unshackle its economy. For real this time\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/04/the-eu-wants-to-unshackle-its-economy-for-real-this-time",
+          "content": "Eurocrats are belatedly developing a healthy distaste for red tape",
+          "source": "The Economist",
+          "publishedAt": "Mon, 04 May 2026 19:47:42 +0000",
+          "summary": "Eurocrats are belatedly developing a healthy distaste for red tape..."
+        },
+        {
+          "title": "Timbercreek Financial reports Q1 results",
+          "url": "https://seekingalpha.com/news/4586594-timbercreek-financial-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 06 May 2026 00:55:00 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "MGE Energy GAAP EPS of $1.32, revenue of $242.7M",
+          "url": "https://seekingalpha.com/news/4586593-mge-energy-gaap-eps-of-132-revenue-of-2427m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 06 May 2026 00:53:23 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Nifty hit by $39 billion FII selloff but why is BlackRock's Ben Powell betting big on India ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-hit-by-39-billion-fii-selloff-but-why-is-blackrocks-ben-powell-betting-big-on-india/articleshow/130844064.cms",
+          "content": "Despite a $39 billion FII selloff, BlackRock's Ben Powell remains overweight on India, citing normalized valuations and strong medium-term economic prospects driven by demographics and reforms. He attributes the foreign exodus to AI fever and the energy crisis, neither of which he believes alters India's fundamental growth story.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 06 May 2026 10:08:59 +0530",
+          "summary": "Despite a $39 billion FII selloff, BlackRock's Ben Powell remains overweight on India, citing normalized valuations and strong medium-term economic prospects driven by demographics and reforms. He att..."
+        },
+        {
+          "title": "Hero MotoCorp shares gain 2% after Q4 results. Why Goldman Sachs still forecasts 16% downside? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motocorp-shares-gain-2-after-q4-results-why-goldman-sachs-still-forecasts-16-downside/articleshow/130844033.cms",
+          "content": "Hero MotoCorp shares edged higher on Wednesday after the company reported record Q4 FY26 revenue and profit. However, Goldman Sachs still expects a 16% downside, flagging risks from commodity inflation, supply-chain stability and FY27 market-share trends, even as strong volumes, premium launches and the electric mobility segment drive momentum.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 06 May 2026 09:54:23 +0530",
+          "summary": "Hero MotoCorp shares edged higher on Wednesday after the company reported record Q4 FY26 revenue and profit. However, Goldman Sachs still expects a 16% downside, flagging risks from commodity inflatio..."
+        }
+      ],
+      "generatedAt": "2026-05-06T04:57:05.640Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Editorial Expression of Concern: Nociceptive neurons promote gastric tumour progression via a CGRP–RAMP1 axis",
+          "url": "https://www.nature.com/articles/s41586-026-10594-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-05T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Precision medicine without equity is just stratified inequality",
+          "url": "https://www.nature.com/articles/d41586-026-01442-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-05T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Breakthrough biomaterial heals tissue from the inside out",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504211842.htm",
+          "content": "Scientists have developed a breakthrough injectable biomaterial that travels through the bloodstream to repair damaged tissue from within, reducing inflammation and jumpstarting healing. In animal studies, it successfully treated heart attack damage and even showed promise for conditions like traumatic brain injury and pulmonary hypertension. Unlike earlier approaches that required direct injection into the heart, this new therapy can be delivered intravenously, allowing it to spread evenly and act quickly.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 05 May 2026 14:20:47 EDT",
+          "summary": "Scientists have developed a breakthrough injectable biomaterial that travels through the bloodstream to repair damaged tissue from within, reducing inflammation and jumpstarting healing. In animal stu..."
+        },
+        {
+          "title": "Scientists say travel could slow aging and boost your health",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
+          "content": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 04 May 2026 22:42:07 EDT",
+          "summary": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay ..."
+        },
+        {
+          "title": "Trump administration cites national security in stalling 165 wind farms",
+          "url": "https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/",
+          "content": "Onshore wind development in the United States is being brought to a standstill.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 04 May 2026 13:23:22 +0000",
+          "summary": "Onshore wind development in the United States is being brought to a standstill...."
+        },
+        {
+          "title": "MIT's virtual violin offers luthiers a new design tool",
+          "url": "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/",
+          "content": "Computational model lets users tweak parameters to hear effect on the sound in early design process.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 04 May 2026 13:12:26 +0000",
+          "summary": "Computational model lets users tweak parameters to hear effect on the sound in early design process...."
+        }
+      ],
+      "generatedAt": "2026-05-06T04:57:06.635Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping",
+          "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+          "content": "Article URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now\nComments URL: https://news.ycombinator.com/item?id=48031867\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 06 May 2026 03:37:51 +0000",
+          "summary": "Article URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now\nComments URL: https://news.ycombinator.com/item?id=48031867\nPoin..."
+        },
+        {
+          "title": "Ombudsman column: The Pentagon is trying to silence me",
+          "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+          "content": "Article URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html\nComments URL: https://news.ycombinator.com/item?id=48031769\nPoints: 65\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 06 May 2026 03:24:49 +0000",
+          "summary": "Article URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html\nComments URL: https://news.ycombinator.com/item?id=48031769\nPoints: 65\n# Comme..."
+        },
+        {
+          "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+          "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+          "content": "The Silicon Valley AV startup has not started driverless testing yet.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 06 May 2026 00:07:47 +0000",
+          "summary": "The Silicon Valley AV startup has not started driverless testing yet...."
+        },
+        {
+          "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+          "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+          "content": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 05 May 2026 23:50:10 +0000",
+          "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw...."
+        }
+      ],
+      "generatedAt": "2026-05-06T04:57:07.447Z"
+    }
+  ]
+}
