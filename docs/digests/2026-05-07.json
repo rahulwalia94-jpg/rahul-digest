@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T04:59:11.288Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q1",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q1",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 05 May 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        },
+        {
+          "title": "Market Participants Survey results - April 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-april-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 01 May 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        }
+      ],
+      "generatedAt": "2026-05-07T04:59:05.568Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 06 May 2026 19:06:55 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 06 May 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+        },
+        {
+          "title": "The Download: seafloor science and military chatbots",
+          "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 06 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea..."
+        },
+        {
+          "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+          "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 05 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the ..."
+        }
+      ],
+      "generatedAt": "2026-05-07T04:59:07.295Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Marc Rowan rips private capital’s marks",
+          "url": "https://www.ft.com/content/022209c0-cd64-4149-ba17-30c86f664321",
+          "content": "Apollo Global chief executive warns about ‘day one mark-ups’ of private equity funds sold to retail investors",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 07 May 2026 04:00:23 GMT",
+          "summary": "Apollo Global chief executive warns about ‘day one mark-ups’ of private equity funds sold to retail investors..."
+        },
+        {
+          "title": "Wells Fargo whistleblower appeals for restoration of $180mn award",
+          "url": "https://www.ft.com/content/3c574e56-3638-4342-b671-c6e1158b214b",
+          "content": "Payout to bank’s former security chief was cut to $55mn two weeks after Trump appointee became SEC chair",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 07 May 2026 04:00:14 GMT",
+          "summary": "Payout to bank’s former security chief was cut to $55mn two weeks after Trump appointee became SEC chair..."
+        },
+        {
+          "title": "\n        Can Bill Ackman save the closed-end fund?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/05/can-bill-ackman-save-the-closed-end-fund",
+          "content": "An outspoken financier wants to build a modern-day Berkshire Hathaway",
+          "source": "The Economist",
+          "publishedAt": "Tue, 05 May 2026 19:59:27 +0000",
+          "summary": "An outspoken financier wants to build a modern-day Berkshire Hathaway..."
+        },
+        {
+          "title": "\n        The EU wants to unshackle its economy. For real this time\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/04/the-eu-wants-to-unshackle-its-economy-for-real-this-time",
+          "content": "Eurocrats are belatedly developing a healthy distaste for red tape",
+          "source": "The Economist",
+          "publishedAt": "Mon, 04 May 2026 19:47:42 +0000",
+          "summary": "Eurocrats are belatedly developing a healthy distaste for red tape..."
+        },
+        {
+          "title": "Fortuna Silver Mines reports mixed Q1 results; on track to deliver 2026 production guidance",
+          "url": "https://seekingalpha.com/news/4587972-fortuna-silver-mines-reports-mixed-q1-results-on-track-to-deliver-2026-production-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 07 May 2026 00:49:53 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Denarius Metals drops pursuit of Emerita Resources acquisition talks",
+          "url": "https://seekingalpha.com/news/4587965-denarius-metals-drops-pursuit-of-emerita-resources-acquisition-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 07 May 2026 00:48:01 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Whirlpool stock crashes after weak outlook and price hike warning ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/whirlpool-stock-crashes-after-weak-outlook-and-price-hike-warning/slideshow/130879932.cms",
+          "content": "Whirlpool shares plunged nearly 17% after the appliance maker cut its 2026 outlook, suspended dividends, and warned of further price hikes. Weak consumer demand, rising inflationary pressures, tariff uncertainty, and slowing housing activity continue to weigh on the company’s performance, while analysts remain cautious about the timing of any recovery.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 07 May 2026 10:17:46 +0530",
+          "summary": "Whirlpool shares plunged nearly 17% after the appliance maker cut its 2026 outlook, suspended dividends, and warned of further price hikes. Weak consumer demand, rising inflationary pressures, tariff ..."
+        },
+        {
+          "title": "Godrej Consumer shares tumble 6% despite Q4 show. Should you buy, sell or hold the stock? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/godrej-consumer-shares-tumble-6-despite-q4-show-should-you-buy-sell-or-hold-the-stock/articleshow/130879655.cms",
+          "content": "Godrej Consumer Products shares dropped nearly 6% on Thursday despite reporting a 9.7% YoY rise in Q4 net profit and double-digit revenue growth. Brokerages remained positive on the stock, citing strong domestic volume growth, improving Indonesia business trends, and margin guidance for FY27, while warning of near-term input cost pressures and demand risks.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 07 May 2026 10:13:37 +0530",
+          "summary": "Godrej Consumer Products shares dropped nearly 6% on Thursday despite reporting a 9.7% YoY rise in Q4 net profit and double-digit revenue growth. Brokerages remained positive on the stock, citing stro..."
+        }
+      ],
+      "generatedAt": "2026-05-07T04:59:09.027Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Enteric neurons increase maternal food intake during reproduction",
+          "url": "https://www.nature.com/articles/s41586-026-10201-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-06T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Multidimensional profiling of heterogeneity in supratentorial ependymomas",
+          "url": "https://www.nature.com/articles/s41586-026-10602-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-06T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This town found clean energy deep inside old coal mines",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260505234631.htm",
+          "content": "Cumberland, B.C. is reimagining its coal mining past as a clean energy opportunity. Water trapped in abandoned mine tunnels could be used in a geothermal system to heat and cool buildings efficiently and with minimal emissions. The project could lower energy costs, support new development, and attract businesses. It’s a striking example of turning industrial leftovers into a sustainable community asset.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 06 May 2026 19:10:20 EDT",
+          "summary": "Cumberland, B.C. is reimagining its coal mining past as a clean energy opportunity. Water trapped in abandoned mine tunnels could be used in a geothermal system to heat and cool buildings efficiently ..."
+        },
+        {
+          "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260505234622.htm",
+          "content": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea that wildly different processes—from crystals to living systems—may all follow the same hidden rules.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 06 May 2026 20:28:28 EDT",
+          "summary": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea t..."
+        },
+        {
+          "title": "SpaceX is starting to move on from the world's most successful rocket",
+          "url": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
+          "content": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 06 May 2026 22:28:47 +0000",
+          "summary": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now...."
+        },
+        {
+          "title": "Here's what has to happen if NASA wants to land on the Moon every month",
+          "url": "https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/",
+          "content": "NASA is serious about taking more shots on goal, but some of them need to start landing.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 06 May 2026 14:56:20 +0000",
+          "summary": "NASA is serious about taking more shots on goal, but some of them need to start landing...."
+        }
+      ],
+      "generatedAt": "2026-05-07T04:59:10.210Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "We programmed a program to program new programs (2011)",
+          "url": "https://www.smbc-comics.com/comic/2011-09-08",
+          "content": "Article URL: https://www.smbc-comics.com/comic/2011-09-08\nComments URL: https://news.ycombinator.com/item?id=48045067\nPoints: 12\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 07 May 2026 03:21:30 +0000",
+          "summary": "Article URL: https://www.smbc-comics.com/comic/2011-09-08\nComments URL: https://news.ycombinator.com/item?id=48045067\nPoints: 12\n# Comments: 1..."
+        },
+        {
+          "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+          "url": "https://aniket.foo/posts/20260505-netboot/",
+          "content": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 07 May 2026 03:13:24 +0000",
+          "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 4\n# Comments: 0..."
+        },
+        {
+          "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+          "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+          "content": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 06 May 2026 22:30:00 +0000",
+          "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size...."
+        },
+        {
+          "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+          "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+          "content": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 06 May 2026 21:57:56 +0000",
+          "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails...."
+        }
+      ],
+      "generatedAt": "2026-05-07T04:59:11.288Z"
+    }
+  ]
+}
