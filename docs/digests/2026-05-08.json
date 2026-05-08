@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T04:38:48.147Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 6 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/6-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 07 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q1",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q1",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 05 May 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        }
+      ],
+      "generatedAt": "2026-05-08T04:38:41.924Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 06 May 2026 19:06:55 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 06 May 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+          "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science...."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+          "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and far from guaranteed…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 07 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into th..."
+        },
+        {
+          "title": "The balcony solar boom is coming to the US",
+          "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+          "content": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 07 May 2026 10:00:00 +0000",
+          "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions..."
+        }
+      ],
+      "generatedAt": "2026-05-08T04:38:43.799Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Paying with your face will become mainstream, says Korean fintech group",
+          "url": "https://www.ft.com/content/f48b4605-1aa9-4549-9197-fc1c2a361b90",
+          "content": "Toss aims to ‘eliminate physical credit cards’ in South Korea in three years",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 08 May 2026 03:00:16 GMT",
+          "summary": "Toss aims to ‘eliminate physical credit cards’ in South Korea in three years..."
+        },
+        {
+          "title": "US and Iran clash in Hormuz as ceasefire comes under strain",
+          "url": "https://www.ft.com/content/90225b9c-707c-4877-931d-5022d1ed583f",
+          "content": "Washington says it launched strikes after Tehran attacked American destroyers",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 08 May 2026 02:56:19 GMT",
+          "summary": "Washington says it launched strikes after Tehran attacked American destroyers..."
+        },
+        {
+          "title": "\n        The myth of the petrodollar \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/07/the-myth-of-the-petrodollar",
+          "content": "The dominance of America’s currency runs deeper than oil",
+          "source": "The Economist",
+          "publishedAt": "Thu, 07 May 2026 10:29:11 +0000",
+          "summary": "The dominance of America’s currency runs deeper than oil..."
+        },
+        {
+          "title": "\n        DeepSeek and Alibaba rescue China’s office landlords\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/07/deepseek-and-alibaba-rescue-chinas-office-landlords",
+          "content": "Technology firms are reviving (a few) Chinese commercial-property markets",
+          "source": "The Economist",
+          "publishedAt": "Thu, 07 May 2026 10:19:56 +0000",
+          "summary": "Technology firms are reviving (a few) Chinese commercial-property markets..."
+        },
+        {
+          "title": "Concentra Group Holdings Parent declares $0.0625 dividend",
+          "url": "https://seekingalpha.com/news/4589463-concentra-group-holdings-parent-declares-00625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 08 May 2026 00:33:45 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Palvella targets 2H 2026 NDA filing while outlining >$1B peak U.S. sales potential for QTORIN rapamycin in microcystic lymphatic malformations",
+          "url": "https://seekingalpha.com/news/4589462-palvella-targets-2h-2026-nda-filing-while-outlining-1b-peak-u-s-sales-potential-for-qtorin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 08 May 2026 00:32:53 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "LIC’s $2 billion contrarian bet: 10 stocks the DII giant bought while the market bled ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/lics-2-billion-contrarian-bet-10-stocks-the-dii-giant-bought-while-the-market-bled/articleshow/130947243.cms",
+          "content": "Life Insurance Corporation of India invested nearly $2 billion in 10 stocks during the March quarter's market fall. LIC bought shares in companies like Bajaj Finance, Bharti Airtel, TCS, and Infosys even as their prices dropped. This strategic move saw LIC increase its stake in several companies. The insurer also reduced holdings in other stocks, showing a selective approach.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 08 May 2026 09:46:57 +0530",
+          "summary": "Life Insurance Corporation of India invested nearly $2 billion in 10 stocks during the March quarter's market fall. LIC bought shares in companies like Bajaj Finance, Bharti Airtel, TCS, and Infosys e..."
+        },
+        {
+          "title": "US Stock Market: Inflation expectations remain stable despite energy price surge: Fed’s Mary Daly ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-inflation-expectations-remain-stable-despite-energy-price-surge-feds-mary-daly/articleshow/130947670.cms",
+          "content": "Federal Reserve's Mary Daly affirmed the central bank's commitment to its 2% inflation target, stating that rising energy prices have not yet impacted medium- or long-term inflation expectations. She emphasized that the Fed's current monetary policy is 'slightly restrictive' and that a resolution to the U.S.-Iran conflict could further ease inflationary pressures.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 08 May 2026 09:41:36 +0530",
+          "summary": "Federal Reserve's Mary Daly affirmed the central bank's commitment to its 2% inflation target, stating that rising energy prices have not yet impacted medium- or long-term inflation expectations. She ..."
+        }
+      ],
+      "generatedAt": "2026-05-08T04:38:45.672Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
+          "url": "https://www.nature.com/articles/s41586-026-10608-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-07T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "There is no vaccine for deadly hantavirus: what that means for future outbreaks",
+          "url": "https://www.nature.com/articles/d41586-026-01494-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-07T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists accidentally discover DNA that breaks the rules of life",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
+          "content": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instead of following the near-universal “rules” of life, this newly identified protist rewrites how genes signal their end. This unexpected discovery challenges long-held assumptions about how genetic translation works and hints that nature may be far more flexible—and mysterious—than scientists realized.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 07 May 2026 03:01:21 EDT",
+          "summary": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instea..."
+        },
+        {
+          "title": "New “Trojan horse” obesity drug supercharges weight loss in early tests",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260506225428.htm",
+          "content": "Researchers have created a next-generation obesity drug that works like a “Trojan horse,” using GLP-1/GIP signals to slip a powerful metabolic enhancer directly into target cells. In mice, it outperformed existing treatments—curbing appetite, increasing weight loss, and improving blood sugar levels. Because the extra drug acts only where it’s needed, it can be used at much lower doses, potentially reducing side effects.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 07 May 2026 06:37:46 EDT",
+          "summary": "Researchers have created a next-generation obesity drug that works like a “Trojan horse,” using GLP-1/GIP signals to slip a powerful metabolic enhancer directly into target cells. In mice, it outperfo..."
+        },
+        {
+          "title": "RIP social media. What comes next is messy.",
+          "url": "https://arstechnica.com/science/2026/05/rip-social-media-what-comes-next-is-messy/",
+          "content": "As social media splinters, how can we keep the new online spaces from devolving into toxic pits of despair?",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 07 May 2026 13:51:50 +0000",
+          "summary": "As social media splinters, how can we keep the new online spaces from devolving into toxic pits of despair?..."
+        },
+        {
+          "title": "SpaceX is starting to move on from the world's most successful rocket",
+          "url": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
+          "content": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 06 May 2026 22:28:47 +0000",
+          "summary": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now...."
+        }
+      ],
+      "generatedAt": "2026-05-08T04:38:46.817Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Komai: a fine Matrix chat app you can get to love",
+          "url": "https://etke.cc/blog/introducing-komai",
+          "content": "Article URL: https://etke.cc/blog/introducing-komai\nComments URL: https://news.ycombinator.com/item?id=48056804\nPoints: 31\n# Comments: 12",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 08 May 2026 00:10:44 +0000",
+          "summary": "Article URL: https://etke.cc/blog/introducing-komai\nComments URL: https://news.ycombinator.com/item?id=48056804\nPoints: 31\n# Comments: 12..."
+        },
+        {
+          "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+          "url": "https://github.com/robertdfrench/ifuncd-up",
+          "content": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 40\n# Comments: 15",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 08 May 2026 00:03:38 +0000",
+          "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 40\n# Comments: 15..."
+        },
+        {
+          "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
+          "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
+          "content": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 07 May 2026 23:11:43 +0000",
+          "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion...."
+        },
+        {
+          "title": "OpenAI launches new voice intelligence features in its API",
+          "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+          "content": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 07 May 2026 22:24:50 +0000",
+          "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms...."
+        }
+      ],
+      "generatedAt": "2026-05-08T04:38:48.147Z"
+    }
+  ]
+}
