@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T04:51:05.457Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Trade in services under regulatory barriers: evidence from UK banking",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/trade-in-services-under-regulatory-barriers-evidence-from-uk-banking",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 08 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 6 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/6-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 07 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-09T04:51:00.647Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 08 May 2026 17:41:05 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "EMO: Pretraining mixture of experts for emergent modularity",
+          "url": "https://huggingface.co/blog/allenai/emo",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 08 May 2026 16:03:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+          "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science...."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+          "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+          "content": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 08 May 2026 23:59:19 +0000",
+          "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman..."
+        },
+        {
+          "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+          "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+          "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 08 May 2026 16:19:40 +0000",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboa..."
+        }
+      ],
+      "generatedAt": "2026-05-09T04:51:01.809Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Europe’s €14tn cash pile benefits banks not retail investors, BlackRock warns",
+          "url": "https://www.ft.com/content/fa0042b7-029c-46bb-a961-193777fe7d40",
+          "content": "World’s largest asset manager says governments must address under-investment of retail money in capital markets",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 09 May 2026 04:00:35 GMT",
+          "summary": "World’s largest asset manager says governments must address under-investment of retail money in capital markets..."
+        },
+        {
+          "title": "Retail investors turn away from commercial property holdings",
+          "url": "https://www.ft.com/content/4cc67005-c680-411f-8069-a23ee75ecdb9",
+          "content": "Rising interest rates and lower demand have hit returns in the past decade",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 09 May 2026 04:00:35 GMT",
+          "summary": "Rising interest rates and lower demand have hit returns in the past decade..."
+        },
+        {
+          "title": "\n        The myth of the petrodollar \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/07/the-myth-of-the-petrodollar",
+          "content": "America’s currency supremacy runs deeper than oil",
+          "source": "The Economist",
+          "publishedAt": "Thu, 07 May 2026 10:29:11 +0000",
+          "summary": "America’s currency supremacy runs deeper than oil..."
+        },
+        {
+          "title": "\n        DeepSeek and Alibaba rescue China’s office landlords\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/07/deepseek-and-alibaba-rescue-chinas-office-landlords",
+          "content": "Technology firms are reviving (a few) Chinese commercial-property markets",
+          "source": "The Economist",
+          "publishedAt": "Thu, 07 May 2026 10:19:56 +0000",
+          "summary": "Technology firms are reviving (a few) Chinese commercial-property markets..."
+        },
+        {
+          "title": "Koppers forecasts $3.80-$4.60 EPS in 2026 as it plans Stickney distillation exit by year-end",
+          "url": "https://seekingalpha.com/news/4590223-koppers-forecasts-3_80-4_60-eps-in-2026-as-it-plans-stickney-distillation-exit-by-year-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 08 May 2026 22:52:14 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "TDS targets 200,000-250,000 new fiber addresses in 2026 while proposing to acquire remaining Array shares",
+          "url": "https://seekingalpha.com/news/4590222-tds-targets-200000minus-250000-new-fiber-addresses-in-2026-while-proposing-to-acquire?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 08 May 2026 22:13:11 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Silver’s volatility in 2026: Macroeconomic drivers, speculative dynamics and investment implications ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/silvers-volatility-in-2026-macroeconomic-drivers-speculative-dynamics-and-investment-implications/articleshow/130970818.cms",
+          "content": "Silver experienced a dramatic price plunge in 2026, falling from an all-time high to nearly $60 per ounce. This volatility stemmed from macroeconomic pressures and speculative unwinding, not fundamental weakness. Despite its diminished safe-haven status, strong industrial demand, particularly in green tech, and persistent supply deficits offer long-term support.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 09 May 2026 10:07:32 +0530",
+          "summary": "Silver experienced a dramatic price plunge in 2026, falling from an all-time high to nearly $60 per ounce. This volatility stemmed from macroeconomic pressures and speculative unwinding, not fundament..."
+        },
+        {
+          "title": "Bull trap or trend reversal? Rupak De breaks down Nifty’s 24,500 congestion zone ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/bull-trap-or-trend-reversal-rupak-de-breaks-down-niftys-24500-congestion-zone/articleshow/130970770.cms",
+          "content": "Indian equity markets are at a crucial juncture, with the Nifty hovering around 24,500, facing strong resistance. Analysts warn of a potential correction if the index fails to breach 24,750 soon. While some stocks like CG Power and M&M show resilience, the Bank Nifty's momentum is fading. Traders are advised to watch for dips in Vedanta and Firstsource.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 09 May 2026 10:02:48 +0530",
+          "summary": "Indian equity markets are at a crucial juncture, with the Nifty hovering around 24,500, facing strong resistance. Analysts warn of a potential correction if the index fails to breach 24,750 soon. Whil..."
+        }
+      ],
+      "generatedAt": "2026-05-09T04:51:03.175Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Radioactive rain and proving relativity: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01500-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "‘Undruggable’ cancer proteins meet their match",
+          "url": "https://www.nature.com/articles/d41586-026-01447-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "New obesity discovery rewrites decades of fat science",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
+          "content": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns out to have a second job deep inside the nucleus of fat cells—helping keep those cells healthy and balanced. Even more surprising, people and mice missing this protein don’t become obese as expected; instead, they lose fat tissue in a dangerous condition called lipodystrophy.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 08 May 2026 17:21:20 EDT",
+          "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored ..."
+        },
+        {
+          "title": "A common constipation drug shows surprising power to protect kidneys",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
+          "content": "A common constipation drug may have unexpectedly unlocked a new way to slow chronic kidney disease — a condition that affects millions and often leads to dialysis. In a clinical trial involving 150 patients, researchers found that lubiprostone, a medication normally used to treat constipation, helped preserve kidney function in people with moderate CKD. Scientists traced the effect to changes in gut bacteria that boosted production of spermidine, a compound linked to healthier mitochondria and reduced kidney damage.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 08 May 2026 06:44:49 EDT",
+          "summary": "A common constipation drug may have unexpectedly unlocked a new way to slow chronic kidney disease — a condition that affects millions and often leads to dialysis. In a clinical trial involving 150 pa..."
+        },
+        {
+          "title": "Manufacturing qubits that can move",
+          "url": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
+          "content": "It's hard to mix electronic manufacturing and flexible geometry.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 08 May 2026 23:13:57 +0000",
+          "summary": "It's hard to mix electronic manufacturing and flexible geometry...."
+        },
+        {
+          "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology",
+          "url": "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
+          "content": "Testing shows rotor blades won't disintegrate when they spin at supersonic speed.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 08 May 2026 15:46:27 +0000",
+          "summary": "Testing shows rotor blades won't disintegrate when they spin at supersonic speed...."
+        }
+      ],
+      "generatedAt": "2026-05-09T04:51:04.601Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+          "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+          "content": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml\nComments URL: https://news.ycombinator.com/item?id=48071496\nPoints: 29\n# Comments: 15",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 09 May 2026 03:21:06 +0000",
+          "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml\nComments URL: https://news.ycombinator.com/item?id=48071496\nPoints: 29\n# Comments: 15..."
+        },
+        {
+          "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+          "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+          "content": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 200\n# Comments: 129",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 08 May 2026 21:47:47 +0000",
+          "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 200\n# Comments: 129..."
+        },
+        {
+          "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ",
+          "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+          "content": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 08 May 2026 22:59:05 +0000",
+          "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers...."
+        },
+        {
+          "title": "San Francisco’s housing market has lost its mind",
+          "url": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+          "content": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 08 May 2026 22:32:31 +0000",
+          "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their..."
+        }
+      ],
+      "generatedAt": "2026-05-09T04:51:05.457Z"
+    }
+  ]
+}
