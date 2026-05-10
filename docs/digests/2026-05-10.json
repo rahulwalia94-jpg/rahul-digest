@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T05:05:39.368Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Trade in services under regulatory barriers: evidence from UK banking",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/trade-in-services-under-regulatory-barriers-evidence-from-uk-banking",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 08 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 6 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/6-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 07 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-10T05:05:33.349Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 09 May 2026 18:09:28 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "EMO: Pretraining mixture of experts for emergent modularity",
+          "url": "https://huggingface.co/blog/allenai/emo",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 08 May 2026 16:03:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+          "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science...."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+          "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+          "content": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 08 May 2026 23:59:19 +0000",
+          "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman..."
+        },
+        {
+          "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+          "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+          "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 08 May 2026 16:19:40 +0000",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboa..."
+        }
+      ],
+      "generatedAt": "2026-05-10T05:05:35.278Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Iowa pension chief resigns amid concerns about performance figures ",
+          "url": "https://www.ft.com/content/ab28b1fe-f213-4f20-830f-617359892ac3",
+          "content": "Former risk officer alleges executives used misleading benchmarks and risk measures to improve results",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 09 May 2026 11:00:06 GMT",
+          "summary": "Former risk officer alleges executives used misleading benchmarks and risk measures to improve results..."
+        },
+        {
+          "title": "The narrow ceasefire rally",
+          "url": "https://www.ft.com/content/abd225f9-4b02-4eb1-b25c-5f0dca4b690f",
+          "content": "Little love for the S&P 500’s gains",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 09 May 2026 09:30:05 GMT",
+          "summary": "Little love for the S&P 500’s gains..."
+        },
+        {
+          "title": "\n        The myth of the petrodollar \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/07/the-myth-of-the-petrodollar",
+          "content": "America’s currency supremacy runs deeper than oil",
+          "source": "The Economist",
+          "publishedAt": "Thu, 07 May 2026 10:29:11 +0000",
+          "summary": "America’s currency supremacy runs deeper than oil..."
+        },
+        {
+          "title": "\n        DeepSeek and Alibaba rescue China’s office landlords\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/07/deepseek-and-alibaba-rescue-chinas-office-landlords",
+          "content": "Technology firms are reviving (a few) Chinese commercial-property markets",
+          "source": "The Economist",
+          "publishedAt": "Thu, 07 May 2026 10:19:56 +0000",
+          "summary": "Technology firms are reviving (a few) Chinese commercial-property markets..."
+        },
+        {
+          "title": "China-linked U.S. solar factories shunned in Trump crackdown - Reuters",
+          "url": "https://seekingalpha.com/news/4590244-china-linked-u-s-solar-factories-shunned-in-trump-crackdown-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 09 May 2026 20:45:26 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Bulls vs. Bears: Micron reviewed after best weekly gain since 2008",
+          "url": "https://seekingalpha.com/news/4590243-micron-stock-reviewed-post-record-weekly-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 09 May 2026 14:41:21 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Traders looking for next leg in global stocks rally bet on Asia ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/traders-looking-for-next-leg-in-global-stocks-rally-bet-on-asia/articleshow/130986358.cms",
+          "content": "Investors are increasingly betting on Asia for the next phase of the global equities rally, driven by enthusiasm around artificial intelligence and strong performances in South Korean and Taiwanese markets. Strategists remain bullish on AI-linked semiconductor and hardware stocks, while India lags due to oil dependence, weaker currency trends and limited AI exposure.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 10 May 2026 10:09:44 +0530",
+          "summary": "Investors are increasingly betting on Asia for the next phase of the global equities rally, driven by enthusiasm around artificial intelligence and strong performances in South Korean and Taiwanese ma..."
+        },
+        {
+          "title": "RFBL Flexi Pack fixes price band at Rs 47-50 for IPO, to hit markets on May 12 ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/rfbl-flexi-pack-fixes-price-band-at-rs-47-50-for-ipo-to-hit-markets-on-may-12/articleshow/130986256.cms",
+          "content": "Flexible packaging materials manufacturer RFBL Flexi Pack Ltd on Saturday announced a price band of Rs 47-50 per equity share for its initial public offering, which opens for subscription on May 12.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 10 May 2026 09:52:13 +0530",
+          "summary": "Flexible packaging materials manufacturer RFBL Flexi Pack Ltd on Saturday announced a price band of Rs 47-50 per equity share for its initial public offering, which opens for subscription on May 12...."
+        }
+      ],
+      "generatedAt": "2026-05-10T05:05:36.808Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Radioactive rain and proving relativity: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01500-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "‘Undruggable’ cancer proteins meet their match",
+          "url": "https://www.nature.com/articles/d41586-026-01447-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
+          "content": "Rebooting the gut microbiome with bacteria from youth may help stop aging-related liver damage and even prevent liver cancer, according to new research in mice. Older mice that received their own preserved youthful microbiome showed less inflammation, reduced DNA damage, and no signs of liver cancer. Researchers also found that the treatment suppressed a cancer-linked gene called MDM2, making older mice biologically resemble younger ones.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 09 May 2026 22:58:28 EDT",
+          "summary": "Rebooting the gut microbiome with bacteria from youth may help stop aging-related liver damage and even prevent liver cancer, according to new research in mice. Older mice that received their own pres..."
+        },
+        {
+          "title": "New chemical kills 95% of termites without harming humans",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260508211025.htm",
+          "content": "Scientists may have found a smarter, safer way to wipe out termites hiding inside homes. A chemical called bistrifluron prevents drywood termites from forming new exoskeletons during molting, killing entire colonies from within. In tests, it eliminated about 95% of termites while avoiding the toxic side effects of traditional fumigation. Researchers say the method could provide longer-lasting protection as termites spread into new areas.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 09 May 2026 08:24:26 EDT",
+          "summary": "Scientists may have found a smarter, safer way to wipe out termites hiding inside homes. A chemical called bistrifluron prevents drywood termites from forming new exoskeletons during molting, killing ..."
+        },
+        {
+          "title": "Manufacturing qubits that can move",
+          "url": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
+          "content": "It's hard to mix electronic manufacturing and flexible geometry.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 08 May 2026 23:13:57 +0000",
+          "summary": "It's hard to mix electronic manufacturing and flexible geometry...."
+        },
+        {
+          "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology",
+          "url": "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
+          "content": "Testing shows rotor blades won't disintegrate when they spin at supersonic speed.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 08 May 2026 15:46:27 +0000",
+          "summary": "Testing shows rotor blades won't disintegrate when they spin at supersonic speed...."
+        }
+      ],
+      "generatedAt": "2026-05-10T05:05:38.201Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Gemini API File Search is now multimodal",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+          "content": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 27\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 10 May 2026 03:22:02 +0000",
+          "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 27\n# ..."
+        },
+        {
+          "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+          "url": "https://github.com/imtomt/ymawky",
+          "content": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves custom error pages for any HTTP error response, supports directory listing, and has (some) mitigations against slowloris-like attacks.\nI’ve also written a more detailed writeup here: https://imtomt.github.io/ymawky/\nComments URL: https://news.ycombinator.com/item?id=48080587\nPoints: 99\n# Comments: 35",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 10 May 2026 03:01:44 +0000",
+          "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scr..."
+        },
+        {
+          "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+          "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+          "content": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 10 May 2026 02:00:00 +0000",
+          "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges...."
+        },
+        {
+          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+          "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 09 May 2026 21:45:00 +0000",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter...."
+        }
+      ],
+      "generatedAt": "2026-05-10T05:05:39.368Z"
+    }
+  ]
+}
