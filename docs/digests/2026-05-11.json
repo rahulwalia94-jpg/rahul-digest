@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T05:36:00.710Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Trade in services under regulatory barriers: evidence from UK banking",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/trade-in-services-under-regulatory-barriers-evidence-from-uk-banking",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 08 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 6 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/6-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 07 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-11T05:35:51.042Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sun, 10 May 2026 18:44:11 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "EMO: Pretraining mixture of experts for emergent modularity",
+          "url": "https://huggingface.co/blog/allenai/emo",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 08 May 2026 16:03:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+          "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science...."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+          "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+          "content": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 08 May 2026 23:59:19 +0000",
+          "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman..."
+        },
+        {
+          "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+          "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+          "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 08 May 2026 16:19:40 +0000",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboa..."
+        }
+      ],
+      "generatedAt": "2026-05-11T05:35:56.483Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "China fixes currency at 3-year high ahead of Trump-Xi meeting ",
+          "url": "https://www.ft.com/content/37fa551b-c4b3-44fb-ad71-3ba4aa448e50",
+          "content": "Data meanwhile shows deflationary pressures easing in world’s second-largest economy",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 11 May 2026 03:16:17 GMT",
+          "summary": "Data meanwhile shows deflationary pressures easing in world’s second-largest economy..."
+        },
+        {
+          "title": "UK government unit targets £99bn of investment from Australian pension funds",
+          "url": "https://www.ft.com/content/c372fe8d-57a6-473b-8c6e-67760b24b352",
+          "content": "Plan will ‘deliver long-term economic growth while boosting our already strong trade relationship’, says minister",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 10 May 2026 23:01:08 GMT",
+          "summary": "Plan will ‘deliver long-term economic growth while boosting our already strong trade relationship’, says minister..."
+        },
+        {
+          "title": "\n        The myth of the petrodollar \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/07/the-myth-of-the-petrodollar",
+          "content": "America’s currency supremacy runs deeper than oil",
+          "source": "The Economist",
+          "publishedAt": "Thu, 07 May 2026 10:29:11 +0000",
+          "summary": "America’s currency supremacy runs deeper than oil..."
+        },
+        {
+          "title": "\n        DeepSeek and Alibaba rescue China’s office landlords\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/07/deepseek-and-alibaba-rescue-chinas-office-landlords",
+          "content": "Technology firms are reviving (a few) Chinese commercial-property markets",
+          "source": "The Economist",
+          "publishedAt": "Thu, 07 May 2026 10:19:56 +0000",
+          "summary": "Technology firms are reviving (a few) Chinese commercial-property markets..."
+        },
+        {
+          "title": "China’s April CPI rises to 1.2%; PPI surges to 2.8% on commodity spike",
+          "url": "https://seekingalpha.com/news/4590294-chinas-april-cpi-rises-to-12-ppi-surges-to-28-on-commodity-spike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 11 May 2026 01:32:47 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Seadrill beats top-line and bottom-line estimates; raises FY26 outlook",
+          "url": "https://seekingalpha.com/news/4590298-seadrill-beats-top-line-and-bottom-line-estimates-raises-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 11 May 2026 01:20:14 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Not just US dollar, Indian rupee has tanked up to 25% across 9 major currencies in 1 year ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/not-just-us-dollar-indian-rupee-has-tanked-up-to-25-across-9-major-currencies-in-1-year/articleshow/131004385.cms",
+          "content": "The Indian rupee has seen a significant decline against most global currencies, not just the US dollar. This broad-based weakness is driven by rising oil prices and foreign investor outflows. The rupee's fall against the Australian dollar and Chinese yuan has been more pronounced. Experts suggest the rupee will remain volatile, influenced by oil prices and geopolitical events.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 11 May 2026 10:48:11 +0530",
+          "summary": "The Indian rupee has seen a significant decline against most global currencies, not just the US dollar. This broad-based weakness is driven by rising oil prices and foreign investor outflows. The rupe..."
+        },
+        {
+          "title": "SBI posts record ₹80,000 crore profit; chairman says NIM has bottomed out, eyes 13–15% loan growth in FY27 ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/sbi-posts-record-80000-crore-profit-chairman-says-nim-has-bottomed-out-eyes-1315-loan-growth-in-fy27/articleshow/131004090.cms",
+          "content": "State Bank of India achieved a record profit exceeding ₹80,000 crore. Despite investor concerns over net interest income and margin, Chairman CS Setty assured that the worst is over, with Net Interest Margins expected to stabilize around 3%. The bank also reported strong deposit growth and anticipates robust loan expansion across all segments, while closely monitoring global risks.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 11 May 2026 10:45:44 +0530",
+          "summary": "State Bank of India achieved a record profit exceeding ₹80,000 crore. Despite investor concerns over net interest income and margin, Chairman CS Setty assured that the worst is over, with Net Interest..."
+        }
+      ],
+      "generatedAt": "2026-05-11T05:35:58.221Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Radioactive rain and proving relativity: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01500-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "‘Undruggable’ cancer proteins meet their match",
+          "url": "https://www.nature.com/articles/d41586-026-01447-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "“Cannot be explained” – New ultra stainless steel stuns researchers",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+          "content": "A team at the University of Hong Kong has developed a new “super steel” that can survive the harsh conditions needed to make green hydrogen from seawater. The material uses an unexpected double-protection mechanism that resists corrosion far better than conventional stainless steel. Even more impressive, it could replace costly titanium parts used in today’s hydrogen systems.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 10 May 2026 07:39:45 EDT",
+          "summary": "A team at the University of Hong Kong has developed a new “super steel” that can survive the harsh conditions needed to make green hydrogen from seawater. The material uses an unexpected double-protec..."
+        },
+        {
+          "title": "Scientists successfully transfer longevity gene and extend lifespan",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
+          "content": "Scientists at the University of Rochester pulled off a remarkable experiment: they transferred a longevity-related gene from the famously long-lived naked mole rat into mice, and the mice ended up healthier and lived longer. The special gene boosts production of a substance called high molecular weight hyaluronic acid, which appears to protect against cancer, reduce inflammation, and support healthier aging. The modified mice showed stronger resistance to tumors, healthier guts, and lower levels of age-related inflammation.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 10 May 2026 07:27:12 EDT",
+          "summary": "Scientists at the University of Rochester pulled off a remarkable experiment: they transferred a longevity-related gene from the famously long-lived naked mole rat into mice, and the mice ended up hea..."
+        },
+        {
+          "title": "Do you take after your dad’s RNA?",
+          "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+          "content": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 10 May 2026 11:15:44 +0000",
+          "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring...."
+        },
+        {
+          "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
+          "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+          "content": "Fortunately, it happened early in the morning, so nobody was around.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 10 May 2026 11:00:53 +0000",
+          "summary": "Fortunately, it happened early in the morning, so nobody was around...."
+        }
+      ],
+      "generatedAt": "2026-05-11T05:35:59.635Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+          "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+          "content": "Article URL: https://matt.might.net/articles/implementing-a-programming-language/\nComments URL: https://news.ycombinator.com/item?id=48091085\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 11 May 2026 04:34:40 +0000",
+          "summary": "Article URL: https://matt.might.net/articles/implementing-a-programming-language/\nComments URL: https://news.ycombinator.com/item?id=48091085\nPoints: 6\n# Comments: 0..."
+        },
+        {
+          "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+          "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+          "content": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 70\n# Comments: 25",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 11 May 2026 02:43:34 +0000",
+          "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 70\n# Comments: 25..."
+        },
+        {
+          "title": "Get ready for the whisper-filled office of the future",
+          "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+          "content": "How will work setups change if we spend more and more time talking to our computers?",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 10 May 2026 21:15:30 +0000",
+          "summary": "How will work setups change if we spend more and more time talking to our computers?..."
+        },
+        {
+          "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+          "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+          "content": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 10 May 2026 20:40:41 +0000",
+          "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic...."
+        }
+      ],
+      "generatedAt": "2026-05-11T05:36:00.710Z"
+    }
+  ]
+}
