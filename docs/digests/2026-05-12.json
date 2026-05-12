@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T05:05:06.976Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Trade in services under regulatory barriers: evidence from UK banking",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/trade-in-services-under-regulatory-barriers-evidence-from-uk-banking",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 08 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 6 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/6-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 07 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-12T05:04:58.818Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+          "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 11 May 2026 23:18:26 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "EMO: Pretraining mixture of experts for emergent modularity",
+          "url": "https://huggingface.co/blog/allenai/emo",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 08 May 2026 16:03:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+          "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science...."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+        },
+        {
+          "title": "Three things in AI to watch, according to a Nobel-winning economist",
+          "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 11 May 2026 17:35:12 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economic..."
+        },
+        {
+          "title": "Fostering breakthrough AI innovation through customer-back engineering",
+          "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+          "content": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 11 May 2026 13:33:06 +0000",
+          "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with te..."
+        }
+      ],
+      "generatedAt": "2026-05-12T05:05:00.081Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Japan says Bessent offered ‘understanding’ on yen policy ",
+          "url": "https://www.ft.com/content/5c42387d-d5c2-40fc-a783-0be17b50af12",
+          "content": "Currency weakens after US Treasury secretary meets finance minister Satsuki Katayama",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 12 May 2026 04:17:45 GMT",
+          "summary": "Currency weakens after US Treasury secretary meets finance minister Satsuki Katayama..."
+        },
+        {
+          "title": "The Gulf’s dealmaking machine sputters",
+          "url": "https://www.ft.com/content/038658d3-d97f-40fc-b1aa-39e2fc89fc87",
+          "content": "Bankers were on track for a bumper year until war broke out in February",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 12 May 2026 04:00:33 GMT",
+          "summary": "Bankers were on track for a bumper year until war broke out in February..."
+        },
+        {
+          "title": "\n        China wants more robots but not fewer workers\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers",
+          "content": "A human-first approach to automation",
+          "source": "The Economist",
+          "publishedAt": "Mon, 11 May 2026 17:15:55 +0000",
+          "summary": "A human-first approach to automation..."
+        },
+        {
+          "title": "\n        America is experiencing a productivity miracle\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/11/america-is-experiencing-a-productivity-miracle",
+          "content": "AI hasn’t—yet—got much to do with it",
+          "source": "The Economist",
+          "publishedAt": "Mon, 11 May 2026 16:50:23 +0000",
+          "summary": "AI hasn’t—yet—got much to do with it..."
+        },
+        {
+          "title": "Alignment Healthcare gains on SmallCap 600 addition; Sun Country Airlines removed",
+          "url": "https://seekingalpha.com/news/4590973-alignment-healthcare-gains-on-smallcap-600-addition-sun-country-airlines-removed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 12 May 2026 00:56:23 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Optex Systems Holdings GAAP EPS of $0.19, revenue of $9.6M misses by $3.1M",
+          "url": "https://seekingalpha.com/news/4590977-optex-systems-holdings-gaap-eps-of-019-revenue-of-96m-misses-by-31m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 12 May 2026 00:54:00 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "US Stock Market: AI spending surge drives Alphabet, Amazon to tap global bond markets ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ai-spending-surge-drives-alphabet-amazon-to-tap-global-bond-markets/articleshow/131028581.cms",
+          "content": "Alphabet and Amazon are expanding their global borrowing to fund the escalating costs of the AI race. Alphabet plans its first yen-denominated bond sale, while Amazon will tap the Swiss franc market for the first time. These moves reflect the massive investments required for AI infrastructure and cloud expansion.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 12 May 2026 10:14:53 +0530",
+          "summary": "Alphabet and Amazon are expanding their global borrowing to fund the escalating costs of the AI race. Alphabet plans its first yen-denominated bond sale, while Amazon will tap the Swiss franc market f..."
+        },
+        {
+          "title": "PM Modi doesn't want you to buy gold for next 1 year. A bigger crash on the cards? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pm-modi-doesnt-want-you-to-buy-gold-for-next-1-year-a-bigger-crash-on-the-cards/articleshow/131028548.cms",
+          "content": "Prime Minister Modi urged Indians to avoid buying gold for a year, a move seen as an attempt to protect foreign exchange reserves amidst global uncertainty and rising crude oil prices. While jewellery stocks saw a knee-jerk reaction, experts believe the appeal may cause temporary caution rather than alter India's deep-rooted affinity for gold.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 12 May 2026 10:14:40 +0530",
+          "summary": "Prime Minister Modi urged Indians to avoid buying gold for a year, a move seen as an attempt to protect foreign exchange reserves amidst global uncertainty and rising crude oil prices. While jewellery..."
+        }
+      ],
+      "generatedAt": "2026-05-12T05:05:04.599Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
+          "url": "https://www.nature.com/articles/s41586-026-10578-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-11T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Audio long read: The air is full of DNA — here’s what scientists are using it for",
+          "url": "https://www.nature.com/articles/d41586-026-01522-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-11T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists say this common sweetener may be quietly rewiring your metabolism",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510234726.htm",
+          "content": "Researchers say fructose is not just “empty calories” — it may actively push the body toward fat storage and metabolic disease. A new review found that fructose affects the body differently from glucose, disrupting normal energy regulation and promoting processes linked to obesity, insulin resistance, and cardiovascular problems.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 11 May 2026 08:28:23 EDT",
+          "summary": "Researchers say fructose is not just “empty calories” — it may actively push the body toward fat storage and metabolic disease. A new review found that fructose affects the body differently from gluco..."
+        },
+        {
+          "title": "This 800-year-old Chinese exercise helps lower blood pressure naturally",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510234724.htm",
+          "content": "An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with stage 1 hypertension who practiced baduanjin, a gentle mind-body exercise combining slow movements, breathing, and meditation, saw meaningful drops in blood pressure within three months that lasted for an entire year.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 10 May 2026 23:47:24 EDT",
+          "summary": "An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with sta..."
+        },
+        {
+          "title": "Do you take after your dad’s RNA?",
+          "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+          "content": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 10 May 2026 11:15:44 +0000",
+          "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring...."
+        },
+        {
+          "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
+          "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+          "content": "Fortunately, it happened early in the morning, so nobody was around.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 10 May 2026 11:00:53 +0000",
+          "summary": "Fortunately, it happened early in the morning, so nobody was around...."
+        }
+      ],
+      "generatedAt": "2026-05-12T05:05:05.963Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Productivity Isn't About Going Faster",
+          "url": "https://humanpro.co/articles/productivity-isnt-about-going-faster/",
+          "content": "Article URL: https://humanpro.co/articles/productivity-isnt-about-going-faster/\nComments URL: https://news.ycombinator.com/item?id=48103871\nPoints: 9\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 12 May 2026 03:28:48 +0000",
+          "summary": "Article URL: https://humanpro.co/articles/productivity-isnt-about-going-faster/\nComments URL: https://news.ycombinator.com/item?id=48103871\nPoints: 9\n# Comments: 0..."
+        },
+        {
+          "title": "Why Everyone's Picking Up a PSP Again in 2026",
+          "url": "https://gardinerbryant.com/psp-in-2026/",
+          "content": "Article URL: https://gardinerbryant.com/psp-in-2026/\nComments URL: https://news.ycombinator.com/item?id=48103529\nPoints: 15\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 12 May 2026 02:33:10 +0000",
+          "summary": "Article URL: https://gardinerbryant.com/psp-in-2026/\nComments URL: https://news.ycombinator.com/item?id=48103529\nPoints: 15\n# Comments: 3..."
+        },
+        {
+          "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+          "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+          "content": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 12 May 2026 04:52:35 +0000",
+          "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a..."
+        },
+        {
+          "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+          "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+          "content": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 12 May 2026 00:09:01 +0000",
+          "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups...."
+        }
+      ],
+      "generatedAt": "2026-05-12T05:05:06.976Z"
+    }
+  ]
+}
