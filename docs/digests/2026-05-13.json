@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T05:13:38.386Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "DLT Innovation Challenge 2025: Final Report",
+          "url": "https://www.bankofengland.co.uk/research/fintech/dlt-innovation-challenge-2025",
+          "content": "The Distributed Ledger Technology (DLT) Innovation Challenge report describes the outcomes of the DLT Innovation Challenges and goes into detail around how it has informed our views on DLT and the topics of settlement finality, scalability, network and asset control and interoperability",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 12 May 2026 14:00:00 +0100",
+          "summary": "**MACRO/MARKETS:** DLT settlement finality and interoperability reduce counterparty risk and T+0 settlement friction across FX/commodities, reshaping post-trade infrastructure and lowering systemic liquidity buffers globally.\n\n**CREDIT RISK:** Real-time settlement finality and asset control via DLT compress credit exposure windows, directly reducing EAD and PD volatility in counterparty ECL models; regulatory capital relief hinges on operationalization.\n\n**AI/ML:** DLT-native transaction immutability enables unsupervised anomaly detection and behavioral PD scoring with 100% audit trails; eliminates data reconciliation bottlenecks"
+        },
+        {
+          "title": "Your voice 2026: insights from the Bank of England’s outreach programmes",
+          "url": "https://www.bankofengland.co.uk/about/get-involved/citizens-panels/your-voice-2026-insights-from-the-boe-outreach-programmes",
+          "content": "We listen directly to people from all parts of the UK. This report is a summary of what we have learnt over the past 12 months and how we have used those insights.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 12 May 2026 09:30:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY:**\nBoE's grassroots sentiment data informs forward guidance and inflation expectations, directly impacting default probability assumptions in ECL models; systematic capture of non-traditional stakeholder inputs signals regulatory shift toward qualitative overlays in PD/LGD frameworks beyond historical datasets."
+        }
+      ],
+      "generatedAt": "2026-05-13T05:12:39.800Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+          "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 11 May 2026 23:18:26 GMT",
+          "summary": "**AI/ML + Banking Analytics + Breakthroughs:**\n\nFoundation models on AWS lower barriers to enterprise ML deployment, enabling banks to scale ECL/PD-LGD model inference and real-time credit decisioning at lower OpEx—reshaping model governance, latency, and competitive advantage in risk analytics. Cost-efficient foundational infrastructure accelerates fintech disruption of traditional banking workflows; reduces friction for embedded finance and API-first credit platforms globally."
+        },
+        {
+          "title": "EMO: Pretraining mixture of experts for emergent modularity",
+          "url": "https://huggingface.co/blog/allenai/emo",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 08 May 2026 16:03:50 GMT",
+          "summary": "**EMO demonstrates how scaled mixture-of-experts architectures develop emergent task-specific modularity during pretraining, enabling efficient inference and adaptive specialization—directly relevant to building scalable ML pipelines for credit risk modeling (PD/LGD inference), real-time regulatory reporting under IFRS 9, and resource-constrained fintech backends where conditional computation reduces latency and cost versus dense models.**"
+        },
+        {
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+          "summary": "**Gemini-powered coding agents automating complex problem-solving across infrastructure, science, and finance could accelerate productivity gains that reshape labor economics and sector valuations—particularly benefiting capital-light software/AI plays while pressuring human-capital-dependent services. For banking analytics: LLM-driven model development and validation workflows could materially compress ECL/PD-LGD calibration cycles and governance overhead, though introduces model risk and interpretability challenges requiring enhanced governance frameworks.**"
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "**MACRO/MARKETS:** Healthcare AI co-clinicians could reshape $12T+ global healthcare spending, reducing cost inflation while shifting labor economics—bullish for software/cloud infrastructure, bearish for radiology/pathology jobs; emerging market adoption timelines critical.\n\n**CREDIT RISK:** AI diagnostic accuracy directly impacts hospital operational risk, loan loss provisions for healthcare provider portfolios, and regulatory capital adequacy (IFRS 9 Stage 1/2 transitions); model validation frameworks must embed AI explainability for ECL calibration.\n\n**AI/ML:** Validates supervised learning at scale in regulated environments; banking analytics faces identical challenges—interpretability, governance, backtesting rigor—making"
+        },
+        {
+          "title": "World Models: 10 Things That Matter in AI Right Now",
+          "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+          "content": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, “Can AI Learn to Understand the World?” exploring how AI may evolve to…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 12 May 2026 16:22:15 +0000",
+          "summary": "**AI/ML + Markets Angle:**\nWorld models—AI systems that learn spatial/temporal reasoning—could accelerate autonomous decision-making in trading, risk modeling, and market microstructure analysis, reshaping quant strategies and model validation frameworks across asset classes.\n\n**Credit Risk Angle:**\nWorld models may enhance PD/LGD estimation and scenario generation for ECL calculations by improving AI's ability to simulate economic state transitions, reducing reliance on historical data and strengthening IFRS 9 forward-looking provisions under stressed environments."
+        },
+        {
+          "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+          "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 12 May 2026 12:10:00 +0000",
+          "summary": "**AI & ML / MACRO / CREDIT RISK:**\n\nNobel economist Acemoglu's research on AI productivity and labor displacement challenges consensus techno-optimism, with implications for long-term GDP growth assumptions embedded in macro scenarios and ECL forward-looking economic parameters. AI-driven automation risks reshaping sectoral default dynamics and correlation structures critical to PD models and portfolio stress testing frameworks."
+        }
+      ],
+      "generatedAt": "2026-05-13T05:12:54.877Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Ad ban for lab gems is diamonds’ best friend",
+          "url": "https://www.ft.com/content/e23897ed-dad0-4e7f-9e58-a80b3038e355",
+          "content": "UK watchdog rules jewellers cannot use ‘diamond’ in isolation in synthetic stones’ adverts",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 12 May 2026 23:01:05 GMT",
+          "summary": "**MACRO/MARKETS & INVESTMENT ANGLE:**\nUK advertising ban on \"diamond\" labeling for lab-grown stones protects pricing power and demand for natural diamonds—a commodity with macro sensitivity to luxury spending, emerging market wealth, and dollar strength. Creates regulatory arbitrage risk across jurisdictions (EU, US differ), potentially supporting natural diamond valuations while lab-grown captures price-conscious segments; relevant to luxury sector rotation and commodity exposure."
+        },
+        {
+          "title": "China’s big tech groups miss out on AI stock market frenzy",
+          "url": "https://www.ft.com/content/cba72e03-e47d-4d59-b59b-7dc4259b1265",
+          "content": "Tencent and Alibaba left behind as investors focus on pure AI plays",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 12 May 2026 21:00:04 GMT",
+          "summary": "**Macro/Markets & Credit Risk:**\nValuation divergence between diversified tech conglomerates (Tencent, Alibaba) and pure-play AI names signals investor shift toward concentrated exposure, pressuring legacy revenue streams and complicating PD/LGD calibration for large Chinese tech exposures under IFRS 9 stress scenarios. Regulatory overhang + AI commoditization risk reshaping sector beta and default correlation assumptions for portfolio ECL models."
+        },
+        {
+          "title": "\n        America and China are shielding the world from an oil catastrophe\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/12/america-and-china-are-shielding-the-world-from-an-oil-catastrophe",
+          "content": "Will they lose their nerve before Hormuz reopens?",
+          "source": "The Economist",
+          "publishedAt": "Tue, 12 May 2026 21:15:08 +0000",
+          "summary": "**Macro/Markets & Credit Risk:**\n\nUS-China coordinated SPR releases are artificially suppressing oil volatility and masking underlying supply fragility at Hormuz; if political resolve weakens before strait normalization, sudden oil shock could trigger broad energy/commodity credit deterioration, escalating ECL provisions across oil-linked corporates and emerging market sovereigns with petro-revenue dependency."
+        },
+        {
+          "title": "\n        Index rebalancing is now the biggest event in markets\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/12/index-rebalancing-is-now-the-biggest-event-in-markets",
+          "content": "But profiting from it is another matter",
+          "source": "The Economist",
+          "publishedAt": "Tue, 12 May 2026 19:05:21 +0000",
+          "summary": "**MACRO/MARKETS:** Index rebalancing now rivals earnings and macro data as a primary market driver, creating systematic liquidity dislocations across sectors and geographies—especially in low-float names. This mechanic amplifies volatility and reduces alpha capture through traditional quant strategies, forcing systematic managers to front-run or hedge rebalance flows."
+        },
+        {
+          "title": "Wix.com misses top-line and bottom-line estimates; initiates Q2 and reaffimrs FY26 outlook",
+          "url": "https://seekingalpha.com/news/4591835-wixcom-misses-top-line-and-bottom-line-estimates-initiates-q2-and-reaffimrs-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 13 May 2026 01:09:09 -0400",
+          "summary": "**MACRO/MARKETS:** SaaS revenue misses signal sustained pricing pressure and customer churn in digital commerce—a bellwether for SMB spending resilience amid macro uncertainty. Conservative guidance reset suggests cautious enterprise capex environment, relevant to broader SaaS valuations and consumption-linked growth narratives."
+        },
+        {
+          "title": "Slate Grocery REIT reports Q1 results",
+          "url": "https://seekingalpha.com/news/4591834-slate-grocery-reit-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 13 May 2026 01:04:53 -0400",
+          "summary": "**MACRO/MARKETS:** Slate Grocery REIT earnings signal retail real estate stress amid inflation, higher cap rates, and e-commerce headwinds—critical for assessing commercial property sector volatility and REIT yield compression in fixed-income portfolios. Watch for tenant credit deterioration cascading to broader CRE credit cycles and refinancing risk."
+        },
+        {
+          "title": "MSCI decides against adding Adani Energy to global standard indexes in May review ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/msci-decides-against-adding-adani-energy-to-global-standard-indexes-in-may-review/articleshow/131055020.cms",
+          "content": "MSCI has excluded Adani Energy Solutions from inclusion in its indexes during the May 2026 review after the stock was placed on an “Ineligible Alert Board” due to India’s ASM surveillance framework. MSCI said securities under the Short-Term or Long-Term Additional Surveillance Measure (ASM) will not be added to its Investable Market Indexes during periodic reviews.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 13 May 2026 10:14:21 +0530",
+          "summary": "**MACRO/MARKETS:** India's enhanced surveillance framework signals regulatory tightening in emerging markets, raising index inclusion risk for mid-cap stocks and potentially constraining capital flows to Indian equities. Reflects broader index governance shift toward ESG/governance stricter enforcement, affecting passive fund allocation dynamics across EM benchmarks."
+        },
+        {
+          "title": "Texmaco Rail &amp; Engineering shares zoom 13% on strong Q4 show, order win worth Rs 4,045 crore ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/texmaco-rail-engineering-shares-zoom-13-on-strong-q4-show-order-win-worth-rs-4045-crore/articleshow/131055062.cms",
+          "content": "Texmaco Rail & Engineering shares rose sharply after reporting a 45% rise in Q4 net profit. Despite lower revenue, margins improved, while a Rs 4,045 crore South Africa order win and defence foray plans boosted sentiment. The stock hit an intraday high amid strong growth and a global expansion outlook.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 13 May 2026 10:13:09 +0530",
+          "summary": "**MACRO/MARKETS:** Indian rail/engineering capex cycle strengthening amid infrastructure push; emerging market industrial exports gaining traction as global supply chains diversify away from China concentration—positive for EM equity rotation.\n\n**CREDIT RISK:** Order win visibility improves cash conversion and reduces counterparty risk; defence contracts (sovereign-backed) lower PD estimates, but large single-order concentration warrants EAD monitoring and covenant stress-testing under IFRS 9 scenarios."
+        }
+      ],
+      "generatedAt": "2026-05-13T05:13:17.256Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Predictive coding of reward in the hippocampus",
+          "url": "https://www.nature.com/articles/s41586-026-10615-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-12T00:00:00.000Z",
+          "summary": "**Science Breakthroughs – Limited Direct Market/Credit Impact**\n\nHippocampal reward prediction coding has negligible macro relevance or banking application. Neuroscience correction unlikely to influence equity valuations, credit models, or fintech architecture—monitor only if biotech/pharma plays emerge around cognitive enhancement or neurological therapies."
+        },
+        {
+          "title": "Author Correction: A mechanical ratchet drives unilateral cytokinesis",
+          "url": "https://www.nature.com/articles/s41586-026-10618-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-12T00:00:00.000Z",
+          "summary": "**BREAKTHROUGHS / BIOTECH**: Mechanical ratchet mechanism in cytokinesis clarifies fundamental cell division physics—potential applications in cancer therapeutics and regenerative medicine. If commercialized via biotech platforms, could drive sector rotation favoring precision oncology and synthetic biology names over 2-3 year horizon."
+        },
+        {
+          "title": "A rare cancer-fighting plant compound has been decoded",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
+          "content": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure, solving a mystery that had puzzled researchers for years. Because mitraphylline appears only in tiny amounts in tropical plants like kratom and cat’s claw, the discovery could make it far easier to produce sustainably in the future.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 12 May 2026 21:45:40 EDT",
+          "summary": "**BREAKTHROUGHS / MACRO-MARKETS:** UBC's enzymatic synthesis breakthrough de-risks biotech supply chains for rare oncology compounds, potentially unlocking a new pharma subsector (synthetic biology / fermentation). Global implications: reduced dependency on tropical plant extraction, ESG tailwinds for sustainable pharma production, sector rotation catalyst if commercialized."
+        },
+        {
+          "title": "Scientists discover a weak spot shared by polio and common cold viruses",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512202320.htm",
+          "content": "Scientists at the University of Maryland, Baltimore County, have uncovered a crucial trick used by enteroviruses—the group behind diseases like polio, myocarditis, encephalitis, and even the common cold—to reproduce inside human cells. The team captured, in unprecedented detail, how viral RNA recruits both viral and human proteins to assemble the machinery needed for replication, acting almost like a molecular “on-off switch” that controls whether the virus copies itself or makes proteins.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 12 May 2026 21:34:17 EDT",
+          "summary": "**BREAKTHROUGHS / PHARMA-BIOTECH:** Discovery of enterovirus replication mechanism creates upstream drug-target opportunity; could reshape infectious disease treatment landscape and unlock significant pharma valuations if translated to clinical candidates within 3-5 years.\n\n**MACRO/MARKETS:** Positive for healthcare equity valuations and biotech indices; reduces systemic pandemic risk premium embedded in volatility forecasts, particularly relevant for emerging market health-spend allocations and insurance sector modeling."
+        },
+        {
+          "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
+          "url": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
+          "content": "SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 12 May 2026 11:00:34 +0000",
+          "summary": "**BREAKTHROUGHS / MACRO:** SpaceX's Starship advancement signals accelerating commercial space infrastructure maturation, potentially unlocking satellite internet (Starlink revenue), lunar/Mars logistics, and defense contracts—key secular growth for aerospace/defense equities and emerging space economy valuations. Capital intensity and execution risk remain, but successful iterations reduce long-term cost curves for space-dependent sectors (comms, positioning, energy)."
+        },
+        {
+          "title": "Do you take after your dad’s RNA?",
+          "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+          "content": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 10 May 2026 11:15:44 +0000",
+          "summary": "**BREAKTHROUGHS / BIOTECH SECTOR:**\nEpigenetic inheritance via paternal RNA signals potential multi-generational health outcomes, creating long-tail risk pricing opportunities in life insurance, longevity biotech, and pharmaceutical R&D—particularly relevant for parametric insurance models and LTC reserve adequacy under IFRS 9. Disrupts actuarial assumptions on morbidity/mortality curves and opens epigenetic biomarker monetization in precision medicine platforms."
+        }
+      ],
+      "generatedAt": "2026-05-13T05:13:29.417Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+          "url": "https://arxiv.org/abs/2605.08419",
+          "content": "Article URL: https://arxiv.org/abs/2605.08419\nComments URL: https://news.ycombinator.com/item?id=48117810\nPoints: 8\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 13 May 2026 04:25:03 +0000",
+          "summary": "**BUILDER RELEVANCE:** Deterministic binary translation eliminates heuristic uncertainty in software execution, enabling reproducible behavior critical for fintech systems requiring auditability and compliance (IFRS 9 model validation, transaction logging). Direct application to mobile/backend infrastructure hardening where non-determinism introduces unquantifiable risk in financial transactions."
+        },
+        {
+          "title": "Zero-native – Build native desktop apps with web UI",
+          "url": "https://zero-native.dev",
+          "content": "Article URL: https://zero-native.dev\nComments URL: https://news.ycombinator.com/item?id=48116873\nPoints: 13\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 13 May 2026 01:45:02 +0000",
+          "summary": "**Zero-native bridges web and native desktop, reducing fragmentation costs for financial platforms.** Relevant for fintech builders: eliminates dual-stack maintenance (React/Node expertise transferable), accelerates mobile-to-desktop deployment for regulatory dashboards, trading terminals, and risk analytics platforms—lowering time-to-market for compliance-heavy applications requiring native performance."
+        },
+        {
+          "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+          "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+          "content": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 13 May 2026 00:26:48 +0000",
+          "summary": "**MACRO/MARKETS:** Medicare's ACCESS model monetizes preventive AI interventions, potentially reshaping healthcare economics and creating a $100B+ addressable market for continuous patient monitoring—bullish for healthtech and digital health equities; reduces acute care costs, improving US fiscal sustainability.\n\n**CREDIT RISK:** Shifts healthcare provider revenue models from volume to outcomes; ECL modeling must reassess healthcare borrower cash flows and collateral quality as reimbursement becomes AI-dependent; regulatory arbitrage risk if adoption lags.\n\n**AI/ML:** Healthcare analytics workflows (patient risk scoring, intervention triggers) mirror credit risk modeling; both require PD-like prediction engines with explainability—banking analytics teams"
+        },
+        {
+          "title": "Kevin Hartz’s A* just closed its third fund with $450M",
+          "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+          "content": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 12 May 2026 18:45:05 +0000",
+          "summary": "**MACRO/MARKETS & BUILDER:** A* Fund III's $450M deployment across AI, fintech, and security signals sustained LP conviction in enterprise software and AI infrastructure despite macro uncertainty; $3–5M check sizes enable earlier-stage bets on fintech disruption of traditional banking rails and AI-driven analytics platforms that could reshape data infrastructure for institutions like Barclays."
+        }
+      ],
+      "generatedAt": "2026-05-13T05:13:38.386Z"
+    }
+  ]
+}
