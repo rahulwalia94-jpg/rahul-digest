@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-14",
+  "generatedAt": "2026-05-14T05:10:49.828Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "DLT Innovation Challenge 2025: Final Report",
+          "url": "https://www.bankofengland.co.uk/research/fintech/dlt-innovation-challenge-2025",
+          "content": "The Distributed Ledger Technology (DLT) Innovation Challenge report describes the outcomes of the DLT Innovation Challenge and goes into detail around how it has informed our views on DLT and the topics of settlement finality, scalability, network and asset control and interoperability",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 12 May 2026 14:00:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY:** DLT settlement finality and interoperability could reshape counterparty risk measurement and collateral management frameworks; implications for PD/LGD inputs, IFRS 9 ECL modeling, and real-time exposure tracking under regulatory scrutiny. **MACRO/BREAKTHROUGHS:** Scalability solutions addressing finality bottlenecks signal infrastructure maturation for institutional adoption; potential structural shift in cross-border settlement costs and emerging-market FX volatility dynamics."
+        },
+        {
+          "title": "Your voice 2026: insights from the Bank of England’s outreach programmes",
+          "url": "https://www.bankofengland.co.uk/about/get-involved/citizens-panels/your-voice-2026-insights-from-the-boe-outreach-programmes",
+          "content": "We listen directly to people from all parts of the UK. This report is a summary of what we have learnt over the past 12 months and how we have used those insights.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 12 May 2026 09:30:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY**\n\nBoE's 2026 stakeholder intelligence signals evolving UK consumer/business sentiment on inflation, employment, and financial stability—critical inputs for ECL scenario calibration and forward-looking PD/macroeconomic overlays under IFRS 9. Insights likely inform regulatory guidance on stress testing assumptions, impacting model governance and capital adequacy frameworks across the sector."
+        }
+      ],
+      "generatedAt": "2026-05-14T05:09:52.743Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+          "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 11 May 2026 23:18:26 GMT",
+          "summary": "**MACRO/MARKETS:** AWS infrastructure commoditization of foundation model training reduces AI capex barriers, accelerating enterprise adoption across financial services, energy, and emerging markets—reshaping competitive advantage from hardware moats to algorithmic edge and data quality.\n\n**CREDIT RISK:** Efficient LLM inference on AWS enables real-time alternative data processing (unstructured text, transaction flows) for PD/LGD calibration and ECL calculations, improving model granularity while reducing computational cost per regulatory stress scenario.\n\n**AI/ML:** Democratized model training infrastructure shifts banking analytics from vendor lock-in toward in-house capability—critical for PMA validation, backtesting, and rapid iteration"
+        },
+        {
+          "title": "EMO: Pretraining mixture of experts for emergent modularity",
+          "url": "https://huggingface.co/blog/allenai/emo",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 08 May 2026 16:03:50 GMT",
+          "summary": "**AI/ML + BREAKTHROUGHS:**\nMixture-of-experts pretraining architectures enable efficient scaling of foundation models with emergent task-specific modularity—directly applicable to real-time credit decisioning, PD/LGD calibration, and multi-asset risk inference at inference cost parity to dense models. This reduces computational drag on ECL monte-carlo pipelines and unlocks deployment of adaptive credit models across mobile/edge banking APIs without retraining."
+        },
+        {
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+          "summary": "**Gemini-powered coding agents accelerate productivity across infrastructure, science, and enterprise systems—a potential margin-expansion theme for software/cloud majors.** For banking analytics: automated model development could compress ECL/PD-LGD validation cycles and reduce model governance risk, though introduces new operational/validation dependencies requiring updated IFRS 9 control frameworks."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "**MACRO/MARKETS:** Healthcare AI co-clinician deployment could reshape $12T+ global healthcare spending, reducing operational drag in labor-constrained systems; structural tailwind for cloud infrastructure, diagnostic software, and emerging market healthcare accessibility.\n\n**CREDIT RISK:** AI augmentation in clinical workflows creates new model risk (diagnostic accuracy, liability concentration) and regulatory capital implications if healthcare providers become dependent on third-party AI systems; ECL provisioning may shift as operational risk profiles change.\n\n**AI/ML:** Validates supervised learning + domain expertise fusion applicable to banking diagnostics (underwriting, fraud, compliance); healthcare's data labeling/validation workflows directly parallel credit model governance and challenger model governance frameworks.\n\n**"
+        },
+        {
+          "title": "AI chatbots are giving out people’s real phone numbers",
+          "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+          "content": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.  A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 13 May 2026 18:09:03 +0000",
+          "summary": "**AI/ML + CREDIT RISK:** Google's AI chatbots leaking PII creates systemic regulatory exposure—potential GDPR/data governance violations affecting financial institutions' own AI deployments, while raising ECL provisioning questions on reputational/operational risk. Data integrity failures in LLM training pipelines pose material risk to banking analytics models relying on web-scraped datasets for PD/LGD calibration."
+        },
+        {
+          "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+          "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit. The company has signed a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 13 May 2026 12:10:00 +0000",
+          "summary": "**BREAKTHROUGHS / MACRO-MARKETS:** Orbital manufacturing (pharmaceuticals, materials) represents emerging structural growth in space economy; potential secular shift in pharma supply chains, capex allocation, and geopolitical competition for space infrastructure. **AI/ML angle:** Real-time orbital process monitoring requires edge AI/sensor fusion; downstream: valuation models must price space-tech execution risk and regulatory uncertainty (FDA approval for orbit-manufactured drugs)."
+        }
+      ],
+      "generatedAt": "2026-05-14T05:10:06.492Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Private equity cools on India amid lofty prices and economic jitters",
+          "url": "https://www.ft.com/content/e587528e-bc99-4c53-bd72-022e5fa4ec0a",
+          "content": "Weaker dealmaking environment during turbulent period for country’s financial markets",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 14 May 2026 00:34:33 GMT",
+          "summary": "**MACRO/MARKETS:** India's PE slowdown signals valuation correction in frontier growth narratives; rising cost of capital and rupee volatility are pressuring deal IRRs, with spillover risk to EM credit spreads and cross-border M&A activity. Market turbulence may force repricing of equity risk premiums across South Asian financials and corporates, impacting allocation flows."
+        },
+        {
+          "title": "Cerebras boosts IPO price to raise $5.5bn",
+          "url": "https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814",
+          "content": "Chipmaker valued at $40bn in sign of high demand for AI stocks",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 13 May 2026 23:10:01 GMT",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nAI chip demand remains buoyant despite macro uncertainty, with Cerebras's $40bn valuation signaling sustained capex cycles for semiconductor infrastructure—critical for energy, compute cost models, and EM currency exposure. Banking analytics faces accelerating hardware-driven disruption; ECL/PD model compute requirements will shift from batch SAS/Python to real-time GPU inference, pressuring infrastructure TCO and regulatory latency benchmarks."
+        },
+        {
+          "title": "\n        Is AI putting graduates out of work already?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already",
+          "content": "If you are studying coding, we might have some bad news",
+          "source": "The Economist",
+          "publishedAt": "Wed, 13 May 2026 18:44:01 +0000",
+          "summary": "**Summary:**\nEntry-level coding roles face displacement as generative AI commoditizes junior developer work, compressing wage premiums and accelerating skill obsolescence—directly impacting talent supply chains for financial services and fintech. This structural shift threatens graduate hiring pipelines across banking tech, analytics teams, and software development—a secular headwind for talent costs and regulatory compliance hiring that ECL/credit models must recalibrate for higher skill-gap risk in operational resilience."
+        },
+        {
+          "title": "\n        How the world has avoided an oil catastrophe so far\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/12/how-the-world-has-avoided-an-oil-catastrophe-so-far",
+          "content": "The great commodity-market mystery is deepening",
+          "source": "The Economist",
+          "publishedAt": "Tue, 12 May 2026 21:15:08 +0000",
+          "summary": "**MACRO/MARKETS:** Global oil supply resilience (shale, OPEC+ discipline, demand destruction) has prevented stagflationary shock, but structural underinvestment in legacy fields and geopolitical fragmentation create tail-risk volatility. Energy inflation remains a latent macro headwind for developed economies with tight labor markets."
+        },
+        {
+          "title": "Salem Media GAAP EPS of -$0.08, revenue of $45.89M",
+          "url": "https://seekingalpha.com/news/4592664-salem-media-gaap-eps-of--008-revenue-of-4589m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 14 May 2026 01:02:16 -0400",
+          "summary": "**MACRO/MARKETS:**\nRegional radio broadcasting faces structural headwinds from digital ad migration and cord-cutting; Salem's negative earnings reflect secular decline in traditional media, relevant to consumer discretionary/advertising sensitivity in recession scenarios and potential credit stress for leveraged legacy media operators."
+        },
+        {
+          "title": "New York and California pension leaders oppose ‘extreme’ SpaceX control structure linked to Musk: Reuters",
+          "url": "https://seekingalpha.com/news/4592659-new-york-and-california-pension-leaders-oppose-extreme-spacex-control-structure-linked-to-musk-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 14 May 2026 01:00:45 -0400",
+          "summary": "**MACRO/MARKETS + GOVERNANCE RISK:**\nPension fund opposition to concentrated founder control at SpaceX signals broader institutional pushback against single-point-of-failure governance in mega-cap tech/defense contractors, elevating ESG-driven capital allocation shifts and potential valuation discounts for founder-dominated structures across aerospace, AI infrastructure, and critical infrastructure sectors. Reflects macro tension between growth-stage founder alignment and institutional fiduciary standards—relevant for portfolio construction in defense/space ecosystems and systemic concentration risk in space economy consolidation."
+        },
+        {
+          "title": "US Stock Market: Warsh set to lead Fed amid debate over rates, transparency and AI impact ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-warsh-set-to-lead-fed-amid-debate-over-rates-transparency-and-ai-impact/articleshow/131082820.cms",
+          "content": "Fifteen years after leaving the Federal Reserve over disagreements on aggressive bond-buying policies, Kevin Warsh is set to return as chair of the U.S. central bank with a sweeping reform agenda, according to Reuters. Warsh has been a vocal critic of the Fed’s massive asset purchase programs that expanded its balance sheet to about $6.7 trillion.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 14 May 2026 10:25:19 +0530",
+          "summary": "**MACRO/MARKETS:** Warsh's return signals potential Fed pivot toward balance sheet normalization and hawkish stance, challenging post-2008 QE consensus; markets face repricing risk across duration, equities, and emerging markets exposed to USD strength. **CREDIT RISK:** Balance sheet contraction accelerates IFRS 9 ECL volatility through higher risk-free rates, wider credit spreads, and PD/LGD recalibration cycles; regulatory capital frameworks may shift toward pro-cyclical tightening."
+        },
+        {
+          "title": "Global Market: Japanese investors turn net sellers of foreign stocks after four months ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/global-market-japanese-investors-turn-net-sellers-of-foreign-stocks-after-four-months/articleshow/131082664.cms",
+          "content": "Japanese investors became net sellers of foreign equities in April for the first time in four months, offloading 636.4 billion yen due to rising energy costs and inflation fears. Trust accounts led this sell-off, while investment trusts and life insurers continued to buy overseas stocks.  This shift occurred as U.S. inflation accelerated, reinforcing expectations of prolonged high interest rates.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 14 May 2026 10:19:16 +0530",
+          "summary": "**MACRO/MARKETS:** Japanese institutional retrenchment signals portfolio rebalancing risk in EM/commodity-linked assets amid persistent US inflation; reversal of four-month BoJ carry-trade unwind tailwind threatens liquidity in non-USD fixed income and emerging market equities, with knock-on FX volatility (JPY strength) potentially compressing risk appetite globally.\n\n**CREDIT RISK:** Elevated redemption pressure on trust accounts may force fire-sales of illiquid credit positions; stress scenarios modeling currency volatility (JPY appreciation) and duration extension require ECL recalibration for cross-border counterparty exposures, particularly in energy/commodity-linked credit facilities"
+        }
+      ],
+      "generatedAt": "2026-05-14T05:10:23.017Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Stereoelectronic manipulation of ligands for perovskite solar cells",
+          "url": "https://www.nature.com/articles/s41586-026-10626-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-13T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nPerovskite solar efficiency gains via ligand engineering could accelerate renewable energy cost curve and shift capex allocation from traditional utilities to cleantech, strengthening ESG-linked sovereign and corporate bond valuations in emerging markets with solar deployment ambitions.\n\n**CREDIT RISK:**\nImproved perovskite stability and commercialization timelines reduce technological risk in green energy project financing, potentially lowering ECL provisions for renewable energy exposures while expanding addressable counterparty base in distributed solar—material for portfolio stress-testing under climate transition scenarios."
+        },
+        {
+          "title": "The hunt for the next antibiotics",
+          "url": "https://www.nature.com/articles/d41586-026-01424-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-13T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Antibiotic resistance poses a $100B+ annual economic burden (WHO); novel discovery methods (AI-screened compounds, phage therapy) could reshape pharma R&D cycles and create asymmetric opportunities in biotech/healthcare equity allocations while reducing systemic pandemic tail-risk premiums. **CREDIT RISK:** Rising antibiotic-resistant infections increase healthcare cost volatility for hospital networks and pharma counterparties; ECL models must embed resistance-trajectory assumptions into hospitality/healthcare sector PD/LGD inputs and regulatory stress scenarios."
+        },
+        {
+          "title": "Quantum breakthrough could revolutionize teleportation and computing",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
+          "content": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major milestone for quantum technology. The breakthrough could help unlock faster quantum communication, teleportation, and powerful new computing systems.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 13 May 2026 03:55:23 EDT",
+          "summary": "**MACRO/MARKETS:** Japanese quantum W-state detection advances near-term quantum communication infrastructure, potentially disrupting semiconductor supply chains and creating structural tailwinds for quantum-exposed equities (IONQ, RGTI, PLQI); geopolitical dimension mirrors US-China quantum race, elevating quantum as critical tech investment theme alongside semiconductor cycles.\n\n**CREDIT RISK:** Quantum breakthroughs accelerate cryptographic obsolescence timelines, forcing banks to model encryption migration costs into operational risk frameworks and potentially triggering IFRS 9 stress scenarios; financial services counterparty risk may require ESG-adjacent quantum-readiness disclosures within 3–5 years.\n\n**"
+        },
+        {
+          "title": "A rare cancer-fighting plant compound has been decoded",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
+          "content": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure, solving a mystery that had puzzled researchers for years. Because mitraphylline appears only in tiny amounts in tropical plants like kratom and cat’s claw, the discovery could make it far easier to produce sustainably in the future.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 12 May 2026 21:45:40 EDT",
+          "summary": "**BREAKTHROUGHS / BIOTECH SECTOR:**\nUBC's enzyme discovery unlocks synthetic mitraphylline production, de-risking pharma supply chains and enabling scaled manufacturing of a promising oncology candidate—material for biotech sector valuation multiples and natural products M&A activity. Sustainability angle addresses ESG-driven capital allocation trends in healthcare innovation."
+        },
+        {
+          "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
+          "url": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
+          "content": "Distinct form of tooth protein in Homo erectus shows up in Denisovans—and us.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 13 May 2026 20:27:54 +0000",
+          "summary": "**BREAKTHROUGHS:** Ancient DNA evidence of Denisovan-to-human introgression refines evolutionary timelines and validates paleogenomics as a rigorous discipline—relevant to biotech sequencing, pharmaceutical ancestry-based medicine, and longevity biotech valuations. Supports thesis that genetic admixture shaped modern human traits, informing precision medicine investment thesis."
+        },
+        {
+          "title": "The physics of how Olympic weightlifters exploit barbell's \"whip\"",
+          "url": "https://arstechnica.com/science/2026/05/the-physics-of-how-olympic-weightlifters-exploit-barbells-whip/",
+          "content": "The type of bar matters when it comes to how it bends and recoils, but why is still a mystery.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 13 May 2026 19:05:35 +0000",
+          "summary": "**BREAKTHROUGHS / MATERIALS SCIENCE:**\nOlympic barbell elasticity optimization reveals underexplored physics in composite material behavior—applicable to high-stress industrial equipment design and engineering-grade materials procurement. Sports equipment innovation cycles often presage broader industrial adoption; understanding bar \"whip\" mechanics could inform commodity material specs and specialty steel demand forecasting."
+        }
+      ],
+      "generatedAt": "2026-05-14T05:10:38.795Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Claude for Small Business",
+          "url": "https://www.anthropic.com/news/claude-for-small-business",
+          "content": "Article URL: https://www.anthropic.com/news/claude-for-small-business\nComments URL: https://news.ycombinator.com/item?id=48130950\nPoints: 51\n# Comments: 20",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 14 May 2026 03:59:35 +0000",
+          "summary": "**AI/ML + BUILDER:**\nAnthropic's Claude for Small Business targets SME adoption via simplified pricing/UX, directly competing with OpenAI's enterprise moat. For fintech builders, this signals commoditization of LLM inference costs—critical for unit economics of AI-native banking apps (loan decisioning, transaction categorization, fraud detection)."
+        },
+        {
+          "title": "Arena AI Model ELO History",
+          "url": "https://mayerwin.github.io/AI-Arena-History/",
+          "content": "Hi HN,\nI built a live tracker to visualize the lifecycle and performance changes of flagship AI models.\nWe've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality, so I built a dashboard to track historical ELO ratings from Arena AI.\nInstead of a massive spaghetti chart of every single model variant, the logic plots exactly ONE continuous curve per major AI lab. \nIt dynamically tracks their highest-rated flagship model over time, which makes both the sudden generational jumps and the slow performance decays much easier to see. \nIt took quite a lot of iterations to get the chart to look nice on mobile as well. Optional dark mode included.\nHowever, I have a specific data blindspot that I'm hoping this community might have insights on.\nArena AI largely relies on testing API endpoints. But as we know, consumer chat UIs often layer on heavy system prompts, safety wrappers, or silently switch to heavily quantized models under high load to save compute. API benchmarks don't fully capture this \"nerfing\" that everyday web users experience.\nDoes anyone know of any historical ELO or evaluation datasets that specifically scrape or test outputs from the consumer web UIs rather than raw APIs?\nI'd love to integrate that data for a more accurate picture of the consumer experience. The project is open-source (repo link in the footer), so I'd appreciate any feedback, or pointers to datasets!\nComments URL: https://news.ycombinator.com/item?id=48130711\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 14 May 2026 03:19:05 +0000",
+          "summary": "**Category Assessment: Builder & Product (niche technical relevance)**\n\nDeveloper created live ELO tracker for AI model performance degradation over time, highlighting gap between API benchmarks and production consumer UI behavior (safety wrappers, quantization under load). Relevant to fintech builders tracking model drift in production systems; limited macro/credit/investment significance unless integrated into systematic AI capability risk assessment frameworks."
+        },
+        {
+          "title": "Notion just turned its workspace into a hub for AI agents",
+          "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+          "content": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 13 May 2026 21:45:09 +0000",
+          "summary": "**MACRO/MARKETS:** Notion's agentic platform threatens traditional enterprise software moats (Salesforce, ServiceNow); signals AI-native tooling becoming table stakes, reshaping SaaS TAM and competitive positioning in productivity software.\n\n**CREDIT RISK:** Increased workflow automation and data integration reduce operational friction but create model risk concentrations—ECL provisioning frameworks must account for systemic dependencies on third-party AI agents and data quality failures.\n\n**AI/ML:** Direct embedding of custom agents into workspace eliminates API latency friction; banking analytics teams could operationalize real-time ECL recalculation, stress-testing, and PD/LGD inference without middleware"
+        },
+        {
+          "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+          "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+          "content": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 13 May 2026 19:49:42 +0000",
+          "summary": "**MACRO/MARKETS:** xAI's regulatory circumvention via mobile turbines signals infrastructure arbitrage in AI compute—expect accelerated capex competition and utility/environmental cost externalization reshaping datacenter economics and energy commodity demand curves.\n\n**CREDIT RISK:** Unregulated asset deployment and regulatory evasion present counterparty/operational risk; IFRS 9 provisioning frameworks may underestimate tail risks for lenders exposed to AI infrastructure plays lacking environmental compliance maturity.\n\n**AI/ML:** Aggressive infrastructure scaling reflects competitive pressure to commoditize LLM inference; banking analytics teams face margin compression as compute costs drop and model differentiation shifts from scale to efficiency.\n\n**"
+        }
+      ],
+      "generatedAt": "2026-05-14T05:10:49.828Z"
+    }
+  ]
+}
