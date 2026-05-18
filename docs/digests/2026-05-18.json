@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-18",
+  "generatedAt": "2026-05-18T05:47:20.380Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 13 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/13-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 14 May 2026 15:00:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY**\n\nBoE's weekly asset-liability snapshot provides critical input for ECL provisioning models—shifts in deposit composition or liability repricing directly impact funding cost assumptions in PD/LGD calibration and stress scenarios. Weekly cadence enables real-time regulatory reporting compliance and earlier detection of concentration risk deterioration across counterparty exposures."
+        },
+        {
+          "title": "DLT Innovation Challenge 2025: Final Report",
+          "url": "https://www.bankofengland.co.uk/research/fintech/dlt-innovation-challenge-2025",
+          "content": "The Distributed Ledger Technology (DLT) Innovation Challenge report describes the outcomes of the DLT Innovation Challenge and goes into detail around how it has informed our views on DLT and the topics of settlement finality, scalability, network and asset control and interoperability",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 12 May 2026 14:00:00 +0100",
+          "summary": "**MACRO/MARKETS:** DLT settlement innovation reshapes cross-border payment infrastructure and reduces systemic risk; scalability breakthroughs enable institutional adoption, pressuring legacy clearinghouse models and benefiting fintech/blockchain equities.\n\n**CREDIT RISK:** DLT settlement finality reduces counterparty risk and settlement lag, materially lowering EAD and PD assumptions; interoperability findings inform collateral management frameworks and regulatory capital models under IFRS 9.\n\n**AI/ML:** Real-time DLT settlement data enables granular counterparty monitoring and dynamic ECL provisioning; network control insights support predictive default modeling versus traditional snapshot-based approaches."
+        }
+      ],
+      "generatedAt": "2026-05-18T05:46:17.883Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 14 May 2026 18:55:01 GMT",
+          "summary": "**AI/ML + BUILDER:**\nOpen-source sub-100M embeddings with 32K context and Apache 2.0 licensing enable cost-efficient multilingual semantic search for fintech/banking apps without proprietary vendor lock-in. Critical for scaled RAG pipelines in compliance docs, trade analytics, and cross-border customer intelligence—reducing inference latency and infrastructure spend while maintaining retrieval quality comparable to larger closed models."
+        },
+        {
+          "title": "Unlocking asynchronicity in continuous batching",
+          "url": "https://huggingface.co/blog/continuous_async",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 14 May 2026 00:00:00 GMT",
+          "summary": "**AI/ML + BUILDER angle:**\nAsynchronous continuous batching reduces inference latency and hardware utilization costs in real-time ML pipelines—critical for low-latency banking analytics (fraud detection, PD scoring, mobile app decisioning) and cost-sensitive cloud deployments. Enables sub-100ms credit decisioning and risk model inference at scale, directly improving ECL computation efficiency and user experience in fintech applications."
+        },
+        {
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+          "summary": "**AlphaEvolve (Gemini AI coding agent):** Autonomous AI agents automating complex workflows across finance, infrastructure, and scientific research signal structural productivity gains—potential deflationary pressure on service sectors and implications for labor-intensive banking operations. For credit analytics, generative AI coding agents could accelerate IFRS 9 model validation, PD/LGD recalibration, and regulatory reporting automation, reducing operational risk and improving forecast transparency."
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "**MACRO/MARKETS:** Healthcare AI co-clinician deployment accelerates digital health adoption across developed markets, reshaping labor economics in professional services and creating structural tail-risks for diagnostic imaging/pathology sectors; emerging market healthcare access widens valuation gap.\n\n**CREDIT RISK:** AI diagnostic augmentation reduces operational risk and litigation tail-risk in healthcare providers (key ECL driver); model validation frameworks for clinical AI create new regulatory PD/LGD stress scenarios requiring IFRS 9 re-calibration.\n\n**AI/ML:** Clinical AI co-clinician workflow pattern—human-in-loop validation, confidence scoring, explainability requirements—directly transferable to banking credit decisioning and"
+        },
+        {
+          "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+          "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+          "content": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 15 May 2026 23:39:35 +0000",
+          "summary": "**Category: AI & ML Research**\n\nMusk-Altman litigation exposes governance fractures at OpenAI amid credibility contests over control motives and financial dealings. Outcome may signal regulatory appetite for AI entity accountability, influencing how banks model third-party AI vendor risk in ECL frameworks and vendor concentration thresholds under IFRS 9."
+        },
+        {
+          "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+          "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone scrolling. Now, many are being made entirely with…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 15 May 2026 12:10:00 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION**: China's AI-driven short-form content automation signals structural shift in digital media economics—lower production costs, margin compression for traditional studios, and emerging asset-light business models reshaping entertainment sector valuations. Highlights broader AI commoditization risk across content creation; banking analytics face similar cost-deflation pressures as generative AI democratizes model development (PD/LGD estimation, PMA workflows)."
+        }
+      ],
+      "generatedAt": "2026-05-18T05:46:34.515Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos",
+          "url": "https://www.ft.com/content/7d309f94-3618-4511-9778-d1447799c5e4",
+          "content": "US tech group will discuss capabilities of its new AI model with members of the Financial Stability Board",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 18 May 2026 04:00:22 GMT",
+          "summary": "**MACRO/MARKETS & FINTECH REGULATORY RISK**\n\nAnthropic's briefing to the FSB on AI model vulnerabilities signals growing regulatory scrutiny of large language models in financial services, potentially constraining deployment timelines for banks leveraging AI in credit decisioning and risk analytics. Cyber flaws in foundation models raise systemic risk concerns for institutions relying on LLM-based tools for ECL calculations, market surveillance, and customer-facing fintech apps—likely triggering enhanced validation frameworks and PMA requirements."
+        },
+        {
+          "title": "European oil refiners and airlines confident jet fuel shortages can be avoided",
+          "url": "https://www.ft.com/content/ceaaff8e-719f-4fa6-b64f-491c05fb2fcc",
+          "content": "Refiners maximise production and increase imports from US and Africa to offset loss of Middle Eastern supplies",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 18 May 2026 04:00:13 GMT",
+          "summary": "**MACRO/MARKETS:** European refinery utilization surge and strategic diversification away from Middle Eastern crude reduces near-term jet fuel supply shock, stabilizing aviation margins and energy inflation—bullish for airlines' Q4 guidance but extends oil price volatility as Atlantic basin arbitrage tightens.\n\n**CREDIT RISK:** Refiner capex acceleration and inventory build pressures working capital; airline fuel hedging effectiveness diminishes with basis risk from non-traditional supply routes, complicating EAD/LGD modeling under IFRS 9 stress scenarios."
+        },
+        {
+          "title": "\n        How to share the AI windfall\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/14/how-to-share-the-ai-windfall",
+          "content": "Are taxes enough?",
+          "source": "The Economist",
+          "publishedAt": "Thu, 14 May 2026 09:01:50 +0000",
+          "summary": "AI productivity gains risk widening wealth inequality; tax policy alone insufficient without wage growth, reskilling, and redistribution mechanisms. For credit portfolios, rising income dispersion increases ECL volatility and PD/LGD segmentation complexity; regulatory frameworks must adapt capital models to AI-driven labor market bifurcation."
+        },
+        {
+          "title": "\n        The jobs apocalypse: a (very) short history\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/14/the-jobs-apocalypse-a-very-short-history",
+          "content": "Mass unemployment induced by AI would be unprecedented",
+          "source": "The Economist",
+          "publishedAt": "Thu, 14 May 2026 08:58:08 +0000",
+          "summary": "**Macro/Markets + Credit Risk:** Structural unemployment from AI automation threatens consumer credit quality and GDP growth assumptions embedded in ECL models; mass joblessness would materially elevate PD curves, compress LGD recoveries, and invalidate historical macro-correlation assumptions across retail/SME portfolios, forcing urgent model recalibration and higher capital buffers."
+        },
+        {
+          "title": "PG&E initiates safety power shutoffs in California as fire risk rises",
+          "url": "https://seekingalpha.com/news/4594238-pge-initiates-safety-power-shutoffs-in-california-as-fire-risk-rises?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 18 May 2026 01:31:33 -0400",
+          "summary": "**MACRO/MARKETS:** Preemptive power shutoffs signal climate volatility pricing into US utilities—expect sector rotation toward resilience capex, margin compression from stranded assets, and potential regulatory framework shifts favoring distributed generation and microgrids.\n\n**CREDIT RISK:** Elevated operational/legal tail risk for regulated utilities; IFRS 9 ECL models must recalibrate PD (litigation, regulatory penalties) and incorporate climate scenario weighting; PMA reserves likely insufficient if liability cascade accelerates."
+        },
+        {
+          "title": "Samsung rebounds after court ruling and last-ditch talks with union",
+          "url": "https://seekingalpha.com/news/4594216-samsung-rebounds-after-court-ruling-and-last-ditch-talks-with-union?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 18 May 2026 01:29:37 -0400",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** South Korea's labor resolution at Samsung signals de-escalation in industrial disputes threatening Asia's semiconductor supply chain; positive for capex resumption and tech sector credit quality, reducing tail risk in IFRS 9 PD models for electronics & capital goods exposure. Court validation of management strengthens governance backdrop for Korean conglomerates, supporting equity valuations and lowering default probability assumptions in ECL calculations."
+        },
+        {
+          "title": "US Stock Market: AI boom and consumer spending trends take center stage as earnings season nears key test ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ai-boom-and-consumer-spending-trends-take-center-stage-as-earnings-season-nears-key-test/articleshow/131167691.cms",
+          "content": "S&P 500 and NASDAQ Composite are heading into a crucial week near record highs, with investors focused on two key themes — the AI-driven market rally and the strength of U.S. consumer spending amid sticky inflation. Earnings from NVIDIA and major retailers like Walmart, Home Depot, Target and TJX Companies are expected to provide fresh clues on AI demand, consumer health, and the broader U.S. economy.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 18 May 2026 11:09:31 +0530",
+          "summary": "**MACRO/MARKETS:** Mega-cap earnings will test whether AI capex ROI and consumer resilience can sustain valuations near all-time highs; sticky inflation + rate persistence threaten both narratives, with knock-on effects for EM and credit spreads.\n\n**CREDIT RISK:** Retail sector earnings critical for consumer credit quality; resilient spending validates ECL assumptions, weak results compress LGD recovery and trigger PD model recalibration across revolving credit portfolios.\n\n**AI/ML:** Real earnings data on AI infrastructure adoption (NVIDIA) enables better demand forecasting for banking analytics workflows; validates ML deployment ROI case for cost optimization in trading/risk systems."
+        },
+        {
+          "title": "HAL shares fall 10% in 3 days after Q4 results but Jefferies, Nuvama, other brokerages are raising target prices, here’s why ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-fall-10-in-3-days-after-q4-results-but-jefferies-nuvama-other-brokerages-are-raising-target-prices-heres-why/articleshow/131167452.cms",
+          "content": "Hindustan Aeronautics (HAL) shares fell sharply in three days post-Q4 results, even as major brokerages like Jefferies, Nuvama and Equirus raised target prices. Despite a modest profit and revenue rise, execution delays and softer margins weighed on sentiment. However, strong order backlog and upcoming Tejas Mk1A deliveries keep long-term outlook positive.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 18 May 2026 10:58:30 +0530",
+          "summary": "**MACRO/MARKETS:** Indian defence sector consolidation play revealing valuation disconnect between execution risk (margin compression, delivery delays) and structural tailwinds (geopolitical tension, indigenous Tejas platform scaling). Broader signal on emerging-market capex cyclicality and domestic manufacturing premiums amid supply-chain reshoring."
+        }
+      ],
+      "generatedAt": "2026-05-18T05:46:55.007Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Even mild blows to the head disrupt the microbiome",
+          "url": "https://www.nature.com/articles/d41586-026-01504-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-15T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Mild traumatic brain injury (mTBI) prevalence—sports, military, workplace accidents—creates long-term neurological sequelae affecting workforce productivity and healthcare costs; insurers face underpriced disability/life underwriting risk and potential ECL adjustments as epidemiology data strengthens causal links between subclinical head trauma and neurodegenerative disease. **BREAKTHROUGHS:** Microbiome-TBI nexus opens diagnostic/therapeutic markets (biomarker testing, neuro-targeted probiotics) and reshapes employer/insurer risk models via real-time neuroinflammation monitoring—material for health-tech"
+        },
+        {
+          "title": "Briefing Chat: Hantavirus — what this outbreak reveals about the disease",
+          "url": "https://www.nature.com/articles/d41586-026-01575-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-15T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS:** Hantavirus outbreaks signal climate-driven zoonotic spillover risk—emerging infectious disease tail risk elevates healthcare/biotech volatility, pressures emerging market growth forecasts, and strengthens case for pandemic-resilience portfolio hedges across pharma and remote-work infrastructure plays.\n\n**CREDIT RISK:** Disease clusters in rural/developing regions amplify ECL model stress-testing gaps; PD/LGD calibration for agriculture, tourism, and healthcare counterparties requires pandemic scenario overlays; regulatory focus on non-financial risk disclosure (TCFD-adjacent) tightens loan covenant frameworks."
+        },
+        {
+          "title": "The “impossible” LED that could change everything",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518011222.htm",
+          "content": "Scientists at the University of Cambridge have achieved what was once considered impossible by electrically powering insulating nanoparticles to create a completely new kind of LED. Using tiny organic “molecular antennas,” the team found a way to funnel energy into materials that normally cannot conduct electricity, producing ultra pure near infrared light with remarkable efficiency.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 18 May 2026 01:18:55 EDT",
+          "summary": "**MACRO/MARKETS:** Cambridge's insulating nanoparticle LED tech could disrupt $150B+ photonics/semiconductor sector, enabling efficiency gains in infrared sensing, medical devices, and quantum computing—potential structural shift in materials science capex cycles and supply chain dependencies.\n\n**CREDIT RISK:** No direct IFRS 9/ECL impact unless Cambridge spin-co securitizes IP or material suppliers face tech obsolescence risk requiring PD/LGD recalibration; monitor emerging-market rare-earth exposure if this reduces input material intensity.\n\n**AI/ML:** Real-time spectral efficiency modeling of nanoparticle antenna behavior could drive demand for materials-"
+        },
+        {
+          "title": "Scientists just unlocked a cheaper way to make clean hydrogen fuel",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211437.htm",
+          "content": "Researchers have developed a durable new catalyst that produces clean hydrogen without relying on expensive platinum metals. The breakthrough could make renewable hydrogen fuel cheaper, more efficient, and easier to scale for real-world energy use.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 18 May 2026 00:55:16 EDT",
+          "summary": "**MACRO/MARKETS:** Platinum-group metal dependency reduction reshapes hydrogen economy valuations; accelerates energy transition capex cycles and shifts commodity exposure (Pt/Pd) while expanding addressable TAM for renewable hydrogen infrastructure across industrials, utilities, and emerging markets.\n\n**CREDIT RISK:** Lower hydrogen production costs improve IRR/EBITDA metrics for green hydrogen projects; reduces refinance and default risk in project-level ECL models; shifts sector-wide risk profiles for energy transition lending books and commodity-linked counterparties.\n\n**AI/ML:** Catalyst discovery via ML/computational chemistry becomes material for banking research; enables faster PD model recalibration for hydrogen/clean"
+        },
+        {
+          "title": "A revolutionary cancer treatment could transform autoimmune disease",
+          "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+          "content": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 17 May 2026 11:00:14 +0000",
+          "summary": "**MACRO/MARKETS:** CAR T cell therapy scaling could reshape biotech valuations and healthcare spending patterns; watch for regulatory approvals driving sector rotation and emerging-market pharma M&A activity as IP barriers shift.\n\n**CREDIT RISK:** If autoimmune disease treatment costs collapse, expect material ECL model recalibration for health insurers and pharma lenders; PD/LGD assumptions on specialty pharma may require stress-testing against disruption scenarios.\n\n**AI/ML:** Personalized CAR T manufacturing demands real-time supply-chain optimization and outcome prediction models—massive opportunity for banking analytics teams supporting biopharma financing and post-market surveillance data pipelines."
+        },
+        {
+          "title": "Solar power production undercut by coal pollution",
+          "url": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
+          "content": "Each year, some of the power solar could have produced is blocked by aerosols.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 15 May 2026 20:36:05 +0000",
+          "summary": "**MACRO/MARKETS:** Coal pollution aerosols reduce solar output ~5-10% globally, pressuring renewable ROI and creating structural headwinds for energy transition economics—material for utility capex cycles and power price volatility across emerging markets dependent on solar capacity.\n\n**CREDIT RISK:** Lower-than-modeled renewable generation undermines project-financed solar PPA cashflows; ECL provisions on green energy portfolios may underestimate climate/pollution externality risk; regulatory scrutiny on \"sustainable\" asset classifications increases if pollution discount isn't embedded in PD/LGD assumptions.\n\n**AI/ML:** Production shortfall opacity creates demand for real-time aerosol-adjusted ir"
+        }
+      ],
+      "generatedAt": "2026-05-18T05:47:11.749Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
+          "url": "https://www.youtube.com/watch?v=1OIxzewWilc",
+          "content": "Article URL: https://www.youtube.com/watch?v=1OIxzewWilc\nComments URL: https://news.ycombinator.com/item?id=48175637\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 18 May 2026 04:38:58 +0000",
+          "summary": "**BUILDER relevance:** Ghys explores computational geometry and typography algorithms—core to rendering engines and design systems. Bridges mathematical foundations (relevant to algorithm optimization in React Native/Node.js backends) with practical font rendering, applicable to fintech UI/UX systems requiring precision in data visualization and cross-platform consistency."
+        },
+        {
+          "title": "America's Most-Spoken Languages After English and Spanish",
+          "url": "https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/",
+          "content": "Article URL: https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/\nComments URL: https://news.ycombinator.com/item?id=48175319\nPoints: 15\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 18 May 2026 03:41:35 +0000",
+          "summary": "**BUILDER / MACRO RELEVANCE:**\nLinguistic fragmentation across North America (French, Mandarin, Tagalog, Vietnamese dominance by region) signals demographic shifts reshaping consumer markets and fintech localization demands—critical for targeting diaspora banking products, cross-border payments, and regional app personalization strategies. Low HN engagement (0 comments, 15 pts) suggests niche interest, but hidden macro signal: emerging market immigration patterns correlate with remittance flows, FX volatility, and emerging-market debt valuations."
+        },
+        {
+          "title": "Apple’s Siri revamp could include auto-deleting chats",
+          "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+          "content": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 17 May 2026 20:15:00 +0000",
+          "summary": "**MACRO/MARKETS & BUILDER:** Apple's privacy-first Siri redesign signals intensifying regulatory pressure on data monetization across big tech—reshaping ad-tech revenue models and forcing architectural shifts toward on-device processing. For builders, the auto-delete framework validates local-first ML stacks (React Native + edge inference) as competitive differentiators in consumer fintech."
+        },
+        {
+          "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+          "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+          "content": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 17 May 2026 19:46:34 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** OpenAI governance/trust issues signal broader AI-sector governance risk—material for AI-heavy tech valuations and institutional confidence. Banks' IFRS 9 ECL models may need scrutiny on counterparty risk exposure to high-leverage AI firms lacking transparent control structures."
+        }
+      ],
+      "generatedAt": "2026-05-18T05:47:20.380Z"
+    }
+  ]
+}
