@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-19",
+  "generatedAt": "2026-05-19T05:42:07.588Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Extending RTGS and CHAPS settlement hours – next steps towards near 24x7 settlement",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/extending-rtgs-and-chaps-settlement-hours-next-steps",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 18 May 2026 09:00:00 +0100",
+          "summary": "**MACRO/MARKETS**: Extended RTGS/CHAPS hours reduce settlement risk and liquidity friction across GBP markets, supporting intraday trading efficiency and aligning UK infrastructure with 24x7 global settlement trends—bullish for FX volatility products and cash-driven asset classes.\n\n**CREDIT RISK**: Compressed settlement windows lower counterparty exposure duration, reducing PD/EAD inputs in ECL models; faster netting improves collateral optimization and backstop liquidity buffers under IFRS 9 forward-looking provisions.\n\n**AI/ML**: Real-time settlement data unlocks granular transaction-level anomaly detection and settlement failure prediction models,"
+        },
+        {
+          "title": "Bank of England Weekly Report 13 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/13-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 14 May 2026 15:00:00 +0100",
+          "summary": "**Credit Risk & Regulatory**\n\nBoE weekly asset-liability disclosure provides real-time ECL inputs (PD/LGD benchmarking, seasoning curves) for IFRS 9 model recalibration; critical for stress testing and regulatory capital adequacy reporting across UK portfolio segments."
+        }
+      ],
+      "generatedAt": "2026-05-19T05:41:12.471Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 18 May 2026 16:00:21 GMT",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nEfficient fine-tuning of foundation video models via LoRA/DoRA reduces compute barriers for robotics/automation capex, accelerating industrial capex cycles and labour displacement narratives across developed markets. Direct implication for manufacturing PMI, logistics automation CapEx demand, and labour cost inflation dynamics in 2025–26 forecasts."
+        },
+        {
+          "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+          "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 18 May 2026 15:12:46 GMT",
+          "summary": "**AI/ML + BUILDER:**\nPaddleOCR 3.5's transformer-backed document parsing reduces manual data extraction friction in lending workflows (KYC, financial statement ingestion), lowering operational risk and improving ECL model input quality; on-device inference capability enables privacy-preserving mobile fintech apps without cloud dependency, shifting OCR from commodity to embedded competitive moat."
+        },
+        {
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+          "summary": "**Gemini-powered coding automation could accelerate ML model development cycles for ECL/PD-LGD frameworks and regulatory backtesting, reducing time-to-production for credit risk systems. Cross-sector deployment signals AI agents reaching critical scale in knowledge work—material for productivity tailwinds in enterprise software and potential disruption to quant finance workflows.**"
+        },
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+          "summary": "**MACRO/MARKETS:** Healthcare AI co-clinician models could reshape $12T+ global healthcare spend, potentially reducing costs 15-30% while improving outcomes—bullish for health tech, pharma services, and emerging market healthcare adoption; deflationary for developed economies' medical inflation.\n\n**CREDIT RISK:** AI diagnostic accuracy improvements reduce hospital bad debt and working capital volatility; regulatory pressure on model explainability (FDA, HIPAA) mirrors IFRS 9 model governance—expect tighter validation frameworks and potential ECL uplift for healthcare providers on tech-dependent revenue streams.\n\n**AI/ML:** Real-time clinical decision support mirrors real-time credit decisioning architectures;"
+        },
+        {
+          "title": "Here’s why Elon Musk lost his suit against OpenAI",
+          "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+          "content": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announced on X that he will…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 19 May 2026 00:53:10 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML:** Musk's loss reinforces legal barriers to constraining AI commercialization, removing near-term regulatory risk for OpenAI/Microsoft and strengthening the case for unrestricted LLM deployment in enterprise—a structural tailwind for cloud/AI infrastructure capex cycles and margin expansion in 2024-25."
+        },
+        {
+          "title": "What to expect from Google this week",
+          "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 18 May 2026 17:35:43 +0000",
+          "summary": "**MACRO/MARKETS:** Google's third-place positioning in foundation models signals intensifying AI capex competition and potential margin pressure across big tech; developer adoption trends will indicate whether open-source or closed models dominate enterprise spending.\n\n**AI/ML (BANKING):** Foundation model fragmentation raises model risk governance questions for banks deploying LLMs in credit decisioning; ECL frameworks may need stress-testing against rapid obsolescence of third-party AI infrastructure.\n\n**BUILDER:** Watch for announcements on Gemini API pricing, latency, and RAG capabilities—directly impacts cost-efficiency of LLM-backed fintech features (transaction summarization, anomaly detection, regulatory reporting automation)."
+        }
+      ],
+      "generatedAt": "2026-05-19T05:41:26.346Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "A $420bn mega-merger for AI’s next-era dominion",
+          "url": "https://www.ft.com/content/dddbd30c-ac30-4a6e-a452-467d5b3b7b23",
+          "content": "‘Data centre alley’ is at the centre of NextEra’s deal with Dominion",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 19 May 2026 04:00:29 GMT",
+          "summary": "**Macro/Markets & Credit Risk:** $420bn NextEra-Dominion merger consolidates critical AI data centre infrastructure, amplifying utility sector leverage and refinancing risk in rising-rate environment—material ECL drivers for energy/infrastructure credit portfolios and regulatory capital implications under IFRS 9 counterparty concentration frameworks.\n\n**AI/Fintech Angle:** Centralised control over AI compute backbone creates systemic dependency risk; banking analytics models (PD/LGD estimation, real-time ECL workflows) increasingly exposed to single-entity operational/regulatory shocks; opportunity for decentralised fintech alternatives and edge-compute risk hedging instruments."
+        },
+        {
+          "title": "Worries on gilts point to wider bond market vulnerabilities",
+          "url": "https://www.ft.com/content/9e147d75-f15d-48a9-9455-47bc0c73f288",
+          "content": "Rising public debt adds pressure while increased hedge fund trading opens up new fragilities",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 19 May 2026 04:00:22 GMT",
+          "summary": "**MACRO/MARKETS & CREDIT RISK**: UK gilt volatility signals wider duration/liquidity stress across sovereign debt markets as leverage-heavy hedge fund positioning amplifies tail risks; rising public debt erodes collateral quality, pressuring ECL models and regulatory capital buffers across banks holding government securities. **CREDIT RISK & AI/ML**: Real-time hedge fund flow monitoring and correlation breakdowns now critical to PD/LGD calibration; traditional bond duration assumptions face model drift requiring dynamic recalibration in IFRS 9 provisioning frameworks."
+        },
+        {
+          "title": "\n        Where expat escapees from Dubai end up\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/18/where-expat-escapees-from-dubai-end-up",
+          "content": "Will they ever return?",
+          "source": "The Economist",
+          "publishedAt": "Mon, 18 May 2026 20:38:24 +0000",
+          "summary": "**MACRO/MARKETS ANGLE:**\nUAE expatriate outflows signal weakening regional labor arbitrage and demand for high-skill talent globally; geopolitical risk premiums in Gulf real estate and consumption metrics warrant recalibration in EM equity allocation and commodity demand forecasts for energy-dependent economies."
+        },
+        {
+          "title": "\n        How much is Donald Trump costing America’s economy? \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/18/how-much-is-donald-trump-costing-americas-economy",
+          "content": "We calculate the drag on growth from fitful presidential policymaking",
+          "source": "The Economist",
+          "publishedAt": "Mon, 18 May 2026 18:43:57 +0000",
+          "summary": "**Policy uncertainty under Trump administration creates measurable GDP drag through delayed capex, hiring freezes, and regulatory whiplash—affecting credit cycle timing, default probability calibration, and macro overlays in ECL models. Sector rotation into defensive/dividend plays and EM reallocation reflect repricing of US growth assumptions; implications for portfolio concentration risk and cross-border capital flows warrant macro stress scenario updates.**"
+        },
+        {
+          "title": "CTRE prices $509M upsized share offering",
+          "url": "https://seekingalpha.com/news/4594691-ctre-prices-509m-upsized-share-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 19 May 2026 01:23:26 -0400",
+          "summary": "**MACRO/MARKETS:** Data center REITs signaling confidence in AI capex cycle despite rate uncertainty; $509M upsized offering reflects strong institutional demand for mega-cap compute infrastructure, validating secular cloud/LLM thesis across developed markets."
+        },
+        {
+          "title": "Standard Chartered to cut over 15% of corporate roles by 2030, raises profit targets",
+          "url": "https://seekingalpha.com/news/4594699-standard-chartered-to-cut-over-15-of-corporate-roles-by-2030-raises-profit-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 19 May 2026 01:22:50 -0400",
+          "summary": "**MACRO/MARKETS + CREDIT RISK + AI/ML angle:**\n\nGlobal systemically important banks are accelerating structural deleveraging via headcount reduction—signaling sustained margin pressure and competitive consolidation in corporate banking. Automation-driven efficiency reshaping credit origination workflows; material implication for PD/LGD calibration on shrinking corporate portfolios and recalibration of ECL models under IFRS 9 as underwriting quality shifts."
+        },
+        {
+          "title": "Apollo Micro Systems shares rally 7% after Q4 profit surges 163% YoY ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-micro-systems-shares-rally-7-after-q4-profit-surges-163-yoy/articleshow/131191331.cms",
+          "content": "Shares of Apollo Micro Systems surged over 7% after the defence company reported strong Q4FY26 earnings, driven by sharp growth in profit and revenue. The company also highlighted a healthy order book and expansion plans, including acquisitions and UAV manufacturing, strengthening investor confidence amid sustained bullish momentum in the stock.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 19 May 2026 10:52:24 +0530",
+          "summary": "**MACRO/MARKETS:** Indian defence sector momentum reflects elevated geopolitical tensions and capex cycles in emerging markets; UAV/drone manufacturing expansion signals structural shift in defence supply chains with cross-border procurement implications for global defence budgets.\n\n**CREDIT RISK:** Strong order book visibility and capex-driven growth reduce counterparty default risk; however, acquisition-heavy expansion strategy requires monitoring of leverage ratios and debt covenant compliance under IFRS 9 staging models—particularly debt service coverage ratios for ECL calibration."
+        },
+        {
+          "title": "Puravankara shares surge 13% after Q4FY26 turnaround; reports Rs 114 crore profit ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/puravankara-shares-surge-13-after-q4fy26-turnaround-reports-rs-114-crore-profit/articleshow/131191257.cms",
+          "content": "Puravankara shares surged over 12% following a strong Q4FY26 turnaround, with net profit reaching Rs 114.2 crore against a prior year loss. Revenue from operations more than doubled year-on-year to Rs 1,502 crore. The company also reported robust full-year FY26 performance, returning to profitability with a PAT of Rs 58 crore.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 19 May 2026 10:44:19 +0530",
+          "summary": "**MACRO/MARKETS:** Indian real estate recovery gaining traction post-pandemic; residential sector turnaround signals improving consumer confidence and credit demand in emerging markets, with potential multiplier effects on construction materials, cement, and financial services equity valuations."
+        }
+      ],
+      "generatedAt": "2026-05-19T05:41:44.510Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "China moves AI brain implants from trials towards real-world use",
+          "url": "https://www.nature.com/articles/d41586-026-01468-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-19T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS:** China's AI brain implant commercialization signals neurotech as emerging asset class; regulatory arbitrage vs. Western markets creates geopolitical tech divergence risk; potential demand shock in healthcare/biotech sectors and talent competition.\n\n**CREDIT RISK:** Neurotech companies face binary regulatory/liability tail risk; IFRS 9 Stage 2 triggers on medical device approval uncertainty; PD modeling for biotech counterparties requires scenario weighting on clinical trial outcomes and reimbursement policy shifts.\n\n**AI/ML:** Neural implant data streams enable real-time biometric monitoring; banking could integrate health metrics into affordability assessments (mortgages,"
+        },
+        {
+          "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
+          "url": "https://www.nature.com/articles/s41586-026-10649-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-18T00:00:00.000Z",
+          "summary": "**BREAKTHROUGHS / BIOTECH SECTOR:**\nMicrobiota-directed immunotherapy demonstrates mechanistic pathway for personalized cancer treatment, signaling potential multi-billion dollar TAM expansion in precision oncology and diagnostic microbiomics—relevant to healthcare sector rotation and biotech equity valuations amid rising R&D productivity. Correction reinforces reproducibility standards critical for clinical-stage biotech funding confidence and regulatory clearance timelines affecting sector risk premiums."
+        },
+        {
+          "title": "The “impossible” LED that could change everything",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518011222.htm",
+          "content": "Scientists at the University of Cambridge have achieved what was once considered impossible by electrically powering insulating nanoparticles to create a completely new kind of LED. Using tiny organic “molecular antennas,” the team found a way to funnel energy into materials that normally cannot conduct electricity, producing ultra pure near infrared light with remarkable efficiency.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 18 May 2026 01:18:55 EDT",
+          "summary": "**MACRO/MARKETS:** Cambridge's electrically-powered insulating nanoparticle LED could disrupt semiconductor/optoelectronics supply chains and valuations; near-infrared applications span telecom, sensing, medical devices—reshaping capex allocation across tech hardware and cleantech sectors.\n\n**CREDIT RISK:** Emerging deep-tech hardware plays face binary success/failure risk profiles; IFRS 9 Stage migration (R&D-heavy firms) and PD/LGD volatility spike; portfolio concentration risk in VC-backed spin-outs requires stress-tested covenant frameworks.\n\n**AI/ML:** Real-time LED efficiency optimization and molecular antenna tuning demand"
+        },
+        {
+          "title": "This popular fermented food may help flush microplastics from the body",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211451.htm",
+          "content": "Scientists in South Korea have discovered that a probiotic bacterium found in kimchi may help the body flush out tiny plastic particles before they can build up in organs. In lab tests, the kimchi-derived microbe clung tightly to nanoplastics even under conditions designed to mimic the human intestine, where other bacteria quickly lost their grip.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 18 May 2026 05:59:47 EDT",
+          "summary": "**BREAKTHROUGHS:** South Korean probiotic research validates functional food as preventative health intervention—potential $B market for nutraceuticals/probiotics if clinical trials succeed. Signals shift toward microbiome therapeutics as alternative to pharma, relevant for healthcare sector rotation and biotech valuations amid ESG/sustainability tailwinds."
+        },
+        {
+          "title": "Australian Aboriginals cared for a dingo's grave for decades",
+          "url": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
+          "content": "For some ancient Aboriginal Australian communities, dingoes were part of the family.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 18 May 2026 18:37:55 +0000",
+          "summary": "**BREAKTHROUGHS:** Archaeological evidence of Aboriginal dingo stewardship demonstrates sophisticated animal husbandry and social structures, challenging narratives about pre-industrial societies and opening anthropological tourism/cultural heritage IP opportunities for Australian markets.\n\n**MACRO/MARKETS:** Limited direct relevance; potential indirect benefit to Australian cultural assets, indigenous land claims, and ESG-weighted emerging market exposure via responsible tourism sector revaluation."
+        },
+        {
+          "title": "Pompeii victim ID'd as a likely doctor",
+          "url": "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
+          "content": "New X-rays and CT scans showed small case with locking mechanism containing metal instruments.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 18 May 2026 18:03:32 +0000",
+          "summary": "**BREAKTHROUGHS:** Archaeological imaging validates non-destructive forensic analysis at scale—relevant to heritage asset monetization, museum tech licensing, and AI-driven artifact authentication markets emerging in cultural asset tokenization and insurance valuation.\n\n**BUILDER:** CT/X-ray data pipeline architecture mirrors medical imaging app stacks (image processing, 3D reconstruction, metadata tagging)—portable pattern for healthcare fintech apps requiring secure medical data handling and compliance frameworks."
+        }
+      ],
+      "generatedAt": "2026-05-19T05:41:58.686Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "PyTorch Landscape",
+          "url": "https://pytorch.landscape2.io",
+          "content": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 11\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 19 May 2026 04:29:39 +0000",
+          "summary": "PyTorch ecosystem visualization mapping frameworks, tools, and libraries across the AI/ML stack—relevant for banking analytics modernization, model governance, and production deployment. For fintech builders, clarifies fragmentation in ML ops tooling; for macro investors, signals continued AI infrastructure consolidation as competitive moat for cloud providers and open-source foundations."
+        },
+        {
+          "title": "Codex-Maxxing",
+          "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+          "content": "Article URL: https://jxnl.co/writing/2026/05/10/codex-maxxing/\nComments URL: https://news.ycombinator.com/item?id=48189156\nPoints: 16\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 19 May 2026 04:24:45 +0000",
+          "summary": "**Summary:**\n\n\"Codex-maxxing\" optimizes LLM outputs for specific tasks by intensive prompt engineering—directly relevant to banking analytics automation (ECL model validation, PD calibration). For builders, this technique reduces inference costs and latency in production fintech systems, enabling resource-efficient AI deployment in regulated environments where model explainability and audit trails matter."
+        },
+        {
+          "title": "OSHA probing worker death at SpaceX’s Starbase site",
+          "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+          "content": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 18 May 2026 21:55:02 +0000",
+          "summary": "**MACRO/MARKETS:** OSHA investigation signals regulatory tightening on space industry safety standards, potentially raising capex/compliance costs across commercial space operators and creating sector-wide operational risk premium—relevant for aerospace supply chain and emerging space economy valuations.\n\n**CREDIT RISK:** Elevated workplace fatality risk at SpaceX's flagship facility increases contingent liability exposure and reputational damage; if SpaceX pursues debt financing, lenders should model regulatory fines, litigation reserves, and operational disruption into ECL frameworks and PD recalibration.\n\n**BUILDER:** Incident tracking and real-time safety compliance dashboards (IoT sensors, geolocation, incident reporting via mobile"
+        },
+        {
+          "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+          "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+          "content": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 18 May 2026 21:29:31 +0000",
+          "summary": "**MACRO/MARKETS:** Democratization of computational drug discovery via LLM integration could accelerate biotech productivity, reducing R&D cycles and capital intensity—reshaping pharma sector ROI and biotech equity valuations amid rising cost pressures.\n\n**AI/ML:** Claude-as-interface pattern (accessibility > raw capability) signals architectural shift: banking analytics teams can now prototype ECL/PD models, stress scenarios, and regulatory reporting without PhD-level ML ops—material productivity gain in model governance pipelines."
+        }
+      ],
+      "generatedAt": "2026-05-19T05:42:07.588Z"
+    }
+  ]
+}
