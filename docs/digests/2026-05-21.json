@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-21",
+  "generatedAt": "2026-05-21T05:48:40.310Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Central counterparty resolution execution and resolvability outcomes",
+          "url": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/central-counterparty-resolution-execution-and-resolvability-outcomes",
+          "content": "Discussion paper",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 19 May 2026 10:00:00 +0100",
+          "summary": "**Central counterparty resolution execution and resolvability outcomes** examines CCP default management frameworks—critical for systemic risk modeling under IFRS 9 counterparty credit risk adjustments (CVA) and regulatory capital adequacy. Explores resolution mechanics, liquidity waterfall sequencing, and derivative portfolio valuation under stress; implications span OTC clearing resilience, emerging market CCP concentration risk, and real-time settlement protocol design for fintech infrastructure."
+        },
+        {
+          "title": "Tenth edition of the Regulatory Initiatives Grid",
+          "url": "https://www.bankofengland.co.uk/report/2026/tenth-edition-of-the-regulatory-initiatives-grid",
+          "content": "Tenth edition of the Grid published by the Financial Services Regulatory Initiatives Forum",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 19 May 2026 07:00:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY:** The Grid consolidates evolving regulatory expectations on capital, liquidity, and credit risk frameworks across jurisdictions—critical input for ECL model calibration, PD/LGD validation, and IFRS 9 provisioning updates. Expect tightened stress-testing requirements and potential PMA adjustments as regulators harmonize post-pandemic guidance on emerging risks (cyber, climate, geopolitical)."
+        }
+      ],
+      "generatedAt": "2026-05-21T05:47:44.188Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 19 May 2026 18:38:09 GMT",
+          "summary": "**MACRO/MARKETS:** OlmoEarth v1.1 improves real-time Earth observation efficiency, enabling faster satellite-based monitoring of agricultural yields, commodity supply chains, and climate risk—critical inputs for commodity pricing, inflation forecasts, and emerging market credit cycles. Reduces latency in weather-driven tail risk assessment across energy, agriculture, and insurance sectors.\n\n**CREDIT RISK:** Enhances ECL model foundations by enabling cheaper, faster geospatial stress-testing (crop failures, infrastructure damage, supply shocks); supports PD/LGD calibration for agri-lending and emerging market portfolios via superior climate/environmental baseline data; reduces model uncertainty in non"
+        },
+        {
+          "title": "Introducing the Ettin Reranker Family",
+          "url": "https://huggingface.co/blog/ettin-reranker",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 19 May 2026 00:00:00 GMT",
+          "summary": "**Ettin Reranker Family introduces efficient retrieval-augmented generation (RAG) via lightweight reranking models, reducing computational overhead and latency in LLM pipelines.** Direct relevance: accelerates real-time credit decisioning (ECL/PD estimation), enhances NLP-driven alternative data in market surveillance, and enables cost-effective deployment of AI-driven analytics on mobile/edge infrastructure for wealth and risk platforms."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "**MACRO/MARKETS**: Cellular rejuvenation breakthroughs could reshape healthcare spending, life insurance pricing, and longevity-linked asset classes; biotech/pharma upside but deflation risk to elder-care GDP. **AI/ML BANKING**: Generative AI accelerating biotech discovery cycles shortens R&D timelines and capital intensity—material for ECL/PD modeling in healthcare lending and VC-backed biotech exposure; regulatory scrutiny on AI-driven risk models likely."
+        },
+        {
+          "title": "Simulate real-world places with Project Genie and Street View",
+          "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+          "content": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+          "source": "DeepMind",
+          "publishedAt": "Sun, 17 May 2026 19:53:18 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nGoogle's Street View-powered generative AI (Project Genie) scales synthetic environment simulation, with major implications for autonomous systems, logistics optimization, and real estate valuation models—potentially disrupting property assessment methodologies across commercial lending. For banking analytics, this enables richer geospatial risk features for credit models (foot-traffic proxies, neighborhood change detection), though introduces model governance complexity and potential data dependency risks under IFRS 9 validation frameworks."
+        },
+        {
+          "title": "Green steel startup Boston Metal is doubling down on critical metals",
+          "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+          "content": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.   The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenhouse emissions today. With the additional money, the new focus could…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 20 May 2026 13:00:00 +0000",
+          "summary": "**MACRO/MARKETS:** Steel decarbonization funding signals investor conviction in green capex cycles; critical metals (likely rare earths/lithium alternatives) pivot exposes commodity supply-chain reshaping and potential margin compression in traditional steelmakers—watch thermal coal and integrated steel equity rotation.\n\n**CREDIT RISK:** Rising cleantech capex cycles compress near-term FCF in legacy steel; IFRS 9 PD/LGD models need sector recalibration as stranded-asset risk increases for non-green producers; ECL provisions tighten on leveraged steel/mining counterparties funding traditional operations.\n\n**AI/ML:** Materials science optimization (alloy composition,"
+        },
+        {
+          "title": "The Download: fully artificial chicken eggs and why Musk lost",
+          "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg. Instead, these chickens were…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 20 May 2026 12:10:00 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Alternative protein biotech (Colossal) scaling lab-grown animal products challenges commodity ag supply chains and futures pricing; disrupts $140B+ poultry sector, reshaping agribusiness equity valuations and food inflation hedges. **AI/ML & CREDIT:** Synthetic biology firms introduce model validation risk—ECL frameworks must recalibrate counterparty concentration and sector cyclicality assumptions as incumbents face structural displacement."
+        }
+      ],
+      "generatedAt": "2026-05-21T05:47:58.778Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Chris Hohn’s quest for eternal greatness",
+          "url": "https://www.ft.com/content/991722ac-5b15-4eda-bd15-b407a6a0ff60",
+          "content": "The UK’s most successful hedge fund manager has taken a spiritual turn",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 21 May 2026 04:00:41 GMT",
+          "summary": "**MACRO/MARKETS angle:**\nHohn's philosophical pivot signals potential capital reallocation from traditional alpha strategies toward ESG/impact investing, reflecting institutional LP pressure reshaping hedge fund industry dynamics and influencing sector rotation away from traditional value plays toward sustainable themes globally."
+        },
+        {
+          "title": "Big Tech software era is over, says top investor James Anderson",
+          "url": "https://www.ft.com/content/9d2bd5b3-80c6-49b9-a04b-edc4162c9320",
+          "content": "Former Baillie Gifford fund manager says spoils of AI war will flow to hardware suppliers",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 21 May 2026 04:00:33 GMT",
+          "summary": "**Macro/Markets & Breakthroughs:** Thesis shift from software to hardware valuations signals potential mega-cap tech rerating; AI capex concentration (semiconductors, infrastructure) may compress software multiples and reshape sector rotation—critical for equity positioning and EM hardware suppliers. **Credit Risk & Analytics:** Accelerated hardware demand cycles increase cyclicality and working-capital stress; PD/LGD models for tech supply-chain lenders need recalibration as profitability migration away from software reduces debt servicing comfort."
+        },
+        {
+          "title": "\n        Economics lessons from Home Depot\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/20/economics-lessons-from-home-depot",
+          "content": "What the world’s biggest DIY store says about American housing",
+          "source": "The Economist",
+          "publishedAt": "Wed, 20 May 2026 18:14:46 +0000",
+          "summary": "**Macro/Markets**: Home Depot's earnings reveal housing cycle inflection—residential capex weakness signals consumer balance-sheet stress and potential demand destruction in cyclical sectors; retail weakness portends broader discretionary headwinds despite tight labor markets."
+        },
+        {
+          "title": "\n        Investors fear another surge in inflation\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/19/investors-fear-another-surge-in-inflation",
+          "content": "So why aren’t more buying inflation-protected bonds?",
+          "source": "The Economist",
+          "publishedAt": "Tue, 19 May 2026 19:36:34 +0000",
+          "summary": "**MACRO/MARKETS:** Rising inflation fears are widening real yield spreads, yet TIPS demand remains subdued—signaling either complacency on near-term price stability or structural shift in inflation-hedge preferences toward equities and commodities. Global central banks face renewed tightening pressure, particularly impacting EM FX and high-duration assets.\n\n**CREDIT RISK (IFRS 9/ECL):** Higher inflation scenarios compress real interest rates, elevating PD/LGD volatility in long-dated portfolios; stagflation paths require elevated macro-overlay adjustments to ECL model assumptions and PMA overlays, especially in cyclical/emerging exposures."
+        },
+        {
+          "title": "Northern Star CEO Tonkin to leave after a decade at helm",
+          "url": "https://seekingalpha.com/news/4595534-northern-star-ceo-tonkin-to-leave-after-a-decade-at-helm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 21 May 2026 01:45:35 -0400",
+          "summary": "**MACRO/MARKETS:** Gold sector leadership transition amid elevated geopolitical risk and central bank reserve diversification trends; signals potential strategic shift at major producer affecting global bullion supply dynamics and junior miner M&A activity.\n\n**CREDIT RISK:** Leadership changes at commodity producers warrant PD model recalibration for counterparty exposures; monitor covenant compliance and refinancing risk in mining-linked loan portfolios under ECL frameworks."
+        },
+        {
+          "title": "Nvidia ‘largely conceded’ China AI chip market to Huawei, Huang says",
+          "url": "https://seekingalpha.com/news/4595541-nvidia-largely-conceded-china-ai-chip-market-to-huawei-huang-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 21 May 2026 01:43:57 -0400",
+          "summary": "**Macro/Markets & Credit Risk Angle:**\nNvidia's strategic retreat from China's AI chip market signals accelerating US-China tech bifurcation, reshaping semiconductor supply chains and threatening Western chipmaker revenue concentration—material for ECL models across tech exposure and supply-chain-dependent sectors. Huawei's domestic dominance reduces US sanction leverage, forcing portfolio reallocation away from China-exposed semiconductor names and amplifying geopolitical risk premiums in credit derivatives."
+        },
+        {
+          "title": "Crude market caught between diplomacy and disruption: Peter McGuire ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/crude-market-caught-between-diplomacy-and-disruption-peter-mcguire/articleshow/131240496.cms",
+          "content": "Global crude oil markets experienced sharp volatility as traders reacted to shifting signals regarding potential Iran ceasefire negotiations. While initial optimism emerged from President Trump's statements, the absence of a formal response from Iran and Israel maintained market caution. Analysts suggest traders are anticipating a swift resolution, but uncertainty persists, with two key scenarios for future price movements.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 21 May 2026 11:05:59 +0530",
+          "summary": "**MACRO/MARKETS:** Iran ceasefire uncertainty creates crude volatility with bifurcated scenarios; geopolitical risk premium remains embedded in energy complex, pressuring downstream inflation expectations and central bank policy trajectories across developed/emerging markets. Diplomacy-driven oil swings amplify hedging costs for corporates and reallocate risk premia across FX and commodities baskets."
+        },
+        {
+          "title": "Crude market caught between diplomacy and disruption: Peter McGuire ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crude-market-caught-between-diplomacy-and-disruption-peter-mcguire/articleshow/131240432.cms",
+          "content": "Global crude oil markets experienced sharp volatility as traders reacted to shifting signals regarding potential Iran ceasefire negotiations. While initial optimism emerged from President Trump's statements, the absence of a formal response from Iran and Israel maintained market caution. Analysts suggest traders are anticipating a swift resolution, but uncertainty persists, with two key scenarios for future price movements.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 21 May 2026 11:05:59 +0530",
+          "summary": "**MACRO/MARKETS:** Iran ceasefire uncertainty creates a binary crude oil volatility regime—geopolitical resolution could spark 5-10% demand repricing across energy and transport sectors, with spillover effects on inflation expectations and central bank policy trajectories in developed markets."
+        }
+      ],
+      "generatedAt": "2026-05-21T05:48:15.402Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
+          "url": "https://www.nature.com/articles/s41586-026-10642-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-20T00:00:00.000Z",
+          "summary": "**BREAKTHROUGHS / HEALTHCARE TECH**: Portable robotic rehabilitation addresses $200B+ global neurorehab market gap, signaling early-stage medtech disruption with licensing/IP monetization potential. Sector tailwind: aging demographics + insurance reimbursement expansion drive 12-15% CAGR, benefiting orthopedic robotics and digital health platforms competing against incumbent PT providers."
+        },
+        {
+          "title": "Author Correction: Inactivating <i>SnRK1β1A</i> promotes broad-spectrum disease resistance in rice",
+          "url": "https://www.nature.com/articles/s41586-026-10659-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-20T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** CRISPR-based crop resilience in staple grains (rice) reduces climate/disease tail risk for global food security and ag commodity volatility—bullish for emerging market food inflation trajectories and long-term agricultural productivity themes. Gene-edited trait adoption accelerates agritech disruption, reshaping commodity hedging strategies and food-exporting nation credit profiles (India, Vietnam)."
+        },
+        {
+          "title": "MIT scientists discover amino acid that helps the gut heal itself",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
+          "content": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researchers say the discovery could eventually lead to new dietary therapies for cancer patients suffering from treatment-related gut damage.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 21 May 2026 00:40:33 EDT",
+          "summary": "**BREAKTHROUGHS / HEALTHTECH DISRUPTION:**\nCysteine-triggered gut healing could reshape oncology treatment protocols and spawn a new dietary therapeutics category, with commercial potential across pharma, nutrition, and functional food sectors. Early-stage biotech plays and food/supplement companies pivoting to clinical-grade nutrition may attract growth capital, though regulatory pathway for therapeutic foods remains undefined."
+        },
+        {
+          "title": "Scientists discover the nutrient that can supercharge cellular energy",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
+          "content": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 21 May 2026 01:34:34 EDT",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nLeucine's mitochondrial enhancement could reshape pharma/biotech valuations (oncology, metabolic disease) and nutritional supplement sectors; broader implications for aging/longevity thematic equities. Early-stage discovery with 5-10yr commercialization horizon; monitor biotech funding flows and clinical trial pipelines.\n\n**CREDIT RISK:**\nMinimal direct IFRS 9/ECL impact unless tracking biotech/pharma credit exposures; drug development success rates (~10%) remain high-volatility risk drivers for covenant-heavy borrowers in life sciences."
+        },
+        {
+          "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
+          "url": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
+          "content": "\"As a bonus, it captured Mars images from a rare perspective.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 20 May 2026 21:26:57 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** NASA's Psyche mission validates deep-space imaging tech with commercial applications in autonomous systems and remote sensing—relevant to aerospace/defense equity exposure and long-cycle capex cycles in emerging space economy. Mars imagery advances planetary science but limited near-term market disruption outside specialty aerospace contractors."
+        },
+        {
+          "title": "Chickens without eggs? De-extinction company creates artificial egg.",
+          "url": "https://arstechnica.com/science/2026/05/chickens-without-eggs-de-extinction-company-creates-artificial-egg/",
+          "content": "In the process, Colossal may have handed a useful tool to developmental biology.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 20 May 2026 18:38:05 +0000",
+          "summary": "**MACRO/MARKETS:** Synthetic biology scaling to food production disrupts $200B+ poultry sector; signals agritech commoditization risk for emerging markets (Brazil, Thailand) and protein inflation hedges. Watch regulatory arbitrage across APAC/EU as alternative proteins gain permitting.\n\n**CREDIT RISK:** Food-tech capex cycles create concentration risk in agribusiness lending; ESG-linked covenant frameworks may tighten for traditional poultry producers. ECL models need forward-looking probability weighting on disruption timelines.\n\n**AI/ML:** Cellular agriculture generates high-dimensional biotech datasets; opportunity for predictive analytics on yield/cost curves—similar to semiconductor"
+        }
+      ],
+      "generatedAt": "2026-05-21T05:48:29.008Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "OpenAI to confidentially file for IPO as soon as Friday",
+          "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+          "content": "Article URL: https://www.cnbc.com/2026/05/20/openai-ipo-filing.html\nComments URL: https://news.ycombinator.com/item?id=48217052\nPoints: 87\n# Comments: 22",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 21 May 2026 02:24:35 +0000",
+          "summary": "**MACRO/MARKETS & BUILDER:** OpenAI IPO signals AI infrastructure monetization entering public markets; validates trillion-dollar valuation thesis and may trigger repricing of compute-dependent fintech/SaaS multiples. Tech cap-weighting shift could reshape equity factor flows.\n\n**CREDIT RISK & ANALYTICS:** Precedent for private-to-public AI platform transition forces reassessment of unmonitored counterparty concentration risk (cloud, inference dependencies); regulatory bodies may demand AI vendor stress-testing protocols beyond current IFRS 9 PD/LGD frameworks."
+        },
+        {
+          "title": "Haskell Foundation 2026 Update",
+          "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+          "content": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 53\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 21 May 2026 02:13:23 +0000",
+          "summary": "**BUILDER relevance:** Haskell Foundation's 2026 roadmap signals strengthening typed functional programming adoption in fintech infrastructure—relevant for building resilient, formally-verifiable financial systems (settlement, compliance APIs). Minimal macro/credit risk impact; niche developer ecosystem play with indirect upside for teams prioritizing code correctness over velocity."
+        },
+        {
+          "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+          "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+          "content": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 21 May 2026 04:00:00 +0000",
+          "summary": "**MACRO/MARKETS:** Quantum-AI enzyme engineering signals biotech's computational inflection point; if scalable, disrupts pharma R&D timelines and cost structures, reshaping drug development economics and biotech valuations across emerging biotech sector.\n\n**CREDIT RISK:** Early-stage biotech funding rounds increase portfolio concentration risk; enzyme/protein platforms carry binary regulatory outcomes—ECL models must embed higher volatility, failure probability; PD/LGD assumptions for biotech lending tighten.\n\n**AI/ML:** Demonstrates quantum-classical hybrid models entering production biology; banking analytics should track similar physics-informed AI architectures for portfolio optimization, fraud detection, and stress-testing—"
+        },
+        {
+          "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+          "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+          "content": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 21 May 2026 00:28:31 +0000",
+          "summary": "**MACRO/MARKETS:** AI agent infrastructure represents a structural shift in semiconductor TAM, signaling sustained capex cycles across cloud/enterprise. CPU specialization for autonomous agents could reshape competitive dynamics (AMD/Intel recovery vs. Nvidia moat) with macro implications for tech valuations and capex sequencing through 2025–26.\n\n**CREDIT RISK:** Accelerating Nvidia revenue concentration in AI agents increases counterparty risk for hyperscaler lending books; requires PD/LGD recalibration for tech-exposed portfolios under IFRS 9, particularly for floating-rate facilities tied to revenue covenants and equipment financing.\n\n**AI/ML:** Agent-native CPU"
+        }
+      ],
+      "generatedAt": "2026-05-21T05:48:40.310Z"
+    }
+  ]
+}
