@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-22",
+  "generatedAt": "2026-05-22T05:44:08.520Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 20 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/20-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 21 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Central counterparty resolution execution and resolvability outcomes",
+          "url": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/central-counterparty-resolution-execution-and-resolvability-outcomes",
+          "content": "Discussion paper",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 19 May 2026 10:00:00 +0100",
+          "summary": "Discussion paper..."
+        }
+      ],
+      "generatedAt": "2026-05-22T05:41:24.756Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 19 May 2026 18:38:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing the Ettin Reranker Family",
+          "url": "https://huggingface.co/blog/ettin-reranker",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 19 May 2026 00:00:00 GMT",
+          "summary": "**Ettin Reranker Family** introduces specialized retrieval-ranking models improving LLM accuracy in financial document processing and knowledge extraction—critical for ECL model validation, regulatory reporting automation, and reducing hallucination risk in credit decisioning workflows. Deployed at scale, reranking improves retrieval precision in unstructured data pipelines, directly enhancing PD/LGD calibration robustness and enabling real-time anomaly detection in transaction monitoring systems."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "Roundtables: Can AI Learn to Understand the World?",
+          "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+          "content": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 21 May 2026 20:41:05 +0000",
+          "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo..."
+        },
+        {
+          "title": "Scaling creativity in the age of AI",
+          "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+          "content": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 21 May 2026 19:16:43 +0000",
+          "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from ea..."
+        }
+      ],
+      "generatedAt": "2026-05-22T05:42:06.819Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "A bitcoin miner spent $860k armouring vehicles for its bosses, a fact for which we have very little context",
+          "url": "https://www.ft.com/content/71d7486d-89b5-48ac-8f94-857578c0a03b",
+          "content": "The best defence may in fact be defence",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 22 May 2026 05:00:10 GMT",
+          "summary": "The best defence may in fact be defence..."
+        },
+        {
+          "title": "The Musk banker who took a back seat to Goldman Sachs",
+          "url": "https://www.ft.com/content/96b82dc9-b3e5-4acb-adcd-f84046b85214",
+          "content": "Michael Grimes of Morgan Stanley had been widely expected to run SpaceX’s flotation",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 22 May 2026 04:00:32 GMT",
+          "summary": "Michael Grimes of Morgan Stanley had been widely expected to run SpaceX’s flotation..."
+        },
+        {
+          "title": "\n        How should economists treat morality?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
+          "content": "Sometimes it is more than merely an exogenous constraint",
+          "source": "The Economist",
+          "publishedAt": "Thu, 21 May 2026 09:27:37 +0000",
+          "summary": "Sometimes it is more than merely an exogenous constraint..."
+        },
+        {
+          "title": "\n        The other China shock\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock",
+          "content": "Does the country’s manufacturing success leave space for anyone else?",
+          "source": "The Economist",
+          "publishedAt": "Thu, 21 May 2026 09:25:53 +0000",
+          "summary": "Does the country’s manufacturing success leave space for anyone else?..."
+        },
+        {
+          "title": "Japan April CPI eases to 1.4% Y/Y; core inflation underperforms at 1.4%",
+          "url": "https://seekingalpha.com/news/4596127-japan-april-cpi-eases-to-14-yy-core-inflation-underperforms-at-14?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 22 May 2026 01:33:07 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Nintendo plans 20% boost to Switch 2 production forecast: report",
+          "url": "https://seekingalpha.com/news/4596131-nintendo-plans-20-boost-to-switch-2-production-forecast-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 22 May 2026 01:28:31 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Can Honasa shares rally up to 57% after strong Q4 show? Jefferies, CLSA &amp; two other brokerages weigh in ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/can-honasa-shares-rally-up-to-57-after-strong-q4-show-jefferies-clsa-two-other-brokerages-weigh-in/articleshow/131257301.cms",
+          "content": "Honasa Consumer shares surged over 11% on Friday after a strong Q4 FY26 performance, with brokerages including Jefferies, CLSA, ICICI Securities and JM Financial turning more optimistic. Jefferies sees up to 57% upside, citing robust multi-channel growth, improving margins and stronger execution, while other brokerages also highlight rising traction across key brands and categories.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 22 May 2026 10:55:56 +0530",
+          "summary": "Honasa Consumer shares surged over 11% on Friday after a strong Q4 FY26 performance, with brokerages including Jefferies, CLSA, ICICI Securities and JM Financial turning more optimistic. Jefferies see..."
+        },
+        {
+          "title": "IT sector a contrarian opportunity at current valuations: Aditya Shah ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/3-sectors-aditya-shah-is-betting-on-amid-market-volatility/articleshow/131256683.cms",
+          "content": "Aditya Shah of Hercules Advisors identifies power, banking, chemicals, and real estate as promising sectors for long-term growth amidst global uncertainty. While cautious on EMS due to valuations, he sees potential in quick commerce players demonstrating disciplined execution and profitability, favoring Blinkit currently.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 22 May 2026 10:37:17 +0530",
+          "summary": "**MACRO/MARKETS:** Rotation toward defensive, fundamentals-driven sectors (power, banking, chemicals) signals market repricing of duration risk and earnings quality; quick commerce profitability inflection challenges prior growth-at-any-cost thesis, reshaping emerging market consumer tech narratives."
+        }
+      ],
+      "generatedAt": "2026-05-22T05:43:03.712Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "De novo design of miniproteins targeting GPCRs",
+          "url": "https://www.nature.com/articles/s41586-026-10656-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Did a boy’s life-saving gene therapy cause his brain tumour?",
+          "url": "https://www.nature.com/articles/d41586-026-01593-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists discover a two-stage aging process that may cause cancer and arthritis",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260521072420.htm",
+          "content": "A new theory suggests many age-related diseases may actually start decades before symptoms appear. Researchers say early-life damage — from infections, injuries, or genetic mutations — can remain hidden until aging weakens the body’s ability to keep it under control. This could explain why conditions like cancer, osteoarthritis, and shingles suddenly emerge later in life.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 21 May 2026 21:00:18 EDT",
+          "summary": "**MACRO/MARKETS:** Two-stage aging mechanism validates long-tail disease risk pricing; reshapes pharma/biotech valuations (prevention focus), eldercare sector demand curves, and actuarial models underpinning life insurance/annuity liabilities across developed markets with aging demographics.\n\n**CREDIT RISK:** Latent disease onset complicates IFRS 9 ECL longevity assumptions in life insurance/pension portfolios; PD/LGD models for healthcare lending require recalibration if early-life exposures (infections, genetic markers) become quantifiable risk drivers requiring forward-looking staging.\n\n**AI/ML:** Early-damage biomarkers create new"
+        },
+        {
+          "title": "Think you’re bad at languages? Experts say these 5 myths are to blame",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260521072412.htm",
+          "content": "Many people avoid learning a new language because they remember stressful grammar lessons or fear making mistakes. But language experts say communication, culture, and connection matter far more than perfection. Modern apps, entertainment, travel, and online communities have made learning easier, more social, and surprisingly fun.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 21 May 2026 20:14:13 EDT",
+          "summary": "**BREAKTHROUGHS / EDTECH DISRUPTION**: Language-learning myths debunked by experts reveal AI-driven platforms (apps, gamified content, community) as scalable alternatives to traditional instruction—positioning edtech as high-growth sector with favorable unit economics and global TAM expansion, particularly in emerging markets seeking workforce upskilling."
+        },
+        {
+          "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
+          "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+          "content": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 22 May 2026 02:05:37 +0000",
+          "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening...."
+        },
+        {
+          "title": "JWST maps the weather on a hot gas giant 700 light-years away",
+          "url": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
+          "content": "The differences seen here could be throwing off how we study planetary atmospheres.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 21 May 2026 19:26:03 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nJWST's atmospheric mapping of exoplanets refines climate/weather modeling inputs, strengthening the scientific foundation for long-term commodity, energy transition, and climate-risk pricing—critical for macro asset allocation and ESG-linked portfolio positioning. Validates investment theses in climate-resilient infrastructure and green energy by improving predictive accuracy of planetary/terrestrial climate systems."
+        }
+      ],
+      "generatedAt": "2026-05-22T05:43:34.596Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Slumber a TUI HTTP Client",
+          "url": "https://slumber.lucaspickering.me",
+          "content": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 22 May 2026 04:29:23 +0000",
+          "summary": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 4\n# Comments: 0..."
+        },
+        {
+          "title": "Show HN: Spec-Driven Development Workflow for Claude Code",
+          "url": "https://news.ycombinator.com/item?id=48231575",
+          "content": "Spec Driven Development approach allows to squeeze more from coding agents thanks to few strong concepts:\n- decomposition across two dimensions. first you generate specs in multiple steps (requirements, code analysis, design), than you split task into multiple subtasks and implement them one by one\n- you clear context between every step - after spec generation and after subtask implementation. this helps keep cost low and context clear and focused which boost performance\n- specs written to disk help with information persistency\n- delivering specs layer by layer help to catch early when agent got you wrong\nRepo with claude plugin for spec driven development: https://github.com/sermakarevich/sddw\nComments URL: https://news.ycombinator.com/item?id=48231575\nPoints: 11\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 22 May 2026 03:17:38 +0000",
+          "summary": "Spec Driven Development approach allows to squeeze more from coding agents thanks to few strong concepts:\n- decomposition across two dimensions. first you generate specs in multiple steps (requirement..."
+        },
+        {
+          "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+          "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+          "content": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 22 May 2026 00:37:00 +0000",
+          "summary": "**MACRO/MARKETS:** Autonomous vehicle regulatory friction expanding geographically signals slower-than-priced monetization timelines for AV operators; weather-handling gaps undermine \"full self-driving\" narratives and may compress addressable market assumptions in equity valuations.\n\n**CREDIT RISK:** Operational risk materialization (systemic failure modes) in autonomous fleets warrants scenario stress-testing for lenders to AV/mobility OEMs; IFRS 9 forward-looking ECL models must embed technology adoption/deployment risk premiums beyond historical datasets.\n\n**AI/ML:** Failure in edge-case weather detection exposes critical gaps in production ML model robustness; banking"
+        },
+        {
+          "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+          "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+          "content": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 22 May 2026 00:07:47 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** SpaceX launch delay signals continued execution risk in commercial space infrastructure despite capital intensity; successful Starship V3 deployment critical to space economy thesis (satellite comms, lunar/Mars missions) underpinning long-duration structural growth in telecom, defense, and emerging space-tech equity valuations."
+        }
+      ],
+      "generatedAt": "2026-05-22T05:44:08.520Z"
+    }
+  ]
+}
