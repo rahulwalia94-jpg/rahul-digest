@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-23",
+  "generatedAt": "2026-05-23T05:06:33.149Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Digital renaissance amidst crisis: impact of digitalisation on firm performance during the pandemic",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:02:00 +0100",
+          "summary": "**Credit Risk & Regulatory angle:** Digitalisation accelerated firm resilience during COVID-19, with implications for PD/LGD modelling—firms' digital maturity becomes a material credit discriminator. ECL frameworks may underweight operational risk mitigation from digital infrastructure, suggesting model recalibration needed for forward-looking provisions under IFRS 9."
+        },
+        {
+          "title": "Quantitative tightening? Britain’s 1980s experiment with overfunding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/quantitative-tightening-britains-1980s-experiment-with-overfunding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:01:00 +0100",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Bank of England's 1980s overfunding experiment reveals how excess liquidity management constrains monetary transmission—directly relevant to current QT regimes and ECL volatility modeling. For credit risk practitioners: overfunding distorts funding cost assumptions embedded in PD/LGD calibration and IFRS 9 forward-looking scenarios, particularly in stress regimes where liquidity repricing accelerates PD migration."
+        }
+      ],
+      "generatedAt": "2026-05-23T05:05:33.841Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 23 May 2026 00:02:03 GMT",
+          "summary": "**Nemotron diffusion-based language models achieve sub-100ms text generation, materially reducing inference latency for real-time financial NLP pipelines (compliance monitoring, earnings call analysis, ECL narrative generation). This architecture shift threatens transformer incumbents and enables scaled deployment of AI-driven analytics in resource-constrained environments—critical for emerging-market fintech and cost-intensive regulatory workflows.**"
+        },
+        {
+          "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+          "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 22 May 2026 15:25:59 GMT",
+          "summary": "**Summary:**\n\nSpecialized AI models outperform general-purpose systems on cost-efficiency and accuracy, reshaping enterprise procurement toward domain-specific architectures—critical for banking analytics (ECL/PD calibration, regulatory compliance) and fintech where scale alone masks model drift. This reverses the \"bigger is better\" paradigm, favoring smaller, fine-tuned deployments that reduce inference latency and operational risk in production credit and market systems."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "**MACRO/MARKETS:** Google DeepMind's APAC environmental risk accelerator signals institutional capital pivoting toward climate/ESG analytics as macro hedging. Likely accelerates green bond issuance, renewable energy M&A, and climate-risk repricing across commodity, emerging market, and energy sectors.\n\n**CREDIT RISK:** Environmental risk quantification tools will pressure IFRS 9 ECL models; banks must integrate climate transition/physical risk into PD/LGD frameworks. Regulatory arbitrage narrowing as APAC regulators (HKMA, MAS, RBI) embed climate scenarios into stress-testing mandates.\n\n**AI/ML:** Deep"
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "**MACRO/MARKETS:** Cellular rejuvenation breakthroughs could reshape healthcare capex cycles and pharma valuations; biotech sector rotation risk if longevity therapeutics accelerate, with implications for healthcare spending, insurance underwriting, and emerging market pharma consolidation.\n\n**CREDIT RISK:** Extended human lifespans materially alter mortality assumptions in life insurance portfolios (IFRS 9 ECL recalibration), pension liabilities, and long-duration product pricing; regulatory PD/LGD models for health-linked credit products require reassessment.\n\n**AI/ML:** Co-Scientist model demonstrates AI-driven target discovery reducing R&D cycle time"
+        },
+        {
+          "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+          "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 22 May 2026 12:10:00 +0000",
+          "summary": "**AI/ML | BUILDER**: Anthropic's Code with Claude signals commoditization of software development; implications span fintech automation (faster deployment pipelines, reduced engineering headcount), banking analytics (auto-generated model validation code, ECL automation frameworks), and startup velocity—but introduces governance/audit risks for regulated model code in credit/risk systems."
+        },
+        {
+          "title": "Google I/O showed how the path for AI-driven science is shifting",
+          "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+          "content": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
+          "summary": "**MACRO/MARKETS + AI/ML + CREDIT RISK angle:**\nGoogle DeepMind's acceleration toward AGI signals structural shift in capital allocation toward compute/chips and raises macro volatility—impacting equity beta and sector rotation. For banking: AI-driven scientific breakthroughs could disrupt traditional risk modeling (PD/LGD assumptions), force ECL recalibration cycles, and require upskilling analytics teams away from legacy statistical frameworks toward deep-learning-based early warning systems."
+        }
+      ],
+      "generatedAt": "2026-05-23T05:05:48.413Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Bond slump stirs vigilante fears",
+          "url": "https://www.ft.com/content/e16e6cdf-e824-4bc1-a199-e42746e602bb",
+          "content": "A sense is setting in among investment professionals that we have a serious problem here",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 23 May 2026 04:00:46 GMT",
+          "summary": "**Macro & Markets**: Bond vigilantes are reasserting discipline on sovereign/corporate issuers as yields rise; signals potential credit cycle inflection, higher funding costs across corporates, and repricing of duration/credit risk globally—particularly acute in EM and high-yield segments facing margin compression.\n\n**Credit Risk (IFRS 9/ECL)**: Rising yields and tightening financial conditions will mechanically lift forward-looking PD/LGD assumptions in ECL models; banks face pressure to increase provisions, especially for cyclical sectors and leveraged borrowers; regulatory capital ratios compress if not proactively recalibrated."
+        },
+        {
+          "title": "Get ready to take sides in Big Tech’s giant IPO bake-off",
+          "url": "https://www.ft.com/content/f11e025d-bc28-49ac-a8ca-a881275f4f2b",
+          "content": "With SpaceX, OpenAI and Anthropic targeting the same market, investors must decide what qualities they prize most",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 23 May 2026 04:00:40 GMT",
+          "summary": "**Macro/Markets + Breakthroughs:** Three mega-cap IPO candidates (SpaceX, OpenAI, Anthropic) signal a potential $500B+ mega-cap rotation away from traditional tech, forcing portfolio reallocation across AI infrastructure, space-as-utility, and compute-intensive sectors with divergent margin profiles and regulatory exposure. Investor selection criteria—profitability vs. growth optionality vs. systemic importance—will materially reshape sector valuations and capital allocation flows into 2025."
+        },
+        {
+          "title": "\n        How should economists treat morality?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
+          "content": "Sometimes it is more than merely an exogenous constraint",
+          "source": "The Economist",
+          "publishedAt": "Thu, 21 May 2026 09:27:37 +0000",
+          "summary": "**Macro & Markets angle:** Moral frameworks influence policy design, consumer behavior, and resource allocation—shifting from treating ethics as external constraint to endogenous market driver reshapes inflation expectations, ESG capital flows, and central bank credibility in crisis scenarios."
+        },
+        {
+          "title": "\n        The other China shock\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock",
+          "content": "Does the country’s manufacturing success leave space for anyone else?",
+          "source": "The Economist",
+          "publishedAt": "Thu, 21 May 2026 09:25:53 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** China's manufacturing dominance is reshaping global supply chains and crowding out competitors, creating structural headwinds for emerging market exporters and cyclical sectors. ECL models must reassess counterparty concentration risk, sector PD/LGD for non-Chinese manufacturers facing margin compression, and cross-border exposure correlation to Chinese demand shocks."
+        },
+        {
+          "title": "Memorial Day pump prices up 30% from last year, may get worse as gasoline storage tightens",
+          "url": "https://seekingalpha.com/news/4596456-memorial-day-pump-prices-up-30-from-last-year-may-get-worse-as-gasoline-storage-tightens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 22 May 2026 20:00:20 -0400",
+          "summary": "**MACRO/MARKETS:** Energy cost inflation pressures consumer discretionary spending and core PCE; tightening gasoline inventories signal supply-side constraints that could sustain elevated pump prices into summer demand season, elevating stagflation risk and widening energy sector vs. defensives valuation divergence."
+        },
+        {
+          "title": "Plains set to restart portions of ruptured oil pipeline in Los Angeles",
+          "url": "https://seekingalpha.com/news/4596455-plains-set-to-restart-portions-of-ruptured-oil-pipeline-in-los-angeles?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 22 May 2026 18:34:46 -0400",
+          "summary": "**MACRO/MARKETS:** Pipeline restart eases near-term US oil supply tightness, supporting WTI stability and reducing gasoline volatility for Q1. Signals infrastructure resilience post-rupture, but underscores energy logistics fragility—watch for broader downstream margin compression if restart delays persist across refined products."
+        },
+        {
+          "title": "Multibagger Opportunity? REITs may be the next big wealth creation avenue for India’s retail investors ",
+          "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/multibagger-opportunity-reits-may-be-the-next-big-wealth-creation-avenue-for-indias-retail-investors/articleshow/131272285.cms",
+          "content": "India's Real Estate Investment Trusts are growing into a popular investment for everyday people. These trusts are moving beyond just office buildings to include warehouses, hotels, and shopping centers. Experts see this as a major step for the market. REITs offer stable income and a way to invest in large properties without direct ownership.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 23 May 2026 10:20:13 +0530",
+          "summary": "**MACRO/MARKETS**: India's REIT market diversification (offices→logistics/hospitality/retail) signals maturing real estate securitization and potential yield-chase rotation from equities; structural tailwind for institutional capital deployment in emerging markets real estate infrastructure."
+        },
+        {
+          "title": "LRS outflows up over 10% in March led by travel demand ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/lrs-outflows-up-over-10-in-march-led-by-travel-demand/articleshow/131272176.cms",
+          "content": "Indians sent $2.59 billion abroad in March 2026 via the Liberalised Remittance Scheme. This marked a 10.9% increase from the previous month. Travel spending saw a seasonal dip. However, investments in equity and debt surged significantly. Deposits abroad also showed a strong recovery. Remittances for education moderated after a peak in January.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 23 May 2026 10:08:59 +0530",
+          "summary": "**MACRO/MARKETS:** India's LRS outflows hit $2.59B in March (↑10.9% MoM), signaling sustained capital flight into global equities/debt despite domestic equity strength—watch for RBI intervention signals and INR depreciation pressure if trend persists. Equity/debt allocation surge suggests HNI rotation toward yield-diversification amid potential domestic rate-cut cycle.\n\n**CREDIT RISK:** Rising offshore deployments may compress domestic credit demand; monitor IFRS 9 Stage 2 migrations for India-exposed corporates and ECL overlays if rupee weakness triggers FX hedging needs. LRS velocity is a leading indicator of domestic liqu"
+        }
+      ],
+      "generatedAt": "2026-05-23T05:06:06.996Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Vanishing tongues and life on Mars: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01655-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-22T00:00:00.000Z",
+          "summary": "**BREAKTHROUGHS angle:** Linguistic extinction data could inform AI training datasets and model robustness in emerging markets; Mars habitability research signals long-term resource scarcity premiums and space economy venture funding trajectories—both relevant to portfolio positioning in climate-tech and aerospace sectors."
+        },
+        {
+          "title": "Major Ebola outbreak is escalating: what happens next",
+          "url": "https://www.nature.com/articles/d41586-026-01660-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-22T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS:** Ebola escalation pressures emerging market health budgets, weakens regional growth forecasts, and could trigger commodity volatility (oil, agriculture) if supply chains disrupt. Watch contagion spillover to developed markets—reshapes sector rotation toward healthcare, away from cyclicals.\n\n**CREDIT RISK:** Rising Ebola cases increase PD/LGD stress for West African sovereigns and corporates; ECL provisions may spike for exposures in affected regions. Regulatory scrutiny on concentration risk and contagion modeling intensifies; stress testing frameworks require pandemic scenario recalibration.\n\n**BREAKTHROUGHS:** Rapid diagnostics and RNA vaccine platforms ("
+        },
+        {
+          "title": "Scientists discover simple way to relieve arthritis pain without pills or surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522031135.htm",
+          "content": "A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common medications — and even slowed cartilage damage inside the joint.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 22 May 2026 07:07:58 EDT",
+          "summary": "**BREAKTHROUGHS / HEALTHCARE SECTOR:**\nNon-invasive gait-modification therapy could disrupt $40B+ orthopedic pharma/device markets, reducing chronic medication dependency and surgical procedures—material headwinds for pharma margins and orthopedic device volume growth. Extends healthy working life for aging populations, offsetting disability cost inflation in long-term care economics."
+        },
+        {
+          "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
+          "content": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the brain’s white matter — the communication highways that help different brain regions work together.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 22 May 2026 08:33:40 EDT",
+          "summary": "**BREAKTHROUGHS:** Current B12 guidelines may underestimate cognitive decline risk in aging populations, potentially reshaping preventive healthcare demand and creating regulatory gaps in clinical thresholds—relevant for long-term care, pharma, and diagnostic biotech investment themes.\n\n**MACRO/MARKETS:** Aging demographic trends across developed markets (Japan, EU, US) may drive secular tailwinds in preventive nutrition, diagnostics, and neurohealth sectors; potential headwind for cognitive-decline-related social costs and healthcare spending."
+        },
+        {
+          "title": "Soaring solar and a surge in hydro push more coal off the US grid",
+          "url": "https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/",
+          "content": "The first data from 2026 seem to indicate that last year was an oddity.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 22 May 2026 17:22:42 +0000",
+          "summary": "**MACRO/MARKETS:** US coal's structural decline accelerates as renewables (solar/hydro) reach grid-competitive scale, reshaping energy sector valuations, utility capex allocation, and commodity correlations—key for EM exposure and energy transition positioning.\n\n**CREDIT RISK:** Utility sector EAD/LGD models require recalibration; coal-dependent lenders face PD migration; stranded asset provisions under IFRS 9 Stage 2 thresholds tighten for energy finance books.\n\n**BREAKTHROUGHS:** Grid decarbonization validates clean energy thesis; venture/growth equity thesis for storage, smart grid, and demand-side management"
+        },
+        {
+          "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
+          "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+          "content": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 22 May 2026 02:05:37 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Starship delay signals execution risk in commercial space infrastructure—a secular growth theme underpinning satellite comms, Earth observation, and space logistics valuations. Success/failure trajectory affects SpaceX's funding multiple, venture capital allocation to deep-tech, and competitive positioning versus Blue Origin/Rocket Lab in the $1T+ space economy."
+        }
+      ],
+      "generatedAt": "2026-05-23T05:06:20.902Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Microsoft reports AI is more expensive than paying human employees",
+          "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+          "content": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/\nComments URL: https://news.ycombinator.com/item?id=48244434\nPoints: 74\n# Comments: 20",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 23 May 2026 03:44:16 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML:** Microsoft's AI cost economics challenge signals potential capex-heavy tech sector margin compression and validates human labor arbitrage limits—critical for mega-cap valuations and broader AI capex ROI thesis. For banking analytics, this reinforces hybrid human-ML models remain cost-optimal for IFRS 9 ECL validation and complex credit judgment, potentially slowing full model automation timelines."
+        },
+        {
+          "title": "New rule requires most green-card applicants to apply from outside U.S.",
+          "url": "https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/",
+          "content": "Article URL: https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/\nComments URL: https://news.ycombinator.com/item?id=48244220\nPoints: 32\n# Comments: 15",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 23 May 2026 03:09:55 +0000",
+          "summary": "**Category: Builder & Product → Immigration Policy**\n\nU.S. green-card processing shift to consular interviews abroad increases administrative burden and processing timelines for skilled immigrant workers, potentially affecting tech talent acquisition costs and timelines for fintech/software teams. Creates compliance complexity for HR/payroll systems and visa-tracking apps; opportunity for builder platforms automating immigration case management and timeline forecasting."
+        },
+        {
+          "title": "AI is being used to resurrect the voices of dead pilots",
+          "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+          "content": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 22 May 2026 23:03:33 +0000",
+          "summary": "**MACRO/MARKETS:** Aviation safety digitization creates regulatory friction; raises questions on AI-driven reconstruction of sensitive data across infrastructure sectors, pressuring insurance underwriting and accident investigation protocols.\n\n**CREDIT RISK:** Regulatory access restrictions on docket systems heighten operational risk for insurers & OEMs; potential for contentious liability disputes if AI-reconstructed evidence becomes inadmissible, complicating ECL modeling for aviation exposures.\n\n**AI/ML:** Spectrogram reconstruction via neural networks demonstrates audio synthesis maturity; banking implications clear—voice authentication systems, regulatory recordings, and transaction surveillance now face deepfake/reconstruction risks requiring adversarial robustness in ML pipelines."
+        },
+        {
+          "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+          "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+          "content": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 22 May 2026 22:55:57 +0000",
+          "summary": "**MACRO/MARKETS:** SpaceX's Starship V3 iteration signals accelerating commercial space capex cycles, supporting aerospace supply chains and satellite-enabled fintech infrastructure (payments, remote banking). Booster loss increases execution risk premium on space-economy valuations.\n\n**CREDIT RISK:** Repeat launch failures elevate counterparty risk for SpaceX's institutional lenders and satellite constellation collateral valuations under IFRS 9; ECL models must stress space-tech revenue volatility and asset-backed financing concentration.\n\n**BREAKTHROUGHS:** Starship progress de-risks satellite internet (Starlink) monetization, unlocking $50B+ TAM for"
+        }
+      ],
+      "generatedAt": "2026-05-23T05:06:33.149Z"
+    }
+  ]
+}
