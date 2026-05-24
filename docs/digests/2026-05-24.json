@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-24",
+  "generatedAt": "2026-05-24T05:39:41.404Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Digital renaissance amidst crisis: impact of digitalisation on firm performance during the pandemic",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:02:00 +0100",
+          "summary": "**CREDIT RISK + MACRO:** Digital capability emerged as material credit resilience factor during COVID stress; firms with advanced automation/cloud infrastructure showed lower default probability and faster capital recovery, suggesting digitalisation should be embedded in PD models and stressed ECL scenarios as a forward-looking credit quality mitigant."
+        },
+        {
+          "title": "Quantitative tightening? Britain’s 1980s experiment with overfunding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/quantitative-tightening-britains-1980s-experiment-with-overfunding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:01:00 +0100",
+          "summary": "**MACRO/MARKETS + CREDIT RISK:** Historical analysis of UK gilt overfunding (1980s) as precursor to modern QT—relevant to current BoE/ECB tightening cycles, gilt volatility, and duration risk repricing. ECL models must recalibrate for structural shifts in sovereign funding regimes and collateral haircuts under persistent tightening; PD/LGD assumptions on gilts-backed portfolios require forward-looking regime stress scenarios."
+        }
+      ],
+      "generatedAt": "2026-05-24T05:38:39.796Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 23 May 2026 00:02:03 GMT",
+          "summary": "**MACRO/MARKETS:** Diffusion-based LLMs could commoditize inference costs and latency, reshaping AI capex economics and cloud/semiconductor demand. If speed matches autoregressive models at lower cost, this triggers re-rating of GPU/inference infrastructure plays and accelerates enterprise AI adoption across sectors.\n\n**CREDIT RISK:** Faster, cheaper LLM inference reduces operational risk and cost-of-capital for GenAI-driven decisioning in underwriting, recovery, and fraud—directly improving ECL model throughput and regulatory efficiency; also enables real-time embedded credit risk analytics in mobile/API channels.\n\n**AI/ML:** Diffusion language models bypass transformer decoder bott"
+        },
+        {
+          "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+          "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 22 May 2026 15:25:59 GMT",
+          "summary": "**Summary:**\n\nSpecialized AI models outperform scaled generalists on banking analytics tasks—challenging the prevailing procurement bias toward large foundation models. This reshapes AI capex allocation across financial services, favoring domain-specific architectures for IFRS 9/ECL validation, PD modeling, and regulatory compliance over monolithic LLM dependencies."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** DeepMind's APAC environmental risk focus signals accelerating ESG-linked regulatory pressure and climate scenario integration into IFRS 9 ECL models; expect tightening PD/LGD assumptions for carbon-intensive sectors and emerging market sovereigns, reshaping credit pricing and capital allocation.\n\n**AI/ML & FINTECH:** ML-driven environmental risk quantification could disrupt legacy PMA frameworks and enable real-time climate stress-testing; technical opportunity for Node.js/Firebase-backed climate risk APIs feeding portfolio monitoring dashboards."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Accelerated cellular rejuvenation via AI-driven discovery could reshape healthcare capex cycles, pharma R&D timelines, and longevity sector valuations; signals AI's capacity to compress biotech development cycles, creating asymmetric returns in regenerative medicine and diagnostics. **CREDIT RISK:** Shortened drug-to-market timelines reduce biotech default risk; impacts PD/LGD modeling for healthcare lending portfolios and venture-backed biotech ECL provisioning frameworks."
+        },
+        {
+          "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+          "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 22 May 2026 12:10:00 +0000",
+          "summary": "**AI/ML + BUILDER**: Anthropic's Code with Claude signals automated coding capability scaling—critical for banking analytics automation (ECL/PD modeling, data pipeline risk). Widespread AI-native development tools reduce technical friction for fintech builders but create competitive pressure; regulatory frameworks (Model Risk Management) lag capability adoption."
+        },
+        {
+          "title": "Google I/O showed how the path for AI-driven science is shifting",
+          "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+          "content": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
+          "summary": "**MACRO/MARKETS:** AI-driven scientific breakthroughs (DeepMind's singularity narrative) signal accelerating productivity gains and potential deflationary pressures—reshaping equity valuations across sectors and central bank policy frameworks, particularly in energy transition and biotech where AI augments discovery cycles.\n\n**CREDIT RISK/IFRS 9:** Rapid AI capability advancement pressures ECL model stability; PD/LGD calibrations tied to tech-sector collateral, energy transition timelines, and emerging market exposure face heightened model risk and validation complexity under stressed scenarios.\n\n**AI/ML BANKING:** Generative AI commoditization in analytics workflows risks margin compression for"
+        }
+      ],
+      "generatedAt": "2026-05-24T05:38:54.668Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "US oil producers increase output to capture price surge from Iran war   ",
+          "url": "https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24",
+          "content": "Drilling expansion follows 40 per cent jump in cost from global supply crunch that has dented president’s approval ratings",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 23 May 2026 11:00:07 GMT",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nUS shale expansion amid Iran geopolitical premium creates cyclical capex surge and refinancing demand, but elevated oil volatility (40% cost spike) pressures energy sector debt servicing—triggering potential ECL uplift via PD migration and sector correlation stress in IFRS 9 models. Supply response lag and inflation pass-through risk to downstream sectors (transport, chemicals, utilities) widens systemic macro tail risk.\n\n**AI/ML & BREAKTHROUGHS:**\nGeopolitical oil shocks demand real-time supply-curve modeling and sentiment-driven forecasting; banks deploying NLP on energy earnings calls + satellite"
+        },
+        {
+          "title": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom",
+          "url": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12",
+          "content": "Elon Musk, Sam Altman and Dario Amodei battle over who can command Wall Street’s deepest pools of capital",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 23 May 2026 08:00:06 GMT",
+          "summary": "**Macro/Markets + Credit Risk:** Potential $500B+ AI mega-cap IPOs will reshape tech sector valuations and amplify concentration risk in growth portfolios; requires ECL recalibration for tech-heavy counterparty exposures and PD/LGD reassessment as unprofitable AI firms face margin pressure.\n\n**AI/ML + Builder:** GPT/Claude maturation enables real-time credit scoring and anomaly detection at scale; Node.js/Firebase pipelines can operationalize foundation model APIs for fraud/compliance automation in next-gen fintech platforms."
+        },
+        {
+          "title": "\n        How should economists treat morality?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
+          "content": "Sometimes it is more than merely an exogenous constraint",
+          "source": "The Economist",
+          "publishedAt": "Thu, 21 May 2026 09:27:37 +0000",
+          "summary": "**Macro & Markets angle:**\n\nMoral constraints—regulatory frameworks, ESG mandates, stakeholder governance—are shifting from external policy overlays to endogenous economic drivers, reshaping capital allocation, sovereign risk premiums, and sector valuations. This reframes long-term macroeconomic modeling: ignoring ethical constraints risks systematic forecasting errors in energy transition, financial stability, and emerging market sovereign spreads."
+        },
+        {
+          "title": "\n        The other China shock\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock",
+          "content": "Does the country’s manufacturing success leave space for anyone else?",
+          "source": "The Economist",
+          "publishedAt": "Thu, 21 May 2026 09:25:53 +0000",
+          "summary": "**MACRO/MARKETS + CREDIT RISK:**\nChina's manufacturing dominance compresses global margin structures and forces EM/developed exporters into lower-value segments, reshaping sectoral credit profiles; ECL models must reassess PD/LGD for commodity-dependent sovereigns and export-oriented corporates facing persistent demand deflation and currency pressure."
+        },
+        {
+          "title": "Trump says U.S.-Iran peace deal to reopen Strait of Hormuz 'largely negotiated'",
+          "url": "https://seekingalpha.com/news/4596494-trump-says-u-s-iran-peace-deal-to-reopen-strait-of-hormuz-largely-negotiated?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 23 May 2026 20:26:17 -0400",
+          "summary": "**MACRO/MARKETS:** US-Iran détente could normalize ~21% global oil supply (Hormuz chokepoint), structurally lower energy prices, reduce geopolitical risk premium across equities and credit spreads, and shift capex cycles in energy/shipping sectors. Emerging market currencies (esp. oil importers) and defensive positioning would reprrice materially.\n\n**CREDIT RISK:** Broader commodity price deflation scenario improves corporate debt servicing capacity across non-energy sectors; however, energy/shipping counterparty exposures require urgent ECL remodeling—PD assumptions for oil majors/tanker operators may require downward revision, affecting stage allocation and provision adequacy under"
+        },
+        {
+          "title": "Key deals this week: Parker Hannifin, Dominion Energy, LiveRamp and more",
+          "url": "https://seekingalpha.com/news/4596457-key-deals-this-week-parker-hannifin-dominion-energy-liveramp-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 23 May 2026 15:15:05 -0400",
+          "summary": "**MACRO/MARKETS:**\nM&A acceleration in industrials (Parker Hannifin) and utilities (Dominion Energy) reflects capital redeployment amid higher rates; data infrastructure consolidation (LiveRamp) signals intensifying competition for first-party data moats as third-party cookies wind down—both themes structurally reshaping sector valuations and cost-of-capital dynamics across cyclicals and tech-enabled services."
+        },
+        {
+          "title": "Bond yields, FIIs and corporate actions among 8 factors to steer D-Street this week ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/bond-yields-fiis-and-corporate-actions-among-8-factors-to-steer-d-street-this-week/articleshow/131288743.cms",
+          "content": "Nifty closed marginally higher last week, driven by IT and energy stocks, as markets brace for key events. Technical analysts suggest Nifty is in an indecisive range, awaiting a decisive breakout above 23,800 or a fall towards 23,600. Global factors like Iran-Israel tensions and US bond yields are influencing sentiment.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 24 May 2026 10:23:35 +0530",
+          "summary": "**MACRO/MARKETS:** Nifty's indecisive 23,600–23,800 range signals macro uncertainty; FII flows, US yields, and geopolitical risk (Iran-Israel) are primary drivers, with IT/energy sector divergence reflecting uneven growth and energy price volatility. Technical breakdown risks testing lower support amid tightening global liquidity conditions."
+        },
+        {
+          "title": "Elevation Capital sells  Rs 964 crore Paytm Shares via block deals ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/elevation-capital-sells-rs-964-crore-paytm-shares-via-block-deals/articleshow/131288757.cms",
+          "content": "Over the past nearly two years, Elevation Capital and AntFin — the financial affiliate of Alibaba Group, have emerged among the biggest sellers in Paytm through block deals.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 24 May 2026 10:13:52 +0530",
+          "summary": "**MACRO/MARKETS:** Sustained VC/strategic exits from Indian fintech flagships signal investor caution on high-growth valuations post-IPO; mirrors broader emerging-market tech correction and potential crowding-out in retail payment rails as regulatory scrutiny intensifies around digital wallet oligopolies."
+        }
+      ],
+      "generatedAt": "2026-05-24T05:39:17.380Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Vanishing tongues and life on Mars: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01655-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-22T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nLanguage extinction accelerates cognitive diversity loss, fragmenting global consumer markets and undermining emerging-market labor productivity metrics. Astrobiology advances (Mars habitability research) redirect capital flows toward aerospace/deep-tech sectors, reshaping commodity demand (rare earths, energy) and long-duration risk premiums."
+        },
+        {
+          "title": "Major Ebola outbreak is escalating: what happens next",
+          "url": "https://www.nature.com/articles/d41586-026-01660-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-22T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS:** Ebola escalation pressures emerging market health systems, raises USD funding costs for affected regions, and creates commodity supply-chain volatility (mining, agriculture). Watch currency depreciation in Guinea/DRC and potential contagion to broader EM credit spreads.\n\n**CREDIT RISK:** Outbreak forces ECL model recalibration for EM sovereign and corporate exposures—heightened country risk, sectoral downgrades (tourism, trade), and potential covenant breaches. Regulatory scrutiny increases on stress-test scenario coverage for pandemic tail risk.\n\n**AI/ML:** Real-time disease tracking via satellite imagery, mobility data, and wastewater genomics offers"
+        },
+        {
+          "title": "Scientists warn popular vitamin D supplement may have a “previously unknown” downside",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
+          "content": "A surprising study suggests vitamin D2 supplements may reduce the body’s levels of vitamin D3 — the more effective form of vitamin D. Researchers found D3 not only boosts vitamin D status more efficiently, but may also play a unique role in helping the immune system fight off viruses and bacteria. The discovery is prompting scientists to rethink whether D3 should become the preferred choice for supplementation.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 23 May 2026 10:38:26 EDT",
+          "summary": "**BREAKTHROUGHS:** Vitamin D2 supplementation may paradoxically suppress D3 levels, potentially reshaping a $2B+ global supplement market and creating regulatory reclassification risk for pharma/nutraceutical holdings. Clinical validation could trigger portfolio rotation from D2-heavy manufacturers toward D3-focused competitors and open litigation exposure for legacy supplement formulations."
+        },
+        {
+          "title": "Scientists discover simple way to relieve arthritis pain without pills or surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522031135.htm",
+          "content": "A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common medications — and even slowed cartilage damage inside the joint.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 22 May 2026 07:07:58 EDT",
+          "summary": "**BREAKTHROUGHS / HEALTHCARE SECTOR:**\nNon-invasive gait modification demonstrates clinical efficacy matching pharmaceuticals, potentially disrupting the $40B+ orthopedic drug/device market and shifting capital allocation toward biomechanics-focused medtech. Healthcare insurers face reduced claim exposure for knee OA treatment, improving loss ratios across disability and long-term care portfolios."
+        },
+        {
+          "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
+          "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
+          "content": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 23 May 2026 17:54:54 +0000",
+          "summary": "**MACRO/MARKETS:** Starship progress de-risks commercial spaceflight scaling; validates reusable launch economics that could disrupt $400B+ aerospace/satellite/telecom capex cycles and reshape EM commodity/energy demand via space infrastructure buildout.\n\n**CREDIT RISK:** Operational risk clarity on SpaceX capex cycles improves counterparty credit assessment; validates commercial space viability for ECL modeling of aerospace supply-chain exposures and insurance-linked securities.\n\n**AI/ML:** Starship flight data (telemetry, anomaly detection, real-time control loops) showcases edge ML/autonomous systems—relevant blueprint for banking's shift toward real-time anom"
+        },
+        {
+          "title": "China’s shark finning could lead to US seafood sanctions",
+          "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+          "content": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 23 May 2026 11:00:25 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Potential US seafood tariffs on China could elevate trade tensions, pressuring emerging market currencies and commodity prices (seafood export-dependent nations); for banks with Chinese aquaculture/seafood exposure, triggers PD/LGD model recalibration under IFRS 9 via supply-chain disruption and regulatory sanction scenarios. **BREAKTHROUGHS:** Environmental compliance becoming a de facto tariff mechanism reshapes global seafood supply chains—creates hedging demand and fintech opportunities in sustainable-sourcing traceability (blockchain/IoT)."
+        }
+      ],
+      "generatedAt": "2026-05-24T05:39:31.958Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Amazon Web Services – Four Years and Out",
+          "url": "https://www.adventuresinoss.com/aws-four-years/",
+          "content": "Article URL: https://www.adventuresinoss.com/aws-four-years/\nComments URL: https://news.ycombinator.com/item?id=48254475\nPoints: 16\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 24 May 2026 04:51:22 +0000",
+          "summary": "**Summary (Builder & Product):**\n\nTechnical debt accumulation in managed cloud services mirrors enterprise software licensing lock-in patterns; cost optimization and multi-cloud migration strategies now represent material opex drivers for financial services infrastructure spend. Relevant for fintech stack decisions (Firebase/Node.js alternatives, TCO modeling) and broader cloud vendor negotiating leverage across regulated industries."
+        },
+        {
+          "title": "'Fuck you, Bambu': How one private message could change the face of 3D printing",
+          "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+          "content": "Article URL: https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github\nComments URL: https://news.ycombinator.com/item?id=48254345\nPoints: 18\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 24 May 2026 04:22:39 +0000",
+          "summary": "**Category: Builder & Product | Relevance: Open-source licensing risk & IP strategy**\n\nAGPL licensing dispute in 3D printing reveals structural tension between open-source communities and commercial entities—critical precedent for fintech/SaaS builders relying on GPL-adjacent dependencies. GitHub DMCA enforcement ambiguity creates model risk for compliance frameworks (similar to regulatory arbitrage in ECL provisioning) and forces reassessment of OSS supply-chain vulnerabilities in production systems."
+        },
+        {
+          "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+          "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+          "content": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 23 May 2026 20:03:13 +0000",
+          "summary": "**MACRO/MARKETS:** India's rooftop solar VC momentum signals accelerating energy transition capex deployment in emerging markets; validates distributed renewable infrastructure as institutional-scale asset class amid global decarbonization mandates and energy security reshuffling.\n\n**CREDIT RISK:** Growth-stage renewable energy fintech raises ECL modeling complexity—subordinated debt, project-level cash flow dependency, and policy/subsidy regime shifts require dynamic PD/LGD calibration; IFRS 9 Stage 2 triggers on commodity price & regulatory volatility.\n\n**AI/ML:** Solar asset-backed financing demands ML for real-time performance monitoring, anomaly detection in generation patterns, and automated"
+        },
+        {
+          "title": "These special phone and app features can help protect you from spyware",
+          "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+          "content": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 23 May 2026 16:00:00 +0000",
+          "summary": "**BUILDER relevance:** Major tech platforms hardening OS-level security controls (lockdown modes) raises baseline expectations for fintech app security posture—particularly critical for banking apps handling PII/credentials. Mobile-first financial products now require equivalent threat modeling against spyware/supply-chain attacks, increasing dev/compliance overhead and differentiating secure-by-design architectures."
+        }
+      ],
+      "generatedAt": "2026-05-24T05:39:41.404Z"
+    }
+  ]
+}
