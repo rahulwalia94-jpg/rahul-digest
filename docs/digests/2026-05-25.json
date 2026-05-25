@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-25",
+  "generatedAt": "2026-05-25T06:00:56.205Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Digital renaissance amidst crisis: impact of digitalisation on firm performance during the pandemic",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Quantitative tightening? Britain’s 1980s experiment with overfunding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/quantitative-tightening-britains-1980s-experiment-with-overfunding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-05-25T06:00:44.392Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 23 May 2026 00:02:03 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+          "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 22 May 2026 15:25:59 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+          "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 22 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whethe..."
+        },
+        {
+          "title": "Google I/O showed how the path for AI-driven science is shifting",
+          "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+          "content": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
+          "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul..."
+        }
+      ],
+      "generatedAt": "2026-05-25T06:00:46.504Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Jardines signals pivot with $2.4bn Australian radiology deal",
+          "url": "https://www.ft.com/content/05f0337a-6f2d-401f-ba25-a31ac3dd0660",
+          "content": "Acquisition of I-MED is Hong Kong-based conglomerate’s first since strategic overhaul",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 25 May 2026 04:29:31 GMT",
+          "summary": "Acquisition of I-MED is Hong Kong-based conglomerate’s first since strategic overhaul..."
+        },
+        {
+          "title": "Investors can no longer rely on a ‘policy put’",
+          "url": "https://www.ft.com/content/dcdba95d-c997-4744-8883-018db8874679",
+          "content": "The capacity of policymakers to respond to shocks is down across the board",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 25 May 2026 04:00:18 GMT",
+          "summary": "The capacity of policymakers to respond to shocks is down across the board..."
+        },
+        {
+          "title": "\n        How should economists treat morality?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
+          "content": "Sometimes it is more than merely an exogenous constraint",
+          "source": "The Economist",
+          "publishedAt": "Thu, 21 May 2026 09:27:37 +0000",
+          "summary": "Sometimes it is more than merely an exogenous constraint..."
+        },
+        {
+          "title": "\n        The other China shock\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock",
+          "content": "Does the country’s manufacturing success leave space for anyone else?",
+          "source": "The Economist",
+          "publishedAt": "Thu, 21 May 2026 09:25:53 +0000",
+          "summary": "Does the country’s manufacturing success leave space for anyone else?..."
+        },
+        {
+          "title": "Oil slips 6% on US-Iran peace hopes; Carlyle warns of ‘tank bottoms’ in Asia",
+          "url": "https://seekingalpha.com/news/4596538-oil-slips-6-on-us-iran-peace-hopes-carlyle-warns-of-tank-bottoms-in-asia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 25 May 2026 01:54:21 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Galiano Gold board approves revised equity incentive plan; shareholders vote on June 11",
+          "url": "https://seekingalpha.com/news/4596552-galiano-gold-board-approves-revised-equity-incentive-plan-shareholders-vote-on-june-11?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 25 May 2026 01:49:45 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "LIC shares gain 6% in two sessions. Should you buy ahead of the 1:1 bonus issue? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-shares-gain-6-in-two-sessions-should-you-buy-ahead-of-the-11-bonus-issue/articleshow/131302650.cms",
+          "content": "LIC shares climbed 4% on Monday, extending gains for a second straight session and taking the two-day rally to 6%. The stock gained momentum after the insurer announced a 1:1 bonus issue alongside its Q4 results last week. LIC has fixed May 29 as the record date to determine shareholder eligibility for the bonus share allotment.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 25 May 2026 11:03:16 +0530",
+          "summary": "LIC shares climbed 4% on Monday, extending gains for a second straight session and taking the two-day rally to 6%. The stock gained momentum after the insurer announced a 1:1 bonus issue alongside its..."
+        },
+        {
+          "title": "Global equity flows chasing momentum, not value: Anurag Singh ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-flows-chasing-momentum-not-value-anurag-singh/articleshow/131302386.cms",
+          "content": "Global equities show firm momentum, driven by US futures near record highs. However, a narrow rally concentrated in mega-cap stocks raises structural concerns, with sectors like healthcare and discretionary consumption showing weakness. Capital allocation is increasingly momentum-driven, with India temporarily out of favor for global investors.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 25 May 2026 10:50:18 +0530",
+          "summary": "Global equities show firm momentum, driven by US futures near record highs. However, a narrow rally concentrated in mega-cap stocks raises structural concerns, with sectors like healthcare and discret..."
+        }
+      ],
+      "generatedAt": "2026-05-25T06:00:48.472Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Vanishing tongues and life on Mars: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01655-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-22T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Major Ebola outbreak is escalating: what happens next",
+          "url": "https://www.nature.com/articles/d41586-026-01660-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-22T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Beet juice lowers blood pressure in older adults in just 2 weeks",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260524021154.htm",
+          "content": "Drinking nitrate-rich beetroot juice may do more than support heart health — it could actually reshape the bacteria living in the mouth in ways that help lower blood pressure in older adults. In the largest study of its kind, researchers found that older people who drank concentrated beetroot juice twice daily for two weeks experienced noticeable blood pressure reductions, while younger adults did not.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 25 May 2026 01:01:09 EDT",
+          "summary": "Drinking nitrate-rich beetroot juice may do more than support heart health — it could actually reshape the bacteria living in the mouth in ways that help lower blood pressure in older adults. In the l..."
+        },
+        {
+          "title": "Surprising research reveals why you shouldn't add bananas to your smoothies",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
+          "content": "Researchers found that adding bananas to berry smoothies can dramatically reduce the body’s ability to absorb healthy flavanols. The surprising discovery shows that even simple food combinations can change how much nutrition your body actually gets.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 24 May 2026 08:48:32 EDT",
+          "summary": "Researchers found that adding bananas to berry smoothies can dramatically reduce the body’s ability to absorb healthy flavanols. The surprising discovery shows that even simple food combinations can c..."
+        },
+        {
+          "title": "Whatever the mirror test tells us, beluga whales pass it",
+          "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+          "content": "The white whales join the short, contested list of animals that see themselves.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 24 May 2026 11:15:38 +0000",
+          "summary": "The white whales join the short, contested list of animals that see themselves...."
+        },
+        {
+          "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
+          "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
+          "content": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 23 May 2026 17:54:54 +0000",
+          "summary": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit...."
+        }
+      ],
+      "generatedAt": "2026-05-25T06:00:49.973Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Companies Are Just a Graph of Algorithms",
+          "url": "https://danielmiessler.com/blog/companies-graph-of-algorithms",
+          "content": "Article URL: https://danielmiessler.com/blog/companies-graph-of-algorithms\nComments URL: https://news.ycombinator.com/item?id=48263284\nPoints: 14\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 25 May 2026 04:00:48 +0000",
+          "summary": "Article URL: https://danielmiessler.com/blog/companies-graph-of-algorithms\nComments URL: https://news.ycombinator.com/item?id=48263284\nPoints: 14\n# Comments: 1..."
+        },
+        {
+          "title": "Jira Is Turing-Complete",
+          "url": "https://seriot.ch/computation/jira.html",
+          "content": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 19\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 25 May 2026 03:54:14 +0000",
+          "summary": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 19\n# Comments: 0..."
+        },
+        {
+          "title": "Everyone is navigating AI security in real time — even Google",
+          "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+          "content": "We're in the transition period -- all of us.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 24 May 2026 21:39:21 +0000",
+          "summary": "We're in the transition period -- all of us...."
+        },
+        {
+          "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+          "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+          "content": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 24 May 2026 19:00:00 +0000",
+          "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point...."
+        }
+      ],
+      "generatedAt": "2026-05-25T06:00:56.205Z"
+    }
+  ]
+}
