@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-26",
+  "generatedAt": "2026-05-26T05:42:27.160Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Digital renaissance amidst crisis: impact of digitalisation on firm performance during the pandemic",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Quantitative tightening? Britain’s 1980s experiment with overfunding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/quantitative-tightening-britains-1980s-experiment-with-overfunding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-05-26T05:42:21.198Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+          "url": "https://huggingface.co/blog/agent-glossary",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 25 May 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 23 May 2026 00:02:03 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+          "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 22 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whethe..."
+        },
+        {
+          "title": "Google I/O showed how the path for AI-driven science is shifting",
+          "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+          "content": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
+          "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul..."
+        }
+      ],
+      "generatedAt": "2026-05-26T05:42:22.619Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Monzo spends heavily on ‘refer a friend’ rewards to boost market share ",
+          "url": "https://www.ft.com/content/23de626c-0359-462a-b06b-ce7fe7095a89",
+          "content": "London-based fintech records ‘staggering’ increase in spending on referral fees",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 26 May 2026 04:00:15 GMT",
+          "summary": "London-based fintech records ‘staggering’ increase in spending on referral fees..."
+        },
+        {
+          "title": "Deregulation hands top US and UK banks $1.3tn opening",
+          "url": "https://www.ft.com/content/9db7a522-17a2-40c9-a0e5-ee250992be06",
+          "content": "Regulatory loosening has allowed countries’ banks to expand balance sheets while EU and Swiss rivals are constrained",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 26 May 2026 04:00:15 GMT",
+          "summary": "Regulatory loosening has allowed countries’ banks to expand balance sheets while EU and Swiss rivals are constrained..."
+        },
+        {
+          "title": "\n        Offshore finance is thriving despite crackdowns\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/25/offshore-finance-is-thriving-despite-crackdowns",
+          "content": "There is a lot more to havens than crystal-clear waters and a promise of opacity",
+          "source": "The Economist",
+          "publishedAt": "Mon, 25 May 2026 15:38:01 +0000",
+          "summary": "There is a lot more to havens than crystal-clear waters and a promise of opacity..."
+        },
+        {
+          "title": "\n        How should economists treat morality?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
+          "content": "Sometimes it is more than merely an exogenous constraint",
+          "source": "The Economist",
+          "publishedAt": "Thu, 21 May 2026 09:27:37 +0000",
+          "summary": "Sometimes it is more than merely an exogenous constraint..."
+        },
+        {
+          "title": "Japan's MUFG explores take-private or stake sale for Indonesia's Danamon: report",
+          "url": "https://seekingalpha.com/news/4596682-japans-mufg-explores-take-private-or-stake-sale-for-indonesias-danamon-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 26 May 2026 01:26:36 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Fintech leader FinVolution authorizes new two-year, $150M share buyback program",
+          "url": "https://seekingalpha.com/news/4596688-fintech-leader-finvolution-authorizes-new-two-year-150m-share-buyback-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 26 May 2026 01:18:40 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Indian bonds choppy as oil reverses course putting focus back on US-Iran issues ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-choppy-as-oil-reverses-course-putting-focus-back-on-us-iran-issues/articleshow/131322255.cms",
+          "content": "Indian government bond yields edged higher in early trading Tuesday, influenced by renewed U.S.-Iran tensions that pushed oil prices up. This development reversed the support from softer Treasury yields, creating a choppy market environment. Traders anticipate a narrow trading range for bonds, with Friday's auction potentially swaying sentiment.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 26 May 2026 10:52:21 +0530",
+          "summary": "Indian government bond yields edged higher in early trading Tuesday, influenced by renewed U.S.-Iran tensions that pushed oil prices up. This development reversed the support from softer Treasury yiel..."
+        },
+        {
+          "title": "Policy stability, relief on STT and LTCG key to winning back FPIs: Sudip Bandyopadhyay ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/policy-stability-relief-on-stt-and-ltcg-key-to-winning-back-fpis-sudip-bandyopadhyay/articleshow/131322174.cms",
+          "content": "Foreign investors are pulling money from Indian markets. Experts urge India to rethink taxes like STT and LTCG. Policy consistency is also a major concern for global funds. While domestic investors provide support, foreign capital remains vital for growth. Adjusting these tax structures could boost investor confidence and market stability.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 26 May 2026 10:50:03 +0530",
+          "summary": "Foreign investors are pulling money from Indian markets. Experts urge India to rethink taxes like STT and LTCG. Policy consistency is also a major concern for global funds. While domestic investors pr..."
+        }
+      ],
+      "generatedAt": "2026-05-26T05:42:24.657Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "How I eavesdrop on frog conversations",
+          "url": "https://www.nature.com/articles/d41586-026-01621-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "How to breathe life back into brain theory",
+          "url": "https://www.nature.com/articles/d41586-026-01619-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "USC scientists discover a hidden Alzheimer’s trigger and a possible way to shut it down",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260525000504.htm",
+          "content": "USC researchers have identified potential new drug compounds that may reduce the brain inflammation linked to Alzheimer’s disease, especially in people with the high-risk APOE4 gene. The compounds target cPLA2, an enzyme that seems to fuel harmful inflammation while also being important for normal brain activity.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 26 May 2026 00:56:55 EDT",
+          "summary": "USC researchers have identified potential new drug compounds that may reduce the brain inflammation linked to Alzheimer’s disease, especially in people with the high-risk APOE4 gene. The compounds tar..."
+        },
+        {
+          "title": "This prehistoric fish may explain how animals first walked on Earth",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260525000459.htm",
+          "content": "Scientists have peered inside the skull of a 380-million-year-old Antarctic fish that was closely related to the first animals to walk on land, revealing surprising clues about how life began its move out of the water. Using advanced neutron imaging, researchers discovered that Koharalepis jarviki had features suited for living near the water’s surface, including openings in its skull that may have helped it gulp air and a light-sensitive organ linked to day-night rhythms.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 25 May 2026 09:30:01 EDT",
+          "summary": "Scientists have peered inside the skull of a 380-million-year-old Antarctic fish that was closely related to the first animals to walk on land, revealing surprising clues about how life began its move..."
+        },
+        {
+          "title": "Whatever the mirror test tells us, beluga whales pass it",
+          "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+          "content": "The white whales join the short, contested list of animals that see themselves.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 24 May 2026 11:15:38 +0000",
+          "summary": "The white whales join the short, contested list of animals that see themselves...."
+        },
+        {
+          "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
+          "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
+          "content": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 23 May 2026 17:54:54 +0000",
+          "summary": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit...."
+        }
+      ],
+      "generatedAt": "2026-05-26T05:42:25.921Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Notes on Pope Leo XIV's Encyclical on AI",
+          "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
+          "content": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48275098\nPoints: 9\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 26 May 2026 04:45:29 +0000",
+          "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48275098\nPoints: 9\n# Comments: 0..."
+        },
+        {
+          "title": "The User Is Visibly Frustrated",
+          "url": "https://pscanf.com/s/354/",
+          "content": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 26 May 2026 04:39:03 +0000",
+          "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 6\n# Comments: 0..."
+        },
+        {
+          "title": "What ClickUp’s mass layoff tells us about the future of work",
+          "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+          "content": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 25 May 2026 16:00:00 +0000",
+          "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents...."
+        },
+        {
+          "title": "The pope’s AI encyclical isn’t really about AI",
+          "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+          "content": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 25 May 2026 15:09:41 +0000",
+          "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage...."
+        }
+      ],
+      "generatedAt": "2026-05-26T05:42:27.160Z"
+    }
+  ]
+}
