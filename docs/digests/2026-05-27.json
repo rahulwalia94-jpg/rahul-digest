@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-27",
+  "generatedAt": "2026-05-27T05:54:24.750Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Digital renaissance amidst crisis: impact of digitalisation on firm performance during the pandemic",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Quantitative tightening? Britain’s 1980s experiment with overfunding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/quantitative-tightening-britains-1980s-experiment-with-overfunding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-05-27T05:54:19.620Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+          "url": "https://huggingface.co/blog/agent-glossary",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 25 May 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 23 May 2026 00:02:03 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "Rethinking organizational design in the age of agentic AI",
+          "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+          "content": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.  The sticky…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 26 May 2026 14:54:10 +0000",
+          "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next th..."
+        },
+        {
+          "title": "The Download: puncturing the AI jobs panic",
+          "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 26 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hy..."
+        }
+      ],
+      "generatedAt": "2026-05-27T05:54:21.068Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Bullying problem? The battle inside BP’s boardroom",
+          "url": "https://www.ft.com/content/4eed284f-d78e-48cb-b865-c49e73dbada0",
+          "content": "With the ousting of Albert Manifold, BP has replaced two chief executives and two chairs in the past three years",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 27 May 2026 04:00:33 GMT",
+          "summary": "With the ousting of Albert Manifold, BP has replaced two chief executives and two chairs in the past three years..."
+        },
+        {
+          "title": "UK software investor Hg strikes first buyout deal since SaaSpocalypse",
+          "url": "https://www.ft.com/content/2addf5f8-56de-42f9-834e-14024f0139d7",
+          "content": "Acquisition of rights and royalties management company for $500mn comes after plunge in software stocks",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 27 May 2026 04:00:25 GMT",
+          "summary": "Acquisition of rights and royalties management company for $500mn comes after plunge in software stocks..."
+        },
+        {
+          "title": "\n        Giga-IPOs are a symptom of public markets’ giga-problem\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/26/giga-ipos-are-a-symptom-of-public-markets-giga-problem",
+          "content": "The incredible shrinking stockmarket",
+          "source": "The Economist",
+          "publishedAt": "Tue, 26 May 2026 20:12:08 +0000",
+          "summary": "The incredible shrinking stockmarket..."
+        },
+        {
+          "title": "\n        Offshore finance is thriving despite crackdowns\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/25/offshore-finance-is-thriving-despite-crackdowns",
+          "content": "There is a lot more to havens than crystal-clear waters and a promise of opacity",
+          "source": "The Economist",
+          "publishedAt": "Mon, 25 May 2026 15:38:01 +0000",
+          "summary": "There is a lot more to havens than crystal-clear waters and a promise of opacity..."
+        },
+        {
+          "title": "Europe car registrations rise 5.1% in April; Tesla surges 46%",
+          "url": "https://seekingalpha.com/news/4597213-europe-car-registrations-rise-51-in-april-tesla-surges-46?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 27 May 2026 01:44:44 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Asia stocks mixed: AI surge and cautious US-Iran peace hopes buoy market sentiment",
+          "url": "https://seekingalpha.com/news/4597205-asia-stocks-mixed-ai-surge-and-cautious-us-iran-peace-hopes-buoy-market-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 27 May 2026 01:25:21 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "HDFC Bank shares fall 2% amid reports of internal probe into Rs 45 crore interest payments ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-fall-2-amid-reports-of-internal-probe-into-rs-45-crore-interest-payments/articleshow/131342352.cms",
+          "content": "HDFC Bank shares fell after a report revealed an internal investigation into Rs 45 crore payments to Maharashtra State Road Development Corporation. The Audit Committee ordered the probe into funds allegedly routed through the marketing department as 'differential interest' for a road safety campaign, with senior management, including CEO Sashidhar Jagdishan, reportedly involved in the decision.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 27 May 2026 11:05:52 +0530",
+          "summary": "HDFC Bank shares fell after a report revealed an internal investigation into Rs 45 crore payments to Maharashtra State Road Development Corporation. The Audit Committee ordered the probe into funds al..."
+        },
+        {
+          "title": "The aluminium boom is here: Why Morgan Stanley says Hindalco is set to explode ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-aluminium-boom-is-here-why-morgan-stanley-says-hindalco-is-set-to-explode/articleshow/131342359.cms",
+          "content": "Morgan Stanley initiated coverage on Hindalco Industries with an ‘Overweight’ rating and a target price of Rs 1,325, citing a favourable aluminium demand-supply outlook, strong free cash flow generation and India’s multi-year growth cycle. The brokerage believes Hindalco is well positioned for margin expansion and long-term value unlocking.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 27 May 2026 11:04:53 +0530",
+          "summary": "Morgan Stanley initiated coverage on Hindalco Industries with an ‘Overweight’ rating and a target price of Rs 1,325, citing a favourable aluminium demand-supply outlook, strong free cash flow generati..."
+        }
+      ],
+      "generatedAt": "2026-05-27T05:54:22.449Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene",
+          "url": "https://www.nature.com/articles/s41586-026-10669-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-26T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: In vitro characterization of the human segmentation clock",
+          "url": "https://www.nature.com/articles/s41586-026-10651-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-26T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
+          "content": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining vitamin K with components related to vitamin A, the researchers developed compounds that were about three times more effective at turning neural stem cells into neurons than natural vitamin K alone.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 27 May 2026 00:02:46 EDT",
+          "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Par..."
+        },
+        {
+          "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+          "content": "Researchers at Texas A&M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive function improved for months, raising hopes for future treatments targeting dementia and brain fog.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 26 May 2026 09:39:35 EDT",
+          "summary": "Researchers at Texas A&M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive f..."
+        },
+        {
+          "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
+          "url": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
+          "content": "Getting carbon and sulfur into Earth’s interior may be part of oxygen’s story.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 26 May 2026 18:30:58 +0000",
+          "summary": "Getting carbon and sulfur into Earth’s interior may be part of oxygen’s story...."
+        },
+        {
+          "title": "Whatever the mirror test tells us, beluga whales pass it",
+          "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+          "content": "The white whales join the short, contested list of animals that see themselves.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 24 May 2026 11:15:38 +0000",
+          "summary": "The white whales join the short, contested list of animals that see themselves...."
+        }
+      ],
+      "generatedAt": "2026-05-27T05:54:23.641Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The just-say-no engineer was a ZIRP phenomenon",
+          "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+          "content": "Article URL: https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/\nComments URL: https://news.ycombinator.com/item?id=48289439\nPoints: 89\n# Comments: 74",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 27 May 2026 03:56:42 +0000",
+          "summary": "Article URL: https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/\nComments URL: https://news.ycombinator.com/item?id=48289439\nPoints: 89\n# Comments: 74..."
+        },
+        {
+          "title": "Gear Commit: Dev gadget box personalized from GitHub activity",
+          "url": "https://gearcommit.nanocorp.app/",
+          "content": "Article URL: https://gearcommit.nanocorp.app/\nComments URL: https://news.ycombinator.com/item?id=48288761\nPoints: 5\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 27 May 2026 02:29:24 +0000",
+          "summary": "Article URL: https://gearcommit.nanocorp.app/\nComments URL: https://news.ycombinator.com/item?id=48288761\nPoints: 5\n# Comments: 0..."
+        },
+        {
+          "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+          "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+          "content": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 26 May 2026 23:49:05 +0000",
+          "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys...."
+        },
+        {
+          "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+          "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+          "content": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 26 May 2026 22:55:01 +0000",
+          "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!..."
+        }
+      ],
+      "generatedAt": "2026-05-27T05:54:24.750Z"
+    }
+  ]
+}
