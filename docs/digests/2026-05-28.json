@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-28",
+  "generatedAt": "2026-05-28T05:50:13.565Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Digital renaissance amidst crisis: impact of digitalisation on firm performance during the pandemic",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Quantitative tightening? Britain’s 1980s experiment with overfunding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/quantitative-tightening-britains-1980s-experiment-with-overfunding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-05-28T05:50:07.234Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+          "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 27 May 2026 17:20:29 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Reachy Mini goes fully local",
+          "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 27 May 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: keeping up with AI, and the future of IVF",
+          "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 27 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT T..."
+        },
+        {
+          "title": "Rethinking organizational design in the age of agentic AI",
+          "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+          "content": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.  The sticky…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 26 May 2026 14:54:10 +0000",
+          "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next th..."
+        }
+      ],
+      "generatedAt": "2026-05-28T05:50:08.400Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Exxon fracks its blue state exit",
+          "url": "https://www.ft.com/content/3c9d2424-bd71-4190-98d4-db32f6626ef4",
+          "content": "The oil major’s investors overwhelmingly voted in favour of its proposal to move its corporate domicile to Texas",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 28 May 2026 04:00:27 GMT",
+          "summary": "The oil major’s investors overwhelmingly voted in favour of its proposal to move its corporate domicile to Texas..."
+        },
+        {
+          "title": "Chip stocks race towards biggest gains since dotcom era on AI demand",
+          "url": "https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47",
+          "content": "Philadelphia Semiconductor Index rides Big Tech’s data centre spending spree to 75% gains in 2026",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 28 May 2026 04:00:27 GMT",
+          "summary": "Philadelphia Semiconductor Index rides Big Tech’s data centre spending spree to 75% gains in 2026..."
+        },
+        {
+          "title": "\n        Kevin Warsh’s troublesome inflation in-tray\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray",
+          "content": "The new Fed chair will struggle to appease his colleagues, the market and Donald Trump all at once",
+          "source": "The Economist",
+          "publishedAt": "Wed, 27 May 2026 20:26:28 +0000",
+          "summary": "The new Fed chair will struggle to appease his colleagues, the market and Donald Trump all at once..."
+        },
+        {
+          "title": "\n        Japan, South Korea and Taiwan are suffering industrial rot\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot",
+          "content": "Artificial intelligence is concealing a China shock",
+          "source": "The Economist",
+          "publishedAt": "Wed, 27 May 2026 14:08:47 +0000",
+          "summary": "Artificial intelligence is concealing a China shock..."
+        },
+        {
+          "title": "Broadcom, Samsung debut world's first Wi-Fi 8 FWA platform",
+          "url": "https://seekingalpha.com/news/4597726-broadcom-samsung-debut-worlds-first-wi-fi-8-fwa-platform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 28 May 2026 01:47:03 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Leopold Aschenbrenner’s Situational Awareness fund discloses 5.6% stake in Nebius Group",
+          "url": "https://seekingalpha.com/news/4597718-leopold-aschenbrenners-situational-awareness-fund-discloses-56-stake-in-nebius-group?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 28 May 2026 01:36:20 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Why India's mid &amp; smallcaps are outrunning Nifty 50  &amp; where to invest now? Rajesh Kothari explains ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/why-indias-mid-smallcaps-are-outrunning-nifty-50-where-to-invest-now-rajesh-kothari-explains/articleshow/131363553.cms",
+          "content": "Indian mid and smallcap stocks are surging ahead of largecaps. This divergence is driven by robust earnings. Many mid and smallcap firms are now debt-free and profitable. AlfAccurate Advisors is betting on sectors like EMS, Capital Goods, and Auto Ancillaries. Traditional IT services face a prolonged correction. Investors should focus on identifying strong companies.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 28 May 2026 10:58:46 +0530",
+          "summary": "Indian mid and smallcap stocks are surging ahead of largecaps. This divergence is driven by robust earnings. Many mid and smallcap firms are now debt-free and profitable. AlfAccurate Advisors is betti..."
+        },
+        {
+          "title": "Commodity upcycle: Why copper and aluminium could explode in coming quarters. Should Indians invest? ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-upcycle-why-copper-and-aluminium-could-explode-in-coming-quarters-should-indians-invest/articleshow/131363396.cms",
+          "content": "As the precious metals rally matures, market attention is shifting towards industrial commodities like copper and aluminium. Analysts believe structural supply shortages, booming AI and energy-transition demand, geopolitical disruptions and low inventories could drive a multi-year commodity upcycle, with MCX metals increasingly emerging as a key opportunity for Indian investors.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 28 May 2026 10:41:24 +0530",
+          "summary": "As the precious metals rally matures, market attention is shifting towards industrial commodities like copper and aluminium. Analysts believe structural supply shortages, booming AI and energy-transit..."
+        }
+      ],
+      "generatedAt": "2026-05-28T05:50:11.210Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
+          "url": "https://www.nature.com/articles/s41586-026-10700-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-27T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Satellite megaconstellations will threaten space-based astronomy",
+          "url": "https://www.nature.com/articles/s41586-026-10553-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-27T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists break 30-year superconductivity record at normal pressure",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023220.htm",
+          "content": "Scientists at the University of Houston have shattered a long-standing superconductivity record, creating a material that can conduct electricity with zero resistance at the highest temperature ever achieved under normal pressure conditions. Their breakthrough pushes superconductivity to 151 Kelvin (minus 122°C), beating a record that stood for more than 30 years.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 27 May 2026 09:44:25 EDT",
+          "summary": "Scientists at the University of Houston have shattered a long-standing superconductivity record, creating a material that can conduct electricity with zero resistance at the highest temperature ever a..."
+        },
+        {
+          "title": "NASA’s Webb telescope discovers a planet where rock clouds vanish every night",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023212.htm",
+          "content": "A giant planet nearly 700 light-years away has a bizarre daily weather cycle where mineral clouds appear every morning and vanish by nightfall. Using the James Webb Space Telescope, astronomers discovered that WASP-94A b’s mornings are filled with clouds made of rock-like minerals, while its evenings are surprisingly clear. The finding gave scientists their clearest look yet into the planet’s atmosphere and revealed it’s far more Jupiter-like than previously believed.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 27 May 2026 06:24:22 EDT",
+          "summary": "A giant planet nearly 700 light-years away has a bizarre daily weather cycle where mineral clouds appear every morning and vanish by nightfall. Using the James Webb Space Telescope, astronomers discov..."
+        },
+        {
+          "title": "\"Little red dot\" in early Universe is a naked supermassive black hole",
+          "url": "https://arstechnica.com/science/2026/05/little-red-dot-in-early-universe-is-a-naked-supermassive-black-hole/",
+          "content": "The black hole accounts for over two-thirds the mass of the object it inhabits.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 27 May 2026 18:37:57 +0000",
+          "summary": "The black hole accounts for over two-thirds the mass of the object it inhabits...."
+        },
+        {
+          "title": "US Space Force confirms SpaceX will build sensor-to-shooter targeting network",
+          "url": "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
+          "content": "\"We aren’t trading speed for scale; we are demanding both,\" says the military's program manager.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 27 May 2026 18:19:51 +0000",
+          "summary": "\"We aren’t trading speed for scale; we are demanding both,\" says the military's program manager...."
+        }
+      ],
+      "generatedAt": "2026-05-28T05:50:12.440Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Hallucinate – Massively Multiplayer Online Rave",
+          "url": "https://hallucinate.site",
+          "content": "Article URL: https://hallucinate.site\nComments URL: https://news.ycombinator.com/item?id=48304260\nPoints: 73\n# Comments: 31",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 28 May 2026 03:50:01 +0000",
+          "summary": "Article URL: https://hallucinate.site\nComments URL: https://news.ycombinator.com/item?id=48304260\nPoints: 73\n# Comments: 31..."
+        },
+        {
+          "title": "RamAIn (YC W26) Is Hiring",
+          "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+          "content": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\nComments URL: https://news.ycombinator.com/item?id=48303599\nPoints: 0\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 28 May 2026 02:21:11 +0000",
+          "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\nComments URL: https://news.ycombinator.com/item?id=48303599\nPoints: 0\n# Comments: 0..."
+        },
+        {
+          "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+          "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+          "content": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 28 May 2026 00:45:37 +0000",
+          "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign...."
+        },
+        {
+          "title": "Why Google’s AI can’t spell Google (or anything else)",
+          "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+          "content": "Google is embarrassing itself, again.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 28 May 2026 00:17:41 +0000",
+          "summary": "Google is embarrassing itself, again...."
+        }
+      ],
+      "generatedAt": "2026-05-28T05:50:13.565Z"
+    }
+  ]
+}
