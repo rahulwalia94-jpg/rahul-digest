@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-29",
+  "generatedAt": "2026-05-29T05:51:27.017Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 27 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/27-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 28 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Digital renaissance amidst crisis: impact of digitalisation on firm performance during the pandemic",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 22 May 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-05-29T05:51:19.705Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+          "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 27 May 2026 17:20:29 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Reachy Mini goes fully local",
+          "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 27 May 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "How a new extraction process could unlock the world’s lithium",
+          "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+          "content": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.  The research was published today in Science, and a startup called Rock Zero is working to…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 28 May 2026 18:01:00 +0000",
+          "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more e..."
+        },
+        {
+          "title": "The Download: climate tech goes public and the AI Hype Index returns",
+          "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 28 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar an..."
+        }
+      ],
+      "generatedAt": "2026-05-29T05:51:20.876Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Charles Goodhart: ‘Demography is going to make life worse and worse and worse’",
+          "url": "https://www.ft.com/content/170121bb-9831-4eda-b94d-52679b6a69e6",
+          "content": "The leading economist warns that fiscal pressures will constrain independent monetary policy",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 29 May 2026 05:30:06 GMT",
+          "summary": "The leading economist warns that fiscal pressures will constrain independent monetary policy..."
+        },
+        {
+          "title": "Several BP shareholders found ousted chair ‘challenging’",
+          "url": "https://www.ft.com/content/b59bfe40-f814-4790-94b6-49ce61b9d0ea",
+          "content": "Several large investors say it was hard to arrange meetings with Albert Manifold before his removal from oil major",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 29 May 2026 04:00:29 GMT",
+          "summary": "Several large investors say it was hard to arrange meetings with Albert Manifold before his removal from oil major..."
+        },
+        {
+          "title": "\n        Without fanfare, China is making rural migrants’ lives easier\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier",
+          "content": "The notorious hukou system is being relaxed. Marx would approve",
+          "source": "The Economist",
+          "publishedAt": "Thu, 28 May 2026 09:29:28 +0000",
+          "summary": "The notorious hukou system is being relaxed. Marx would approve..."
+        },
+        {
+          "title": "\n        How to tax businesses in orbit and beyond\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond",
+          "content": "As the space business grows, so will offplanet finance",
+          "source": "The Economist",
+          "publishedAt": "Thu, 28 May 2026 09:28:19 +0000",
+          "summary": "As the space business grows, so will offplanet finance..."
+        },
+        {
+          "title": "Japan Economic Snapshot: Data beats estimates across retail, output, and jobs as Tokyo inflation cools",
+          "url": "https://seekingalpha.com/news/4598211-japan-economic-snapshot-data-beats-estimates-across-retail-output-and-jobs-as-tokyo-inflation-cools?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 29 May 2026 01:36:24 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "GameStop deepens eBay exposure to 7.8% from 6.6% following board's buyout rejection",
+          "url": "https://seekingalpha.com/news/4598220-gamestop-deepens-ebay-exposure-to-78-from-66-following-boards-buyout-rejection?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 29 May 2026 01:20:21 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Wockhardt shares jump 8%, extend rally after CDSCO nod for Zaynich antibiotic ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wockhardt-shares-jump-8-extend-rally-after-cdsco-nod-for-zaynich-antibiotic/articleshow/131382757.cms",
+          "content": "Wockhardt shares surged after the company received CDSCO approval for its breakthrough antibiotic Zaynich in India. Strong Phase 3 trial results and the drug’s potential to treat severe drug-resistant infections boosted investor sentiment, helping the stock extend recent gains despite technically entering overbought territory after a sharp rally.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 29 May 2026 11:05:03 +0530",
+          "summary": "Wockhardt shares surged after the company received CDSCO approval for its breakthrough antibiotic Zaynich in India. Strong Phase 3 trial results and the drug’s potential to treat severe drug-resistant..."
+        },
+        {
+          "title": "West Asia conflict a stagflationary shock; world economy not ready for a long war: Bank of America ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/west-asia-conflict-a-stagflationary-shock-world-economy-not-ready-for-a-long-war-bank-of-america/articleshow/131382679.cms",
+          "content": "The West Asia conflict has triggered a stagflationary shock, impacting global growth and inflation. Bank of America forecasts a lower global growth projection, with disruptions in the Strait of Hormuz being a critical factor. Oil prices are expected to remain elevated, impacting energy importers, while central banks face difficult decisions.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 29 May 2026 11:03:12 +0530",
+          "summary": "The West Asia conflict has triggered a stagflationary shock, impacting global growth and inflation. Bank of America forecasts a lower global growth projection, with disruptions in the Strait of Hormuz..."
+        }
+      ],
+      "generatedAt": "2026-05-29T05:51:22.483Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Share the highs and lows of your career in science: take <i>Nature</i>’s global survey",
+          "url": "https://www.nature.com/articles/d41586-026-01589-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Bridget Ogilvie obituary: parasitologist who championed biomedical labs and scientific evidence",
+          "url": "https://www.nature.com/articles/d41586-026-01733-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "CBD may slow Alzheimer’s by calming the brain’s immune system",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260528082507.htm",
+          "content": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled CBD reduced key drivers of neuroinflammation, a damaging process increasingly linked to memory loss and brain degeneration.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 28 May 2026 21:35:52 EDT",
+          "summary": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheime..."
+        },
+        {
+          "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260528082503.htm",
+          "content": "Scientists have solved the mystery of the Seychelles’ vanished crocodiles using DNA from historic museum specimens. The reptiles were not a unique species after all, but an isolated population of saltwater crocodiles that likely drifted thousands of kilometers across the Indian Ocean.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 28 May 2026 10:16:47 EDT",
+          "summary": "Scientists have solved the mystery of the Seychelles’ vanished crocodiles using DNA from historic museum specimens. The reptiles were not a unique species after all, but an isolated population of salt..."
+        },
+        {
+          "title": "Researchers develop a new process to get lithium out of rocks",
+          "url": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
+          "content": "If it scales up, it can help us diversify our sources of a key element.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 28 May 2026 19:30:04 +0000",
+          "summary": "If it scales up, it can help us diversify our sources of a key element...."
+        },
+        {
+          "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
+          "url": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
+          "content": "Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 28 May 2026 18:17:41 +0000",
+          "summary": "Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded...."
+        }
+      ],
+      "generatedAt": "2026-05-29T05:51:24.150Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Python utility package for building Claude Code hooks",
+          "url": "https://github.com/RasmusGodske/claude-hook-utils",
+          "content": "Article URL: https://github.com/RasmusGodske/claude-hook-utils\nComments URL: https://news.ycombinator.com/item?id=48318978\nPoints: 10\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 29 May 2026 04:18:34 +0000",
+          "summary": "Article URL: https://github.com/RasmusGodske/claude-hook-utils\nComments URL: https://news.ycombinator.com/item?id=48318978\nPoints: 10\n# Comments: 0..."
+        },
+        {
+          "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+          "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+          "content": "Article URL: https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/\nComments URL: https://news.ycombinator.com/item?id=48318678\nPoints: 118\n# Comments: 50",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 29 May 2026 03:32:15 +0000",
+          "summary": "Article URL: https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/\nComments URL: https://news.ycombinator.com/item?id=48318678\nPoints: 118\n# Comm..."
+        },
+        {
+          "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+          "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+          "content": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 29 May 2026 01:22:16 +0000",
+          "summary": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX...."
+        },
+        {
+          "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+          "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+          "content": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 29 May 2026 00:44:37 +0000",
+          "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category...."
+        }
+      ],
+      "generatedAt": "2026-05-29T05:51:27.017Z"
+    }
+  ]
+}
