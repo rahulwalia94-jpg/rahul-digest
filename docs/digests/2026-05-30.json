@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-30",
+  "generatedAt": "2026-05-30T05:27:22.994Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Are the effects of quantitative easing and tightening state contingent?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 29 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 27 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/27-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 28 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-30T05:27:13.975Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+          "url": "https://huggingface.co/blog/torch-profiler",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 29 May 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+          "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 27 May 2026 17:20:29 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: unlocking lithium and controlling Ebola",
+          "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 29 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium ..."
+        },
+        {
+          "title": "The deadly Ebola outbreak is proving difficult to control",
+          "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+          "content": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 29 May 2026 11:19:52 +0000",
+          "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent ..."
+        }
+      ],
+      "generatedAt": "2026-05-30T05:27:15.789Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Five emerging themes for US stock investors ",
+          "url": "https://www.ft.com/content/042e6cc2-c680-479d-803b-e3a47db69929",
+          "content": "Active portfolios need to take into account factors such as risk management of giga-caps",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 30 May 2026 04:00:51 GMT",
+          "summary": "Active portfolios need to take into account factors such as risk management of giga-caps..."
+        },
+        {
+          "title": "US agrees ‘perpetual’ futures trading after offshore Hyperliquid’s huge growth",
+          "url": "https://www.ft.com/content/7aeef922-6d26-4a65-97b1-751c36440bf0",
+          "content": "Oil-linked trading on unregulated and decentralised crypto exchange has skyrocketed during Iran war",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 30 May 2026 04:00:51 GMT",
+          "summary": "Oil-linked trading on unregulated and decentralised crypto exchange has skyrocketed during Iran war..."
+        },
+        {
+          "title": "\n        Without fanfare, China is making rural migrants’ lives easier\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier",
+          "content": "The notorious hukou system is being relaxed. Marx would approve",
+          "source": "The Economist",
+          "publishedAt": "Thu, 28 May 2026 09:29:28 +0000",
+          "summary": "The notorious hukou system is being relaxed. Marx would approve..."
+        },
+        {
+          "title": "\n        How to tax businesses in orbit and beyond\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond",
+          "content": "As the space business grows, so will offplanet finance",
+          "source": "The Economist",
+          "publishedAt": "Thu, 28 May 2026 09:28:19 +0000",
+          "summary": "As the space business grows, so will offplanet finance..."
+        },
+        {
+          "title": "Oil slides to six-week low as traders bet U.S.-Iran framework deal is near",
+          "url": "https://seekingalpha.com/news/4598617-oil-slides-to-six-week-low-as-traders-bet-us-iran-framework-deal-is-near?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 29 May 2026 19:44:27 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report",
+          "url": "https://seekingalpha.com/news/4598618-yum-brands-in-exclusive-talks-to-sell-pizza-hut-to-longrange---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 29 May 2026 19:06:31 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Oil prices tumble 11% for biggest weekly drop in 7 weeks. Where is liquid gold headed from here? ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-tumble-11-for-biggest-weekly-drop-in-7-weeks-where-is-liquid-gold-headed-from-here/articleshow/131404176.cms",
+          "content": "Global markets rallied as oil prices hit seven-week lows. Hopes for a peace deal between the US, Israel, and Iran eased inflation fears. Brent crude and WTI saw sharp declines. Diplomatic efforts continue, but differing descriptions of a potential deal persist. Geopolitical tensions remain a factor. Analysts suggest restoring normal shipping could take months.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 30 May 2026 10:38:32 +0530",
+          "summary": "Global markets rallied as oil prices hit seven-week lows. Hopes for a peace deal between the US, Israel, and Iran eased inflation fears. Brent crude and WTI saw sharp declines. Diplomatic efforts cont..."
+        },
+        {
+          "title": "LIC, HAL, among 10 stocks that saw sharpest decrease in government shareholding in Q4. Check list ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-hal-among-10-stocks-that-saw-sharpest-decrease-in-government-shareholding-in-q4-check-list/slideshow/131403961.cms",
+          "content": "Foreign selling, geopolitical tensions and market volatility eroded the value of the Government of India’s holdings in key listed companies during the March 2026 quarter, with LIC, IRFC and HAL leading the sharp declines.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 30 May 2026 10:04:03 +0530",
+          "summary": "Foreign selling, geopolitical tensions and market volatility eroded the value of the Government of India’s holdings in key listed companies during the March 2026 quarter, with LIC, IRFC and HAL leadin..."
+        }
+      ],
+      "generatedAt": "2026-05-30T05:27:17.426Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
+          "url": "https://www.nature.com/articles/s41586-026-10717-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+          "url": "https://www.nature.com/articles/s41586-026-10605-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
+          "content": "A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn’s changing “rotation rate” was never caused by the planet speeding up or slowing down, but by powerful winds high in its atmosphere. Webb’s unprecedented observations revealed that Saturn’s northern lights actively heat the atmosphere, creating winds that generate electrical currents, which then power the aurora all over again in a self-sustaining cycle.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 29 May 2026 09:58:44 EDT",
+          "summary": "A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn’s changing “rotation rate” was never caused by the planet speedin..."
+        },
+        {
+          "title": "Hidden driving danger when edible cannabis and alcohol mix",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260529043656.htm",
+          "content": "Using cannabis edibles and alcohol together may make drivers far more impaired than either substance alone, according to new research from Johns Hopkins. Even more concerning, common field sobriety tests often failed to detect the cannabis-related impairment.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 29 May 2026 09:42:07 EDT",
+          "summary": "Using cannabis edibles and alcohol together may make drivers far more impaired than either substance alone, according to new research from Johns Hopkins. Even more concerning, common field sobriety te..."
+        },
+        {
+          "title": "Proposed new US funding rules: We can cancel any grant at any time",
+          "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+          "content": "Peer review now optional, political staff would screen grants for forbidden topics.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 29 May 2026 22:58:29 +0000",
+          "summary": "Peer review now optional, political staff would screen grants for forbidden topics...."
+        },
+        {
+          "title": "Severed sea cucumber appendages don't seem to die",
+          "url": "https://arstechnica.com/science/2026/05/severed-sea-cucumber-appendages-dont-seem-to-die/",
+          "content": "They seem to reorganize their tissues and then just keep living.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 29 May 2026 15:10:29 +0000",
+          "summary": "They seem to reorganize their tissues and then just keep living...."
+        }
+      ],
+      "generatedAt": "2026-05-30T05:27:18.746Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+          "url": "https://www.perryts.com/",
+          "content": "Article URL: https://www.perryts.com/\nComments URL: https://news.ycombinator.com/item?id=48332151\nPoints: 29\n# Comments: 11",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 30 May 2026 03:14:25 +0000",
+          "summary": "Article URL: https://www.perryts.com/\nComments URL: https://news.ycombinator.com/item?id=48332151\nPoints: 29\n# Comments: 11..."
+        },
+        {
+          "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
+          "url": "https://github.com/vinhnx/VTCode",
+          "content": "Article URL: https://github.com/vinhnx/VTCode\nComments URL: https://news.ycombinator.com/item?id=48332098\nPoints: 7\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 30 May 2026 03:07:25 +0000",
+          "summary": "Article URL: https://github.com/vinhnx/VTCode\nComments URL: https://news.ycombinator.com/item?id=48332098\nPoints: 7\n# Comments: 4..."
+        },
+        {
+          "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+          "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+          "content": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 30 May 2026 02:00:00 +0000",
+          "summary": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords...."
+        },
+        {
+          "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+          "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+          "content": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 30 May 2026 00:39:13 +0000",
+          "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace...."
+        }
+      ],
+      "generatedAt": "2026-05-30T05:27:22.994Z"
+    }
+  ]
+}
