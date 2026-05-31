@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-31",
+  "generatedAt": "2026-05-31T05:55:58.512Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Are the effects of quantitative easing and tightening state contingent?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 29 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 27 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/27-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 28 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-05-31T05:55:51.599Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+          "url": "https://huggingface.co/blog/torch-profiler",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 29 May 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+          "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 27 May 2026 17:20:29 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: unlocking lithium and controlling Ebola",
+          "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 29 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium ..."
+        },
+        {
+          "title": "The deadly Ebola outbreak is proving difficult to control",
+          "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+          "content": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 29 May 2026 11:19:52 +0000",
+          "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent ..."
+        }
+      ],
+      "generatedAt": "2026-05-31T05:55:53.462Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "More than half of shadow fleet oil tankers pose environmental disaster risk",
+          "url": "https://www.ft.com/content/70da79bb-6efa-42ae-bd68-0071495dda29",
+          "content": "Ageing sanctioned ships should be scrapped, says leading ship recycler",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 31 May 2026 04:00:18 GMT",
+          "summary": "Ageing sanctioned ships should be scrapped, says leading ship recycler..."
+        },
+        {
+          "title": "Race for rare earths sparks concern about environmental damage ",
+          "url": "https://www.ft.com/content/dcc11776-b672-4a0f-a1ed-3e441d2f4c29",
+          "content": "Companies seeking to boost western supplies face legal and community obstacles",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 31 May 2026 04:00:09 GMT",
+          "summary": "Companies seeking to boost western supplies face legal and community obstacles..."
+        },
+        {
+          "title": "\n        Without fanfare, China is making rural migrants’ lives easier\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier",
+          "content": "The notorious hukou system is being relaxed. Marx would approve",
+          "source": "The Economist",
+          "publishedAt": "Thu, 28 May 2026 09:29:28 +0000",
+          "summary": "The notorious hukou system is being relaxed. Marx would approve..."
+        },
+        {
+          "title": "\n        How to tax businesses in orbit and beyond\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond",
+          "content": "As the space business grows, so will offplanet finance",
+          "source": "The Economist",
+          "publishedAt": "Thu, 28 May 2026 09:28:19 +0000",
+          "summary": "As the space business grows, so will offplanet finance..."
+        },
+        {
+          "title": "SoftBank to build AI data center network in France with $52B investment",
+          "url": "https://seekingalpha.com/news/4598639-softbank-to-build-ai-data-center-network-in-france-with-52b-investment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 30 May 2026 22:08:45 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Trending stocks this week as markets gain on easing Middle East tensions, softer inflation",
+          "url": "https://seekingalpha.com/news/4598638-trending-stocks-this-week-as-markets-gain-on-easing-middle-east-tensions-softer-inflation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 30 May 2026 14:06:14 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Midcaps in a sweet spot? Why Nippon India’s Rupesh Patel sees a valuation correction despite new index peaks ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/midcaps-in-a-sweet-spot-why-nippon-indias-rupesh-patel-sees-a-valuation-correction-despite-new-index-peaks/articleshow/131419336.cms",
+          "content": "Nippon India Mutual Fund's Rupesh Patel remains constructive on midcaps despite concerns over valuations, citing resilient earnings growth and improved valuation comfort after a prolonged time correction. He favours financials, consumer discretionary and select industrials, while emphasising a bottom-up stock-picking approach to navigate geopolitical and macroeconomic uncertainties.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 31 May 2026 11:14:12 +0530",
+          "summary": "Nippon India Mutual Fund's Rupesh Patel remains constructive on midcaps despite concerns over valuations, citing resilient earnings growth and improved valuation comfort after a prolonged time correct..."
+        },
+        {
+          "title": "'Misleading financial statements': Suzlon to challenge Sebi's penalty order before SAT ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/misleading-financial-statements-suzlon-to-challenge-sebis-penalty-order-before-sat/articleshow/131419067.cms",
+          "content": "Suzlon Energy plans to challenge Sebi's order imposing penalties of nearly Rs 29 crore on the company and former executives over alleged accounting and disclosure violations related to FY14-FY18. The company will appeal before the Securities Appellate Tribunal, while Sebi maintains that certain transactions and disclosures misrepresented its financial position.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 31 May 2026 10:39:45 +0530",
+          "summary": "Suzlon Energy plans to challenge Sebi's order imposing penalties of nearly Rs 29 crore on the company and former executives over alleged accounting and disclosure violations related to FY14-FY18. The ..."
+        }
+      ],
+      "generatedAt": "2026-05-31T05:55:55.558Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
+          "url": "https://www.nature.com/articles/s41586-026-10717-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+          "url": "https://www.nature.com/articles/s41586-026-10605-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "New 3D silicon chip breakthrough could extend Moore’s Law for years",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530053412.htm",
+          "content": "As traditional chip miniaturization slows, researchers have found a way to pack more computing power into the same space by stacking silicon circuits in multiple layers. The new process uses ultra-thin silicon membranes and low-temperature manufacturing techniques to overcome a major obstacle that has long blocked the production of true 3D chips.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 30 May 2026 06:26:24 EDT",
+          "summary": "As traditional chip miniaturization slows, researchers have found a way to pack more computing power into the same space by stacking silicon circuits in multiple layers. The new process uses ultra-thi..."
+        },
+        {
+          "title": "Omega-3 fish oil shows promise against type 2 diabetes",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530004626.htm",
+          "content": "A new study suggests fish oil may help reduce insulin resistance even in people who aren't obese. In diabetic rats, omega-3 supplementation improved blood sugar levels, cholesterol, and inflammation by shifting immune cells into a more anti-inflammatory mode.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 31 May 2026 01:15:13 EDT",
+          "summary": "A new study suggests fish oil may help reduce insulin resistance even in people who aren't obese. In diabetic rats, omega-3 supplementation improved blood sugar levels, cholesterol, and inflammation b..."
+        },
+        {
+          "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
+          "url": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
+          "content": "A new book looks into the long history of people who have opposed vaccines.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 30 May 2026 11:00:05 +0000",
+          "summary": "A new book looks into the long history of people who have opposed vaccines...."
+        },
+        {
+          "title": "Proposed new US funding rules: We can cancel any grant at any time",
+          "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+          "content": "Peer review now optional, political staff would screen grants for forbidden topics.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 29 May 2026 22:58:29 +0000",
+          "summary": "Peer review now optional, political staff would screen grants for forbidden topics...."
+        }
+      ],
+      "generatedAt": "2026-05-31T05:55:56.998Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Ahoy, DECmate II the little PDP-8 that could",
+          "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+          "content": "Article URL: http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html\nComments URL: https://news.ycombinator.com/item?id=48343078\nPoints: 10\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 31 May 2026 04:42:14 +0000",
+          "summary": "Article URL: http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html\nComments URL: https://news.ycombinator.com/item?id=48343078\nPoints: 10\n# Comments: 0..."
+        },
+        {
+          "title": "Building a LangGraph pipeline for production data engineering",
+          "url": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline",
+          "content": "Article URL: https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline\nComments URL: https://news.ycombinator.com/item?id=48343061\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 31 May 2026 04:38:25 +0000",
+          "summary": "Article URL: https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline\nComments URL: https://news.ycombinator.com/item?id=48343061\nPoints: 6\n# Comments: 0..."
+        },
+        {
+          "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+          "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+          "content": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 30 May 2026 21:45:00 +0000",
+          "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity...."
+        },
+        {
+          "title": "This weekend’s two biggest movies were both directed by YouTubers",
+          "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+          "content": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 30 May 2026 21:12:37 +0000",
+          "summary": "The YouTube-to-prestige-horror pipeline is looking very strong...."
+        }
+      ],
+      "generatedAt": "2026-05-31T05:55:58.512Z"
+    }
+  ]
+}
