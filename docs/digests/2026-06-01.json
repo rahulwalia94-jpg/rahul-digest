@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-01",
+  "generatedAt": "2026-06-01T06:29:39.989Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Are the effects of quantitative easing and tightening state contingent?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 29 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 27 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/27-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 28 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-06-01T06:29:34.673Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 01 Jun 2026 04:44:55 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+          "url": "https://huggingface.co/blog/torch-profiler",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 29 May 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: unlocking lithium and controlling Ebola",
+          "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 29 May 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium ..."
+        },
+        {
+          "title": "The deadly Ebola outbreak is proving difficult to control",
+          "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+          "content": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 29 May 2026 11:19:52 +0000",
+          "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent ..."
+        }
+      ],
+      "generatedAt": "2026-06-01T06:29:36.041Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "SoftBank overtakes Toyota after more than 20 years to become Japan’s largest company",
+          "url": "https://www.ft.com/content/eef96fb0-5a56-4ce2-9a69-5f8eca754995",
+          "content": "Demand for AI stocks powers tech giant’s shares as it takes top spot by market capitalisation",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 01 Jun 2026 05:04:21 GMT",
+          "summary": "Demand for AI stocks powers tech giant’s shares as it takes top spot by market capitalisation..."
+        },
+        {
+          "title": "US tax adviser Ryan strikes $400mn deal to take on Big Four in Europe",
+          "url": "https://www.ft.com/content/b956b92d-c59f-413b-9def-422ef60418ff",
+          "content": "Texas-based group agrees to buy Svalner Atlas, which had been expected to attract bids from private equity firms",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 01 Jun 2026 04:00:27 GMT",
+          "summary": "Texas-based group agrees to buy Svalner Atlas, which had been expected to attract bids from private equity firms..."
+        },
+        {
+          "title": "\n        Without fanfare, China is making rural migrants’ lives easier\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier",
+          "content": "The notorious hukou system is being relaxed. Marx would approve",
+          "source": "The Economist",
+          "publishedAt": "Thu, 28 May 2026 09:29:28 +0000",
+          "summary": "The notorious hukou system is being relaxed. Marx would approve..."
+        },
+        {
+          "title": "\n        How to tax businesses in orbit and beyond\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond",
+          "content": "As the space business grows, so will offplanet finance",
+          "source": "The Economist",
+          "publishedAt": "Thu, 28 May 2026 09:28:19 +0000",
+          "summary": "As the space business grows, so will offplanet finance..."
+        },
+        {
+          "title": "German retail sales dip 0.3% in April, beating forecasts despite four-month slump",
+          "url": "https://seekingalpha.com/news/4598735-germany-retail-sales-edge-down-030-mm-in-april?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 01 Jun 2026 02:12:43 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Uber, Autobrains partner on Munich robotaxi program powered by Nvidia Drive",
+          "url": "https://seekingalpha.com/news/4598734-uber-autobrains-partner-on-munich-robotaxi-program-powered-by-nvidia-drive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 01 Jun 2026 01:42:03 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Markets in limbo as US–Iran uncertainty clouds global outlook: Geoff Dennis ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/markets-in-limbo-as-usiran-uncertainty-clouds-global-outlook-geoff-dennis/articleshow/131435233.cms",
+          "content": "Global markets are grappling with US-Iran standoff uncertainty, with conflicting signals leaving investors hesitant. Despite geopolitical tensions, oil prices remain below extreme forecasts, cushioning global markets. Near-term caution is advised due to stretched valuations and inflation concerns, though India's underperformance is linked to weak foreign inflows.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 01 Jun 2026 11:29:09 +0530",
+          "summary": "Global markets are grappling with US-Iran standoff uncertainty, with conflicting signals leaving investors hesitant. Despite geopolitical tensions, oil prices remain below extreme forecasts, cushionin..."
+        },
+        {
+          "title": "Inflation and input costs threaten earnings momentum going forward: Dhananjay Sinha ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/inflation-and-input-costs-threaten-earnings-momentum-going-forward-dhananjay-sinha/articleshow/131435080.cms",
+          "content": "India Inc. delivered strong March-quarter earnings, surpassing market forecasts. Revenue growth improved, supported by cost savings. However, concerns loom over moderating future earnings. Rising input costs and inflation pose challenges. Defence and metals sectors show resilience. Investors are advised to be selective in consumer stocks, favoring those with strong brands and competitive advantages.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 01 Jun 2026 11:18:45 +0530",
+          "summary": "India Inc. delivered strong March-quarter earnings, surpassing market forecasts. Revenue growth improved, supported by cost savings. However, concerns loom over moderating future earnings. Rising inpu..."
+        }
+      ],
+      "generatedAt": "2026-06-01T06:29:37.577Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
+          "url": "https://www.nature.com/articles/s41586-026-10717-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+          "url": "https://www.nature.com/articles/s41586-026-10605-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-05-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
+          "content": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of weaker social connections. Chimpanzees focus on a few trusted partners and become more selective with age, while bonobos maintain a more egalitarian social style.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 31 May 2026 11:03:38 EDT",
+          "summary": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of wea..."
+        },
+        {
+          "title": "Scientists found the hidden switch fueling alzheimer’s brain inflammation",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530053424.htm",
+          "content": "Scientists at Scripps Research have uncovered a molecular “switch” that appears to fuel the damaging brain inflammation seen in Alzheimer’s disease. They found that a protein called STING becomes chemically altered in a way that keeps the brain’s immune system stuck in overdrive, harming the connections between nerve cells.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 31 May 2026 11:30:38 EDT",
+          "summary": "Scientists at Scripps Research have uncovered a molecular “switch” that appears to fuel the damaging brain inflammation seen in Alzheimer’s disease. They found that a protein called STING becomes chem..."
+        },
+        {
+          "title": "They call it stupid hot for a reason: Heat muddles animal brains",
+          "url": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
+          "content": "As temperatures rise, some creatures pick fights while others struggle to learn.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 31 May 2026 10:00:07 +0000",
+          "summary": "As temperatures rise, some creatures pick fights while others struggle to learn...."
+        },
+        {
+          "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
+          "url": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
+          "content": "A new book looks into the long history of people who have opposed vaccines.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 30 May 2026 11:00:05 +0000",
+          "summary": "A new book looks into the long history of people who have opposed vaccines...."
+        }
+      ],
+      "generatedAt": "2026-06-01T06:29:38.789Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Nvidia RTX Spark",
+          "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+          "content": "Article URL: https://www.nvidia.com/en-us/products/rtx-spark/\nComments URL: https://news.ycombinator.com/item?id=48352939\nPoints: 31\n# Comments: 20",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 01 Jun 2026 05:24:40 +0000",
+          "summary": "Article URL: https://www.nvidia.com/en-us/products/rtx-spark/\nComments URL: https://news.ycombinator.com/item?id=48352939\nPoints: 31\n# Comments: 20..."
+        },
+        {
+          "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+          "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+          "content": "Article URL: https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/\nComments URL: https://news.ycombinator.com/item?id=48352500\nPoints: 11\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 01 Jun 2026 04:08:02 +0000",
+          "summary": "Article URL: https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/\nComments URL: https://news.ycombinator.com/item?id=48352500\nPoi..."
+        },
+        {
+          "title": "Erin Brockovich takes aim at data center secrecy",
+          "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+          "content": "Environmental activist Erin Brockovich has a new mission.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 31 May 2026 21:05:14 +0000",
+          "summary": "Environmental activist Erin Brockovich has a new mission...."
+        },
+        {
+          "title": "This weekend’s two biggest movies were both directed by YouTubers",
+          "url": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+          "content": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 31 May 2026 18:34:58 +0000",
+          "summary": "The YouTube-to-prestige-horror pipeline is looking very strong...."
+        }
+      ],
+      "generatedAt": "2026-06-01T06:29:39.989Z"
+    }
+  ]
+}
