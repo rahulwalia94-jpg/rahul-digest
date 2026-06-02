@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-02T06:14:47.048Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Are the effects of quantitative easing and tightening state contingent?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 29 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 27 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/27-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 28 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-06-02T06:14:40.143Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+          "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 01 Jun 2026 15:45:17 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+          "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 01 Jun 2026 13:51:18 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: China’s brain implant ambitions",
+          "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province last October, Dong Hui decided to try holding a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 01 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer c..."
+        },
+        {
+          "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+          "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+          "content": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.  Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly, he wrote…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 01 Jun 2026 09:09:00 +0000",
+          "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.  Dong, 39, had sustained spinal cord injuries in a car a..."
+        }
+      ],
+      "generatedAt": "2026-06-02T06:14:42.140Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Activist fund Elliott calls for sale of Australia’s largest gold miner",
+          "url": "https://www.ft.com/content/befbf8d6-b566-4068-ae69-587ff849ccff",
+          "content": "US firm builds up stake in Northern Star Resources",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 02 Jun 2026 04:44:11 GMT",
+          "summary": "US firm builds up stake in Northern Star Resources..."
+        },
+        {
+          "title": "EasyJet’s summer sale reaches Wall Street",
+          "url": "https://www.ft.com/content/696e7363-9c46-4b5e-98a5-26701e032e5c",
+          "content": "Europe’s famed budget airline has become a potential takeover target as war in Iran hits industry",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 02 Jun 2026 04:00:23 GMT",
+          "summary": "Europe’s famed budget airline has become a potential takeover target as war in Iran hits industry..."
+        },
+        {
+          "title": "\n        Can the stockmarket swallow Anthropic, SpaceX and OpenAI?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+          "content": "Watch out for indigestion",
+          "source": "The Economist",
+          "publishedAt": "Mon, 01 Jun 2026 17:16:55 +0000",
+          "summary": "Watch out for indigestion..."
+        },
+        {
+          "title": "\n        Without fanfare, China is making rural migrants’ lives easier\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier",
+          "content": "The notorious hukou system is being relaxed. Marx would approve",
+          "source": "The Economist",
+          "publishedAt": "Thu, 28 May 2026 09:29:28 +0000",
+          "summary": "The notorious hukou system is being relaxed. Marx would approve..."
+        },
+        {
+          "title": "HIVE Digital Technologies reports Q4 results",
+          "url": "https://seekingalpha.com/news/4599530-hive-digital-technologies-reports-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 02 Jun 2026 02:11:34 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "General Mills to sell Mainland China Häagen-Dazs shops to investor group led by Ningji",
+          "url": "https://seekingalpha.com/news/4599522-general-mills-to-sell-mainland-china-haagen-dazs-shops-to-investor-group-led-by-ningji?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 02 Jun 2026 02:08:14 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Groww, Lenskart, 9 other stocks among Motilal’s non-Nifty ideas. Check full list ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/groww-lenskart-9-other-stocks-among-motilals-non-nifty-ideas-check-full-list/slideshow/131455999.cms",
+          "content": "Motilal Oswal has revealed its top non-Nifty stock picks. The brokerage anticipates robust earnings growth for these companies. Key names include ICICI Prudential AMC, TVS Motor, and Dixon Technologies. Delhivery shows the highest projected earnings expansion. Investors can explore these opportunities for potential gains.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 02 Jun 2026 11:14:33 +0530",
+          "summary": "Motilal Oswal has revealed its top non-Nifty stock picks. The brokerage anticipates robust earnings growth for these companies. Key names include ICICI Prudential AMC, TVS Motor, and Dixon Technologie..."
+        },
+        {
+          "title": "Wockhardt shares pause massive 36% rally in 5 sessions; slip 7%. What’s behind the selloff? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wockhardt-shares-pause-massive-36-rally-in-5-sessions-slip-7-whats-behind-the-selloff/articleshow/131455656.cms",
+          "content": "Wockhardt shares dropped after a recent surge, as investors took profits. This followed the US FDA approval of ZAYNICH, an antibiotic for urinary tract infections. The company also reported a strong turnaround in its March quarter results. Revenue and profit saw significant year-on-year growth. Biotech operations were a key driver of this improved performance.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 02 Jun 2026 11:10:44 +0530",
+          "summary": "Wockhardt shares dropped after a recent surge, as investors took profits. This followed the US FDA approval of ZAYNICH, an antibiotic for urinary tract infections. The company also reported a strong t..."
+        }
+      ],
+      "generatedAt": "2026-06-02T06:14:44.093Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Enantioselective hydrogen atom relay via non-covalent catalyst assembly",
+          "url": "https://www.nature.com/articles/s41586-026-10692-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Passive heart-rate monitoring during smartphone use in everyday life",
+          "url": "https://www.nature.com/articles/s41586-026-10507-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Your kitchen sponge is releasing microplastics every time you wash dishes",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260601025356.htm",
+          "content": "Kitchen sponges release microplastics as they wear down during everyday use, with some sponge types shedding far more than others. Researchers estimated that millions of households could collectively release hundreds of tons of microplastics annually.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 01 Jun 2026 09:52:40 EDT",
+          "summary": "Kitchen sponges release microplastics as they wear down during everyday use, with some sponge types shedding far more than others. Researchers estimated that millions of households could collectively ..."
+        },
+        {
+          "title": "The forgotten organ that could predict how long you live",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm",
+          "content": "A long-overlooked organ may hold surprising clues to healthy aging and cancer survival. Researchers at Mass General Brigham used AI to analyze CT scans from tens of thousands of adults and found that people with healthier thymuses—a small immune-system organ once thought to become largely irrelevant after childhood—lived longer and had substantially lower risks of heart disease, cancer, and death.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 01 Jun 2026 06:17:04 EDT",
+          "summary": "A long-overlooked organ may hold surprising clues to healthy aging and cancer survival. Researchers at Mass General Brigham used AI to analyze CT scans from tens of thousands of adults and found that ..."
+        },
+        {
+          "title": "Why cats prefer silver vine to catnip and other May highlights",
+          "url": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
+          "content": "Prehistoric mining in the Pyrenees, a new species of tiny blue octopus, slapstick acoustics, and more.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 01 Jun 2026 21:38:55 +0000",
+          "summary": "Prehistoric mining in the Pyrenees, a new species of tiny blue octopus, slapstick acoustics, and more...."
+        },
+        {
+          "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+          "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+          "content": "I tried to explain OpenAI’s solution more clearly than OpenAI did.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 01 Jun 2026 11:00:00 +0000",
+          "summary": "I tried to explain OpenAI’s solution more clearly than OpenAI did...."
+        }
+      ],
+      "generatedAt": "2026-06-02T06:14:45.440Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+          "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+          "content": "Article URL: https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/\nComments URL: https://news.ycombinator.com/item?id=48365904\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 02 Jun 2026 04:05:23 +0000",
+          "summary": "Article URL: https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/\nComments URL: https://news.ycombinator.com/item?id=48365904\nPoints: 4\n# Comments: 0..."
+        },
+        {
+          "title": "macOS needs its grid back",
+          "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+          "content": "Article URL: https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/\nComments URL: https://news.ycombinator.com/item?id=48364800\nPoints: 169\n# Comments: 89",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 02 Jun 2026 01:28:34 +0000",
+          "summary": "Article URL: https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/\nComments URL: https://news.ycombinator.com/item?id=48364800\nPoints: 169\n# Comments: 89..."
+        },
+        {
+          "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+          "url": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+          "content": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 01 Jun 2026 23:20:52 +0000",
+          "summary": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage...."
+        },
+        {
+          "title": "Alphabet plans to raise $80B to pay for AI buildout",
+          "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+          "content": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 01 Jun 2026 22:55:09 +0000",
+          "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen..."
+        }
+      ],
+      "generatedAt": "2026-06-02T06:14:47.048Z"
+    }
+  ]
+}
