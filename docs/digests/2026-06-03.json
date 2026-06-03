@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T06:28:15.989Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Are the effects of quantitative easing and tightening state contingent?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 29 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 27 May 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/27-may-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 28 May 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-06-03T06:28:09.358Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Holo3.1: Fast & Local Computer Use Agents",
+          "url": "https://huggingface.co/blog/Hcompany/holo31",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 02 Jun 2026 14:13:23 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+          "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 01 Jun 2026 15:45:17 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: AI can run your admin department now",
+          "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 02 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design..."
+        },
+        {
+          "title": "Rehumanizing global health care with agentic AI",
+          "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+          "content": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 02 Jun 2026 11:23:34 +0000",
+          "summary": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. G..."
+        }
+      ],
+      "generatedAt": "2026-06-03T06:28:10.956Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Hyperscalers and the equity tap: more to come",
+          "url": "https://www.ft.com/content/c9d562d6-1448-4a40-8198-0cb1f0dc2032",
+          "content": "Plus, corporate culture and returns",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 03 Jun 2026 05:30:03 GMT",
+          "summary": "Plus, corporate culture and returns..."
+        },
+        {
+          "title": "How can the UK catch up on stablecoins?",
+          "url": "https://www.ft.com/content/bf8d333f-50b0-46eb-902e-b512bcb5bd3a",
+          "content": "Inquiry warns country risks missing out on potential benefits of new form of digital money because of excessive regulation",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 03 Jun 2026 04:00:27 GMT",
+          "summary": "Inquiry warns country risks missing out on potential benefits of new form of digital money because of excessive regulation..."
+        },
+        {
+          "title": "\n        Want to know the future? Don’t trust the stockmarket\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/02/want-to-know-the-future-dont-trust-the-stockmarket",
+          "content": "Share prices are buffeted by far more than just new information",
+          "source": "The Economist",
+          "publishedAt": "Tue, 02 Jun 2026 18:39:21 +0000",
+          "summary": "Share prices are buffeted by far more than just new information..."
+        },
+        {
+          "title": "\n        Can the stockmarket swallow Anthropic, SpaceX and OpenAI?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+          "content": "Watch out for indigestion",
+          "source": "The Economist",
+          "publishedAt": "Mon, 01 Jun 2026 17:16:55 +0000",
+          "summary": "Watch out for indigestion..."
+        },
+        {
+          "title": "Meta softens employee surveillance program used for AI training after backlash - report",
+          "url": "https://seekingalpha.com/news/4600076-meta-softens-employee-surveillance-program-used-for-ai-training-after-backlash---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 03 Jun 2026 02:20:26 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "UK regulator hits Google search with new conduct rules",
+          "url": "https://seekingalpha.com/news/4600077-uk-regulator-hits-google-search-with-new-conduct-rules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 03 Jun 2026 02:20:02 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Indian rupee could fall to 98/USD by July amid energy crisis, BofA Securities exec says ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-could-fall-to-98/usd-by-july-amid-energy-crisis-bofa-securities-exec-says/articleshow/131477412.cms",
+          "content": "The Indian rupee faces a potential record low of 98 against the dollar by July due to the Middle East energy shock, impacting domestic assets.  Despite authorities' protective measures and calls for a rate hike, BofA Securities anticipates gradual increases later in the year.  Foreign investors have significantly withdrawn funds, adding to currency pressure.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 03 Jun 2026 11:41:41 +0530",
+          "summary": "The Indian rupee faces a potential record low of 98 against the dollar by July due to the Middle East energy shock, impacting domestic assets.  Despite authorities' protective measures and calls for a..."
+        },
+        {
+          "title": "AI investment boom reshaping global capital flows, leaving India temporarily on the sidelines: Jonathan Garner ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-investment-boom-reshaping-global-capital-flows-leaving-india-temporarily-on-the-sidelines-jonathan-garner/articleshow/131477233.cms",
+          "content": "Foreign investors are shifting capital from India to North Asian markets like South Korea and Taiwan, driven by the AI investment boom and extraordinary earnings growth. While India's long-term growth remains strong with healthy earnings, the current global focus is on AI-driven capital expenditure, impacting investment flows.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 03 Jun 2026 11:36:33 +0530",
+          "summary": "Foreign investors are shifting capital from India to North Asian markets like South Korea and Taiwan, driven by the AI investment boom and extraordinary earnings growth. While India's long-term growth..."
+        }
+      ],
+      "generatedAt": "2026-06-03T06:28:13.034Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord",
+          "url": "https://www.nature.com/articles/s41586-026-10728-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan",
+          "url": "https://www.nature.com/articles/s41586-026-10693-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A hidden pollutant is changing how the world's forests breathe",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260602021659.htm",
+          "content": "A massive global analysis found that nitrogen pollution can either speed up or dramatically slow the natural \"breathing\" of forest soils, depending on the ecosystem's condition. The results reveal hidden tipping points that could affect how forests store carbon and cope with climate change.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 02 Jun 2026 10:11:57 EDT",
+          "summary": "A massive global analysis found that nitrogen pollution can either speed up or dramatically slow the natural \"breathing\" of forest soils, depending on the ecosystem's condition. The results reveal hid..."
+        },
+        {
+          "title": "The secret underground system keeping the Grand Canyon alive",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260602021648.htm",
+          "content": "Scientists are venturing into the Grand Canyon’s hidden cave networks to solve a mystery: how snowmelt travels underground to supply the park’s vital springs. Their discoveries could help protect the canyon’s water from drought, contamination, and other growing threats.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 02 Jun 2026 09:21:40 EDT",
+          "summary": "Scientists are venturing into the Grand Canyon’s hidden cave networks to solve a mystery: how snowmelt travels underground to supply the park’s vital springs. Their discoveries could help protect the ..."
+        },
+        {
+          "title": "Male bowerbirds hope to dazzle females with bright human-made items",
+          "url": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
+          "content": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 02 Jun 2026 23:05:31 +0000",
+          "summary": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”..."
+        },
+        {
+          "title": "If I had a hammer... it might actually be a rhino tooth",
+          "url": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
+          "content": "Neanderthals had some wild stuff in their toolkits.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 02 Jun 2026 19:54:14 +0000",
+          "summary": "Neanderthals had some wild stuff in their toolkits...."
+        }
+      ],
+      "generatedAt": "2026-06-03T06:28:14.678Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+          "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+          "content": "Article URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/\nComments URL: https://news.ycombinator.com/item?id=48379669\nPoints: 44\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 03 Jun 2026 03:47:56 +0000",
+          "summary": "Article URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/\nComments URL: https://news.ycombinator.com/item?id=48379669\nPoints: 44\n# Comments: 3..."
+        },
+        {
+          "title": "U of T researchers demonstrate AI worm could target any online device",
+          "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+          "content": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device\nComments URL: https://news.ycombinator.com/item?id=48379664\nPoints: 9\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 03 Jun 2026 03:47:21 +0000",
+          "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device\nComments URL: https://news.ycombinator.com/item?id=48379664\nPoints: 9\n# Comments: 2..."
+        },
+        {
+          "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+          "url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+          "content": "Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 02 Jun 2026 23:25:20 +0000",
+          "summary": "Even in a future of robot taxis, someone still has to return the things passengers leave behind...."
+        },
+        {
+          "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+          "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+          "content": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 02 Jun 2026 22:50:56 +0000",
+          "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners...."
+        }
+      ],
+      "generatedAt": "2026-06-03T06:28:15.989Z"
+    }
+  ]
+}
