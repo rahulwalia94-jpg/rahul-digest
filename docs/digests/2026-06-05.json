@@ -1,0 +1,238 @@
+{
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-05T05:59:11.282Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 3 June 2026 ",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/3-june-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 04 Jun 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Are the effects of quantitative easing and tightening state contingent?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 29 May 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-05T05:59:06.833Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+          "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 04 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Mo..."
+        },
+        {
+          "title": "How courts are coping with a flood of AI-generated lawsuits",
+          "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+          "content": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 04 Jun 2026 10:50:18 +0000",
+          "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a law..."
+        }
+      ],
+      "generatedAt": "2026-06-05T05:59:07.682Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Wall Street’s red carpet for SpaceX",
+          "url": "https://www.ft.com/content/02d636c6-db1a-4b06-891b-455f35aa3e82",
+          "content": "Banks and stock exchanges have bent over backwards for the historic IPO of Elon Musk’s rocket company",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 05 Jun 2026 04:00:37 GMT",
+          "summary": "Banks and stock exchanges have bent over backwards for the historic IPO of Elon Musk’s rocket company..."
+        },
+        {
+          "title": "Backlash over plan to drop US quarterly reporting demands is building",
+          "url": "https://www.ft.com/content/e7539a7c-4933-497b-a3f7-45da17435042",
+          "content": "Enraged investors have sent flood of letters to SEC to express their opposition",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 05 Jun 2026 04:00:26 GMT",
+          "summary": "Enraged investors have sent flood of letters to SEC to express their opposition..."
+        },
+        {
+          "title": "\n        Indians can now bet on the monsoon\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/04/indians-can-now-bet-on-the-monsoon",
+          "content": "Heatwaves may be more important",
+          "source": "The Economist",
+          "publishedAt": "Thu, 04 Jun 2026 09:48:11 +0000",
+          "summary": "Heatwaves may be more important..."
+        },
+        {
+          "title": "\n        European electricity markets have too much power \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/04/european-electricity-markets-have-too-much-power",
+          "content": "They must learn to deal with it",
+          "source": "The Economist",
+          "publishedAt": "Thu, 04 Jun 2026 09:37:28 +0000",
+          "summary": "They must learn to deal with it..."
+        },
+        {
+          "title": "Asian equities largely decline on tech rotation; yen remains pinned near critical 160 mark",
+          "url": "https://seekingalpha.com/news/4600909-asian-equities-largely-decline-on-tech-rotation-yen-remains-pinned-near-critical-160-mark?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 05 Jun 2026 01:57:50 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Hut 8 unit prices $4.25B senior secured notes",
+          "url": "https://seekingalpha.com/news/4600903-hut-8-unit-prices-425b-senior-secured-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 05 Jun 2026 01:50:16 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Adani Power shares gain 3%, snap two-day losing streak. Why are Jefferies, Bernstein bullish on the stock? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-gain-3-snap-two-day-losing-streak-why-are-jefferies-bernstein-bullish-on-the-stock/articleshow/131522535.cms",
+          "content": "Adani Power shares are climbing on strong prospects for India's power demand and the booming data centre sector. Analysts see the Adani Group well-positioned to capitalize on this growth. India's data centre industry is expected to expand rapidly. Rising electricity demand, driven by heatwaves and digital infrastructure needs, supports this outlook. Further upside is anticipated for Adani Power.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 05 Jun 2026 10:58:19 +0530",
+          "summary": "Adani Power shares are climbing on strong prospects for India's power demand and the booming data centre sector. Analysts see the Adani Group well-positioned to capitalize on this growth. India's data..."
+        },
+        {
+          "title": "Wipro plunges 8% after shares turn ex-record date for Rs 15,000 crore buyback ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-crash-8-despite-overall-market-optimism-heres-why/articleshow/131522416.cms",
+          "content": "Wipro shares fell sharply on Friday after turning ex-record date for its Rs 15,000 crore buyback, despite broader market gains in the early trading hours.  The share buyback marks the first such action announced by the IT major in nearly three years. The  Investor sentiment was also impacted by allegations of workplace harassment and discrimination made by a former employee.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 05 Jun 2026 10:51:07 +0530",
+          "summary": "Wipro shares fell sharply on Friday after turning ex-record date for its Rs 15,000 crore buyback, despite broader market gains in the early trading hours.  The share buyback marks the first such actio..."
+        }
+      ],
+      "generatedAt": "2026-06-05T05:59:09.198Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+          "url": "https://www.nature.com/articles/s41586-026-10694-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Device could sniff out fusion reactors secretly making material for a nuclear bomb",
+          "url": "https://www.nature.com/articles/d41586-026-01764-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A study of 8,300 older adults revealed a surprising salt habit",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260604044304.htm",
+          "content": "A large study of older adults in Brazil found that adding extra salt at the table is still a common habit, especially among men. While too much salt is linked to serious health problems and faster cognitive decline, researchers discovered that women’s salt-shaking habits were tied more closely to lifestyle and diet.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 04 Jun 2026 10:05:04 EDT",
+          "summary": "A large study of older adults in Brazil found that adding extra salt at the table is still a common habit, especially among men. While too much salt is linked to serious health problems and faster cog..."
+        },
+        {
+          "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
+          "content": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers to see not only the ant’s outer features but also structures inside its body. The findings offer new clues about the species’ biology and suggest it likely built large nests in trees.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 04 Jun 2026 08:30:55 EDT",
+          "summary": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers..."
+        },
+        {
+          "title": "Bumblebees can spontaneously solve problems, study finds",
+          "url": "https://arstechnica.com/science/2026/06/bumblebees-can-spontaneously-solve-problems-study-finds/",
+          "content": "Scientists in Finland found bees could solve an insect version of the classic \"box-and-banana\" problem.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 04 Jun 2026 18:00:35 +0000",
+          "summary": "Scientists in Finland found bees could solve an insect version of the classic \"box-and-banana\" problem...."
+        },
+        {
+          "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
+          "url": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/",
+          "content": "“I think the team has really experienced the loss of a loved one with the end of the mission.”",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 04 Jun 2026 16:21:06 +0000",
+          "summary": "“I think the team has really experienced the loss of a loved one with the end of the mission.”..."
+        }
+      ],
+      "generatedAt": "2026-06-05T05:59:10.383Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Magenta RealTime 2: Open and Local Live Music Models",
+          "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+          "content": "Article URL: https://magenta.withgoogle.com/magenta-realtime-2\nComments URL: https://news.ycombinator.com/item?id=48407815\nPoints: 8\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 05 Jun 2026 04:09:53 +0000",
+          "summary": "Article URL: https://magenta.withgoogle.com/magenta-realtime-2\nComments URL: https://news.ycombinator.com/item?id=48407815\nPoints: 8\n# Comments: 1..."
+        },
+        {
+          "title": "Meta Silently Added Face-Recognition for Its Smart Glasses to Phones",
+          "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
+          "content": "Article URL: https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/\nComments URL: https://news.ycombinator.com/item?id=48407809\nPoints: 13\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 05 Jun 2026 04:09:21 +0000",
+          "summary": "Article URL: https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/\nComments URL: https://news.ycombinator.com/item?id=48407809\nPoints: 13\n# Comments: 1..."
+        },
+        {
+          "title": "Mira Murati steps back into the spotlight, carefully",
+          "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+          "content": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 05 Jun 2026 05:06:37 +0000",
+          "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist...."
+        },
+        {
+          "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+          "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+          "content": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 05 Jun 2026 00:06:47 +0000",
+          "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries...."
+        }
+      ],
+      "generatedAt": "2026-06-05T05:59:11.282Z"
+    }
+  ]
+}
