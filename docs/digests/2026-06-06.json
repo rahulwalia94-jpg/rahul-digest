@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-06",
+  "generatedAt": "2026-06-06T05:31:11.906Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Capital requirements and process innovation",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-requirements-and-process-innovation",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 05 Jun 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Staying afloat: the impact of flooding on UK firms",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/staying-afloat-the-impact-of-flooding-on-uk-firms",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 05 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-06T05:31:06.139Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+          "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 05 Jun 2026 22:18:46 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 04 Jun 2026 18:57:45 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+          "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 05 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On..."
+        },
+        {
+          "title": "Are AI chatbots making us lose control of our brains?",
+          "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+          "content": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 05 Jun 2026 09:00:00 +0000",
+          "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of ..."
+        }
+      ],
+      "generatedAt": "2026-06-06T05:31:07.966Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Wasting China’s solar panel surplus is madness",
+          "url": "https://www.ft.com/content/b6cac184-75a4-47ab-94c5-5eb8c92cd407",
+          "content": "Clean power is within our reach — yet factories sit idle",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 06 Jun 2026 04:00:49 GMT",
+          "summary": "Clean power is within our reach — yet factories sit idle..."
+        },
+        {
+          "title": "Directors’ Deals: BP veteran hives off nearly £2mn in shares ahead of Manifold brouhaha",
+          "url": "https://www.ft.com/content/7c111b20-f3ab-4865-a1c5-baa3bd9c9755",
+          "content": "The group has been struggling to convince the market that it now possesses greater strategic clarity",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 06 Jun 2026 04:00:49 GMT",
+          "summary": "The group has been struggling to convince the market that it now possesses greater strategic clarity..."
+        },
+        {
+          "title": "\n        How hot is America’s labour market? \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/05/how-hot-is-americas-labour-market",
+          "content": "At the moment, balmy. But it wouldn’t take a lot to require some Fed air-conditioning",
+          "source": "The Economist",
+          "publishedAt": "Fri, 05 Jun 2026 19:10:42 +0000",
+          "summary": "At the moment, balmy. But it wouldn’t take a lot to require some Fed air-conditioning..."
+        },
+        {
+          "title": "\n        Indians can now bet on the monsoon\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/04/indians-can-now-bet-on-the-monsoon",
+          "content": "Heatwaves may be more important",
+          "source": "The Economist",
+          "publishedAt": "Thu, 04 Jun 2026 09:48:11 +0000",
+          "summary": "Heatwaves may be more important..."
+        },
+        {
+          "title": "Crude oil slides ahead of the weekend as traders bet against renewed U.S.-Iran fighting",
+          "url": "https://seekingalpha.com/news/4601198-crude-oil-slides-ahead-of-weekend-as-traders-bet-against-renewed-us-iran-fighting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 05 Jun 2026 19:00:56 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Nuinsco Resources launches C$500,000 private placement",
+          "url": "https://seekingalpha.com/news/4601197-nuinsco-resources-launches-c-500000-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 05 Jun 2026 17:55:36 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "D-Street Ends Another Week in the Red Amid Lack of Triggers ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-ends-another-week-in-the-red-amid-lack-of-triggers/articleshow/131544893.cms",
+          "content": "Indian stock markets closed lower on Friday, marking a second consecutive weekly decline. Investor sentiment turned cautious following the Reserve Bank of India's monetary policy announcement. Analysts suggest the Nifty may trade within a range in the near term. Foreign investors continued their selling spree, while domestic institutions provided support.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 06 Jun 2026 10:31:30 +0530",
+          "summary": "Indian stock markets closed lower on Friday, marking a second consecutive weekly decline. Investor sentiment turned cautious following the Reserve Bank of India's monetary policy announcement. Analyst..."
+        },
+        {
+          "title": "FPIs get tax relief on gilts, ease of Investment ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-get-tax-relief-on-gilts-ease-of-investment/articleshow/131544766.cms",
+          "content": "In a strategic step to lure foreign investment, India has eliminated taxes on capital gains and interest for overseas investors in its government bonds. This change, set to take effect on April 1, is part of an ordinance aimed at enhancing the appeal of Indian sovereign bonds and fortifying the strength of the rupee.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 06 Jun 2026 10:23:23 +0530",
+          "summary": "In a strategic step to lure foreign investment, India has eliminated taxes on capital gains and interest for overseas investors in its government bonds. This change, set to take effect on April 1, is ..."
+        }
+      ],
+      "generatedAt": "2026-06-06T05:31:09.615Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+          "url": "https://www.nature.com/articles/d41586-026-01831-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-05T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "First precise genome editing of human embryos triggers praise and alarm",
+          "url": "https://www.nature.com/articles/d41586-026-01827-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-05T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
+          "content": "Researchers have shown that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil, cut soot emissions by 40%, and could help prevent spills from reaching sensitive marine habitats.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 05 Jun 2026 02:34:20 EDT",
+          "summary": "Researchers have shown that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil, cut soot emissio..."
+        },
+        {
+          "title": "Hidden supermassive black hole pairs may finally have a visible signal",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
+          "content": "Scientists have proposed a new method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes’ gravity. The timing and brightness of these bursts could provide a unique fingerprint of black holes slowly spiraling toward a future collision.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 05 Jun 2026 08:32:00 EDT",
+          "summary": "Scientists have proposed a new method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes’ gravity. The ..."
+        },
+        {
+          "title": "Small modular nuclear reactor reaches criticality in first test",
+          "url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
+          "content": "The reactor, from a startup called Antares, isn't ready to generate power yet.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 05 Jun 2026 19:23:08 +0000",
+          "summary": "The reactor, from a startup called Antares, isn't ready to generate power yet...."
+        },
+        {
+          "title": "Trump admin tries again to revive dying coal industry",
+          "url": "https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/",
+          "content": "Money would keep coal plants open, build the first new plants in over a decade.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 05 Jun 2026 15:55:14 +0000",
+          "summary": "Money would keep coal plants open, build the first new plants in over a decade...."
+        }
+      ],
+      "generatedAt": "2026-06-06T05:31:10.841Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+          "content": "Article URL: https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/\nComments URL: https://news.ycombinator.com/item?id=48421442\nPoints: 11\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 06 Jun 2026 04:38:36 +0000",
+          "summary": "Article URL: https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/\nComments URL: https://news.ycombinator.com/item?id=48421442\nPoints: ..."
+        },
+        {
+          "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+          "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+          "content": "Article URL: https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/\nComments URL: https://news.ycombinator.com/item?id=48421171\nPoints: 20\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 06 Jun 2026 03:41:32 +0000",
+          "summary": "Article URL: https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/\nComments URL: https://news.ycombinator.com/item?id=48421171\nPoints: 20\n# Comments: 1..."
+        },
+        {
+          "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+          "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+          "content": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 05 Jun 2026 22:35:01 +0000",
+          "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus...."
+        },
+        {
+          "title": "Founders share VC horror stories, and some are naming names",
+          "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+          "content": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 05 Jun 2026 21:47:56 +0000",
+          "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating...."
+        }
+      ],
+      "generatedAt": "2026-06-06T05:31:11.906Z"
+    }
+  ]
+}
