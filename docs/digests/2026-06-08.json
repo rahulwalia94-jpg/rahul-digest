@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-08",
+  "generatedAt": "2026-06-08T06:19:11.814Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Capital requirements and process innovation",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-requirements-and-process-innovation",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 05 Jun 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Staying afloat: the impact of flooding on UK firms",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/staying-afloat-the-impact-of-flooding-on-uk-firms",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 05 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-08T06:19:05.740Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Amazing Digital Dentures (a failed project)",
+          "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sun, 07 Jun 2026 19:44:27 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 04 Jun 2026 18:57:45 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells...."
+        },
+        {
+          "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+          "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 05 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On..."
+        },
+        {
+          "title": "Are AI chatbots making us lose control of our brains?",
+          "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+          "content": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 05 Jun 2026 09:00:00 +0000",
+          "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of ..."
+        }
+      ],
+      "generatedAt": "2026-06-08T06:19:07.339Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Tech sell-off widens as South Korea index plunges",
+          "url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
+          "content": "Asian markets start week sharply lower after Nasdaq’s big Friday fall",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 08 Jun 2026 06:10:19 GMT",
+          "summary": "Asian markets start week sharply lower after Nasdaq’s big Friday fall..."
+        },
+        {
+          "title": "Did jobs just kill the bull market?",
+          "url": "https://www.ft.com/content/86503ff9-3535-48bf-bc2d-75d8dafb02f1",
+          "content": "The AI trade meets higher rates",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 08 Jun 2026 05:30:01 GMT",
+          "summary": "The AI trade meets higher rates..."
+        },
+        {
+          "title": "\n        How hot is America’s labour market? \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/05/how-hot-is-americas-labour-market",
+          "content": "At the moment, balmy. But it wouldn’t take a lot to require some Fed air-conditioning",
+          "source": "The Economist",
+          "publishedAt": "Fri, 05 Jun 2026 19:10:42 +0000",
+          "summary": "At the moment, balmy. But it wouldn’t take a lot to require some Fed air-conditioning..."
+        },
+        {
+          "title": "\n        Indians can now bet on the monsoon\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/04/indians-can-now-bet-on-the-monsoon",
+          "content": "Heatwaves may be more important",
+          "source": "The Economist",
+          "publishedAt": "Thu, 04 Jun 2026 09:48:11 +0000",
+          "summary": "Heatwaves may be more important..."
+        },
+        {
+          "title": "China says overseas holdings won't face forced liquidation",
+          "url": "https://seekingalpha.com/news/4601266-china-says-overseas-holdings-wont-face-forced-liquidation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 08 Jun 2026 02:15:44 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "UK AI start-up PhysicsX hits $2.4B valuation following $300M Temasek-led deal",
+          "url": "https://seekingalpha.com/news/4601278-uk-ai-start-up-physicsx-hits-24b-valuation-following-300m-temasek-led-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 08 Jun 2026 02:01:36 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Bonus issue alert! This smallcap company announced a 2:5 bonus issue. Do you own? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-this-smallcap-company-announced-a-25-bonus-issue-do-you-own/articleshow/131579997.cms",
+          "content": "Hardwyn India has announced a 2:5 bonus issue, subject to shareholder approval at an EGM on July 3. The company also plans to increase its authorised share capital to Rs 70 crore. While the record date is yet to be announced, analysts remain positive on the stock's near-term technical outlook.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 08 Jun 2026 11:43:59 +0530",
+          "summary": "Hardwyn India has announced a 2:5 bonus issue, subject to shareholder approval at an EGM on July 3. The company also plans to increase its authorised share capital to Rs 70 crore. While the record dat..."
+        },
+        {
+          "title": "Sterlite Tech shares slide 5% after rallying 56% in one month. Here's why ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-slide-5-after-rallying-56-in-one-month-heres-why/articleshow/131579879.cms",
+          "content": "Sterlite Technologies shares hit the lower circuit on Monday as a sharp global selloff in AI and technology stocks dented investor sentiment. The decline comes after the stock's stellar 474% rally in 2026 and a 56% gain over the past month, with shares locked at Rs 588.30 on the NSE amid profit-booking and weakening AI optimism.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 08 Jun 2026 11:34:20 +0530",
+          "summary": "Sterlite Technologies shares hit the lower circuit on Monday as a sharp global selloff in AI and technology stocks dented investor sentiment. The decline comes after the stock's stellar 474% rally in ..."
+        }
+      ],
+      "generatedAt": "2026-06-08T06:19:09.283Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+          "url": "https://www.nature.com/articles/d41586-026-01831-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-05T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "First precise genome editing of human embryos triggers praise and alarm",
+          "url": "https://www.nature.com/articles/d41586-026-01827-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-05T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+          "content": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled states without adding complicated hardware.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 06 Jun 2026 09:02:19 EDT",
+          "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels ..."
+        },
+        {
+          "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm",
+          "content": "A lightweight new X-ray telescope could finally give scientists something they’ve never had before: a complete chemical map of the Moon. Researchers used detailed mission simulations to show that a compact telescope orbiting the Moon could identify key elements across the entire lunar surface, helping reveal how the Moon formed and evolved.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 06 Jun 2026 09:24:27 EDT",
+          "summary": "A lightweight new X-ray telescope could finally give scientists something they’ve never had before: a complete chemical map of the Moon. Researchers used detailed mission simulations to show that a co..."
+        },
+        {
+          "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+          "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+          "content": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 06 Jun 2026 20:53:07 +0000",
+          "summary": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz..."
+        },
+        {
+          "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+          "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+          "content": "What’s the difference between a person, an artifact, and an ecosystem?",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 06 Jun 2026 11:15:51 +0000",
+          "summary": "What’s the difference between a person, an artifact, and an ecosystem?..."
+        }
+      ],
+      "generatedAt": "2026-06-08T06:19:10.649Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Wow, if it's this easy in 1998, I bet it'll be even easier in 2026",
+          "url": "https://retro.social/@ifixcoinops/116711332505710610",
+          "content": "Article URL: https://retro.social/@ifixcoinops/116711332505710610\nComments URL: https://news.ycombinator.com/item?id=48441519\nPoints: 32\n# Comments: 6",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 08 Jun 2026 05:09:02 +0000",
+          "summary": "Article URL: https://retro.social/@ifixcoinops/116711332505710610\nComments URL: https://news.ycombinator.com/item?id=48441519\nPoints: 32\n# Comments: 6..."
+        },
+        {
+          "title": "Richard Scolyer Has Died",
+          "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
+          "content": "Article URL: https://www.bbc.com/news/articles/c14yz5jg476o\nComments URL: https://news.ycombinator.com/item?id=48441242\nPoints: 9\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 08 Jun 2026 04:10:08 +0000",
+          "summary": "Article URL: https://www.bbc.com/news/articles/c14yz5jg476o\nComments URL: https://news.ycombinator.com/item?id=48441242\nPoints: 9\n# Comments: 2..."
+        },
+        {
+          "title": "Is this the dawn of the Tokenpocalypse?",
+          "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "content": "We're likely to see more price increases as the big AI companies plan to go public.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 07 Jun 2026 20:26:13 +0000",
+          "summary": "We're likely to see more price increases as the big AI companies plan to go public...."
+        },
+        {
+          "title": "Notion restores access to Anthropic after service disruption",
+          "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+          "content": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 07 Jun 2026 17:56:22 +0000",
+          "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"..."
+        }
+      ],
+      "generatedAt": "2026-06-08T06:19:11.814Z"
+    }
+  ]
+}
