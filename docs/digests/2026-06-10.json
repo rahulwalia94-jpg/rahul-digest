@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-10",
+  "generatedAt": "2026-06-10T06:00:26.574Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Capital requirements and process innovation",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-requirements-and-process-innovation",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 05 Jun 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Staying afloat: the impact of flooding on UK firms",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/staying-afloat-the-impact-of-flooding-on-uk-firms",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 05 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-10T06:00:11.416Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 09 Jun 2026 19:38:28 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+          "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 09 Jun 2026 15:56:23 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+          "content": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 09 Jun 2026 15:16:25 +0000",
+          "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet...."
+        },
+        {
+          "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+          "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 09 Jun 2026 14:10:19 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+          "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one day, you’ll go to the doctor and get a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 09 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in ..."
+        },
+        {
+          "title": "Learning to lead in a hybrid human-AI enterprise",
+          "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+          "content": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 09 Jun 2026 10:20:06 +0000",
+          "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enter..."
+        }
+      ],
+      "generatedAt": "2026-06-10T06:00:14.789Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Apollo and Blackstone’s Large Lending Model",
+          "url": "https://www.ft.com/content/5348b01c-6a94-4541-a11f-53ab1fc6f04b",
+          "content": "The private capital groups have finalised a complex $35bn deal that will help finance Anthropic’s growth plans",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 10 Jun 2026 04:00:33 GMT",
+          "summary": "The private capital groups have finalised a complex $35bn deal that will help finance Anthropic’s growth plans..."
+        },
+        {
+          "title": "ECB moved to rein in Revolut’s ‘self-guided missiles’ in Europe ",
+          "url": "https://www.ft.com/content/7cc86162-f68c-4772-b7ce-9c72dfb15f05",
+          "content": "Europe’s most valuable fintech was ordered to address ‘deficiencies’ in oversight with staff encouraged to rapidly launch new financial products",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 10 Jun 2026 04:00:26 GMT",
+          "summary": "Europe’s most valuable fintech was ordered to address ‘deficiencies’ in oversight with staff encouraged to rapidly launch new financial products..."
+        },
+        {
+          "title": "\n        Wall Street’s undignified SpaceX mania\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/09/wall-streets-undignified-spacex-mania",
+          "content": "Is that a rocket in your lobby, or are you just happy to see me?",
+          "source": "The Economist",
+          "publishedAt": "Tue, 09 Jun 2026 19:16:00 +0000",
+          "summary": "Is that a rocket in your lobby, or are you just happy to see me?..."
+        },
+        {
+          "title": "\n        China is innovative. Its economy is a mess. Which will win out?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/08/china-is-innovative-its-economy-is-a-mess-which-will-win-out",
+          "content": "A question that will define the 21st century",
+          "source": "The Economist",
+          "publishedAt": "Mon, 08 Jun 2026 19:17:35 +0000",
+          "summary": "A question that will define the 21st century..."
+        },
+        {
+          "title": "Sanofi stops phase 3 study of riliprubart in rare nerve disease due to efficacy concerns",
+          "url": "https://seekingalpha.com/news/4602040-sanofi-stops-phase-3-study-of-riliprubart-in-rare-nerve-disease-due-to-efficacy-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 10 Jun 2026 01:52:44 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Lucid's top engineering executive departs as new CEO Napoli revamps team - report",
+          "url": "https://seekingalpha.com/news/4602022-lucids-top-engineering-executive-departs-as-new-ceo-napoli-revamps-team---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 10 Jun 2026 01:42:49 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "'When you zoom out, things look very good;\" Vikas Khemani on the India story every investor needs to hear now ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/when-you-zoom-out-things-look-very-good-vikas-khemani-on-the-india-story-every-investor-needs-to-hear-now/articleshow/131625903.cms",
+          "content": "India has built a strong foundation for growth over the past decade, according to Vikas Khemani of Carnelian Asset Management. He highlighted robust digital and physical infrastructure, alongside regulatory reforms. With a young demographic and a diversified economy, India is poised for significant wealth creation, particularly in manufacturing, financials, consumption, services, and infrastructure over the next decade.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 10 Jun 2026 10:59:20 +0530",
+          "summary": "India has built a strong foundation for growth over the past decade, according to Vikas Khemani of Carnelian Asset Management. He highlighted robust digital and physical infrastructure, alongside regu..."
+        },
+        {
+          "title": "Wipro's Rs 15,000 crore buyback opens tomorrow: 10 key things to know before tendering shares ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipros-rs-15000-crore-buyback-opens-tomorrow-10-key-things-to-know-before-tendering-shares/slideshow/131625831.cms",
+          "content": "Wipro's substantial Rs 15,000 crore share buyback commences tomorrow, June 11, closing on June 17. Investors can tender shares at Rs 250 each, offering a significant premium. Small shareholders receive preferential treatment with a dedicated quota. This move aims to boost share value and utilize surplus cash, with promoters also participating.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 10 Jun 2026 10:40:12 +0530",
+          "summary": "Wipro's substantial Rs 15,000 crore share buyback commences tomorrow, June 11, closing on June 17. Investors can tender shares at Rs 250 each, offering a significant premium. Small shareholders receiv..."
+        }
+      ],
+      "generatedAt": "2026-06-10T06:00:20.034Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: De novo design of quasisymmetric two-component protein cages",
+          "url": "https://www.nature.com/articles/s41586-026-10763-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-09T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components",
+          "url": "https://www.nature.com/articles/s41586-026-10769-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-09T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Popular joint supplement glucosamine linked to faster Alzheimer’s progression",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260610003044.htm",
+          "content": "A major study suggests glucosamine, a popular supplement for joint pain, could be linked to faster progression from mild cognitive impairment to Alzheimer’s disease. Researchers found a 25% higher likelihood of developing dementia among glucosamine users and uncovered biological clues that may explain why.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 10 Jun 2026 01:17:56 EDT",
+          "summary": "A major study suggests glucosamine, a popular supplement for joint pain, could be linked to faster progression from mild cognitive impairment to Alzheimer’s disease. Researchers found a 25% higher lik..."
+        },
+        {
+          "title": "Earth's first animals barely evolved until sex changed everything",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260610003042.htm",
+          "content": "Earth’s earliest animals may have held evolution back because they reproduced asexually, creating low-competition communities that changed very little over time. When environmental pressures pushed them toward sexual reproduction, biodiversity exploded and evolution accelerated dramatically.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 10 Jun 2026 00:56:30 EDT",
+          "summary": "Earth’s earliest animals may have held evolution back because they reproduced asexually, creating low-competition communities that changed very little over time. When environmental pressures pushed th..."
+        },
+        {
+          "title": "Three key vital signs make up the \"urban pulse\" of a city",
+          "url": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
+          "content": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 09 Jun 2026 20:35:22 +0000",
+          "summary": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process...."
+        },
+        {
+          "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+          "url": "https://arstechnica.com/science/2026/06/__trashed-19/",
+          "content": "Five peer-reviewed papers update the design and model its expected output.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 09 Jun 2026 20:25:56 +0000",
+          "summary": "Five peer-reviewed papers update the design and model its expected output...."
+        }
+      ],
+      "generatedAt": "2026-06-10T06:00:21.263Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+          "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
+          "content": "Article URL: https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/\nComments URL: https://news.ycombinator.com/item?id=48471048\nPoints: 14\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 10 Jun 2026 03:27:47 +0000",
+          "summary": "Article URL: https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/\nComments URL: https://news.ycombinator.com/item?id=48471048\nPoints: 14\n# Comments: 3..."
+        },
+        {
+          "title": "The Evolution of 'More Like This'",
+          "url": "https://manticoresearch.com/blog/the-evolution-of-more-like-this/",
+          "content": "Article URL: https://manticoresearch.com/blog/the-evolution-of-more-like-this/\nComments URL: https://news.ycombinator.com/item?id=48470975\nPoints: 5\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 10 Jun 2026 03:16:25 +0000",
+          "summary": "Article URL: https://manticoresearch.com/blog/the-evolution-of-more-like-this/\nComments URL: https://news.ycombinator.com/item?id=48470975\nPoints: 5\n# Comments: 0..."
+        },
+        {
+          "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
+          "url": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
+          "content": "The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 10 Jun 2026 03:35:07 +0000",
+          "summary": "The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned...."
+        },
+        {
+          "title": "Google just fired a warning shot in the AI subscription price wars",
+          "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+          "content": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 10 Jun 2026 00:26:10 +0000",
+          "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier...."
+        }
+      ],
+      "generatedAt": "2026-06-10T06:00:26.574Z"
+    }
+  ]
+}
