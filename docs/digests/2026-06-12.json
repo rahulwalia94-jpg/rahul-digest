@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-12T06:13:38.507Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 10 June 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/10-june-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 11 Jun 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Capital requirements and process innovation",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-requirements-and-process-innovation",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 05 Jun 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-12T06:13:30.966Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+          "url": "https://huggingface.co/blog/torch-mlp-fusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+          "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 09 Jun 2026 15:56:23 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "DiffusionGemma: 4x faster text generation",
+          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 16:24:11 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Investing in multi-agent AI safety research",
+          "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+          "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 10:21:19 +0000",
+          "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research...."
+        },
+        {
+          "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+          "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 11 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the open..."
+        },
+        {
+          "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+          "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+          "content": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 11 Jun 2026 11:00:45 +0000",
+          "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A..."
+        }
+      ],
+      "generatedAt": "2026-06-12T06:13:32.600Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "The ECB tightens course",
+          "url": "https://www.ft.com/content/f1abefcb-387d-4da0-9586-98eff2e0a0eb",
+          "content": "Plus debt restructurings and de-dollarisation",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 12 Jun 2026 05:30:09 GMT",
+          "summary": "Plus debt restructurings and de-dollarisation..."
+        },
+        {
+          "title": "Is Tether the Coppernose of our time?",
+          "url": "https://www.ft.com/content/bcdeac73-5855-4d8b-b512-5ba65a2e01ad",
+          "content": "USDT vs USDC",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 12 Jun 2026 05:00:09 GMT",
+          "summary": "USDT vs USDC..."
+        },
+        {
+          "title": "\n        How big are China’s emerging industries?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/11/how-big-are-chinas-emerging-industries",
+          "content": "Probably not big enough to offset the drag from the old",
+          "source": "The Economist",
+          "publishedAt": "Thu, 11 Jun 2026 10:31:01 +0000",
+          "summary": "Probably not big enough to offset the drag from the old..."
+        },
+        {
+          "title": "\n        Stears wants to be Africa’s Bloomberg terminal \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/11/stears-wants-to-be-africas-bloomberg-terminal",
+          "content": "As the continent’s markets mature, high-quality financial analysis is more essential than ever",
+          "source": "The Economist",
+          "publishedAt": "Thu, 11 Jun 2026 09:31:29 +0000",
+          "summary": "As the continent’s markets mature, high-quality financial analysis is more essential than ever..."
+        },
+        {
+          "title": "UK's trade deficit widens in April",
+          "url": "https://seekingalpha.com/news/4602845-uks-trade-deficit-widens-in-april?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 12 Jun 2026 02:09:01 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Germany's inflation drops to 2.6% in May",
+          "url": "https://seekingalpha.com/news/4602844-germanys-inflation-drops-to-26-in-may?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 12 Jun 2026 02:04:30 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Did City Union Bank shares really crash 23% in one day? Here's how the bonus math works ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/did-city-union-bank-shares-really-crash-23-in-one-day-heres-how-the-bonus-math-works/articleshow/131675031.cms",
+          "content": "City Union Bank shares appeared to fall 23% after turning ex-bonus following its 1:3 bonus issue, but the decline was purely technical. Adjusted prices show the stock actually gained on the day. The move reflects share price recalibration, not value erosion, while the bank continues to post steady financial performance.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 12 Jun 2026 11:01:20 +0530",
+          "summary": "City Union Bank shares appeared to fall 23% after turning ex-bonus following its 1:3 bonus issue, but the decline was purely technical. Adjusted prices show the stock actually gained on the day. The m..."
+        },
+        {
+          "title": "MTAR Tech shares rally 12% after crashing 15% over 2 days. What lies ahead? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/mtar-tech-shares-rally-12-after-crashing-15-over-2-days-what-lies-ahead/articleshow/131674760.cms",
+          "content": "MTAR Tech shares rebounded 12% after a sharp two-day fall triggered by concerns over a potential project pause linked to Bloom Energy. The company clarified no such communication was received, easing investor worries. Strong order book growth, bulk deal activity, and broader market optimism supported the recovery.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 12 Jun 2026 10:42:17 +0530",
+          "summary": "MTAR Tech shares rebounded 12% after a sharp two-day fall triggered by concerns over a potential project pause linked to Bloom Energy. The company clarified no such communication was received, easing ..."
+        }
+      ],
+      "generatedAt": "2026-06-12T06:13:35.305Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+          "url": "https://www.nature.com/articles/s41586-026-10784-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-11T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Whale graveyard discovered 7km under the sea",
+          "url": "https://www.nature.com/articles/d41586-026-01886-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-11T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists discover a strange property in rice and turn it into a smart material",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+          "content": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts differently to gentle movements and sudden impacts. The material can adapt its stiffness automatically, opening the door to safer soft robots and protective equipment that responds instantly to collisions.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 11 Jun 2026 08:29:52 EDT",
+          "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new materia..."
+        },
+        {
+          "title": "The deadly tapeworm spreading across America has reached the Pacific Northwest",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260611024610.htm",
+          "content": "A potentially dangerous tapeworm linked to severe, cancer-like disease has now been found in the Pacific Northwest, marking its first detection in wild animals along the U.S. West Coast. Researchers discovered the parasite, Echinococcus multilocularis, in 37% of coyotes tested around Puget Sound—a surprisingly high rate for a region where it had never been reported until recently.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 11 Jun 2026 09:31:42 EDT",
+          "summary": "A potentially dangerous tapeworm linked to severe, cancer-like disease has now been found in the Pacific Northwest, marking its first detection in wild animals along the U.S. West Coast. Researchers d..."
+        },
+        {
+          "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
+          "url": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
+          "content": "\"Some missions are using more than what their paperwork would say.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 11 Jun 2026 18:34:01 +0000",
+          "summary": "\"Some missions are using more than what their paperwork would say.\"..."
+        },
+        {
+          "title": "Did Iron Age Britons remove brains of the dead?",
+          "url": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
+          "content": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 11 Jun 2026 17:21:53 +0000",
+          "summary": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools...."
+        }
+      ],
+      "generatedAt": "2026-06-12T06:13:37.030Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
+          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+          "content": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/\nComments URL: https://news.ycombinator.com/item?id=48500012\nPoints: 68\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 12 Jun 2026 04:42:53 +0000",
+          "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/\nComments URL: https://news.ycombinator.com/item?id=48500012\nPoints: 68\n# Comments: 7..."
+        },
+        {
+          "title": "Device Clock Generation",
+          "url": "https://zipcpu.com/blog/2025/12/17/devclk.html",
+          "content": "Article URL: https://zipcpu.com/blog/2025/12/17/devclk.html\nComments URL: https://news.ycombinator.com/item?id=48499890\nPoints: 8\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 12 Jun 2026 04:24:16 +0000",
+          "summary": "Article URL: https://zipcpu.com/blog/2025/12/17/devclk.html\nComments URL: https://news.ycombinator.com/item?id=48499890\nPoints: 8\n# Comments: 1..."
+        },
+        {
+          "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+          "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+          "content": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
+          "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation..."
+        },
+        {
+          "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+          "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+          "content": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
+          "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users...."
+        }
+      ],
+      "generatedAt": "2026-06-12T06:13:38.507Z"
+    }
+  ]
+}
