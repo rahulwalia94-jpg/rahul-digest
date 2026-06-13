@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-13T05:57:19.325Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Operational resilience: recognised payment system operators and specified service providers",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+          "content": "Supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Supervisory statement..."
+        },
+        {
+          "title": "Governance: recognised payment system operators",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+          "content": "Policy statement and supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Policy statement and supervisory statement..."
+        }
+      ],
+      "generatedAt": "2026-06-13T05:57:12.783Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "olmo-eval: An evaluation workbench for the model development loop",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 12 Jun 2026 15:56:10 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+          "url": "https://huggingface.co/blog/torch-mlp-fusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "DiffusionGemma: 4x faster text generation",
+          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 16:24:11 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Investing in multi-agent AI safety research",
+          "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+          "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 10:21:19 +0000",
+          "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research...."
+        },
+        {
+          "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+          "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 12 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing agin..."
+        },
+        {
+          "title": "You do your own time",
+          "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+          "content": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the screwdriver she’d…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0000",
+          "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming..."
+        }
+      ],
+      "generatedAt": "2026-06-13T05:57:13.894Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "How AI is disrupting investment",
+          "url": "https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1",
+          "content": "The technology is leading to a fundamental shift in the way investors allocate funds and diversify risks across every asset class",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 13 Jun 2026 04:00:31 GMT",
+          "summary": "The technology is leading to a fundamental shift in the way investors allocate funds and diversify risks across every asset class..."
+        },
+        {
+          "title": "AI is revolutionising the stock market",
+          "url": "https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70",
+          "content": "Big Tech no longer prints money; it needs it. What will that mean when confidence dips?",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 13 Jun 2026 04:00:23 GMT",
+          "summary": "Big Tech no longer prints money; it needs it. What will that mean when confidence dips?..."
+        },
+        {
+          "title": "\n        How big are China’s emerging industries?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/11/how-big-are-chinas-emerging-industries",
+          "content": "Probably not big enough to offset the drag from the old",
+          "source": "The Economist",
+          "publishedAt": "Thu, 11 Jun 2026 10:31:01 +0000",
+          "summary": "Probably not big enough to offset the drag from the old..."
+        },
+        {
+          "title": "\n        Stears wants to be Africa’s Bloomberg terminal \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/11/stears-wants-to-be-africas-bloomberg-terminal",
+          "content": "As the continent’s markets mature, high-quality financial analysis is more essential than ever",
+          "source": "The Economist",
+          "publishedAt": "Thu, 11 Jun 2026 09:31:29 +0000",
+          "summary": "As the continent’s markets mature, high-quality financial analysis is more essential than ever..."
+        },
+        {
+          "title": "Persian Gulf oil flows reaching 7M bbl/day, helped by U.S. escorts, DoE secretary says",
+          "url": "https://seekingalpha.com/news/4603096-persian-gulf-oil-flows-reaching-7m-bblday-helped-by-us-escorts-doe-secretary-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 12 Jun 2026 19:54:41 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Paramount's $110B purchase of Warner Bros. approved by DOJ (update)",
+          "url": "https://seekingalpha.com/news/4603075-warner-bros-gain-on-report-doj-approves-111b-sale-to-paramount-skydance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 12 Jun 2026 19:34:35 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Retail investors build big dreams on small slices of SpaceX ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/retail-investors-build-big-dreams-on-small-slices-of-spacex/articleshow/131698412.cms",
+          "content": "SpaceX's initial public offering saw massive retail investor interest. A substantial 30% of shares were set aside for individual buyers. Many investors eagerly bought shares on the first day, contributing to a 19% price surge. Brokerages reported record participation. Some investors received fewer shares than requested, while others bought directly in the market.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 13 Jun 2026 11:11:29 +0530",
+          "summary": "SpaceX's initial public offering saw massive retail investor interest. A substantial 30% of shares were set aside for individual buyers. Many investors eagerly bought shares on the first day, contribu..."
+        },
+        {
+          "title": "ET Alpha Wealth Summit | Go for global allocation in a deliberate manner; not as a  knee-jerk reaction to short-term underperformance:  Rahul Jain ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/et-alpha-wealth-summit-go-for-global-allocation-in-a-deliberate-manner-not-as-a-knee-jerk-reaction-to-short-term-underperformance-rahul-jain/articleshow/131698275.cms",
+          "content": "India's wealthy investors are now considering global markets.  Wealth managers at the ET Alpha Wealth Summit confirmed this shift.  However, experts stressed that a strong domestic asset allocation is crucial before venturing abroad.  Global investments offer limited upside and present complexities.  A disciplined, staggered approach is recommended over panic reactions to market performance.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 13 Jun 2026 11:07:36 +0530",
+          "summary": "India's wealthy investors are now considering global markets.  Wealth managers at the ET Alpha Wealth Summit confirmed this shift.  However, experts stressed that a strong domestic asset allocation is..."
+        }
+      ],
+      "generatedAt": "2026-06-13T05:57:15.554Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Why we seek to fly: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01911-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-12T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: The epic journey of Stonehenge’s central stone",
+          "url": "https://www.nature.com/articles/d41586-026-01912-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-12T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "These tiny holes could change how the world cleans water",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
+          "content": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy consumption, improving water reuse, and delivering separation performance far beyond current filters.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 12 Jun 2026 09:13:19 EDT",
+          "summary": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles ..."
+        },
+        {
+          "title": "Alaska’s glaciers have a startling response to rising temperatures",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032047.htm",
+          "content": "Alaska’s glaciers are proving to be highly sensitive to warming temperatures. Using radar satellites to monitor more than 3,000 glaciers, researchers found that every 1°C (1.8°F) increase in average summer temperature extends glacier melting by about three weeks. The study also revealed that intense heat waves can strip away up to 28% more protective snow cover, exposing ice much earlier than normal and accelerating ice loss.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 12 Jun 2026 09:45:46 EDT",
+          "summary": "Alaska’s glaciers are proving to be highly sensitive to warming temperatures. Using radar satellites to monitor more than 3,000 glaciers, researchers found that every 1°C (1.8°F) increase in average s..."
+        },
+        {
+          "title": "Have politics finally come for the National Academies of Science?",
+          "url": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
+          "content": "A pending report on climate attribution may be setting the stage for conflict.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 12 Jun 2026 18:31:36 +0000",
+          "summary": "A pending report on climate attribution may be setting the stage for conflict...."
+        },
+        {
+          "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
+          "url": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
+          "content": "\"Some missions are using more than what their paperwork would say.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 11 Jun 2026 18:34:01 +0000",
+          "summary": "\"Some missions are using more than what their paperwork would say.\"..."
+        }
+      ],
+      "generatedAt": "2026-06-13T05:57:16.521Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "There is a shadow hanging over this Fable thing",
+          "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+          "content": "Article URL: https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow\nComments URL: https://news.ycombinator.com/item?id=48513536\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 13 Jun 2026 05:16:41 +0000",
+          "summary": "Article URL: https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow\nComments URL: https://news.ycombinator.com/item?id=48513536\nPoints: 6\n# Comments: 0..."
+        },
+        {
+          "title": "On CPU Physics and CPU Cycles",
+          "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+          "content": "Article URL: https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730\nComments URL: https://news.ycombinator.com/item?id=48513222\nPoints: 16\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 13 Jun 2026 04:37:08 +0000",
+          "summary": "Article URL: https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730\nComments URL: https://news.ycombinator.com/item?id=48513222\nPoints: 16\n# Comments: 0..."
+        },
+        {
+          "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+          "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+          "content": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 13 Jun 2026 04:14:19 +0000",
+          "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back...."
+        },
+        {
+          "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+          "content": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 13 Jun 2026 02:26:30 +0000",
+          "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the ..."
+        }
+      ],
+      "generatedAt": "2026-06-13T05:57:19.325Z"
+    }
+  ]
+}
