@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-14T06:16:24.510Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Operational resilience: recognised payment system operators and specified service providers",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+          "content": "Supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Supervisory statement..."
+        },
+        {
+          "title": "Governance: recognised payment system operators",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+          "content": "Policy statement and supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Policy statement and supervisory statement..."
+        }
+      ],
+      "generatedAt": "2026-06-14T06:16:17.461Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "olmo-eval: An evaluation workbench for the model development loop",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 12 Jun 2026 15:56:10 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+          "url": "https://huggingface.co/blog/torch-mlp-fusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "DiffusionGemma: 4x faster text generation",
+          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 16:24:11 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Investing in multi-agent AI safety research",
+          "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+          "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 10:21:19 +0000",
+          "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research...."
+        },
+        {
+          "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+          "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 12 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing agin..."
+        },
+        {
+          "title": "You do your own time",
+          "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+          "content": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the screwdriver she’d…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0000",
+          "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming..."
+        }
+      ],
+      "generatedAt": "2026-06-14T06:16:18.573Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Wall Street digests record fundraising haul as AI race intensifies ",
+          "url": "https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06",
+          "content": "SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 14 Jun 2026 04:00:17 GMT",
+          "summary": "SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance..."
+        },
+        {
+          "title": "Bridgepoint weighs $1bn sale of anti-drone group guarding World Cup sites",
+          "url": "https://www.ft.com/content/d9117016-8402-4a1c-84b1-f2101d1a56c4",
+          "content": "Danish company MyDefence has already drawn buyout and defence sector interest as demand surges for counter-UAV kit",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 14 Jun 2026 04:00:17 GMT",
+          "summary": "Danish company MyDefence has already drawn buyout and defence sector interest as demand surges for counter-UAV kit..."
+        },
+        {
+          "title": "\n        How big are China’s emerging industries?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/11/how-big-are-chinas-emerging-industries",
+          "content": "Probably not big enough to offset the drag from the old",
+          "source": "The Economist",
+          "publishedAt": "Thu, 11 Jun 2026 10:31:01 +0000",
+          "summary": "Probably not big enough to offset the drag from the old..."
+        },
+        {
+          "title": "\n        Stears wants to be Africa’s Bloomberg terminal \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/11/stears-wants-to-be-africas-bloomberg-terminal",
+          "content": "As the continent’s markets mature, high-quality financial analysis is more essential than ever",
+          "source": "The Economist",
+          "publishedAt": "Thu, 11 Jun 2026 09:31:29 +0000",
+          "summary": "As the continent’s markets mature, high-quality financial analysis is more essential than ever..."
+        },
+        {
+          "title": "Oil executives warn Trump administration that gasoline prices will get worse",
+          "url": "https://seekingalpha.com/news/4603097-oil-executives-warn-trump-administration-that-gasoline-prices-will-get-worse?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 13 Jun 2026 20:05:17 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "SA Asks: Space stocks sold off on Friday; should you buy the dip?",
+          "url": "https://seekingalpha.com/news/4603117-sa-asks-space-stocks-sold-off-on-friday-should-you-buy-the-dip?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 13 Jun 2026 16:50:24 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "South Korea’s world-beating stock market eyes its MSCI moment ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-world-beating-stock-market-eyes-its-msci-moment/articleshow/131716179.cms",
+          "content": "Now investors are awaiting MSCI Inc.’s annual market-classification review on June 23, when the index provider will decide whether Korea finally earns a place on the watchlist for developed-market status, the first step toward an eventual upgrade.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 14 Jun 2026 11:21:07 +0530",
+          "summary": "Now investors are awaiting MSCI Inc.’s annual market-classification review on June 23, when the index provider will decide whether Korea finally earns a place on the watchlist for developed-market sta..."
+        },
+        {
+          "title": "FPI exodus continues, Rs 62,800 cr pulled out from equities in first fortnight of June ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-exodus-continues-rs-62800-cr-pulled-out-from-equities-in-first-fortnight-of-june/articleshow/131715971.cms",
+          "content": "Foreign investors continue to sell Indian shares. They have withdrawn over Rs 62,853 crore in early June. This follows significant outflows in previous months. Geopolitical tensions and global growth worries are driving these sales. The weakening rupee also plays a role. However, the pace of selling eased recently. Investors are seeking safety in developed markets.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 14 Jun 2026 10:52:04 +0530",
+          "summary": "Foreign investors continue to sell Indian shares. They have withdrawn over Rs 62,853 crore in early June. This follows significant outflows in previous months. Geopolitical tensions and global growth ..."
+        }
+      ],
+      "generatedAt": "2026-06-14T06:16:20.416Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Why we seek to fly: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-01911-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-12T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: The epic journey of Stonehenge’s central stone",
+          "url": "https://www.nature.com/articles/d41586-026-01912-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-12T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260613034229.htm",
+          "content": "A newly identified crocodile species nicknamed “Lucy’s hunter” prowled Ethiopia’s rivers when Lucy’s species walked the Earth more than 3 million years ago. The giant predator was likely the most dangerous animal in the ecosystem and may have regularly hunted early human relatives.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 13 Jun 2026 10:13:48 EDT",
+          "summary": "A newly identified crocodile species nicknamed “Lucy’s hunter” prowled Ethiopia’s rivers when Lucy’s species walked the Earth more than 3 million years ago. The giant predator was likely the most dang..."
+        },
+        {
+          "title": "Alien planet spins revealed a hidden clue to how worlds form",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
+          "content": "Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brown dwarfs, challenging simple assumptions about mass and rotation. The results suggest that magnetic fields and formation processes play a major role in determining how fast worlds end up spinning.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 13 Jun 2026 08:57:55 EDT",
+          "summary": "Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brow..."
+        },
+        {
+          "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
+          "url": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
+          "content": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 13 Jun 2026 11:18:42 +0000",
+          "summary": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally...."
+        },
+        {
+          "title": "Have politics finally come for the National Academies of Science?",
+          "url": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
+          "content": "A pending report on climate attribution may be setting the stage for conflict.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 12 Jun 2026 18:31:36 +0000",
+          "summary": "A pending report on climate attribution may be setting the stage for conflict...."
+        }
+      ],
+      "generatedAt": "2026-06-14T06:16:22.514Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Tribblix: the retro illumos distribution",
+          "url": "http://tribblix.org/",
+          "content": "Article URL: http://tribblix.org/\nComments URL: https://news.ycombinator.com/item?id=48524434\nPoints: 12\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 14 Jun 2026 05:23:12 +0000",
+          "summary": "Article URL: http://tribblix.org/\nComments URL: https://news.ycombinator.com/item?id=48524434\nPoints: 12\n# Comments: 1..."
+        },
+        {
+          "title": "Pac-Man, but You're the Ghost",
+          "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+          "content": "Article URL: https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost\nComments URL: https://news.ycombinator.com/item?id=48524135\nPoints: 27\n# Comments: 16",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 14 Jun 2026 04:18:45 +0000",
+          "summary": "Article URL: https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost\nComments URL: https://news.ycombinator.com/item?id=48524135\nPoints: 27\n# Comments: 16..."
+        },
+        {
+          "title": "As Anthropic suspends access to new models, India debates its AI future",
+          "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+          "content": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 14 Jun 2026 03:00:00 +0000",
+          "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions...."
+        },
+        {
+          "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+          "content": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 14 Jun 2026 00:03:49 +0000",
+          "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed...."
+        }
+      ],
+      "generatedAt": "2026-06-14T06:16:24.510Z"
+    }
+  ]
+}
