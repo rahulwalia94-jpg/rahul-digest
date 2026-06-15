@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-15T06:56:53.871Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Operational resilience: recognised payment system operators and specified service providers",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+          "content": "Supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Supervisory statement..."
+        },
+        {
+          "title": "Governance: recognised payment system operators",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+          "content": "Policy statement and supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Policy statement and supervisory statement..."
+        }
+      ],
+      "generatedAt": "2026-06-15T06:56:47.016Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "olmo-eval: An evaluation workbench for the model development loop",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 12 Jun 2026 15:56:10 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+          "url": "https://huggingface.co/blog/torch-mlp-fusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "DiffusionGemma: 4x faster text generation",
+          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 16:24:11 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Investing in multi-agent AI safety research",
+          "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+          "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 10:21:19 +0000",
+          "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research...."
+        },
+        {
+          "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+          "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 12 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing agin..."
+        },
+        {
+          "title": "You do your own time",
+          "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+          "content": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the screwdriver she’d…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0000",
+          "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming..."
+        }
+      ],
+      "generatedAt": "2026-06-15T06:56:48.774Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "The spectacle of SpaceX trumps DCF models",
+          "url": "https://www.ft.com/content/de6e6cc8-81e7-4d06-96e4-1919e33847c4",
+          "content": "The public focused on the mission, not the multiple",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 15 Jun 2026 05:00:06 GMT",
+          "summary": "The public focused on the mission, not the multiple..."
+        },
+        {
+          "title": "Sweden demands other EU states tackle Russian oil tankers in their waters",
+          "url": "https://www.ft.com/content/de59e1a5-397e-4165-9881-9bc17502d11e",
+          "content": "Also in this newsletter: Kallas fronts up amid EEAS reform talk",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 15 Jun 2026 05:00:06 GMT",
+          "summary": "Also in this newsletter: Kallas fronts up amid EEAS reform talk..."
+        },
+        {
+          "title": "\n        Does Donald Trump make Latin America a good bet?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/14/does-donald-trump-make-latin-america-a-good-bet",
+          "content": "Nowhere in the developing world has done so well out of the past year",
+          "source": "The Economist",
+          "publishedAt": "Sun, 14 Jun 2026 17:14:46 +0000",
+          "summary": "Nowhere in the developing world has done so well out of the past year..."
+        },
+        {
+          "title": "\n        How big are China’s emerging industries?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/11/how-big-are-chinas-emerging-industries",
+          "content": "Probably not big enough to offset the drag from the old",
+          "source": "The Economist",
+          "publishedAt": "Thu, 11 Jun 2026 10:31:01 +0000",
+          "summary": "Probably not big enough to offset the drag from the old..."
+        },
+        {
+          "title": "Mirum and Incyte's zilurgisertib shows positive Phase 2 data in FOP",
+          "url": "https://seekingalpha.com/news/4603176-mirum-and-incytes-zilurgisertib-shows-positive-phase-2-data-in-fop?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 15 Jun 2026 02:38:37 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Wine vs. Tech: Trump demands end to France's digital tax or face 100% wine tariffs",
+          "url": "https://seekingalpha.com/news/4603171-wine-vs-tech-trump-demands-end-to-frances-digital-tax-or-face-100-wine-tariffs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 15 Jun 2026 02:31:07 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Middle East peace deal lifts market mood, but key challenges remain: William Lee ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/middle-east-peace-deal-lifts-market-mood-but-key-challenges-remain-william-lee/articleshow/131735726.cms",
+          "content": "Global markets are optimistic about a new peace framework involving Iran, easing energy supply and geopolitical concerns. Investors welcome reduced Middle East risk, though Iran's nuclear program and the agreement's long-term durability remain key questions. Economic incentives and Israel's stance are critical factors influencing the outcome.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 15 Jun 2026 12:07:31 +0530",
+          "summary": "Global markets are optimistic about a new peace framework involving Iran, easing energy supply and geopolitical concerns. Investors welcome reduced Middle East risk, though Iran's nuclear program and ..."
+        },
+        {
+          "title": "Nifty Bank rallies 1,000 points; HDFC Bank, IndusInd, Yes Bank, and other stocks jump up to 3%. What lies ahead? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-rallies-1000-points-hdfc-bank-indusind-yes-bank-and-other-stocks-jump-up-to-3-what-lies-ahead/articleshow/131735515.cms",
+          "content": "Banking stocks rallied sharply on Monday, pushing the Nifty Bank index nearly 1,000 points higher as easing geopolitical tensions and falling oil prices boosted sentiment. Analysts expect lenders to lead the market rally, citing attractive valuations, RBI support measures, improving technical indicators and favourable risk-reward in major private banks.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 15 Jun 2026 12:06:40 +0530",
+          "summary": "Banking stocks rallied sharply on Monday, pushing the Nifty Bank index nearly 1,000 points higher as easing geopolitical tensions and falling oil prices boosted sentiment. Analysts expect lenders to l..."
+        }
+      ],
+      "generatedAt": "2026-06-15T06:56:50.889Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Bones of Iron Age skeleton were whittled into tools",
+          "url": "https://www.nature.com/articles/d41586-026-01833-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-15T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes ",
+          "url": "https://www.nature.com/articles/d41586-026-01834-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-14T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614011857.htm",
+          "content": "Researchers tracked honey bees in the wild using a drone-based system and found that each bee follows its own highly consistent flight path. Some repeated their routes so precisely that they flew only centimeters from where they had flown before. Landmarks like trees helped keep them on track, while uniform areas such as cornfields led to more variation.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 14 Jun 2026 17:25:28 EDT",
+          "summary": "Researchers tracked honey bees in the wild using a drone-based system and found that each bee follows its own highly consistent flight path. Some repeated their routes so precisely that they flew only..."
+        },
+        {
+          "title": "The secret behind smoother, better-tasting protein shakes",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614011855.htm",
+          "content": "A new whey protein manufacturing technique could make protein shakes taste better and feel smoother in the mouth. Researchers traced unwanted bitterness to concentrated minerals and found a way to remove them without sacrificing the improved texture.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 14 Jun 2026 23:54:24 EDT",
+          "summary": "A new whey protein manufacturing technique could make protein shakes taste better and feel smoother in the mouth. Researchers traced unwanted bitterness to concentrated minerals and found a way to rem..."
+        },
+        {
+          "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
+          "url": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
+          "content": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 14 Jun 2026 16:02:53 +0000",
+          "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066..."
+        },
+        {
+          "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
+          "url": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
+          "content": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 13 Jun 2026 11:18:42 +0000",
+          "summary": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally...."
+        }
+      ],
+      "generatedAt": "2026-06-15T06:56:52.321Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Curl will not accept vulnerability reports during July 2026",
+          "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+          "content": "Article URL: https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/\nComments URL: https://news.ycombinator.com/item?id=48537165\nPoints: 129\n# Comments: 22",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 15 Jun 2026 06:02:57 +0000",
+          "summary": "Article URL: https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/\nComments URL: https://news.ycombinator.com/item?id=48537165\nPoints: 129\n# Comments: 22..."
+        },
+        {
+          "title": "Even more batteries included with Emacs",
+          "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+          "content": "Article URL: https://karthinks.com/software/even-more-batteries-included-with-emacs/\nComments URL: https://news.ycombinator.com/item?id=48535886\nPoints: 126\n# Comments: 24",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 15 Jun 2026 02:30:25 +0000",
+          "summary": "Article URL: https://karthinks.com/software/even-more-batteries-included-with-emacs/\nComments URL: https://news.ycombinator.com/item?id=48535886\nPoints: 126\n# Comments: 24..."
+        },
+        {
+          "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+          "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+          "content": "Orbio announces $21 Million Series A in round led by Dawn Capital.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 15 Jun 2026 04:01:00 +0000",
+          "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital...."
+        },
+        {
+          "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+          "url": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+          "content": "JPMorgan can't be pleased by any of this.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 14 Jun 2026 21:55:34 +0000",
+          "summary": "JPMorgan can't be pleased by any of this...."
+        }
+      ],
+      "generatedAt": "2026-06-15T06:56:53.871Z"
+    }
+  ]
+}
