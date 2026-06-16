@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-16",
+  "generatedAt": "2026-06-16T07:01:42.335Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Operational resilience: recognised payment system operators and specified service providers",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+          "content": "Supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Supervisory statement..."
+        },
+        {
+          "title": "Governance: recognised payment system operators",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+          "content": "Policy statement and supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Policy statement and supervisory statement..."
+        }
+      ],
+      "generatedAt": "2026-06-16T07:01:34.728Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "olmo-eval: An evaluation workbench for the model development loop",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 12 Jun 2026 15:56:10 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+          "url": "https://huggingface.co/blog/torch-mlp-fusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "DiffusionGemma: 4x faster text generation",
+          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 16:24:11 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Investing in multi-agent AI safety research",
+          "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+          "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 10:21:19 +0000",
+          "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research...."
+        },
+        {
+          "title": "Why do South Koreans love AI so much?",
+          "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 15 Jun 2026 18:46:08 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from Sa..."
+        },
+        {
+          "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+          "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+          "content": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 15 Jun 2026 15:12:28 +0000",
+          "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (..."
+        }
+      ],
+      "generatedAt": "2026-06-16T07:01:36.111Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Central banks repatriate gold as global insecurity rises",
+          "url": "https://www.ft.com/content/c7164737-2988-4f1c-aba4-244bda4844c7",
+          "content": "Conflict, sanctions and decline in trust have made the institutions more cautious about storing bullion in other countries",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 16 Jun 2026 06:00:02 GMT",
+          "summary": "Conflict, sanctions and decline in trust have made the institutions more cautious about storing bullion in other countries..."
+        },
+        {
+          "title": "Treasuries shrug at the ceasefire",
+          "url": "https://www.ft.com/content/9a39912a-9c11-42fc-9595-0b6949afbc6b",
+          "content": "Plus, tech sells bonds because they can",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 16 Jun 2026 05:30:02 GMT",
+          "summary": "Plus, tech sells bonds because they can..."
+        },
+        {
+          "title": "\n        Meet the world’s top AI-pilled economists\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/15/meet-the-worlds-top-ai-pilled-economists",
+          "content": "Most of them are not found in ivory towers",
+          "source": "The Economist",
+          "publishedAt": "Mon, 15 Jun 2026 19:04:42 +0000",
+          "summary": "Most of them are not found in ivory towers..."
+        },
+        {
+          "title": "\n        Does Donald Trump make Latin America a good bet?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/14/does-donald-trump-make-latin-america-a-good-bet",
+          "content": "Nowhere in the developing world has done so well out of the past year",
+          "source": "The Economist",
+          "publishedAt": "Sun, 14 Jun 2026 17:14:46 +0000",
+          "summary": "Nowhere in the developing world has done so well out of the past year..."
+        },
+        {
+          "title": "Great Estate Blockchain unwinds 50.1% stake over dilution, CEO resigns; Paula Wang named interim CEO",
+          "url": "https://seekingalpha.com/news/4603852-great-estate-blockchain-unwinds-501-stake-over-dilution-ceo-resigns-paula-wang-named-interim-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 16 Jun 2026 02:54:54 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Alibaba rolls out AI models for robots as race gets beyond chatbots",
+          "url": "https://seekingalpha.com/news/4603864-alibaba-rolls-out-ai-models-for-robots-as-race-gets-beyond-chatbots?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 16 Jun 2026 02:52:42 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "IFCI shares rally 30% in 3 days, hit fresh record high amid buzz around NSE filing IPO papers by Thursday ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-30-in-3-days-hit-fresh-record-high-amid-buzz-around-nse-filing-ipo-papers-by-thursday/articleshow/131761910.cms",
+          "content": "Vedanta’s Rs 2 lakh crore demerger has sparked renewed interest in its aluminium and power businesses, prompting investors to reassess value creation opportunities. Market focus is shifting towards which segment offers stronger long-term growth, profitability, and sectoral tailwinds as the restructuring reshapes the company’s standalone business prospects and investor positioning.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 16 Jun 2026 11:57:43 +0530",
+          "summary": "Vedanta’s Rs 2 lakh crore demerger has sparked renewed interest in its aluminium and power businesses, prompting investors to reassess value creation opportunities. Market focus is shifting towards wh..."
+        },
+        {
+          "title": "FY27 earnings recovery key to next leg of market upmove: Rajeev Agrawal ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/fy27-earnings-recovery-key-to-next-leg-of-market-upmove-rajeev-agrawal/articleshow/131761688.cms",
+          "content": "Global markets are cautiously optimistic about a potential US-Iran agreement easing geopolitical risks and crude oil volatility. However, Indian equities remain restrained, with market experts emphasizing that earnings delivery, particularly for FY27, will be the key driver for future market movements, not just macro triggers.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 16 Jun 2026 11:53:35 +0530",
+          "summary": "Global markets are cautiously optimistic about a potential US-Iran agreement easing geopolitical risks and crude oil volatility. However, Indian equities remain restrained, with market experts emphasi..."
+        }
+      ],
+      "generatedAt": "2026-06-16T07:01:37.576Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Nanocrystal-tailored recombination for all-perovskite tandem solar modules",
+          "url": "https://www.nature.com/articles/s41586-026-10768-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-15T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Bones of Iron Age skeleton were whittled into tools",
+          "url": "https://www.nature.com/articles/d41586-026-01833-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-15T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This strange material can become strong or fall apart in seconds",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
+          "content": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to recyclable buildings, reconfigurable structures, and even futuristic robotic technologies.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 15 Jun 2026 07:54:43 EDT",
+          "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy..."
+        },
+        {
+          "title": "This popular brain supplement was linked to shorter lifespans in men",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260615025119.htm",
+          "content": "A large-scale study suggests that men with higher levels of the amino acid tyrosine may have shorter lifespans, potentially losing close to a year of life expectancy. The finding is especially intriguing because tyrosine is commonly associated with brain health and is often used in supplements aimed at boosting focus and performance.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 15 Jun 2026 08:27:30 EDT",
+          "summary": "A large-scale study suggests that men with higher levels of the amino acid tyrosine may have shorter lifespans, potentially losing close to a year of life expectancy. The finding is especially intrigu..."
+        },
+        {
+          "title": "Key mission for Europe's commercial space enterprise scrubbed again",
+          "url": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+          "content": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experience.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 15 Jun 2026 23:40:38 +0000",
+          "summary": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experience...."
+        },
+        {
+          "title": "Good news—we have extra time before the Sun ends life on Earth",
+          "url": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
+          "content": "Will the Sun roast Earth’s plants or starve them?",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 15 Jun 2026 16:28:17 +0000",
+          "summary": "Will the Sun roast Earth’s plants or starve them?..."
+        }
+      ],
+      "generatedAt": "2026-06-16T07:01:38.614Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID",
+          "url": "https://bobdahacker.com/blog/fifa-hack",
+          "content": "Article URL: https://bobdahacker.com/blog/fifa-hack\nComments URL: https://news.ycombinator.com/item?id=48550936\nPoints: 134\n# Comments: 27",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 16 Jun 2026 05:23:42 +0000",
+          "summary": "Article URL: https://bobdahacker.com/blog/fifa-hack\nComments URL: https://news.ycombinator.com/item?id=48550936\nPoints: 134\n# Comments: 27..."
+        },
+        {
+          "title": "John Carmack on Fabrice Bellard",
+          "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+          "content": "Article URL: https://twitter.com/ID_AA_Carmack/status/2064095424420487226\nComments URL: https://news.ycombinator.com/item?id=48550779\nPoints: 57\n# Comments: 17",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 16 Jun 2026 04:58:15 +0000",
+          "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2064095424420487226\nComments URL: https://news.ycombinator.com/item?id=48550779\nPoints: 57\n# Comments: 17..."
+        },
+        {
+          "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+          "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+          "content": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 16 Jun 2026 06:59:00 +0000",
+          "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat...."
+        },
+        {
+          "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+          "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+          "content": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 15 Jun 2026 23:51:44 +0000",
+          "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts...."
+        }
+      ],
+      "generatedAt": "2026-06-16T07:01:42.335Z"
+    }
+  ]
+}
