@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-17T06:38:09.000Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Operational resilience: recognised payment system operators and specified service providers",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+          "content": "Supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Supervisory statement..."
+        },
+        {
+          "title": "Governance: recognised payment system operators",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+          "content": "Policy statement and supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Policy statement and supervisory statement..."
+        }
+      ],
+      "generatedAt": "2026-06-17T06:38:01.155Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "olmo-eval: An evaluation workbench for the model development loop",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 12 Jun 2026 15:56:10 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+          "url": "https://huggingface.co/blog/torch-mlp-fusion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "DiffusionGemma: 4x faster text generation",
+          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 16:24:11 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Exclusive eBook: How AI is becoming the next military advisor",
+          "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+          "content": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O’Donnell Choose which file format to…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 16 Jun 2026 20:35:02 +0000",
+          "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review betwe..."
+        },
+        {
+          "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+          "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 16 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This man with ALS is the first “power user” of a brain implant..."
+        }
+      ],
+      "generatedAt": "2026-06-17T06:38:02.397Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Three is the new two",
+          "url": "https://www.ft.com/content/f17ea104-8386-446a-8169-2ad1250d4186",
+          "content": "A dispatch from the FT Global Bond Summit",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 17 Jun 2026 05:30:01 GMT",
+          "summary": "A dispatch from the FT Global Bond Summit..."
+        },
+        {
+          "title": "Elon Musk: Wall Street’s new roll-up artist",
+          "url": "https://www.ft.com/content/0ce5d6f0-9417-42ba-839f-e81dbd62d6ff",
+          "content": "SpaceX’s IPO has given the trillionaire even more firepower for acquisitions",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 17 Jun 2026 04:00:44 GMT",
+          "summary": "SpaceX’s IPO has given the trillionaire even more firepower for acquisitions..."
+        },
+        {
+          "title": "\n        Deal or no deal, oil prices will stay high for months\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-high-for-months",
+          "content": "The pre-war days of $60 crude are not coming back soon",
+          "source": "The Economist",
+          "publishedAt": "Tue, 16 Jun 2026 19:55:31 +0000",
+          "summary": "The pre-war days of $60 crude are not coming back soon..."
+        },
+        {
+          "title": "\n        America’s bull market has entered its manic phase\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/16/americas-bull-market-has-entered-its-manic-phase",
+          "content": "Options markets show optimism is giving way to euphoria",
+          "source": "The Economist",
+          "publishedAt": "Tue, 16 Jun 2026 18:19:00 +0000",
+          "summary": "Options markets show optimism is giving way to euphoria..."
+        },
+        {
+          "title": "UK inflation maintains lowest level in more than a year, steady at 2.8%",
+          "url": "https://seekingalpha.com/news/4604193-uk-inflation-maintains-lowest-level-in-more-than-a-year-steady-at-28?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 17 Jun 2026 02:24:54 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Intel says 18A-P manufacturing process node enters risk production phase",
+          "url": "https://seekingalpha.com/news/4604197-intel-says-18a-p-manufacturing-process-node-enters-risk-production-phase?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 17 Jun 2026 02:18:05 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Cyient shares crash 6% as stock turns ex-record date for Rs 720 crore share buyback. What's ahead? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/cyient-shares-crash-6-as-stock-turns-ex-record-date-for-rs-720-crore-share-buyback-whats-ahead/articleshow/131788379.cms",
+          "content": "Cyient shares fell sharply on Wednesday after the stock turned ex-record date for its Rs 720 crore share buyback at Rs 1,125 per share. Investors purchasing shares after the record date will not be eligible to participate. The company’s first buyback since 2019 comes amid mixed operational performance and cautious analyst outlook.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 17 Jun 2026 11:39:10 +0530",
+          "summary": "Cyient shares fell sharply on Wednesday after the stock turned ex-record date for its Rs 720 crore share buyback at Rs 1,125 per share. Investors purchasing shares after the record date will not be el..."
+        },
+        {
+          "title": "US Stock Market: ETF issuers rush to capitalise on AI-focused ‘MANGOS’ theme after SpaceX IPO ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-etf-issuers-rush-to-capitalise-on-ai-focused-mangos-theme-after-spacex-ipo/articleshow/131787745.cms",
+          "content": "Two asset managers are seeking regulatory approval for new ETFs tied to the \"MANGOS\" acronym, a basket of leading AI-focused companies including Meta, Nvidia, Google, SpaceX, Anthropic, and OpenAI. This move follows SpaceX's record IPO, fueling investor enthusiasm for AI-linked stocks and creating a potential successor to the Magnificent Seven trade.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 17 Jun 2026 11:19:13 +0530",
+          "summary": "Two asset managers are seeking regulatory approval for new ETFs tied to the \"MANGOS\" acronym, a basket of leading AI-focused companies including Meta, Nvidia, Google, SpaceX, Anthropic, and OpenAI. Th..."
+        }
+      ],
+      "generatedAt": "2026-06-17T06:38:03.740Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Should nicotine be regulated like a narcotic? A Pacific nation makes the case",
+          "url": "https://www.nature.com/articles/d41586-026-01903-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-17T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Ontogeny and transcriptional regulation of Thetis cells",
+          "url": "https://www.nature.com/articles/s41586-026-10770-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-16T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "10 surprising ways diabetes and dementia are connected",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260616103128.htm",
+          "content": "Diabetes and dementia appear to be closely intertwined, with each condition potentially influencing the other. Problems with insulin and glucose can affect the brain’s energy supply, increase inflammation, and damage blood vessels linked to memory loss. Researchers are also finding that some popular diabetes medications may lower dementia risk. These discoveries are opening new possibilities for protecting brain health as people age.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 16 Jun 2026 21:42:53 EDT",
+          "summary": "Diabetes and dementia appear to be closely intertwined, with each condition potentially influencing the other. Problems with insulin and glucose can affect the brain’s energy supply, increase inflamma..."
+        },
+        {
+          "title": "Scientists found an early depression clue hidden in children’s eyes",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm",
+          "content": "Depression appears to change what children notice in the faces around them, but the effect depends on family history. Kids with a higher inherited risk became more focused on sadness, while lower-risk children lost some of their natural attention to happy expressions.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 16 Jun 2026 21:56:37 EDT",
+          "summary": "Depression appears to change what children notice in the faces around them, but the effect depends on family history. Kids with a higher inherited risk became more focused on sadness, while lower-risk..."
+        },
+        {
+          "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+          "url": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+          "content": "Transferring genes across species doesn't just happen in microbes.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 16 Jun 2026 21:54:41 +0000",
+          "summary": "Transferring genes across species doesn't just happen in microbes...."
+        },
+        {
+          "title": "Trump admin abandons fight against wind energy as clean energy output surges",
+          "url": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
+          "content": "Legal victories have dampened the Trump admin’s efforts to halt wind and solar power.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 16 Jun 2026 16:49:09 +0000",
+          "summary": "Legal victories have dampened the Trump admin’s efforts to halt wind and solar power...."
+        }
+      ],
+      "generatedAt": "2026-06-17T06:38:05.122Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Apple plans change to Hide My Email that could make it less effective",
+          "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+          "content": "Article URL: https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/\nComments URL: https://news.ycombinator.com/item?id=48566095\nPoints: 17\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 17 Jun 2026 05:29:26 +0000",
+          "summary": "Article URL: https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/\nComments URL: https://news.ycombinator.com/item?id=48566095\nPo..."
+        },
+        {
+          "title": "NetNewsWire Status",
+          "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+          "content": "Article URL: https://inessential.com/2026/06/15/netnewswire-status.html\nComments URL: https://news.ycombinator.com/item?id=48565685\nPoints: 36\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 17 Jun 2026 04:30:49 +0000",
+          "summary": "Article URL: https://inessential.com/2026/06/15/netnewswire-status.html\nComments URL: https://news.ycombinator.com/item?id=48565685\nPoints: 36\n# Comments: 3..."
+        },
+        {
+          "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+          "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+          "content": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 16 Jun 2026 22:34:17 +0000",
+          "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests...."
+        },
+        {
+          "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+          "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+          "content": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 16 Jun 2026 22:09:32 +0000",
+          "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain...."
+        }
+      ],
+      "generatedAt": "2026-06-17T06:38:09.000Z"
+    }
+  ]
+}
