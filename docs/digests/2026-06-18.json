@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T06:21:54.098Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Operational resilience: recognised payment system operators and specified service providers",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+          "content": "Supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Supervisory statement..."
+        },
+        {
+          "title": "Governance: recognised payment system operators",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+          "content": "Policy statement and supervisory statement",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0100",
+          "summary": "Policy statement and supervisory statement..."
+        }
+      ],
+      "generatedAt": "2026-06-18T06:21:48.583Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "MolmoMotion: Language-guided 3D motion forecasting",
+          "url": "https://huggingface.co/blog/allenai/molmomotion",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 17 Jun 2026 15:26:44 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 17 Jun 2026 10:18:05 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "DiffusionGemma: 4x faster text generation",
+          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 10 Jun 2026 16:24:11 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: a reality check for geoengineering and the science of interoception",
+          "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 17 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check So..."
+        },
+        {
+          "title": "Entrepreneurs in Nairobi make the case for going solar",
+          "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+          "content": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have helped. A couple of years ago, a panel cost about…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 17 Jun 2026 09:00:00 +0000",
+          "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity ..."
+        }
+      ],
+      "generatedAt": "2026-06-18T06:21:50.020Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "The biggest PE loss since 2008",
+          "url": "https://www.ft.com/content/6c3706b4-3862-4ea6-8c1a-8baf8df371f6",
+          "content": "Thoma Bravo will lose all of the $5bn it invested in Medallia as it hands the software group to lenders",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 18 Jun 2026 04:00:29 GMT",
+          "summary": "Thoma Bravo will lose all of the $5bn it invested in Medallia as it hands the software group to lenders..."
+        },
+        {
+          "title": "Wall Street pushes US regulators to further ease Basel capital rules",
+          "url": "https://www.ft.com/content/42febd49-ee94-4d74-84ae-a2bc23ff4a24",
+          "content": "Banks press for further gains even after winning their largest lobbying victory since the financial crisis",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 18 Jun 2026 04:00:29 GMT",
+          "summary": "Banks press for further gains even after winning their largest lobbying victory since the financial crisis..."
+        },
+        {
+          "title": "\n        Deal or no deal, oil prices will stay high for months\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-high-for-months",
+          "content": "The pre-war days of $60 crude are not coming back soon",
+          "source": "The Economist",
+          "publishedAt": "Tue, 16 Jun 2026 19:55:31 +0000",
+          "summary": "The pre-war days of $60 crude are not coming back soon..."
+        },
+        {
+          "title": "\n        America’s bull market has entered its manic phase\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/16/americas-bull-market-has-entered-its-manic-phase",
+          "content": "Options markets show optimism is giving way to euphoria",
+          "source": "The Economist",
+          "publishedAt": "Tue, 16 Jun 2026 18:19:00 +0000",
+          "summary": "Options markets show optimism is giving way to euphoria..."
+        },
+        {
+          "title": "DXP Enterprises acquires General Repair Service",
+          "url": "https://seekingalpha.com/news/4604648-dxp-enterprises-acquires-general-repair-service?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 18 Jun 2026 02:19:58 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Boeing secures $17.9M air force deal to sustain material supply chains",
+          "url": "https://seekingalpha.com/news/4604641-boeing-secures-179m-air-force-deal-to-sustain-material-supply-chains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 18 Jun 2026 02:09:34 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Vedanta Aluminium vs Power vs Oil &amp; Gas vs Iron &amp; Steel: Which stock should you buy? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-vs-power-vs-oil-gas-vs-iron-steel-which-stock-should-you-buy/articleshow/131818940.cms",
+          "content": "Four Vedanta Group companies debuted on the market, with aluminium, iron & steel, and oil & gas shares tumbling while power stocks rose. Analysts advise patience, focusing on business quality over price action. Experts suggest aluminium offers the best risk-reward for long-term investors due to strong demand and cost efficiencies.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 18 Jun 2026 11:22:37 +0530",
+          "summary": "Four Vedanta Group companies debuted on the market, with aluminium, iron & steel, and oil & gas shares tumbling while power stocks rose. Analysts advise patience, focusing on business quality over pri..."
+        },
+        {
+          "title": "US Stock Market: Trump backs Fed Chair Warsh after rate hold, softens tone on monetary policy ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-trump-backs-fed-chair-warsh-after-rate-hold-softens-tone-on-monetary-policy/articleshow/131818875.cms",
+          "content": "US President Donald Trump expressed confidence in Federal Reserve Chairman Kevin Warsh, a departure from his past criticisms of the central bank.  While the Fed kept rates steady, with some policymakers hinting at future hikes, Trump indicated he trusts Warsh's judgment.  Warsh, meanwhile, maintained a cautious stance on future rate movements and confirmed regular contact with the Treasury Secretary.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 18 Jun 2026 11:09:20 +0530",
+          "summary": "US President Donald Trump expressed confidence in Federal Reserve Chairman Kevin Warsh, a departure from his past criticisms of the central bank.  While the Fed kept rates steady, with some policymake..."
+        }
+      ],
+      "generatedAt": "2026-06-18T06:21:52.144Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Towards Conversational AI for Disease Management",
+          "url": "https://www.nature.com/articles/s41586-026-10764-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-17T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Fiery data hint that controlled forest fires benefit human health",
+          "url": "https://www.nature.com/articles/d41586-026-01868-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-17T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Superconductivity breakthrough could unlock ultra-efficient electronics",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260617032211.htm",
+          "content": "A clever nanoscale redesign may have solved one of superconductivity’s biggest problems. Researchers in Sweden discovered that by subtly sculpting the surface beneath an ultrathin superconducting material, they could make it stay superconducting at higher temperatures and under much stronger magnetic fields.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 17 Jun 2026 04:24:20 EDT",
+          "summary": "A clever nanoscale redesign may have solved one of superconductivity’s biggest problems. Researchers in Sweden discovered that by subtly sculpting the surface beneath an ultrathin superconducting mate..."
+        },
+        {
+          "title": "Humans may have hidden regenerative powers",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+          "content": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using a two-stage treatment, researchers redirected the body’s normal healing response away from scar formation and toward regrowth, successfully restoring bone, joints, ligaments, and tendons after amputation in animal studies.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 17 Jun 2026 10:25:31 EDT",
+          "summary": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using ..."
+        },
+        {
+          "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
+          "url": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
+          "content": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 17 Jun 2026 20:44:32 +0000",
+          "summary": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back...."
+        },
+        {
+          "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+          "url": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+          "content": "Transferring genes across species doesn't just happen in microbes.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 16 Jun 2026 21:54:41 +0000",
+          "summary": "Transferring genes across species doesn't just happen in microbes...."
+        }
+      ],
+      "generatedAt": "2026-06-18T06:21:53.216Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "I Hate Compilers",
+          "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+          "content": "Article URL: https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/\nComments URL: https://news.ycombinator.com/item?id=48581070\nPoints: 25\n# Comments: 18",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 18 Jun 2026 05:10:28 +0000",
+          "summary": "Article URL: https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/\nComments URL: https://news.ycombinator.com/item?id=48581070\nPoints: 25\n# Comments: 18..."
+        },
+        {
+          "title": "SteamOS Linux 3.8 released as stable",
+          "url": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
+          "content": "Article URL: https://store.steampowered.com/news/app/1675200/view/697641379212298072\nComments URL: https://news.ycombinator.com/item?id=48580686\nPoints: 57\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 18 Jun 2026 04:05:06 +0000",
+          "summary": "Article URL: https://store.steampowered.com/news/app/1675200/view/697641379212298072\nComments URL: https://news.ycombinator.com/item?id=48580686\nPoints: 57\n# Comments: 2..."
+        },
+        {
+          "title": "How to turn off AI in your Google Docs",
+          "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+          "content": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 18 Jun 2026 01:23:51 +0000",
+          "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away...."
+        },
+        {
+          "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+          "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+          "content": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 17 Jun 2026 23:28:21 +0000",
+          "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"..."
+        }
+      ],
+      "generatedAt": "2026-06-18T06:21:54.098Z"
+    }
+  ]
+}
