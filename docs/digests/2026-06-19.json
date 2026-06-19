@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-19",
+  "generatedAt": "2026-06-19T06:41:06.712Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Travel restrictions as border frictions: evidence from the Covid-19 pandemic",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/travel-restrictions-as-border-frictions-evidence-from-the-covid-19-pandemic",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 18 Jun 2026 23:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 17 June 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/17-june-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 18 Jun 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-06-19T06:41:01.131Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "MosaicLeaks: Can your research agent keep a secret?",
+          "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 18 Jun 2026 18:13:13 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+          "url": "https://huggingface.co/blog/peft-beyond-lora",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 18 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "Securing the future of AI agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 15:46:31 +0000",
+          "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring...."
+        },
+        {
+          "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+          "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 18 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The search for dark matter has been blown wide open For decade..."
+        },
+        {
+          "title": "Geoengineering still faces major practical challenges",
+          "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+          "content": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicated, entirely unsolved puzzle. Some…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 18 Jun 2026 10:00:00 +0000",
+          "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the..."
+        }
+      ],
+      "generatedAt": "2026-06-19T06:41:02.556Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "A reprieve for gilts",
+          "url": "https://www.ft.com/content/94bc7408-5be8-48a5-a0c0-b07712ce8694",
+          "content": "Plus Asian inflation",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 19 Jun 2026 05:30:00 GMT",
+          "summary": "Plus Asian inflation..."
+        },
+        {
+          "title": "Donald Trump made Iran’s stocks great again",
+          "url": "https://www.ft.com/content/ef857abe-d24c-449d-85c8-cf4d8cf9f968",
+          "content": "Not the enriched uranium kind of stocks",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 19 Jun 2026 05:00:10 GMT",
+          "summary": "Not the enriched uranium kind of stocks..."
+        },
+        {
+          "title": "\n        A new golden age for Japanese banks comes with a catch\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch",
+          "content": "Smaller lenders are saddled with low-return bonds they cannot sell",
+          "source": "The Economist",
+          "publishedAt": "Thu, 18 Jun 2026 09:23:55 +0000",
+          "summary": "Smaller lenders are saddled with low-return bonds they cannot sell..."
+        },
+        {
+          "title": "\n        Europe buys the future, America builds it\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/18/europe-buys-the-future-america-builds-it",
+          "content": "Does that matter? A high-stakes transatlantic spat has erupted over GDP figures",
+          "source": "The Economist",
+          "publishedAt": "Thu, 18 Jun 2026 09:21:50 +0000",
+          "summary": "Does that matter? A high-stakes transatlantic spat has erupted over GDP figures..."
+        },
+        {
+          "title": "Robinhood CEO says, “AI Trading” tops 50K users; stock rallies 42% since May launch",
+          "url": "https://seekingalpha.com/news/4605178-robinhood-ceo-says-ai-trading-tops-50k-users-stock-rallies-42-since-may-launch?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 19 Jun 2026 02:37:57 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "UK May retail sales rebound in May, topping forecasts",
+          "url": "https://seekingalpha.com/news/4605184-uk-may-retail-sales-rebound-in-may-topping-forecasts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 19 Jun 2026 02:37:21 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Turtlemint Fintech IPO Day 1: Retail portion subscribed 10%. Check GMP, brokerage calls and other details ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/turtlemint-fintech-ipo-day-1-retail-portion-subscribed-10-check-gmp-brokerage-calls-and-other-details/articleshow/131848656.cms",
+          "content": "Turtlemint Fintech’s IPO opened to a cautious response, with modest early subscription and stronger participation from retail investors. Muted grey market signals and mixed brokerage views reflect balanced sentiment, while investors remain focused on execution, growth potential and the company’s path to profitability.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 19 Jun 2026 11:39:48 +0530",
+          "summary": "Turtlemint Fintech’s IPO opened to a cautious response, with modest early subscription and stronger participation from retail investors. Muted grey market signals and mixed brokerage views reflect bal..."
+        },
+        {
+          "title": "Multibagger Paras Defence shares rocket 28% in just 3 sessions. What’s behind the stellar rise? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-paras-defence-shares-rocket-28-in-just-3-sessions-whats-behind-the-stellar-rise/articleshow/131848599.cms",
+          "content": "Paras Defence shares surged 28% in three sessions, extending a strong rally driven by optimism around India’s expanding defence manufacturing ecosystem. Rising domestic production, growing exports, institutional interest and expectations of sustained defence spending have strengthened sentiment around the sector and boosted investor confidence.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 19 Jun 2026 11:36:19 +0530",
+          "summary": "Paras Defence shares surged 28% in three sessions, extending a strong rally driven by optimism around India’s expanding defence manufacturing ecosystem. Rising domestic production, growing exports, in..."
+        }
+      ],
+      "generatedAt": "2026-06-19T06:41:04.022Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Stem cells banish severe autoimmune disease for 15 years",
+          "url": "https://www.nature.com/articles/d41586-026-01925-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Clues to the sloth’s sloth found in its genome",
+          "url": "https://www.nature.com/articles/d41586-026-01869-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Major errors found in Al Gore-founded Climate TRACE database",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
+          "content": "A new study from Northern Arizona University is raising red flags about a widely used global emissions database from Climate TRACE, a consortium co-founded by Al Gore. Researchers found that the database may be dramatically undercounting carbon dioxide emissions from cars and trucks in cities—by an average of 70% across 260 U.S. cities, with some cities showing gaps of more than 90%.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 18 Jun 2026 04:15:19 EDT",
+          "summary": "A new study from Northern Arizona University is raising red flags about a widely used global emissions database from Climate TRACE, a consortium co-founded by Al Gore. Researchers found that the datab..."
+        },
+        {
+          "title": "SpaceX wants to build AI data centers in space. Will it work?",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+          "content": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 18 Jun 2026 23:43:09 EDT",
+          "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environ..."
+        },
+        {
+          "title": "A bold satellite rescue mission came together in record time, but will it work?",
+          "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+          "content": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 19 Jun 2026 00:39:30 +0000",
+          "summary": "\"I consider this a success already, just from the fact that we're even going to try this.\"..."
+        },
+        {
+          "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
+          "url": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
+          "content": "It's unclear whether the system is currently intact.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 18 Jun 2026 18:19:44 +0000",
+          "summary": "It's unclear whether the system is currently intact...."
+        }
+      ],
+      "generatedAt": "2026-06-19T06:41:05.607Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Many Let's Encrypt renewals had errors today",
+          "url": "https://letsencrypt.status.io/#2026",
+          "content": "Article URL: https://letsencrypt.status.io/#2026\nComments URL: https://news.ycombinator.com/item?id=48594715\nPoints: 117\n# Comments: 66",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 19 Jun 2026 04:18:09 +0000",
+          "summary": "Article URL: https://letsencrypt.status.io/#2026\nComments URL: https://news.ycombinator.com/item?id=48594715\nPoints: 117\n# Comments: 66..."
+        },
+        {
+          "title": "Ice water drowning survival of young patient (2025)",
+          "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+          "content": "Article URL: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885\nComments URL: https://news.ycombinator.com/item?id=48594592\nPoints: 89\n# Comments: 34",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 19 Jun 2026 03:50:25 +0000",
+          "summary": "Article URL: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885\nComments URL: https://news.ycombinator.com/item?id=48594592\nPoints: 89\n# Comments: 34..."
+        },
+        {
+          "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+          "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+          "content": "Telegram argues India should block specific content, not an entire platform used by millions.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 19 Jun 2026 01:01:00 +0000",
+          "summary": "Telegram argues India should block specific content, not an entire platform used by millions...."
+        },
+        {
+          "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+          "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+          "content": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 19 Jun 2026 00:51:11 +0000",
+          "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago...."
+        }
+      ],
+      "generatedAt": "2026-06-19T06:41:06.712Z"
+    }
+  ]
+}
