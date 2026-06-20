@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-20",
+  "generatedAt": "2026-06-20T05:55:10.056Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 19 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Inflation attitudes of large language models",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-attitudes-of-large-language-models",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 19 Jun 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-20T05:55:04.004Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "MosaicLeaks: Can your research agent keep a secret?",
+          "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 18 Jun 2026 18:13:13 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+          "url": "https://huggingface.co/blog/peft-beyond-lora",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 18 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "Securing the future of AI agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 15:46:31 +0000",
+          "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring...."
+        },
+        {
+          "title": "The Download: AI bottleneck debates, and BCI trials take off",
+          "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 19 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding ..."
+        },
+        {
+          "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+          "content": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 19 Jun 2026 10:40:24 +0000",
+          "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo..."
+        }
+      ],
+      "generatedAt": "2026-06-20T05:55:05.492Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Markets get the measure of Trump",
+          "url": "https://www.ft.com/content/56d4d21f-05e5-46e3-ae82-aa8854fa3395",
+          "content": "At the very first sign that the president is buckling on an unorthodox foreign policy decision, that is the time to pounce",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 20 Jun 2026 04:00:47 GMT",
+          "summary": "At the very first sign that the president is buckling on an unorthodox foreign policy decision, that is the time to pounce..."
+        },
+        {
+          "title": "Europe’s stocks offer a peace dividend their US peers can’t match",
+          "url": "https://www.ft.com/content/13deea29-7603-4c6a-bbf1-1beb57f1d149",
+          "content": "European companies have more to gain by way of recovery if energy shortages caused by the Iran conflict ease",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 20 Jun 2026 04:00:47 GMT",
+          "summary": "European companies have more to gain by way of recovery if energy shortages caused by the Iran conflict ease..."
+        },
+        {
+          "title": "\n        A new golden age for Japanese banks comes with a catch\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch",
+          "content": "Smaller lenders are saddled with low-return bonds they cannot sell",
+          "source": "The Economist",
+          "publishedAt": "Thu, 18 Jun 2026 09:23:55 +0000",
+          "summary": "Smaller lenders are saddled with low-return bonds they cannot sell..."
+        },
+        {
+          "title": "\n        Europe buys the future, America builds it\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/18/europe-buys-the-future-america-builds-it",
+          "content": "Does that matter? A high-stakes transatlantic spat has erupted over GDP figures",
+          "source": "The Economist",
+          "publishedAt": "Thu, 18 Jun 2026 09:21:50 +0000",
+          "summary": "Does that matter? A high-stakes transatlantic spat has erupted over GDP figures..."
+        },
+        {
+          "title": "First Quantum's Cobre Panama mine broadly compliant, government audit says",
+          "url": "https://seekingalpha.com/news/4605275-first-quantums-cobre-panama-mine-broadly-compliant-government-audit-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 19 Jun 2026 21:42:23 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Richards Group Inc. declares CAD 0.11 dividend",
+          "url": "https://seekingalpha.com/news/4605274-richards-group-inc-declares-cad-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 19 Jun 2026 12:44:22 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "India's IT sector facing a growth crisis; Daljeet Kohli says he's already walked away ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/indias-it-sector-facing-a-growth-crisis-daljeet-kohli-says-hes-already-walked-away/articleshow/131871029.cms",
+          "content": "India's IT sector faces uncertainty as global slowdown and AI fears spook investors. Market expert Daljeet Kohli advises caution, citing a lack of growth and difficulty in identifying future winners. Meanwhile, Reliance Jio's IPO is seen as a strategic move to unlock value and offer a focused bet on India's telecom growth, separating it from the conglomerate's other businesses.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 20 Jun 2026 11:04:49 +0530",
+          "summary": "India's IT sector faces uncertainty as global slowdown and AI fears spook investors. Market expert Daljeet Kohli advises caution, citing a lack of growth and difficulty in identifying future winners. ..."
+        },
+        {
+          "title": "53 crore users, satellites in space, sovereign AI: Kshitiz Mahajan on why Jio IPO could rewrite India's tech playbook ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/jio-platforms-ipo-indias-biggest-telecom-bet-going-public-with-ai-and-satellite-ambitions-kshitiz-mahajan/articleshow/131870632.cms",
+          "content": "Jio Platforms is gearing up for a significant IPO, aiming to redefine itself beyond mobile services. The company's ambitious vision includes developing sovereign AI, satellite broadband, and a robust fibre network, positioning it as a cornerstone of India's digital future. This strategic pivot away from foreign tech stacks, coupled with strong subscriber growth and monetization potential, signals a major play in India's burgeoning tech landscape.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 20 Jun 2026 10:32:44 +0530",
+          "summary": "Jio Platforms is gearing up for a significant IPO, aiming to redefine itself beyond mobile services. The company's ambitious vision includes developing sovereign AI, satellite broadband, and a robust ..."
+        }
+      ],
+      "generatedAt": "2026-06-20T05:55:07.176Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+          "url": "https://www.nature.com/articles/s41586-026-10812-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A long-lived butterfly’s secret to graceful ageing",
+          "url": "https://www.nature.com/articles/d41586-026-01948-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Einstein’s “biggest blunder” may finally have an explanation",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
+          "content": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 19 Jun 2026 05:43:07 EDT",
+          "summary": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that..."
+        },
+        {
+          "title": "Think you're eating healthy? You may be missing this heart-protecting nutrient",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619020512.htm",
+          "content": "Eating five servings of fruits and vegetables may not be enough if you're missing foods rich in flavanols, a group of compounds linked to better heart health. Researchers found that choices like blackberries, plums, apples, broad beans, cherries, and green tea can dramatically increase flavanol intake.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 19 Jun 2026 09:56:05 EDT",
+          "summary": "Eating five servings of fruits and vegetables may not be enough if you're missing foods rich in flavanols, a group of compounds linked to better heart health. Researchers found that choices like black..."
+        },
+        {
+          "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+          "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+          "content": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 19 Jun 2026 13:36:53 +0000",
+          "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue...."
+        },
+        {
+          "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+          "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+          "content": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 19 Jun 2026 11:15:11 +0000",
+          "summary": "Researchers say these coral strongholds may help repopulate more degraded reefs...."
+        }
+      ],
+      "generatedAt": "2026-06-20T05:55:08.146Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Satellite reveals immense scale of GPS signal tampering",
+          "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+          "content": "Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering\nComments URL: https://news.ycombinator.com/item?id=48606271\nPoints: 16\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 20 Jun 2026 04:07:03 +0000",
+          "summary": "Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering\nComments URL: https://news.ycombinator.com..."
+        },
+        {
+          "title": "How to feed a dictator",
+          "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+          "content": "Article URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film\nComments URL: https://news.ycombinator.com/item?id=48605301\nPoints: 117\n# Comments: 41",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 20 Jun 2026 01:16:56 +0000",
+          "summary": "Article URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film\nComments URL: https://news.ycombinator.com/item?id=48605301\nPoints: 117\n# Comments: 41..."
+        },
+        {
+          "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+          "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+          "content": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 20 Jun 2026 00:47:44 +0000",
+          "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time...."
+        },
+        {
+          "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+          "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+          "content": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 19 Jun 2026 22:40:14 +0000",
+          "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos...."
+        }
+      ],
+      "generatedAt": "2026-06-20T05:55:10.056Z"
+    }
+  ]
+}
