@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-21T06:28:14.313Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 19 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Inflation attitudes of large language models",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-attitudes-of-large-language-models",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 19 Jun 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-21T06:28:08.990Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "MosaicLeaks: Can your research agent keep a secret?",
+          "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 18 Jun 2026 18:13:13 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+          "url": "https://huggingface.co/blog/peft-beyond-lora",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 18 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "Securing the future of AI agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 15:46:31 +0000",
+          "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring...."
+        },
+        {
+          "title": "The Download: AI bottleneck debates, and BCI trials take off",
+          "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 19 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding ..."
+        },
+        {
+          "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+          "content": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 19 Jun 2026 10:40:24 +0000",
+          "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo..."
+        }
+      ],
+      "generatedAt": "2026-06-21T06:28:10.211Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "SpaceX handed lowest possible ESG rating by MSCI",
+          "url": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3",
+          "content": "Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 21 Jun 2026 04:00:17 GMT",
+          "summary": "Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine..."
+        },
+        {
+          "title": "The new chair effect",
+          "url": "https://www.ft.com/content/fdc6c97e-c1a2-4c28-8147-a58ec6231082",
+          "content": "First impressions, priced in",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 20 Jun 2026 09:30:08 GMT",
+          "summary": "First impressions, priced in..."
+        },
+        {
+          "title": "\n        A new golden age for Japanese banks comes with a catch\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch",
+          "content": "Smaller lenders are saddled with low-return bonds they cannot sell",
+          "source": "The Economist",
+          "publishedAt": "Thu, 18 Jun 2026 09:23:55 +0000",
+          "summary": "Smaller lenders are saddled with low-return bonds they cannot sell..."
+        },
+        {
+          "title": "\n        Europe buys the future, America builds it\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/18/europe-buys-the-future-america-builds-it",
+          "content": "Does that matter? A high-stakes transatlantic spat has erupted over GDP figures",
+          "source": "The Economist",
+          "publishedAt": "Thu, 18 Jun 2026 09:21:50 +0000",
+          "summary": "Does that matter? A high-stakes transatlantic spat has erupted over GDP figures..."
+        },
+        {
+          "title": "U.S. energy regulator orders overhaul of data center grid rules",
+          "url": "https://seekingalpha.com/news/4605294-u-s-energy-regulator-orders-overhaul-of-data-center-grid-rules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 20 Jun 2026 20:40:22 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "SA Asks: Is now a good time to invest in gold or silver?",
+          "url": "https://seekingalpha.com/news/4605292-sa-asks-is-now-a-good-time-to-invest-in-gold-or-silver?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 20 Jun 2026 17:23:21 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "How a simple checklist can help investors avoid costly stock market mistakes ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-a-simple-checklist-can-help-investors-avoid-costly-stock-market-mistakes/articleshow/131886427.cms",
+          "content": "Michael Shearn argues that long-term investing success comes less from prediction and more from discipline, research and process. By using structured checklists, applying strict investment filters and controlling emotions, investors can reduce costly mistakes and make more rational decisions while focusing on business quality and long-term value creation.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 21 Jun 2026 10:59:51 +0530",
+          "summary": "Michael Shearn argues that long-term investing success comes less from prediction and more from discipline, research and process. By using structured checklists, applying strict investment filters and..."
+        },
+        {
+          "title": "Earnings of OMCs seen weak as Q1FY27 under-recoveries bite: Report ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/earnings-of-omcs-seen-weak-as-q1fy27-under-recoveries-bite-report/articleshow/131886397.cms",
+          "content": "Oil companies are projected to experience ongoing challenges through FY27, primarily due to anticipated under-recoveries in Q1FY27, with LPG losses being a considerable issue. Although recent declines in crude prices provide short-term relief, ongoing market volatility and required inventory adjustments are expected to squeeze profit margins. A notable threat includes the government's possible retraction of excise duty cuts to mitigate revenue shortfalls.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 21 Jun 2026 10:52:50 +0530",
+          "summary": "Oil companies are projected to experience ongoing challenges through FY27, primarily due to anticipated under-recoveries in Q1FY27, with LPG losses being a considerable issue. Although recent declines..."
+        }
+      ],
+      "generatedAt": "2026-06-21T06:28:12.118Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+          "url": "https://www.nature.com/articles/s41586-026-10812-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A long-lived butterfly’s secret to graceful ageing",
+          "url": "https://www.nature.com/articles/d41586-026-01948-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This simple twist could bring quantum computers closer to reality",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm",
+          "content": "Researchers found that twisting layered sheets of hexagonal boron nitride can dramatically change the light produced by quantum emitters embedded within the material. The technique offers an unexpected new level of control over components that could power future quantum computers, communications systems, and sensors.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 20 Jun 2026 12:37:09 EDT",
+          "summary": "Researchers found that twisting layered sheets of hexagonal boron nitride can dramatically change the light produced by quantum emitters embedded within the material. The technique offers an unexpecte..."
+        },
+        {
+          "title": "A single cobalt shock could trigger global EV battery supply chaos",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619101402.htm",
+          "content": "The global cobalt supply chain is more interconnected—and more vulnerable—than previously thought, with disruptions capable of triggering far-reaching cascades across multiple countries and industries. Researchers warn that protecting battery supply chains will require system-wide coordination because critical bottlenecks can turn local shocks into global problems.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 20 Jun 2026 10:00:29 EDT",
+          "summary": "The global cobalt supply chain is more interconnected—and more vulnerable—than previously thought, with disruptions capable of triggering far-reaching cascades across multiple countries and industries..."
+        },
+        {
+          "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+          "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+          "content": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 19 Jun 2026 13:36:53 +0000",
+          "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue...."
+        },
+        {
+          "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+          "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+          "content": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 19 Jun 2026 11:15:11 +0000",
+          "summary": "Researchers say these coral strongholds may help repopulate more degraded reefs...."
+        }
+      ],
+      "generatedAt": "2026-06-21T06:28:13.396Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The 100k Whys of AI",
+          "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+          "content": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai\nComments URL: https://news.ycombinator.com/item?id=48616017\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 21 Jun 2026 05:45:21 +0000",
+          "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai\nComments URL: https://news.ycombinator.com/item?id=48616017\nPoints: 4\n# Comments: 0..."
+        },
+        {
+          "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
+          "url": "https://spectrum.ieee.org/alan-turings-delilah",
+          "content": "Article URL: https://spectrum.ieee.org/alan-turings-delilah\nComments URL: https://news.ycombinator.com/item?id=48615890\nPoints: 3\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 21 Jun 2026 05:15:33 +0000",
+          "summary": "Article URL: https://spectrum.ieee.org/alan-turings-delilah\nComments URL: https://news.ycombinator.com/item?id=48615890\nPoints: 3\n# Comments: 1..."
+        },
+        {
+          "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+          "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+          "content": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000",
+          "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”..."
+        },
+        {
+          "title": "In the Weights is your new AI-centric vanity search",
+          "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+          "content": "So ... what's your In the Weights score?",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 20 Jun 2026 19:41:11 +0000",
+          "summary": "So ... what's your In the Weights score?..."
+        }
+      ],
+      "generatedAt": "2026-06-21T06:28:14.313Z"
+    }
+  ]
+}
