@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-22",
+  "generatedAt": "2026-06-22T06:59:24.983Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 19 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Inflation attitudes of large language models",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-attitudes-of-large-language-models",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 19 Jun 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-22T06:59:19.078Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "MosaicLeaks: Can your research agent keep a secret?",
+          "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 18 Jun 2026 18:13:13 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+          "url": "https://huggingface.co/blog/peft-beyond-lora",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 18 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "Securing the future of AI agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 15:46:31 +0000",
+          "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring...."
+        },
+        {
+          "title": "The Download: AI bottleneck debates, and BCI trials take off",
+          "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 19 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding ..."
+        },
+        {
+          "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+          "content": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 19 Jun 2026 10:40:24 +0000",
+          "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo..."
+        }
+      ],
+      "generatedAt": "2026-06-22T06:59:20.457Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Leverage in the financial system, revisited",
+          "url": "https://www.ft.com/content/8c8c090b-4a91-4de6-8d27-80c3372a59e2",
+          "content": "Plus, the dollar comeback",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 22 Jun 2026 05:30:06 GMT",
+          "summary": "Plus, the dollar comeback..."
+        },
+        {
+          "title": "Wars trigger $12bn venture capital rush into defence tech",
+          "url": "https://www.ft.com/content/a329df80-799f-4386-b930-8961de61a754",
+          "content": "Plus, Thoma Bravo’s PE wipeout, dollar bullishness post Fed decision and Alexander Calder in Paris",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 22 Jun 2026 05:00:07 GMT",
+          "summary": "Plus, Thoma Bravo’s PE wipeout, dollar bullishness post Fed decision and Alexander Calder in Paris..."
+        },
+        {
+          "title": "\n        America’s savings rate has plunged\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/21/americas-savings-rate-has-plunged",
+          "content": "But don’t panic",
+          "source": "The Economist",
+          "publishedAt": "Sun, 21 Jun 2026 13:08:53 +0000",
+          "summary": "But don’t panic..."
+        },
+        {
+          "title": "\n        A new golden age for Japanese banks comes with a catch\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch",
+          "content": "Smaller lenders are saddled with low-return bonds they cannot sell",
+          "source": "The Economist",
+          "publishedAt": "Thu, 18 Jun 2026 09:23:55 +0000",
+          "summary": "Smaller lenders are saddled with low-return bonds they cannot sell..."
+        },
+        {
+          "title": "US, Iran agree to 60-day peace roadmap; oil futures turn negative",
+          "url": "https://seekingalpha.com/news/4605340-us-iran-agree-to-60-day-peace-roadmap-oil-futures-turn-negative?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 22 Jun 2026 02:41:55 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "DoubleVerify expands AI optimization and brand protection to Meta and TikTok",
+          "url": "https://seekingalpha.com/news/4605336-doubleverify-expands-ai-optimization-and-brand-protection-to-meta-and-tiktok?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 22 Jun 2026 02:25:47 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Jio Platforms IPO likely by October-November; AI and ARPU growth in focus: Piyush Pandey ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/jio-platforms-ipo-likely-by-october-november-ai-and-arpu-growth-in-focus-piyush-pandey/articleshow/131902890.cms",
+          "content": "Reliance Industries' Jio Platforms IPO is anticipated by October-November, with strong investor interest expected due to a small fresh equity offering. Analysts foresee a holding company discount of 20-25% post-listing, potentially offset by the new energy business. ARPU growth, driven by tariff hikes and 5G adoption, remains key, while AI-powered apps are poised to become the next value creator.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 22 Jun 2026 12:10:59 +0530",
+          "summary": "Reliance Industries' Jio Platforms IPO is anticipated by October-November, with strong investor interest expected due to a small fresh equity offering. Analysts foresee a holding company discount of 2..."
+        },
+        {
+          "title": "Cipla shares jump 4% as Citi puts stock on 90-day catalyst watch. What's driving the optimism? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/cipla-shares-jump-4-as-citi-puts-stock-on-90-day-catalyst-watch-whats-driving-the-optimism/articleshow/131902881.cms",
+          "content": "Cipla's stock surged following Citi's 'Buy' rating and a 90-day Positive Catalyst Watch. The brokerage anticipates growth from potential US approvals like gFlovent and gVentolin, alongside a rebound in its US business. Domestically, Cipla's performance remains strong, supported by its respiratory portfolio. Citi sees earnings bottoming out and highlights attractive valuations for the Indian market.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 22 Jun 2026 12:08:57 +0530",
+          "summary": "Cipla's stock surged following Citi's 'Buy' rating and a 90-day Positive Catalyst Watch. The brokerage anticipates growth from potential US approvals like gFlovent and gVentolin, alongside a rebound i..."
+        }
+      ],
+      "generatedAt": "2026-06-22T06:59:22.080Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+          "url": "https://www.nature.com/articles/s41586-026-10812-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A long-lived butterfly’s secret to graceful ageing",
+          "url": "https://www.nature.com/articles/d41586-026-01948-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "T. rex took 40 years to reach full size, scientists find",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm",
+          "content": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of roughly eight tons, extending previous estimates by 15 years.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 22 Jun 2026 00:32:59 EDT",
+          "summary": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of ..."
+        },
+        {
+          "title": "As lakes turn brown, trout and bass decline while pike and walleye thrive",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621060322.htm",
+          "content": "Freshwater lakes across North America and Europe are becoming noticeably browner, reducing underwater visibility and reshaping fish populations. Research found that several popular sport fish, including trout, bass, perch, and whitefish, tend to decline in darker waters. Meanwhile, walleye and northern pike often become more abundant because they are better adapted to low-visibility conditions. The shift could change both lake ecosystems and the fishing experience for millions of anglers.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 21 Jun 2026 09:40:21 EDT",
+          "summary": "Freshwater lakes across North America and Europe are becoming noticeably browner, reducing underwater visibility and reshaping fish populations. Research found that several popular sport fish, includi..."
+        },
+        {
+          "title": "Trump admin’s coal investments assist plants with repeated violations",
+          "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+          "content": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 21 Jun 2026 17:49:35 +0000",
+          "summary": "At least three coal plants have been repeatedly cited for violating environmental regulations...."
+        },
+        {
+          "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+          "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+          "content": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 19 Jun 2026 13:36:53 +0000",
+          "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue...."
+        }
+      ],
+      "generatedAt": "2026-06-22T06:59:23.174Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "content": "Article URL: https://docs.deno.com/runtime/desktop/\nComments URL: https://news.ycombinator.com/item?id=48626137\nPoints: 91\n# Comments: 23",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 22 Jun 2026 05:38:40 +0000",
+          "summary": "Article URL: https://docs.deno.com/runtime/desktop/\nComments URL: https://news.ycombinator.com/item?id=48626137\nPoints: 91\n# Comments: 23..."
+        },
+        {
+          "title": "Danish privacy activist Lars Andersen raided by police",
+          "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+          "content": "https://xcancel.com/LarsAnders1620/status/206820886474754051...\nComments URL: https://news.ycombinator.com/item?id=48625823\nPoints: 133\n# Comments: 82",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 22 Jun 2026 04:50:26 +0000",
+          "summary": "https://xcancel.com/LarsAnders1620/status/206820886474754051...\nComments URL: https://news.ycombinator.com/item?id=48625823\nPoints: 133\n# Comments: 82..."
+        },
+        {
+          "title": "Ethan Thornton is trying to do everything all at once",
+          "url": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+          "content": "Mach's approach differs sharply from some of its peers.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 22 Jun 2026 05:31:59 +0000",
+          "summary": "Mach's approach differs sharply from some of its peers...."
+        },
+        {
+          "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+          "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+          "content": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 21 Jun 2026 18:34:31 +0000",
+          "summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69...."
+        }
+      ],
+      "generatedAt": "2026-06-22T06:59:24.983Z"
+    }
+  ]
+}
