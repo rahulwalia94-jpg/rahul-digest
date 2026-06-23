@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-23T05:43:44.679Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Sterling-denominated systemic stablecoins",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ps/sterling-denominated-systemic-stablecoin",
+          "content": "Policy statement and consultation on draft Code of Practice",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 22 Jun 2026 08:30:00 +0100",
+          "summary": "Policy statement and consultation on draft Code of Practice..."
+        },
+        {
+          "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 19 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-23T05:43:35.468Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+          "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 22 Jun 2026 13:18:56 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "MosaicLeaks: Can your research agent keep a secret?",
+          "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 18 Jun 2026 18:13:13 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "Securing the future of AI agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 15:46:31 +0000",
+          "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring...."
+        },
+        {
+          "title": "Three things to watch amid Anthropic’s latest feud with the government",
+          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 22 Jun 2026 18:00:00 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s l..."
+        },
+        {
+          "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+          "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 22 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Nia..."
+        }
+      ],
+      "generatedAt": "2026-06-23T05:43:37.009Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Private equity’s new vibe check",
+          "url": "https://www.ft.com/content/cc095686-ae83-48c7-9eb3-7dfedd51b653",
+          "content": "Buyout investors are recreating software products to gauge their competitiveness",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 23 Jun 2026 04:00:31 GMT",
+          "summary": "Buyout investors are recreating software products to gauge their competitiveness..."
+        },
+        {
+          "title": "Private equity-owned vet group IVC spends £34mn on UK competition probe",
+          "url": "https://www.ft.com/content/05a0ed7c-ec9f-4344-92cd-904611076f89",
+          "content": "Conclusion of industry-wide investigation by Competition and Markets Authority paves way for IPO",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 23 Jun 2026 04:00:30 GMT",
+          "summary": "Conclusion of industry-wide investigation by Competition and Markets Authority paves way for IPO..."
+        },
+        {
+          "title": "\n        Russia’s war economy has problems—but is not about to crash\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/22/russias-war-economy-has-problems-but-is-not-about-to-crash",
+          "content": "Vladimir Putin is still able to fund his aggression",
+          "source": "The Economist",
+          "publishedAt": "Mon, 22 Jun 2026 19:07:09 +0000",
+          "summary": "Vladimir Putin is still able to fund his aggression..."
+        },
+        {
+          "title": "\n        How to turn compute into a financial asset\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset",
+          "content": "Entrepreneurs, exchange operators and AI firms are creating tradable instruments backed by processing power",
+          "source": "The Economist",
+          "publishedAt": "Mon, 22 Jun 2026 18:09:55 +0000",
+          "summary": "Entrepreneurs, exchange operators and AI firms are creating tradable instruments backed by processing power..."
+        },
+        {
+          "title": "Western Midstream Partners prices $700M senior notes offering",
+          "url": "https://seekingalpha.com/news/4605880-western-midstream-partners-prices-700m-senior-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 23 Jun 2026 01:34:09 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "BYD and Tesla gain ground in EU as May car sales rise on strong EV demand",
+          "url": "https://seekingalpha.com/news/4605871-byd-and-tesla-gain-ground-in-eu-as-may-car-sales-rise-on-strong-ev-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 23 Jun 2026 01:24:45 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "India's defence export boom could hit ₹65,000 crore by 2030; pvt sector startups the real play: Sunil Subramaniam ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/indias-defence-export-boom-could-hit-65000-crore-by-2030-pvt-sector-startups-the-real-play-sunil-subramaniam/articleshow/131925550.cms",
+          "content": "India's defence exports are poised to surpass government targets, reaching ₹60,000-65,000 crore by 2030, according to market expert Sunil Subramaniam. He advises investors to look beyond the Nifty Defence Index, highlighting the private sector's innovation in drones and UAVs, especially with demand from Gulf nations. Subramaniam also points to upcoming private defence IPOs as a key investment opportunity, while suggesting pharma offers a better dollar play than IT currently.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 23 Jun 2026 10:31:50 +0530",
+          "summary": "India's defence exports are poised to surpass government targets, reaching ₹60,000-65,000 crore by 2030, according to market expert Sunil Subramaniam. He advises investors to look beyond the Nifty Def..."
+        },
+        {
+          "title": "Japan bond yields mixed after relatively weak 5-year auction ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/japan-bond-yields-mixed-after-relatively-weak-5-year-auction/articleshow/131925442.cms",
+          "content": "Japanese government bond yields showed mixed movements on Tuesday, with a weaker-than-expected auction for 5-year bonds.  Yields on shorter maturities edged up, while longer-term bonds saw slight declines.  Discussions between Japan's Finance Minister and the U.S. Treasury Secretary about global markets and currency swings have fueled speculation about potential acceleration of Bank of Japan rate hikes to address yen weakness.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 23 Jun 2026 10:19:23 +0530",
+          "summary": "Japanese government bond yields showed mixed movements on Tuesday, with a weaker-than-expected auction for 5-year bonds.  Yields on shorter maturities edged up, while longer-term bonds saw slight decl..."
+        }
+      ],
+      "generatedAt": "2026-06-23T05:43:40.002Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "C-glycoside synthesis via radical cross-coupling of glycohydrazides",
+          "url": "https://www.nature.com/articles/s41586-026-10807-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-22T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Stereoretentive decarbonylative C(sp<sup>3</sup>)-C(sp<sup>3</sup>) cross-coupling",
+          "url": "https://www.nature.com/articles/s41586-026-10800-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-22T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This emerging treatment is helping people avoid knee replacement surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622091502.htm",
+          "content": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies suggest the procedure can provide years of relief by reducing inflammation inside the joint.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 22 Jun 2026 23:04:58 EDT",
+          "summary": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies sugge..."
+        },
+        {
+          "title": "Scientists say most people need more protein than current guidelines suggest",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622091429.htm",
+          "content": "A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn't building a beach body—it's extending healthspan and maintaining the ability to fully enjoy life for decades longer.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 22 Jun 2026 21:44:42 EDT",
+          "summary": "A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn't bui..."
+        },
+        {
+          "title": "A US military exercise in space got underway with barely anyone noticing",
+          "url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
+          "content": "The Space Force wants to cut the time to field new satellites from years to weeks, days, or hours.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 22 Jun 2026 15:18:23 +0000",
+          "summary": "The Space Force wants to cut the time to field new satellites from years to weeks, days, or hours...."
+        },
+        {
+          "title": "Trump admin’s coal investments assist plants with repeated violations",
+          "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+          "content": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 21 Jun 2026 17:49:35 +0000",
+          "summary": "At least three coal plants have been repeatedly cited for violating environmental regulations...."
+        }
+      ],
+      "generatedAt": "2026-06-23T05:43:41.789Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Will It Mythos?",
+          "url": "https://swelljoe.com/post/will-it-mythos/",
+          "content": "Article URL: https://swelljoe.com/post/will-it-mythos/\nComments URL: https://news.ycombinator.com/item?id=48640196\nPoints: 63\n# Comments: 26",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 23 Jun 2026 04:15:04 +0000",
+          "summary": "Article URL: https://swelljoe.com/post/will-it-mythos/\nComments URL: https://news.ycombinator.com/item?id=48640196\nPoints: 63\n# Comments: 26..."
+        },
+        {
+          "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+          "url": "https://arxiv.org/abs/2606.03748",
+          "content": "Article URL: https://arxiv.org/abs/2606.03748\nComments URL: https://news.ycombinator.com/item?id=48639434\nPoints: 18\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 23 Jun 2026 02:28:00 +0000",
+          "summary": "Article URL: https://arxiv.org/abs/2606.03748\nComments URL: https://news.ycombinator.com/item?id=48639434\nPoints: 18\n# Comments: 0..."
+        },
+        {
+          "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+          "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "content": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 23 Jun 2026 01:27:55 +0000",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor...."
+        },
+        {
+          "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+          "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+          "content": "OpenAI is attempting to tackle the security issues of the open source software community.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 23 Jun 2026 00:11:31 +0000",
+          "summary": "OpenAI is attempting to tackle the security issues of the open source software community...."
+        }
+      ],
+      "generatedAt": "2026-06-23T05:43:44.679Z"
+    }
+  ]
+}
