@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-24T05:41:05.037Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Sterling-denominated systemic stablecoins",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ps/sterling-denominated-systemic-stablecoin",
+          "content": "Policy statement and consultation on draft Code of Practice",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 22 Jun 2026 08:30:00 +0100",
+          "summary": "Policy statement and consultation on draft Code of Practice..."
+        },
+        {
+          "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 19 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-24T05:41:00.205Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+          "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 23 Jun 2026 12:51:55 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 23 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "Securing the future of AI agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 15:46:31 +0000",
+          "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring...."
+        },
+        {
+          "title": "Heads in the game",
+          "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+          "content": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 23 Jun 2026 21:00:00 +0000",
+          "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game..."
+        },
+        {
+          "title": "Super Mario is mathier than you think",
+          "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+          "content": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and monster-­ridden terrain where your only means…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 23 Jun 2026 21:00:00 +0000",
+          "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has bee..."
+        }
+      ],
+      "generatedAt": "2026-06-24T05:41:01.506Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "MSCI delays Indonesia downgrade verdict and frustrates South Korea",
+          "url": "https://www.ft.com/content/e97addaa-6000-427d-b171-c4e27f1b862e",
+          "content": "Index provider cites need to further evaluate reforms set out by regulators",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 24 Jun 2026 05:12:01 GMT",
+          "summary": "Index provider cites need to further evaluate reforms set out by regulators..."
+        },
+        {
+          "title": "Qatar says US-Iran hotline essential to reopen Strait of Hormuz",
+          "url": "https://www.ft.com/content/e2d91812-1553-4d9e-a3cf-abe499de70b1",
+          "content": "Prime Minister Sheikh Mohammed says Gulf state will resume normal LNG production within weeks",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 24 Jun 2026 04:00:29 GMT",
+          "summary": "Prime Minister Sheikh Mohammed says Gulf state will resume normal LNG production within weeks..."
+        },
+        {
+          "title": "\n        Waiving sanctions on Iranian oil is a huge concession by America\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+          "content": "It will enrich an adversary",
+          "source": "The Economist",
+          "publishedAt": "Tue, 23 Jun 2026 19:52:15 +0000",
+          "summary": "It will enrich an adversary..."
+        },
+        {
+          "title": "\n        Why macro trading is hard\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/23/why-macro-trading-is-hard",
+          "content": "More difficult than knowing what to buy is knowing how much",
+          "source": "The Economist",
+          "publishedAt": "Tue, 23 Jun 2026 18:45:01 +0000",
+          "summary": "More difficult than knowing what to buy is knowing how much..."
+        },
+        {
+          "title": "MoonLake Immunotherapeutics prices $200M public offering of Class A shares",
+          "url": "https://seekingalpha.com/news/4606453-moonlake-immunotherapeutics-prices-200m-public-offering-of-class-a-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 24 Jun 2026 01:33:20 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Meta unveils AI smart glasses lineup priced from $299",
+          "url": "https://seekingalpha.com/news/4606461-meta-unveils-ai-smart-glasses-lineup-priced-from-299?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 24 Jun 2026 01:30:42 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Motilal Oswal initiates coverage on KPR Mill, 7 other textile stocks with up to 43% upside. Own any? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-initiates-coverage-on-8-textile-stocks-with-up-to-43-upside-own-any/articleshow/131955881.cms",
+          "content": "Motilal Oswal has initiated coverage on eight textile companies, turning bullish on Gokaldas Exports, Indo Count, Arvind Fashions, Pearl Global and Welspun Living. The brokerage expects improving global demand, trade agreements and supply-chain shifts to support India’s textile sector recovery and long-term export growth.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 24 Jun 2026 10:45:57 +0530",
+          "summary": "Motilal Oswal has initiated coverage on eight textile companies, turning bullish on Gokaldas Exports, Indo Count, Arvind Fashions, Pearl Global and Welspun Living. The brokerage expects improving glob..."
+        },
+        {
+          "title": "India's textile industry poised for long-term growth as global sourcing shift gathers pace: Siddhartha Khemka ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/indias-textile-industry-poised-for-long-term-growth-as-global-sourcing-shifts-gather-pace-siddhartha-khemka/articleshow/131955797.cms",
+          "content": "India's textile sector is poised for significant growth, driven by a global shift in sourcing away from China and a cyclical recovery in demand. Experts highlight that geopolitical risks and rising costs are pushing brands to diversify, creating a multi-year opportunity for India. Proposed free trade agreements with the UK and EU are expected to further boost competitiveness, making Indian exporters more attractive.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 24 Jun 2026 10:41:37 +0530",
+          "summary": "India's textile sector is poised for significant growth, driven by a global shift in sourcing away from China and a cyclical recovery in demand. Experts highlight that geopolitical risks and rising co..."
+        }
+      ],
+      "generatedAt": "2026-06-24T05:41:02.930Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Retraction Note: Sub-second periodicity in a fast radio burst",
+          "url": "https://www.nature.com/articles/s41586-026-10799-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Nepal’s new science ministry must strengthen scientific capacity",
+          "url": "https://www.nature.com/articles/d41586-026-01970-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
+          "content": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and climate upheaval were reshaping the country’s wildlife and driving extinctions long before humans arrived.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 23 Jun 2026 03:30:41 EDT",
+          "summary": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and cli..."
+        },
+        {
+          "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
+          "content": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries about the universe while paving the way for powerful future technologies in space and on Earth.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 23 Jun 2026 00:45:34 EDT",
+          "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock..."
+        },
+        {
+          "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+          "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+          "content": "Climate.us has now restored everything taken down by the government.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 23 Jun 2026 22:07:56 +0000",
+          "summary": "Climate.us has now restored everything taken down by the government...."
+        },
+        {
+          "title": "Early land animals skipped the tadpole phase",
+          "url": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
+          "content": "Current amphibian development may not have been typical of early land vertebrates.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 23 Jun 2026 17:49:09 +0000",
+          "summary": "Current amphibian development may not have been typical of early land vertebrates...."
+        }
+      ],
+      "generatedAt": "2026-06-24T05:41:04.112Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+          "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+          "content": "Article URL: https://gitlab.com/baiyibai/pico-usb-wifi\nComments URL: https://news.ycombinator.com/item?id=48654676\nPoints: 28\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 24 Jun 2026 03:17:47 +0000",
+          "summary": "Article URL: https://gitlab.com/baiyibai/pico-usb-wifi\nComments URL: https://news.ycombinator.com/item?id=48654676\nPoints: 28\n# Comments: 7..."
+        },
+        {
+          "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+          "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+          "content": "Article URL: https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf\nComments URL: https://news.ycombinator.com/item?id=48654465\nPoints: 8\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 24 Jun 2026 02:38:47 +0000",
+          "summary": "Article URL: https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf\nComments URL: https://news.ycombinator.com/item?id=48654465\nPoints: 8\n# Comments: 0..."
+        },
+        {
+          "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+          "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+          "content": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 24 Jun 2026 00:30:00 +0000",
+          "summary": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India...."
+        },
+        {
+          "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+          "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+          "content": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 23 Jun 2026 23:30:00 +0000",
+          "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers...."
+        }
+      ],
+      "generatedAt": "2026-06-24T05:41:05.037Z"
+    }
+  ]
+}
