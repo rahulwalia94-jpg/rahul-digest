@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-25",
+  "generatedAt": "2026-06-25T05:43:46.414Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Sterling-denominated systemic stablecoins",
+          "url": "https://www.bankofengland.co.uk/paper/2026/ps/sterling-denominated-systemic-stablecoin",
+          "content": "Policy statement and consultation on draft Code of Practice",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 22 Jun 2026 08:30:00 +0100",
+          "summary": "Policy statement and consultation on draft Code of Practice..."
+        },
+        {
+          "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 19 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-25T05:43:39.356Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+          "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 24 Jun 2026 16:00:13 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+          "url": "https://huggingface.co/blog/ffasr-leaderboard",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 24 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing computer use in Gemini 3.5 Flash",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 24 Jun 2026 16:30:01 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "Europe’s extreme heat is shutting down power plants",
+          "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+          "content": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 24 Jun 2026 15:25:28 +0000",
+          "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to..."
+        },
+        {
+          "title": "The Download: introducing the Engineering issue",
+          "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenuity. That’s what the new…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 24 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, bu..."
+        }
+      ],
+      "generatedAt": "2026-06-25T05:43:41.094Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Oil price back at prewar levels as Gulf flows pick up",
+          "url": "https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719",
+          "content": "Brent crude drops below the $72.48 a barrel it traded at in late February before Iran conflict erupted",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 25 Jun 2026 03:14:50 GMT",
+          "summary": "Brent crude drops below the $72.48 a barrel it traded at in late February before Iran conflict erupted..."
+        },
+        {
+          "title": "US banks would lose $700bn in economic crash, Fed stress tests find",
+          "url": "https://www.ft.com/content/7f33dfda-bc49-4645-8e71-422ba7cc4d17",
+          "content": "Several Wall Street lenders boost investor payouts after receiving pass grades",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 24 Jun 2026 23:49:46 GMT",
+          "summary": "Several Wall Street lenders boost investor payouts after receiving pass grades..."
+        },
+        {
+          "title": "\n        Waiving sanctions on Iranian oil is a huge concession by America\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+          "content": "It will enrich an adversary",
+          "source": "The Economist",
+          "publishedAt": "Tue, 23 Jun 2026 19:52:15 +0000",
+          "summary": "It will enrich an adversary..."
+        },
+        {
+          "title": "\n        Why macro trading is hard\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/23/why-macro-trading-is-hard",
+          "content": "More difficult than knowing what to buy is knowing how much",
+          "source": "The Economist",
+          "publishedAt": "Tue, 23 Jun 2026 18:45:01 +0000",
+          "summary": "More difficult than knowing what to buy is knowing how much..."
+        },
+        {
+          "title": "Asia markets diverge,Nikkei and KOSPI defy Wall Street tech slide on Micron-led AI optimism",
+          "url": "https://seekingalpha.com/news/4607050-asia-markets-divergenikkei-and-kospi-defy-wall-street-tech-slide-on-micron-led-ai-optimism?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 25 Jun 2026 01:32:38 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Alibaba drops to 16-month low on Anthropic AI theft claims",
+          "url": "https://seekingalpha.com/news/4607061-alibaba-drops-to-16-month-low-on-anthropic-ai-theft-claims?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 25 Jun 2026 01:19:47 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Areion Assets Management launches $60 million AIF to tap India's special situations market ",
+          "url": "https://economictimes.indiatimes.com/markets/aif-pms/areion-assets-management-launches-60-million-aif-to-tap-indias-special-situations-market/articleshow/131983401.cms",
+          "content": "Areion Assets Management has launched a $60 million Category III AIF from GIFT City targeting India’s special situations market. The fund will invest in distressed assets, structured credit and IBC opportunities, focusing on recovery-led value creation across sectors, amid increasing institutionalisation of alternative investments in India.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 25 Jun 2026 11:00:08 +0530",
+          "summary": "Areion Assets Management has launched a $60 million Category III AIF from GIFT City targeting India’s special situations market. The fund will invest in distressed assets, structured credit and IBC op..."
+        },
+        {
+          "title": "Buy the dip, stay invested: Matt Orton sees more upside for global markets ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/buy-the-dip-stay-invested-matt-orton-sees-more-upside-for-global-markets/articleshow/131983074.cms",
+          "content": "Global markets are gaining traction as geopolitical worries ease and AI companies report strong earnings. Matt Orton of Raymond James highlights that receding oil prices and sustained AI optimism are turning market dips into buying chances. He emphasizes that while the US dollar's strength poses challenges for emerging markets like India, focusing on quality companies and diversified investments remains key for continued gains.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 25 Jun 2026 10:45:57 +0530",
+          "summary": "Global markets are gaining traction as geopolitical worries ease and AI companies report strong earnings. Matt Orton of Raymond James highlights that receding oil prices and sustained AI optimism are ..."
+        }
+      ],
+      "generatedAt": "2026-06-25T05:43:43.414Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: cBAF complex components and MYC cooperate early in CD8<sup>+</sup> T cell fate",
+          "url": "https://www.nature.com/articles/s41586-026-10813-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-24T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Role of methanesulfonic acid in atmospheric particle nucleation and growth",
+          "url": "https://www.nature.com/articles/s41586-026-10810-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-24T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Osteopenia is silently weakening bones in millions of people",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260624025511.htm",
+          "content": "Osteopenia is a common but often overlooked condition that causes bones to become less dense and more fragile. Because it develops silently, many people only discover they have it after a fracture or bone scan. Aging, menopause, poor diet, and inactivity can all contribute to bone loss. Fortunately, exercise, adequate calcium and vitamin D, and other healthy habits can slow or even partially reverse the decline.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 25 Jun 2026 00:25:26 EDT",
+          "summary": "Osteopenia is a common but often overlooked condition that causes bones to become less dense and more fragile. Because it develops silently, many people only discover they have it after a fracture or ..."
+        },
+        {
+          "title": "Scientists discover ancient brain cells that help block distractions",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+          "content": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 24 Jun 2026 09:30:09 EDT",
+          "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When resea..."
+        },
+        {
+          "title": "Experimental wine bottle tracks oxygen moving through the cork",
+          "url": "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/",
+          "content": "The small bit of air in the bottle sees oxygen and other chemicals move in and out.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 24 Jun 2026 20:04:32 +0000",
+          "summary": "The small bit of air in the bottle sees oxygen and other chemicals move in and out...."
+        },
+        {
+          "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+          "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+          "content": "Climate.us has now restored everything taken down by the government.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 23 Jun 2026 22:07:56 +0000",
+          "summary": "Climate.us has now restored everything taken down by the government...."
+        }
+      ],
+      "generatedAt": "2026-06-25T05:43:44.736Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The Unbearable Cheapness of Open Weight Models",
+          "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+          "content": "Article URL: https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/\nComments URL: https://news.ycombinator.com/item?id=48668255\nPoints: 10\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 25 Jun 2026 02:51:29 +0000",
+          "summary": "Article URL: https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/\nComments URL: https://news.ycombinator.com/item?id=48668255\nPoints: 10\n# Comments: 0..."
+        },
+        {
+          "title": "Medical students are using popular research tool to pump out misleading studies",
+          "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+          "content": "Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\nComments URL: https://news.ycombinator.com/item?id=48668119\nPoints: 12\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 25 Jun 2026 02:30:18 +0000",
+          "summary": "Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\nComments URL: https://news.ycombinator.com/item?id=48668119\nPoints: 12..."
+        },
+        {
+          "title": "Europe is pushing back on Washington’s chip war",
+          "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+          "content": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 25 Jun 2026 00:08:36 +0000",
+          "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Ac..."
+        },
+        {
+          "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+          "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+          "content": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 24 Jun 2026 23:26:52 +0000",
+          "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI...."
+        }
+      ],
+      "generatedAt": "2026-06-25T05:43:46.414Z"
+    }
+  ]
+}
