@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T05:49:13.286Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 24 June 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/24-june-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 25 Jun 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Report on the Bank’s official market operations March 2025–February 2026",
+          "url": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+          "content": "The Bank publishes an annual report covering key developments in its market operations and their usage. This report covers the period March 2025 to end-February 2026.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 25 Jun 2026 12:00:00 +0100",
+          "summary": "The Bank publishes an annual report covering key developments in its market operations and their usage. This report covers the period March 2025 to end-February 2026...."
+        }
+      ],
+      "generatedAt": "2026-06-26T05:49:07.524Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Run a vLLM Server on HF Jobs in One Command",
+          "url": "https://huggingface.co/blog/vllm-jobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 26 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Which tokens does a hybrid model predict better?",
+          "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 25 Jun 2026 16:11:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing computer use in Gemini 3.5 Flash",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 24 Jun 2026 16:30:01 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "Repositioning retail for the AI era",
+          "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+          "content": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 25 Jun 2026 14:22:59 +0000",
+          "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants..."
+        },
+        {
+          "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+          "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 25 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is ..."
+        }
+      ],
+      "generatedAt": "2026-06-26T05:49:08.988Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Global markets fall as investors fret about AI demand",
+          "url": "https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580",
+          "content": "Apple’s price rises and fears over delay to OpenAI’s IPO send Asian bourses sharply lower",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 26 Jun 2026 04:36:49 GMT",
+          "summary": "Apple’s price rises and fears over delay to OpenAI’s IPO send Asian bourses sharply lower..."
+        },
+        {
+          "title": "Binance to stop providing services to EU clients after failing to obtain licence",
+          "url": "https://www.ft.com/content/c1765ad5-022c-4bc3-9295-ef80791a2977",
+          "content": "World’s biggest crypto exchange tells customers how to withdraw their money as MiCA rules set to come into force",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 26 Jun 2026 04:00:33 GMT",
+          "summary": "World’s biggest crypto exchange tells customers how to withdraw their money as MiCA rules set to come into force..."
+        },
+        {
+          "title": "\n        Will AI lower interest rates?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
+          "content": "Kevin Warsh is drawing lessons about tech from Alan Greenspan—but selectively",
+          "source": "The Economist",
+          "publishedAt": "Thu, 25 Jun 2026 09:39:49 +0000",
+          "summary": "Kevin Warsh is drawing lessons about tech from Alan Greenspan—but selectively..."
+        },
+        {
+          "title": "\n        Waiving sanctions on Iranian oil is a huge concession by America\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+          "content": "It will enrich an adversary",
+          "source": "The Economist",
+          "publishedAt": "Tue, 23 Jun 2026 19:52:15 +0000",
+          "summary": "It will enrich an adversary..."
+        },
+        {
+          "title": "Crown Capital Partners to sell Galaxy Broadband to Calian Group for up to $51.5M",
+          "url": "https://seekingalpha.com/news/4607632-crown-capital-partners-to-sell-galaxy-broadband-to-calian-group-for-up-to-515m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 26 Jun 2026 01:39:51 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Nuvation Bio prices $250M convertible notes offering",
+          "url": "https://seekingalpha.com/news/4607636-nuvation-bio-prices-250m-convertible-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 26 Jun 2026 01:38:39 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Japan's 10-year bond yield reverses course to fall on portfolio rebalancing need ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/japans-10-year-bond-yield-reverses-course-to-fall-on-portfolio-rebalancing-need/articleshow/132008044.cms",
+          "content": "Japanese government bond yields dipped on Friday as investors adjusted portfolios following a significant surge in the nation's stock market. The benchmark 10-year yield saw a notable decrease, even as inflation in Tokyo accelerated, suggesting the central bank might consider further rate hikes. This shift indicates a strategic move by investors to rebalance their holdings at the quarter's end, prioritizing stability after equity market gains.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 26 Jun 2026 10:55:10 +0530",
+          "summary": "Japanese government bond yields dipped on Friday as investors adjusted portfolios following a significant surge in the nation's stock market. The benchmark 10-year yield saw a notable decrease, even a..."
+        },
+        {
+          "title": "Tata Motors CV acquisition delay won't dent long-term gains: Sudip Bandyopadhyay ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/tata-motors-cv-acquisition-delay-wont-dent-long-term-gains-sudip-bandyopadhyay/articleshow/132007823.cms",
+          "content": "Tata Motors' acquisition of Iveco's commercial vehicle business is delayed until September 2026, a move market expert Sudip Bandyopadhyay finds \"disappointing\" but still sees as a \"fantastic leap up.\" The deal promises a seamless product range and global expansion.  Meanwhile, the Indian auto sector anticipates a monsoon-driven boost, with Maruti Suzuki and Mahindra & Mahindra poised to benefit from rural demand. Bajaj Auto's strong export performance also fuels optimism.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 26 Jun 2026 10:43:08 +0530",
+          "summary": "Tata Motors' acquisition of Iveco's commercial vehicle business is delayed until September 2026, a move market expert Sudip Bandyopadhyay finds \"disappointing\" but still sees as a \"fantastic leap up.\"..."
+        }
+      ],
+      "generatedAt": "2026-06-26T05:49:10.519Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
+          "url": "https://www.nature.com/articles/s41586-026-10829-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Ligand-enabled distal desaturative lactonization of aliphatic acids",
+          "url": "https://www.nature.com/articles/s41586-026-10826-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "They knew the pill was fake but their memory still improved",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
+          "content": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 25 Jun 2026 07:23:11 EDT",
+          "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo o..."
+        },
+        {
+          "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
+          "content": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don't happen in a single season—they emerge as decades of evidence slowly come together.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 25 Jun 2026 03:41:52 EDT",
+          "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeolo..."
+        },
+        {
+          "title": "Planet orbits so close to its star that their magnetic fields connect",
+          "url": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
+          "content": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 25 Jun 2026 18:00:39 +0000",
+          "summary": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens...."
+        },
+        {
+          "title": "The \"sad inevitability\" of Europe's heat wave",
+          "url": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
+          "content": "Europeans are baking under their second heat wave of the summer.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 25 Jun 2026 13:54:46 +0000",
+          "summary": "Europeans are baking under their second heat wave of the summer...."
+        }
+      ],
+      "generatedAt": "2026-06-26T05:49:12.090Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Libre Barcode Project",
+          "url": "https://graphicore.github.io/librebarcode/",
+          "content": "Article URL: https://graphicore.github.io/librebarcode/\nComments URL: https://news.ycombinator.com/item?id=48681949\nPoints: 54\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 26 Jun 2026 03:12:42 +0000",
+          "summary": "Article URL: https://graphicore.github.io/librebarcode/\nComments URL: https://news.ycombinator.com/item?id=48681949\nPoints: 54\n# Comments: 3..."
+        },
+        {
+          "title": "What happened after 2k people tried to hack my AI assistant",
+          "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+          "content": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/\nComments URL: https://news.ycombinator.com/item?id=48681687\nPoints: 48\n# Comments: 11",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 26 Jun 2026 02:29:23 +0000",
+          "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/\nComments URL: https://news.ycombinator.com/item?id=48681687\nPoints: 48\n# Comments: 11..."
+        },
+        {
+          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "content": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 25 Jun 2026 23:34:39 +0000",
+          "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to...."
+        },
+        {
+          "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+          "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+          "content": "YouTube Shorts is getting a makeover.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 25 Jun 2026 22:02:12 +0000",
+          "summary": "YouTube Shorts is getting a makeover...."
+        }
+      ],
+      "generatedAt": "2026-06-26T05:49:13.286Z"
+    }
+  ]
+}
