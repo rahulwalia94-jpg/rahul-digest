@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-27T05:29:16.775Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Developing a house price-at-risk framework for the UK",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 26 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Monetary transmission to firm-level research and development",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/monetary-transmission-to-firm-level-r-and-d",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 26 Jun 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-27T05:29:11.518Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Run a vLLM Server on HF Jobs in One Command",
+          "url": "https://huggingface.co/blog/vllm-jobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 26 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Which tokens does a hybrid model predict better?",
+          "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 25 Jun 2026 16:11:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing computer use in Gemini 3.5 Flash",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 24 Jun 2026 16:30:01 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+          "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 26 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figu..."
+        },
+        {
+          "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+          "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+          "content": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 26 Jun 2026 09:00:00 +0000",
+          "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather a..."
+        }
+      ],
+      "generatedAt": "2026-06-27T05:29:12.970Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Baltic states urge EU to speed up ban on Russian oil imports",
+          "url": "https://www.ft.com/content/573aa813-43c1-4c2c-aa1d-72f05af960ab",
+          "content": "Talks about the phaseout stalled after the closure of the Strait of Hormuz sparked concerns of an energy supply crisis",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 27 Jun 2026 04:00:51 GMT",
+          "summary": "Talks about the phaseout stalled after the closure of the Strait of Hormuz sparked concerns of an energy supply crisis..."
+        },
+        {
+          "title": "Burnham catches a bit of luck with gilts",
+          "url": "https://www.ft.com/content/53bb6634-2e9b-45ed-a505-4242a7342ac7",
+          "content": "Global bond markets have rallied, easing pressure on UK’s prime minister-in-waiting",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 27 Jun 2026 04:00:45 GMT",
+          "summary": "Global bond markets have rallied, easing pressure on UK’s prime minister-in-waiting..."
+        },
+        {
+          "title": "\n        Will AI lower interest rates?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
+          "content": "Kevin Warsh is drawing lessons about tech from Alan Greenspan—but selectively",
+          "source": "The Economist",
+          "publishedAt": "Thu, 25 Jun 2026 09:39:49 +0000",
+          "summary": "Kevin Warsh is drawing lessons about tech from Alan Greenspan—but selectively..."
+        },
+        {
+          "title": "\n        Waiving sanctions on Iranian oil is a huge concession by America\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+          "content": "It will enrich an adversary",
+          "source": "The Economist",
+          "publishedAt": "Tue, 23 Jun 2026 19:52:15 +0000",
+          "summary": "It will enrich an adversary..."
+        },
+        {
+          "title": "U.S. crude oil climbs back above $70 after strike on Iran",
+          "url": "https://seekingalpha.com/news/4607863-us-crude-oil-climbs-back-above-70-after-strike-on-iran?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 26 Jun 2026 19:30:07 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "AbbVie's Skyrizi gains pediatric psoriatic disease indication",
+          "url": "https://seekingalpha.com/news/4607862-abbvie-skyrizi-gains-pediatric-psoriatic-disease-indication?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 26 Jun 2026 18:05:20 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "F&amp;O Talk: Nifty to remain rangebound, says Sudeep Shah; picks 8 stocks for next week ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-to-remain-rangebound-says-sudeep-shah-picks-8-stocks-for-next-week/articleshow/132028803.cms",
+          "content": "Indian stock markets concluded the week with modest gains, as Sensex and Nifty erased earlier surges on monthly expiry day. Analysts observe Nifty's consolidation, with key support at 23,750-23,800 and resistance at 24,250-24,300. Bank Nifty shows outperformance, eyeing 58,800 for further upside. Derivatives data suggests improving sentiment, with FIIs reducing bearish bets. Sectors like Private Banks, Auto, and Pharma appear strong.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 27 Jun 2026 10:18:29 +0530",
+          "summary": "Indian stock markets concluded the week with modest gains, as Sensex and Nifty erased earlier surges on monthly expiry day. Analysts observe Nifty's consolidation, with key support at 23,750-23,800 an..."
+        },
+        {
+          "title": "AI rout exposes Wall Street's $270 billion speculation machine ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rout-exposes-wall-streets-270-billion-speculation-machine/articleshow/132028641.cms",
+          "content": "A recent tech sell-off exposed how modern speculation amplifies both rallies and reversals. Retail investors' enthusiasm for leveraged products tied to AI chips and SpaceX, alongside financial engineering in crypto, led to rapid gains and equally swift losses. These products, designed for faster, more concentrated bets, are increasingly shaping market dynamics, bringing a casino-like element to trading and posing significant risks for unsophisticated investors.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 27 Jun 2026 10:02:41 +0530",
+          "summary": "A recent tech sell-off exposed how modern speculation amplifies both rallies and reversals. Retail investors' enthusiasm for leveraged products tied to AI chips and SpaceX, alongside financial enginee..."
+        }
+      ],
+      "generatedAt": "2026-06-27T05:29:14.437Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
+          "url": "https://www.nature.com/articles/d41586-026-02059-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-26T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-02055-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-26T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
+          "content": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Einstein Probe space telescope caught the explosion in its earliest moments, revealing an unusual sequence of intense X-ray flashes unlike anything seen in a typical gamma-ray burst.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 25 Jun 2026 21:05:03 EDT",
+          "summary": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Eins..."
+        },
+        {
+          "title": "They knew the pill was fake but their memory still improved",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
+          "content": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 25 Jun 2026 07:23:11 EDT",
+          "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo o..."
+        },
+        {
+          "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
+          "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
+          "content": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 26 Jun 2026 17:46:07 +0000",
+          "summary": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"..."
+        },
+        {
+          "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+          "url": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+          "content": "Rock weathering may release or draw down carbon dioxide—it depends on the rock.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 26 Jun 2026 14:41:18 +0000",
+          "summary": "Rock weathering may release or draw down carbon dioxide—it depends on the rock...."
+        }
+      ],
+      "generatedAt": "2026-06-27T05:29:15.444Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "WordStar: A Writer's Word Processor (1996)",
+          "url": "https://www.sfwriter.com/wordstar.htm",
+          "content": "Article URL: https://www.sfwriter.com/wordstar.htm\nComments URL: https://news.ycombinator.com/item?id=48694853\nPoints: 15\n# Comments: 8",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 27 Jun 2026 03:30:01 +0000",
+          "summary": "Article URL: https://www.sfwriter.com/wordstar.htm\nComments URL: https://news.ycombinator.com/item?id=48694853\nPoints: 15\n# Comments: 8..."
+        },
+        {
+          "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
+          "url": "https://news.ycombinator.com/item?id=48694802",
+          "content": "For those who are using llms on macbook, Want to understand how macbook is different than dedicated GPU in running those models? and how to know how much a macbook is capable of running a model?\nComments URL: https://news.ycombinator.com/item?id=48694802\nPoints: 17\n# Comments: 28",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 27 Jun 2026 03:17:43 +0000",
+          "summary": "For those who are using llms on macbook, Want to understand how macbook is different than dedicated GPU in running those models? and how to know how much a macbook is capable of running a model?\nComme..."
+        },
+        {
+          "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+          "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+          "content": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 27 Jun 2026 01:01:37 +0000",
+          "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees...."
+        },
+        {
+          "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+          "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+          "content": "Mesh came out of stealth in February with a $50 million Series A.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 27 Jun 2026 00:38:34 +0000",
+          "summary": "Mesh came out of stealth in February with a $50 million Series A...."
+        }
+      ],
+      "generatedAt": "2026-06-27T05:29:16.775Z"
+    }
+  ]
+}
