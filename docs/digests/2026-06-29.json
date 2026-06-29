@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-29T06:17:09.648Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Developing a house price-at-risk framework for the UK",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 26 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Monetary transmission to firm-level research and development",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/monetary-transmission-to-firm-level-r-and-d",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 26 Jun 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-29T06:17:03.557Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Run a vLLM Server on HF Jobs in One Command",
+          "url": "https://huggingface.co/blog/vllm-jobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 26 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Which tokens does a hybrid model predict better?",
+          "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 25 Jun 2026 16:11:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing computer use in Gemini 3.5 Flash",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 24 Jun 2026 16:30:01 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+          "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 26 Jun 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figu..."
+        },
+        {
+          "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+          "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+          "content": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 26 Jun 2026 09:00:00 +0000",
+          "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather a..."
+        }
+      ],
+      "generatedAt": "2026-06-29T06:17:05.091Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Europe risks starting winter with gas stocks at 15-year low",
+          "url": "https://www.ft.com/content/06304ad6-3841-4d5a-933a-6e750f536eaf",
+          "content": "Storage facilities in the EU are not being refilled fast enough ahead of colder months",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 29 Jun 2026 04:00:28 GMT",
+          "summary": "Storage facilities in the EU are not being refilled fast enough ahead of colder months..."
+        },
+        {
+          "title": "Virgin Media O2 bonds slide as broadband rivals squeeze cash flow",
+          "url": "https://www.ft.com/content/25d510cc-366e-4938-be2b-1553e587684d",
+          "content": "Telecoms group’s bonds tumble as altnets take market share and investors fret over £2bn Netomnia deal",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 29 Jun 2026 04:00:28 GMT",
+          "summary": "Telecoms group’s bonds tumble as altnets take market share and investors fret over £2bn Netomnia deal..."
+        },
+        {
+          "title": "\n        China cracks down on rule-bending offshore investments\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments",
+          "content": "It wants mainland investors to bet on its own tech dreams not America’s",
+          "source": "The Economist",
+          "publishedAt": "Sun, 28 Jun 2026 10:33:26 +0000",
+          "summary": "It wants mainland investors to bet on its own tech dreams not America’s..."
+        },
+        {
+          "title": "\n        Will AI lower interest rates?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
+          "content": "Kevin Warsh is drawing lessons about tech from Alan Greenspan—but selectively",
+          "source": "The Economist",
+          "publishedAt": "Thu, 25 Jun 2026 09:39:49 +0000",
+          "summary": "Kevin Warsh is drawing lessons about tech from Alan Greenspan—but selectively..."
+        },
+        {
+          "title": "Redwood AI signs definitive agreement to acquire Quantum.IQ",
+          "url": "https://seekingalpha.com/news/4607927-redwood-ai-signs-definitive-agreement-to-acquire-quantumiq?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 29 Jun 2026 02:10:42 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "BT Group, Verizon merge international enterprise units to scale global connectivity",
+          "url": "https://seekingalpha.com/news/4607930-bt-group-verizon-merge-international-enterprise-units-to-scale-global-connectivity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 29 Jun 2026 02:09:59 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "US Stock Market: Warsh faces crucial week with court ruling, global debut in focus ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-warsh-faces-crucial-week-with-court-ruling-global-debut-in-focus/articleshow/132064200.cms",
+          "content": "Federal Reserve Chair Kevin Warsh faces a crucial week. The Supreme Court's decision on Governor Lisa Cook's removal will test the central bank's independence. Simultaneously, Warsh will present his new communication strategy, shifting away from explicit forward guidance, at a major international forum in Portugal. This approach, emphasizing data-driven decisions, contrasts with other central banks and carries global implications due to the dollar's dominance.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 29 Jun 2026 11:20:14 +0530",
+          "summary": "Federal Reserve Chair Kevin Warsh faces a crucial week. The Supreme Court's decision on Governor Lisa Cook's removal will test the central bank's independence. Simultaneously, Warsh will present his n..."
+        },
+        {
+          "title": "Hexaware Technologies shares jump 8% after securing Anthropic authorised reseller status for Amazon Bedrock ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hexaware-technologies-shares-jump-8-after-securing-anthropic-authorised-reseller-status-for-amazon-bedrock/articleshow/132064151.cms",
+          "content": "Hexaware Technologies shares rose sharply on Monday after the IT services company became an Anthropic Authorised Reseller for Amazon Bedrock. The designation allows Hexaware to sell, integrate and support Claude AI models for enterprises, strengthening its AI offerings and expanding its enterprise-focused generative AI capabilities across multiple industries.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 29 Jun 2026 11:17:32 +0530",
+          "summary": "Hexaware Technologies shares rose sharply on Monday after the IT services company became an Anthropic Authorised Reseller for Amazon Bedrock. The designation allows Hexaware to sell, integrate and sup..."
+        }
+      ],
+      "generatedAt": "2026-06-29T06:17:07.198Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
+          "url": "https://www.nature.com/articles/d41586-026-02059-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-26T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-02055-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-26T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
+          "content": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come to exist.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 26 Jun 2026 21:09:31 EDT",
+          "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight a..."
+        },
+        {
+          "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
+          "content": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Einstein Probe space telescope caught the explosion in its earliest moments, revealing an unusual sequence of intense X-ray flashes unlike anything seen in a typical gamma-ray burst.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 25 Jun 2026 21:05:03 EDT",
+          "summary": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Eins..."
+        },
+        {
+          "title": "Why did this journal retract two 1940s papers by Max Planck?",
+          "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+          "content": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 28 Jun 2026 18:49:21 +0000",
+          "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”..."
+        },
+        {
+          "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
+          "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
+          "content": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 26 Jun 2026 17:46:07 +0000",
+          "summary": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"..."
+        }
+      ],
+      "generatedAt": "2026-06-29T06:17:08.429Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Lore – give your coding agent the decisions your team made",
+          "url": "https://github.com/itsthelore/rac-core",
+          "content": "Article URL: https://github.com/itsthelore/rac-core\nComments URL: https://news.ycombinator.com/item?id=48714880\nPoints: 7\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 29 Jun 2026 04:40:35 +0000",
+          "summary": "Article URL: https://github.com/itsthelore/rac-core\nComments URL: https://news.ycombinator.com/item?id=48714880\nPoints: 7\n# Comments: 1..."
+        },
+        {
+          "title": "Herdr: Agent multiplexer that lives in your terminal",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "content": "Article URL: https://github.com/ogulcancelik/herdr\nComments URL: https://news.ycombinator.com/item?id=48714802\nPoints: 17\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 29 Jun 2026 04:27:46 +0000",
+          "summary": "Article URL: https://github.com/ogulcancelik/herdr\nComments URL: https://news.ycombinator.com/item?id=48714802\nPoints: 17\n# Comments: 1..."
+        },
+        {
+          "title": "California law targeting loud streaming ads takes effect on July 1",
+          "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+          "content": "Streaming ads might be getting a lot quieter.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 28 Jun 2026 21:34:14 +0000",
+          "summary": "Streaming ads might be getting a lot quieter...."
+        },
+        {
+          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "content": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 28 Jun 2026 19:05:39 +0000",
+          "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”..."
+        }
+      ],
+      "generatedAt": "2026-06-29T06:17:09.648Z"
+    }
+  ]
+}
