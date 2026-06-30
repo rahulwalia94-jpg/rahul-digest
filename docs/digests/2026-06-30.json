@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T05:46:46.246Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Developing a house price-at-risk framework for the UK",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 26 Jun 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Monetary transmission to firm-level research and development",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/monetary-transmission-to-firm-level-r-and-d",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 26 Jun 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-06-30T05:46:37.448Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "DiScoFormer: One transformer for density and score, across distributions",
+          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 29 Jun 2026 18:02:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Run a vLLM Server on HF Jobs in One Command",
+          "url": "https://huggingface.co/blog/vllm-jobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 26 Jun 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing computer use in Gemini 3.5 Flash",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 24 Jun 2026 16:30:01 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+        },
+        {
+          "title": "AI agents are not your “coworkers”",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 29 Jun 2026 18:00:00 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r..."
+        },
+        {
+          "title": "Agent confidence on the technical frontier",
+          "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+          "content": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 29 Jun 2026 14:44:01 +0000",
+          "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount..."
+        }
+      ],
+      "generatedAt": "2026-06-30T05:46:38.772Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Figuring out the Fed in the ‘say less’ era",
+          "url": "https://www.ft.com/content/3bf7ec7e-63e4-4fd6-b43c-15259c48f3ad",
+          "content": "Plus, small-cap vulnerabilities",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 30 Jun 2026 05:30:05 GMT",
+          "summary": "Plus, small-cap vulnerabilities..."
+        },
+        {
+          "title": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
+          "url": "https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174",
+          "content": "Investors switch to soaring chipmakers benefiting from hyperscalers’ vast AI spending",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 30 Jun 2026 04:00:18 GMT",
+          "summary": "Investors switch to soaring chipmakers benefiting from hyperscalers’ vast AI spending..."
+        },
+        {
+          "title": "\n        Turkey’s economic plan to win from the Iran war\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war",
+          "content": "The country is a case study in the spillovers of conflict—both positive and negative",
+          "source": "The Economist",
+          "publishedAt": "Mon, 29 Jun 2026 20:52:26 +0000",
+          "summary": "The country is a case study in the spillovers of conflict—both positive and negative..."
+        },
+        {
+          "title": "\n        China cracks down on rule-bending offshore investments\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments",
+          "content": "It wants mainland investors to bet on its own tech dreams not America’s",
+          "source": "The Economist",
+          "publishedAt": "Sun, 28 Jun 2026 10:33:26 +0000",
+          "summary": "It wants mainland investors to bet on its own tech dreams not America’s..."
+        },
+        {
+          "title": "Intrusion acquires VigilAigent, adding $3.5M ARR",
+          "url": "https://seekingalpha.com/news/4608291-intrusion-acquires-vigilaigent-addding-35m-arr?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 30 Jun 2026 01:35:14 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "GXO Logistics secures five-year transport pact extension with Co-op",
+          "url": "https://seekingalpha.com/news/4608300-gxo-logistics-secures-five-year-transport-pact-extension-with-co-op?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 30 Jun 2026 01:30:02 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Delayed monsoon may weigh on auto demand, but long-term outlook stays strong: Aditya Shah ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/delayed-monsoon-may-weigh-on-auto-demand-but-long-term-outlook-stays-strong-aditya-shah/articleshow/132084569.cms",
+          "content": "A delayed monsoon poses a temporary challenge to rural auto demand, particularly for tractors and two-wheelers, but the sector's long-term outlook remains robust. Experts highlight auto ancillaries as a key growth area, with electric mobility a significant long-term theme.  Financials, especially Kotak Mahindra Bank and private sector lenders, along with chemicals and pharma, are also favored for their investment potential.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 30 Jun 2026 10:47:45 +0530",
+          "summary": "A delayed monsoon poses a temporary challenge to rural auto demand, particularly for tractors and two-wheelers, but the sector's long-term outlook remains robust. Experts highlight auto ancillaries as..."
+        },
+        {
+          "title": "KEC International shares climb 7% on Rs 1,754 crore order win ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/kec-international-shares-climb-7-on-rs-1754-crore-order-win/articleshow/132084583.cms",
+          "content": "KEC International shares rose nearly 7% on Tuesday after the infrastructure EPC firm announced fresh orders worth Rs 1,754 crore across its Transmission & Distribution and Cables & Conductors businesses. The stock gained on strong order inflows, including overseas wins. The RPG Group company said the contracts span multiple segments, boosting visibility.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 30 Jun 2026 10:45:58 +0530",
+          "summary": "KEC International shares rose nearly 7% on Tuesday after the infrastructure EPC firm announced fresh orders worth Rs 1,754 crore across its Transmission & Distribution and Cables & Conductors business..."
+        }
+      ],
+      "generatedAt": "2026-06-30T05:46:40.920Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
+          "url": "https://www.nature.com/articles/s41586-026-10815-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Audio long read: Is the peptide craze backed by science? The promise behind the hype",
+          "url": "https://www.nature.com/articles/d41586-026-02063-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "These tiny soil microbes could rescue crops from salty farmland",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+          "content": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and field tests showed healthier plants and higher yields in salty conditions. The findings could lead to bio-based treatments that help farmers grow crops on land once considered too salty for agriculture.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 28 Jun 2026 21:21:44 EDT",
+          "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of..."
+        },
+        {
+          "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
+          "content": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come to exist.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 26 Jun 2026 21:09:31 EDT",
+          "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight a..."
+        },
+        {
+          "title": "US renewable boom passes key milestone in April",
+          "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+          "content": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 29 Jun 2026 20:12:30 +0000",
+          "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US...."
+        },
+        {
+          "title": "Ozone loss was a thing even before CFCs were widely used",
+          "url": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
+          "content": "With today’s scientific tools, the problem could have been spotted in the 1950s.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 29 Jun 2026 19:00:23 +0000",
+          "summary": "With today’s scientific tools, the problem could have been spotted in the 1950s...."
+        }
+      ],
+      "generatedAt": "2026-06-30T05:46:45.038Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Popping the GPU Bubble",
+          "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+          "content": "Article URL: https://moondream.ai/blog/popping-the-gpu-bubble\nComments URL: https://news.ycombinator.com/item?id=48728729\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 30 Jun 2026 05:14:35 +0000",
+          "summary": "Article URL: https://moondream.ai/blog/popping-the-gpu-bubble\nComments URL: https://news.ycombinator.com/item?id=48728729\nPoints: 4\n# Comments: 0..."
+        },
+        {
+          "title": "Study suggests most Americans would be healthier without daylight saving time",
+          "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
+          "content": "Article URL: https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html\nComments URL: https://news.ycombinator.com/item?id=48728294\nPoints: 18\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 30 Jun 2026 03:47:51 +0000",
+          "summary": "Article URL: https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html\nComments URL: https://news.ycombinator.com/item?id=48728294\nPoints: 18\n# Comments: 5..."
+        },
+        {
+          "title": "The AI jobs debate just got messier",
+          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+          "content": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 30 Jun 2026 04:01:00 +0000",
+          "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs...."
+        },
+        {
+          "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+          "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+          "content": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 30 Jun 2026 02:28:41 +0000",
+          "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models...."
+        }
+      ],
+      "generatedAt": "2026-06-30T05:46:46.246Z"
+    }
+  ]
+}
