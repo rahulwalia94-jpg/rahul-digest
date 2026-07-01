@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-01",
+  "generatedAt": "2026-07-01T06:05:59.295Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Consolidated balance sheet - 31 March 2025",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-31-march-2025",
+          "content": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 30 Jun 2026 14:00:00 +0100",
+          "summary": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier...."
+        },
+        {
+          "title": "Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers",
+          "url": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
+          "content": "Approach document",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 30 Jun 2026 09:00:00 +0100",
+          "summary": "Approach document..."
+        }
+      ],
+      "generatedAt": "2026-07-01T06:05:53.123Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 30 Jun 2026 18:32:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Why Specialization Is Inevitable",
+          "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 30 Jun 2026 14:39:11 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 30 Jun 2026 16:02:40 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing computer use in Gemini 3.5 Flash",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 24 Jun 2026 16:30:01 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Claude Science is Anthropic’s newest flagship product",
+          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "content": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 30 Jun 2026 21:50:04 +0000",
+          "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way..."
+        },
+        {
+          "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+          "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+          "content": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 30 Jun 2026 17:36:48 +0000",
+          "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimenta..."
+        }
+      ],
+      "generatedAt": "2026-07-01T06:05:54.799Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "The job market is reaccelerating. Is the economy? ",
+          "url": "https://www.ft.com/content/fa6c5f15-a19c-4c29-bb5e-f9d1b8dfa029",
+          "content": "Plus the bitcoin clown car company crash",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 01 Jul 2026 05:30:03 GMT",
+          "summary": "Plus the bitcoin clown car company crash..."
+        },
+        {
+          "title": "Japan’s ‘Mr Yen’ keeps market guessing on currency intervention",
+          "url": "https://www.ft.com/content/6752b294-812e-48ea-a1c4-404953ead4fb",
+          "content": "Traders believe Japanese authorities have changed tactics after yen hit 40-year low against dollar",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 01 Jul 2026 05:13:39 GMT",
+          "summary": "Traders believe Japanese authorities have changed tactics after yen hit 40-year low against dollar..."
+        },
+        {
+          "title": "\n        A new Plaza Accord for global currencies wouldn’t work\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work",
+          "content": "The conditions and will for a deal are not what they were in 1985",
+          "source": "The Economist",
+          "publishedAt": "Tue, 30 Jun 2026 19:46:45 +0000",
+          "summary": "The conditions and will for a deal are not what they were in 1985..."
+        },
+        {
+          "title": "\n        Turkey’s economic plan to win from the Iran war\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war",
+          "content": "The country is a case study in the spillovers of conflict—both positive and negative",
+          "source": "The Economist",
+          "publishedAt": "Mon, 29 Jun 2026 20:52:26 +0000",
+          "summary": "The country is a case study in the spillovers of conflict—both positive and negative..."
+        },
+        {
+          "title": "Australia's manufacturing PMI hits 5-month high of 51.5 in June",
+          "url": "https://seekingalpha.com/news/4608700-australias-manufacturing-pmi-hits-5-month-high-of-515-in-june?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 01 Jul 2026 01:54:19 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Taiwan passes bill to regulate crypto firms and stablecoins",
+          "url": "https://seekingalpha.com/news/4608711-taiwan-passes-bill-to-regulate-crypto-exchanges-and-stablecoins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 01 Jul 2026 01:47:12 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "India bonds rise as index-entry hopes counter rise in US yields ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-index-entry-hopes-counter-rise-in-us-yields/articleshow/132107374.cms",
+          "content": "Indian government bonds saw gains as anticipation of Bloomberg index inclusion and improved liquidity bolstered prices. Despite higher U.S. yields and rising oil due to geopolitical tensions, traders are optimistic. Foreign investors have significantly boosted purchases of Fully Accessible Route bonds, driven by expectations of their inclusion in global indices. Market sentiment hinges on monsoon progress and global stability for further rallies.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 01 Jul 2026 11:28:27 +0530",
+          "summary": "Indian government bonds saw gains as anticipation of Bloomberg index inclusion and improved liquidity bolstered prices. Despite higher U.S. yields and rising oil due to geopolitical tensions, traders ..."
+        },
+        {
+          "title": "Only 1/5th the size of NSE? Why Jefferies predicts 27% upside for this near-monopoly stock ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/only-1/5th-the-size-of-nse-why-jefferies-predicts-27-upside-for-this-near-monopoly-stock/articleshow/132107361.cms",
+          "content": "Jefferies has initiated coverage on MCX with a Buy rating and a target price of Rs 3,600, implying 27% upside. The brokerage expects strong earnings growth, driven by rising retail participation in commodity derivatives, new product launches, and multiple growth catalysts, while highlighting the exchange’s near-monopoly position in non-agri contracts.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 01 Jul 2026 11:27:23 +0530",
+          "summary": "Jefferies has initiated coverage on MCX with a Buy rating and a target price of Rs 3,600, implying 27% upside. The brokerage expects strong earnings growth, driven by rising retail participation in co..."
+        }
+      ],
+      "generatedAt": "2026-07-01T06:05:56.902Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Vaccination elicits HIV broadly neutralizing antibodies in primates",
+          "url": "https://www.nature.com/articles/s41586-026-10837-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Retraction Note: NSD2 targeting reverses plasticity and drug resistance in prostate cancer",
+          "url": "https://www.nature.com/articles/s41586-026-10816-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-06-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+          "content": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 30 Jun 2026 03:21:06 EDT",
+          "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages bef..."
+        },
+        {
+          "title": "Scientists say creatine may help fight depression",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
+          "content": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 30 Jun 2026 02:28:57 EDT",
+          "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined fi..."
+        },
+        {
+          "title": "June research roundup: 6 cool science stories we almost missed",
+          "url": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
+          "content": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 30 Jun 2026 22:11:10 +0000",
+          "summary": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint...."
+        },
+        {
+          "title": "Florida bans local governments from pursuing net-zero emissions goals",
+          "url": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
+          "content": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 30 Jun 2026 13:40:16 +0000",
+          "summary": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"..."
+        }
+      ],
+      "generatedAt": "2026-07-01T06:05:58.222Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+          "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+          "content": "Article URL: https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/\nComments URL: https://news.ycombinator.com/item?id=48742514\nPoints: 13\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 01 Jul 2026 05:13:22 +0000",
+          "summary": "Article URL: https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/\nComments URL: https://news.ycombinator.com/item?id=48742514\nPoints: 13\n# Comments: 0..."
+        },
+        {
+          "title": "The first early human eggs from stem cells",
+          "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+          "content": "Article URL: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells\nComments URL: https://news.ycombinator.com/item?id=48742483\nPoints: 25\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 01 Jul 2026 05:09:30 +0000",
+          "summary": "Article URL: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells\nComments URL: https://news.ycombinator.com/item?id=48742483\nPoints: 25\n# Comments: 2..."
+        },
+        {
+          "title": "The ‘Father of the Internet’ is finally retiring",
+          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+          "content": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 01 Jul 2026 03:15:37 +0000",
+          "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week...."
+        },
+        {
+          "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "content": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 01 Jul 2026 02:16:06 +0000",
+          "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases...."
+        }
+      ],
+      "generatedAt": "2026-07-01T06:05:59.295Z"
+    }
+  ]
+}
