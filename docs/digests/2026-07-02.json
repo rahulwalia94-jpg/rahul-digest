@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T05:33:40.519Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Consolidated balance sheet - 31 March 2025",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-31-march-2025",
+          "content": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 30 Jun 2026 14:00:00 +0100",
+          "summary": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier...."
+        },
+        {
+          "title": "Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers",
+          "url": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
+          "content": "Approach document",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 30 Jun 2026 09:00:00 +0100",
+          "summary": "Approach document..."
+        }
+      ],
+      "generatedAt": "2026-07-02T05:33:30.928Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 01 Jul 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 30 Jun 2026 18:32:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 30 Jun 2026 16:02:40 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing computer use in Gemini 3.5 Flash",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 24 Jun 2026 16:30:01 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+          "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+          "content": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 01 Jul 2026 14:35:16 +0000",
+          "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll..."
+        },
+        {
+          "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+          "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 01 Jul 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an ev..."
+        }
+      ],
+      "generatedAt": "2026-07-02T05:33:32.263Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "‘China’s Instagram’ targets male users as RedNote readies for IPO",
+          "url": "https://www.ft.com/content/bed4b1c8-6345-4a89-b356-4479783a9157",
+          "content": "Social media platform Xiaohongshu accelerates plans for Hong Kong listing",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 02 Jul 2026 01:53:23 GMT",
+          "summary": "Social media platform Xiaohongshu accelerates plans for Hong Kong listing..."
+        },
+        {
+          "title": "Trump made up to $1.4bn in stock purchases in 2025",
+          "url": "https://www.ft.com/content/9067f454-a2f3-43da-bb0e-7f3015ce3bf5",
+          "content": "FT analysis shows US president declared more than 22,000 share transactions last year",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 01 Jul 2026 21:26:05 GMT",
+          "summary": "FT analysis shows US president declared more than 22,000 share transactions last year..."
+        },
+        {
+          "title": "\n        A new Plaza Accord for global currencies wouldn’t work\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work",
+          "content": "The conditions and will for a deal are not what they were in 1985",
+          "source": "The Economist",
+          "publishedAt": "Tue, 30 Jun 2026 19:46:45 +0000",
+          "summary": "The conditions and will for a deal are not what they were in 1985..."
+        },
+        {
+          "title": "\n        Turkey’s economic plan to win from the Iran war\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war",
+          "content": "The country is a case study in the spillovers of conflict—both positive and negative",
+          "source": "The Economist",
+          "publishedAt": "Mon, 29 Jun 2026 20:52:26 +0000",
+          "summary": "The country is a case study in the spillovers of conflict—both positive and negative..."
+        },
+        {
+          "title": "Bayer announces consolidation of U.S. glyphosate business into newly formed 'Ruveon LLC'",
+          "url": "https://seekingalpha.com/news/4609521-bayer-announces-consolidation-of-us-glyphosate-business-into-newly-formed-ruveon-llc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 02 Jul 2026 01:17:38 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "ARMOUR Residential REIT, Inc. 7% SER C CUM PFD declares $0.1458 dividend",
+          "url": "https://seekingalpha.com/news/4609534-armour-residential-reit-inc-7-percent-ser-c-cum-pfd-declares-0_1458-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 02 Jul 2026 01:15:50 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Tamilnad Mercantile Bank shares surge 5% after strong Q1FY27 business update ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/tamilnad-mercantile-bank-shares-surge-5-after-strong-q1fy27-business-update/articleshow/132129770.cms",
+          "content": "Tamilnad Mercantile Bank shares rose sharply on Thursday after the lender reported strong Q1FY27 business growth. Total business rose 23% year-on-year, driven by a 27% jump in advances and nearly 20% growth in deposits. Rising institutional ownership and a bullish technical setup further supported investor sentiment toward the stock.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 02 Jul 2026 10:54:10 +0530",
+          "summary": "Tamilnad Mercantile Bank shares rose sharply on Thursday after the lender reported strong Q1FY27 business growth. Total business rose 23% year-on-year, driven by a 27% jump in advances and nearly 20% ..."
+        },
+        {
+          "title": "India's private credit market doubles to $25 billion AUM in five years: Report ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-private-credit-market-doubles-to-25-billion-aum-in-five-years-report/articleshow/132129712.cms",
+          "content": "India's private credit market is booming, nearly doubling to $25 billion in assets under management over five years, fueled by strong business demand.  The Insolvency and Bankruptcy Code has boosted lender confidence, enabling financing for stressed firms.  Real estate and infrastructure sectors are key beneficiaries.  While global investors are increasing their participation, potential liquidity risks loom, as highlighted by past crises.  Despite challenges, significant growth is anticipated.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 02 Jul 2026 10:51:19 +0530",
+          "summary": "India's private credit market is booming, nearly doubling to $25 billion in assets under management over five years, fueled by strong business demand.  The Insolvency and Bankruptcy Code has boosted l..."
+        }
+      ],
+      "generatedAt": "2026-07-02T05:33:34.361Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Togetherness: How co-operation built the world",
+          "url": "https://www.nature.com/articles/d41586-026-02067-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Backreaction of stimulated Hawking radiation in an optical analogue",
+          "url": "https://www.nature.com/articles/s41586-026-10720-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists discover a completely different way to fight viruses",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+          "content": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 30 Jun 2026 16:18:00 EDT",
+          "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to comba..."
+        },
+        {
+          "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+          "content": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 30 Jun 2026 03:21:06 EDT",
+          "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages bef..."
+        },
+        {
+          "title": "US home battery installations hit record high on rising electricity costs",
+          "url": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
+          "content": "Record home battery installations unlock options for grids—and AI data centers.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 01 Jul 2026 19:11:15 +0000",
+          "summary": "Record home battery installations unlock options for grids—and AI data centers...."
+        },
+        {
+          "title": "Superworms could replace beetles for cleaning skeletal remains",
+          "url": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+          "content": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 01 Jul 2026 18:59:21 +0000",
+          "summary": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage...."
+        }
+      ],
+      "generatedAt": "2026-07-02T05:33:39.588Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "url": "https://senior-swe-bench.snorkel.ai/",
+          "content": "Article URL: https://senior-swe-bench.snorkel.ai/\nComments URL: https://news.ycombinator.com/item?id=48755928\nPoints: 43\n# Comments: 22",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 02 Jul 2026 02:55:16 +0000",
+          "summary": "Article URL: https://senior-swe-bench.snorkel.ai/\nComments URL: https://news.ycombinator.com/item?id=48755928\nPoints: 43\n# Comments: 22..."
+        },
+        {
+          "title": "Bring back crappy forums",
+          "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+          "content": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/\nComments URL: https://news.ycombinator.com/item?id=48755731\nPoints: 107\n# Comments: 69",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 02 Jul 2026 02:30:16 +0000",
+          "summary": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/\nComments URL: https://news.ycombinator.com/item?id=48755731\nPoints: 107\n# Comments: 69..."
+        },
+        {
+          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+          "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+          "content": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 02 Jul 2026 05:30:00 +0000",
+          "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI...."
+        },
+        {
+          "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+          "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+          "content": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 01 Jul 2026 23:57:55 +0000",
+          "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest...."
+        }
+      ],
+      "generatedAt": "2026-07-02T05:33:40.519Z"
+    }
+  ]
+}
