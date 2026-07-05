@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-05T05:41:41.369Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Monthly Decision Maker Panel data - June 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/june-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 03 Jul 2026 09:30:00 +0100",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nUK CFO sentiment from DMP June 2026 signals real-time business confidence and capex/hiring intentions—critical leading indicator for GDP growth, unemployment, and default probability calibration in PD models. Deteriorating DMP scores typically precede credit cycle turning points, impacting ECL provisions and regulatory capital adequacy; conversely, strength supports lower Stage 2 migrations and improved LGD recovery assumptions."
+        },
+        {
+          "title": "Bank of England Weekly Report 1 July 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/1-july-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 02 Jul 2026 15:00:00 +0100",
+          "summary": "**Credit Risk & Regulatory Summary:**\n\nBoE weekly asset/liability disclosures provide real-time ECL model inputs (tenor, collateral haircuts, counterparty spreads) and early signals on PD/LGD migration; weekly cadence enables dynamic IFRS 9 staging re-assessment and stress-test validation critical for regulatory capital adequacy reporting under PRA rules."
+        }
+      ],
+      "generatedAt": "2026-07-05T05:40:50.052Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 01 Jul 2026 00:00:00 GMT",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nReal-time voice AI infrastructure (Gemma 4 + Cerebras) accelerates enterprise adoption across banking, customer service, and embedded systems—reshaping labor economics and cloud computing demand while pressuring traditional NLP licensing models. Cerebras' inference efficiency gains signal architectural shift favoring custom silicon over GPU hyperscalers, with downstream implications for cloud margins and semiconductor capex cycles.\n\n**CREDIT RISK & ANALYTICS:**\nDemocratized real-time LLM inference reduces barriers to entry for fintech competitors and non-bank lenders; ECL model validation frameworks must now account for algorithmic bias in voice-based K"
+        },
+        {
+          "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 30 Jun 2026 18:32:50 GMT",
+          "summary": "**AI/ML + BREAKTHROUGHS:**\n\nScarfBench evaluates AI agents on enterprise Java migration—a proxy for AI maturity in mission-critical financial infrastructure modernization. Success here signals accelerating automation of legacy system refactoring, reducing tech debt cycles and enabling faster cloud migration for banking platforms; material for fintech disruption and operational efficiency gains across financial services."
+        },
+        {
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 03 Jul 2026 14:25:43 +0000",
+          "summary": "**MACRO/MARKETS:** DeepMind–A24 partnership signals AI's shift from compute/infrastructure into creative content production, reshaping entertainment sector economics and potentially fragmenting traditional studio valuations. Geopolitical implication: US AI leadership extending into soft power; watch for EU regulatory pushback on training data.\n\n**CREDIT RISK:** Limited direct IFRS 9 impact unless A24 debt holders face revenue volatility from AI-displaced traditional production. Monitor: entertainment sector PD/LGD assumptions; creative IP collateral valuations may require PMA adjustments if generative AI commoditizes content asset recovery values.\n\n**AI/ML:** Signals ML feasibility moving upstream"
+        },
+        {
+          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 30 Jun 2026 16:02:40 +0000",
+          "summary": "**AI/ML + BUILDER angle:**\nGoogle's Nano Banana 2 Lite and Gemini Omni Flash enable edge-deployed multimodal inference at sub-millisecond latency, critical for real-time fintech applications (mobile credit decisioning, fraud detection, trade signals). Cost-efficient on-device processing reduces cloud dependency—material for banking analytics workflows requiring low-latency PD/LGD scoring and embedded risk models in production apps."
+        },
+        {
+          "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
+          "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+          "content": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 03 Jul 2026 17:34:37 +0000",
+          "summary": "**BREAKTHROUGHS / HEALTHCARE BIOTECH:**\nOrgan preservation technology addresses $50B+ transplant market structural constraint—enabling whole-eye grafts shifts healthcare capex allocation and creates IP/licensing revenue streams for biotech players. Regulatory pathway (FDA device approval) becomes critical catalyst; success unlocks adjacent organ-preservation markets (kidney, liver, heart) with significant pharma/medtech sector rotation implications."
+        },
+        {
+          "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+          "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 03 Jul 2026 12:10:00 +0000",
+          "summary": "**AI & ML Research / Policy**\n\nUK tobacco ban signals regulatory shift toward behavioral/health externalities pricing—relevant for ESG-linked credit models and PD calibration in consumer finance. Content appears editorial/anecdotal rather than substantive research; limited direct banking analytics or macro market implications."
+        }
+      ],
+      "generatedAt": "2026-07-05T05:41:04.644Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Good vibes are masking a reset in markets",
+          "url": "https://www.ft.com/content/4787fc56-f131-4b3b-b90d-c22aa68e7354",
+          "content": "Stock market returns should not distract investors from the new AI trade taking hold",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 04 Jul 2026 04:00:43 GMT",
+          "summary": "**MACRO/MARKETS + AI/ML + CREDIT RISK:**\nEquity gains are masking structural rotation into AI-driven sectors, creating concentration risk and potential drawdown exposure—requires ECL model recalibration for sector-correlated PD/LGD, especially in displaced legacy industries. Implies portfolio stress-testing overhaul and heightened macro factor granularity in IFRS 9 scenarios."
+        },
+        {
+          "title": "As the tech bubble deflates, turn to old-fashioned valuation rules",
+          "url": "https://www.ft.com/content/ba383ce8-e65d-49d2-b236-c88d58b8a875",
+          "content": "Did SpaceX mark the moment the air started coming out? OFVRs will help you ride out the ensuing volatility",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 04 Jul 2026 04:00:21 GMT",
+          "summary": "**MACRO/MARKETS:** Tech valuation compression signals broader multiple normalization across growth equities; elevated rates and macro uncertainty favoring quality/dividend names over unprofitable growth. OFVR strategies (options-implied volatility rotation) provide tactical hedges during extended deleveraging cycles typical of bubble deflation phases."
+        },
+        {
+          "title": "\n        Is The Economist always wrong?\n      ",
+          "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+          "content": "We used artificial intelligence to test the accuracy of our forecasts",
+          "source": "The Economist",
+          "publishedAt": "Thu, 02 Jul 2026 14:22:37 +0000",
+          "summary": "**Economist validates forecast accuracy via AI audit—critical for macro modeling governance.** If systematic forecast bias exists across major publications, it undermines market-consensus assumptions underpinning PD/LGD calibrations, scenario design, and IFRS 9 ECL overlays; particularly relevant for emerging market and commodity-linked credit portfolios where consensus forecasts anchor stress testing frameworks."
+        },
+        {
+          "title": "\n        How much will a 4th of July cookout cost this year?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/02/how-much-will-a-4th-of-july-cookout-cost-this-year",
+          "content": "We calculate the rising price of Americans’ summer staples",
+          "source": "The Economist",
+          "publishedAt": "Thu, 02 Jul 2026 09:41:44 +0000",
+          "summary": "**Macro/Markets angle:** U.S. consumer inflation in discretionary categories (beef, beverages, grains) reflects persistent pricing power post-supply-chain normalization and commodity cycle dynamics—signals broader stagflation risks and Fed policy persistence affecting consumer spending elasticity and Q3 GDP growth trajectories."
+        },
+        {
+          "title": "U.S. outpacing China in fossil fuel spending for first time in decades - FT",
+          "url": "https://seekingalpha.com/news/4611515-us-outpacing-china-in-fossil-fuel-spending-for-first-time-in-decades---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 04 Jul 2026 21:25:29 -0400",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nU.S. fossil fuel capex surge (LNG export capacity, domestic infrastructure) reshapes global energy security and commodity cycles, with structural implications for EM debt sustainability and energy transition timelines affecting energy sector PD/LGD models. Signals potential long-term USD strength and inflation persistence, forcing ECL scenario recalibration across oil-linked sovereigns and corporates (Middle East, Russia, Africa)."
+        },
+        {
+          "title": "SA Asks: What's the best space stock play right now?",
+          "url": "https://seekingalpha.com/news/4611512-sa-asks-whats-the-best-space-stock-play-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 04 Jul 2026 16:02:16 -0400",
+          "summary": "**Macro/Markets angle:** Commercial space infrastructure (launches, orbital services, satellite comms) is consolidating around few winners; this sector benefits from telecom/defense capex cycles and emerging-market connectivity demand, but faces cyclicality risk and regulatory/spectrum constraints that affect valuation multiples more than fundamentals."
+        },
+        {
+          "title": "Vedanta, TCS among 5 stocks with the highest dividend yield. Check details ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-tcs-among-5-stocks-with-the-highest-dividend-yield-check-details/slideshow/132191143.cms",
+          "content": "Investors seeking high returns are eyeing stocks with impressive dividend yields. Vedanta leads the pack with a remarkable 12% yield, followed by Gujarat Pipavav Port at 6.7% and ONGC at 5.5%.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 05 Jul 2026 10:39:58 +0530",
+          "summary": "**MACRO/MARKETS:** High dividend yields in Indian cyclicals (energy, ports) signal either attractive valuations or market skepticism on earnings sustainability—reflective of broader EM volatility and commodity exposure concentration risk that institutional allocators must hedge against global rate uncertainty."
+        },
+        {
+          "title": "Will Sensex, Nifty continue to rally on Monday? Q1 earnings among 6 factors to drive Dalal Street this week ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-rally-on-monday-q1-earnings-among-6-factors-to-drive-dalal-street-this-week/articleshow/132191088.cms",
+          "content": "Sensex gained around 262 points to close at 77,764 on Friday, while Nifty 50 rose more than 95 points to end the session above 24,270 during Friday's trading session. The sharp gains added nearly Rs 44,155 crore to the total market capitalisation of all companies listed on BSE, pulling it up to Rs 480 lakh crore.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 05 Jul 2026 10:38:11 +0530",
+          "summary": "**MACRO/MARKETS**: Indian equities rallied ~0.34% (Sensex) on Q1 earnings catalysts, adding $53bn market cap; momentum depends on earnings quality vs. valuation—critical for emerging market allocation in broader EM portfolios amid global rate cycle sensitivity."
+        }
+      ],
+      "generatedAt": "2026-07-05T05:41:20.120Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+          "url": "https://www.nature.com/articles/d41586-026-01989-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-03T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & INVESTMENT:** China's expanded early-career scientist funding signals long-term tech self-sufficiency ambitions (semiconductors, biotech, clean energy), reducing reliance on Western talent and potentially accelerating competition in high-value sectors; geopolitical fragmentation risks warrant monitoring across tech supply chains and emerging market valuations.\n\n**CREDIT RISK & AI/ML:** Enhanced domestic R&D investment reduces brain drain risk for Chinese financial institutions' counterparty credit quality; simultaneously, accelerated AI/biotech breakthroughs could compress historical PD/LGD calibration windows, requiring ECL model recalibration for China-exposed portfolios and regulatory scrutiny on"
+        },
+        {
+          "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
+          "url": "https://www.nature.com/articles/s41586-026-10844-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-02T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Electrodeposited perovskite layers could unlock scalable, low-cost photovoltaics—disrupting solar manufacturing economics and accelerating renewable energy transition, with structural implications for utilities, energy majors' capex allocation, and commodity demand (silicon, rare earths). **CREDIT RISK & BUILDER:** Manufacturing scale-up timelines and commercialization risk remain material for ECL modeling of clean-tech exposures; parallel opportunity for fintech platforms tracking real-time supply-chain & IP-patent data via APIs to refine sector probability-of-default models."
+        },
+        {
+          "title": "New calculator reveals whether you should really worry about statin side effects",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260630020549.htm",
+          "content": "Scientists at the University of Oxford have created a calculator that predicts a person's individual risk of serious muscle disorders from statin medications. Their analysis found that more than 98% of people who qualify for statins are at low risk for these rare complications, despite widespread concerns about side effects. The study also revealed that most eligible patients are not taking statins, potentially missing important protection against heart attacks and strokes.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 30 Jun 2026 02:05:49 EDT",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Statin underutilization due to perceived side-effect risk represents a ~$50B+ annual healthcare cost inefficiency (US CVD treatment/prevention gap); validates risk-stratification tools as regulatory expectation—parallels ECL model governance where recalibration of tail-risk assumptions (here, rare adverse events) directly impacts patient/insurer loss provisions and actuarial reserves.\n\n**BREAKTHROUGHS:** Oxford's predictive calculator demonstrates commercial viability of clinical decision-support SaaS; addressable market in precision medicine risk tools spans pharma, insurers, and healthtech platforms—competes with legacy actuarial models for"
+        },
+        {
+          "title": "Scientists discover a completely different way to fight viruses",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+          "content": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 30 Jun 2026 16:18:00 EDT",
+          "summary": "**BREAKTHROUGHS / BIOTECH SECTOR:**\nSea anemone antiviral mechanisms suggest multiple evolutionary pathways to immune defense, expanding therapeutic targets for biotech/pharma and potentially reducing single-point-of-failure risk in vaccine/treatment pipelines. De-risks monolithic immunology assumptions; bullish for diversified biotech portfolios and platform-agnostic antiviral developers."
+        },
+        {
+          "title": "When the ability to smell goes away",
+          "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+          "content": "Disturbances in this critical sense are often linked to problems with brain health.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 04 Jul 2026 11:04:31 +0000",
+          "summary": "**BREAKTHROUGHS:** Olfactory dysfunction as biomarker for neurodegenerative disease (Parkinson's, Alzheimer's) creates screening opportunity for diagnostics/pharma; early detection platforms could reshape elderly care spending and neurology treatment pipelines, with significant implications for healthcare sector valuations and long-term care insurance risk models."
+        },
+        {
+          "title": "A martian rock has lots of carbon on it, and it's not clear why",
+          "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+          "content": "Biology could explain the find, but there are other potential explanations.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 04 Jul 2026 11:00:41 +0000",
+          "summary": "**BREAKTHROUGHS / MACRO:**\nMars carbon discovery could validate panspermia or abiotic processes, reshaping astrobiology investment thesis and space exploration budgets. If biological, shifts long-term resource allocation toward life-detection missions; if abiotic, constrains exoplanet habitability models critical to climate-tech and deep-space mining valuations."
+        }
+      ],
+      "generatedAt": "2026-07-05T05:41:33.577Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+          "url": "https://ui.shadcn.com/docs/changelog",
+          "content": "Article URL: https://ui.shadcn.com/docs/changelog\nComments URL: https://news.ycombinator.com/item?id=48791328\nPoints: 13\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 05 Jul 2026 04:46:08 +0000",
+          "summary": "**BUILDER | Technical Relevance**\n\nShadcn/UI's migration from Radix to Base UI signals a shift toward lighter, more composable component primitives—reducing bundle size and dependency risk for production React Native apps. For fintech builders, this enables leaner mobile implementations with faster iteration cycles, though teams must audit existing Radix integrations for compatibility during the transition."
+        },
+        {
+          "title": "Binary Coverage the Wrong Way",
+          "url": "https://redvice.org/2026/coverage-the-wrong-way/",
+          "content": "Article URL: https://redvice.org/2026/coverage-the-wrong-way/\nComments URL: https://news.ycombinator.com/item?id=48791308\nPoints: 3\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 05 Jul 2026 04:39:53 +0000",
+          "summary": "**No summary generated.** Article inaccessible (redvice.org/2026 appears inactive or future-dated). Zero HN engagement (0 comments, 3 points) suggests limited credibility or visibility. Recommend verifying source before briefing—no clear macro, credit, or technical relevance determinable without content access."
+        },
+        {
+          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "content": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 04 Jul 2026 20:55:25 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nGoogle's positioning AI-assisted productivity as mainstream infrastructure signals accelerating enterprise software commoditization, pressuring Microsoft's Office moat and reshaping SaaS valuation multiples. For banking analytics teams, this normalizes generative AI in workflows—raising model governance risks (IFRS 9 validation, PD/LGD recalibration) while forcing competitive tech stack refresh cycles."
+        },
+        {
+          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "content": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000",
+          "summary": "**MACRO/MARKETS:** IP litigation in generative AI reveals asymmetric disclosure risk—studios face forced transparency on proprietary training data while AI vendors operate opaquely, creating regulatory precedent that could accelerate government intervention in model governance and fragment competitive moats across tech.\n\n**CREDIT RISK:** Midjourney's litigation exposure (defense costs, potential damages, IP injunctions) may impair asset valuations and cash flow; precedent of forced disclosure increases contingent liability uncertainty for fintech/AI firms, complicating ECL modeling under IFRS 9 for any banking stakeholders with AI vendor concentration.\n\n**AI/ML:** Discovery of studio training methodologies could reveal industry standards for"
+        }
+      ],
+      "generatedAt": "2026-07-05T05:41:41.369Z"
+    }
+  ]
+}
