@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-07",
+  "generatedAt": "2026-07-07T05:43:04.283Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Monthly Decision Maker Panel data - June 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/june-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 03 Jul 2026 09:30:00 +0100",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nUK CFO sentiment shifts signal real-time economic momentum and corporate cash flow stress—critical for ECL staging migration, PD recalibration, and forward-looking macro scenarios in IFRS 9 models. DMP capex/hiring intentions flag sectoral credit deterioration before traditional lag indicators, informing portfolio stress-testing and regulatory capital adequacy frameworks."
+        },
+        {
+          "title": "Bank of England Weekly Report 1 July 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/1-july-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 02 Jul 2026 15:00:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY**\n\nBoE weekly asset-liability snapshots drive ECL provision recalibration cycles; elevated liability costs and deposit dynamics signal PD/LGD sensitivity requiring model refreshes. Regulatory capital adequacy trends embedded here directly impact stress-testing assumptions and IFRS 9 Stage 2 migration thresholds across UK retail/commercial portfolios."
+        }
+      ],
+      "generatedAt": "2026-07-07T05:42:04.006Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 07 Jul 2026 00:00:00 GMT",
+          "summary": "**LeRobot v0.6.0 advances open-source robotics/embodied AI with improved evaluation and iteration cycles—relevant to automation capex cycles and labor cost displacement themes across logistics/manufacturing. For banking analytics: generative agent frameworks mirror PMA/model validation workflows; embodied AI datasets could reframe operational risk and supply-chain ECL scenarios.**"
+        },
+        {
+          "title": "PRX Part 4: Our Data Strategy",
+          "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 06 Jul 2026 15:30:55 GMT",
+          "summary": "**Summary (2 sentences, 70 words):**\n\nData strategy in credit risk modeling directly impacts ECL provisioning accuracy and regulatory capital adequacy under IFRS 9—systematic data governance, feature engineering pipelines, and governance frameworks reduce model drift and PD/LGD/EAD estimation bias, translating to lower capital charges and earnings volatility. Modern ML infrastructure (cloud compute, real-time ETL, feature stores) mirrors fintech backends and enables rapid model iteration, reshaping banking analytics workflows similarly to how mobile-first architectures disrupted traditional app deployment."
+        },
+        {
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 03 Jul 2026 14:25:43 +0000",
+          "summary": "# Summary\n\n**MACRO/MARKETS & BREAKTHROUGHS:** DeepMind-A24 partnership signals AI's shift into creative/media production—expanding TAM for compute infrastructure (NVIDIA, cloud), while raising IP/copyright risk that could trigger regulatory scrutiny and reshape media valuations. Emerging markets with content IP exposure face headwinds; energy demand for training infrastructure supports commodity thesis.\n\n**CREDIT RISK & ANALYTICS:** Accelerated AI adoption in media/entertainment increases counterparty risk concentration in tech-heavy portfolios; IFRS 9 ECL models must flag elevated PD volatility in creative-industry exposures and tech-dependent collateral. Regulatory scrut"
+        },
+        {
+          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 30 Jun 2026 16:02:40 +0000",
+          "summary": "**AI/ML + BUILDER angle:**\n\nGoogle's Nano Banana 2 Lite and Gemini Omni Flash enable sub-100ms inference on-device and multimodal real-time processing—critical for mobile fintech apps requiring low-latency risk decisioning without cloud dependency. For banking analytics, this shifts ECL model deployment from batch/server-side to edge inference, reducing latency in PD/LGD scoring while lowering infrastructure costs and data residency risks."
+        },
+        {
+          "title": "Your family’s $300 stake in OpenAI",
+          "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 06 Jul 2026 18:00:00 +0000",
+          "summary": "**MACRO/MARKETS + AI/ML disruption angle:**\nAltman's wealth-sharing proposal signals potential regulatory pressure on AI cap gains concentration, creating precedent risk for tech valuations and stakeholder capitalism frameworks globally. Banking analytics face disruption if AI productivity gains accelerate wage compression—modeling implications for consumer credit PD/EAD via income volatility and household balance sheet stress."
+        },
+        {
+          "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+          "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 06 Jul 2026 13:00:00 +0000",
+          "summary": "**Category: MACRO/MARKETS + SECTOR THEMES**\n\nSouth Korea's semiconductor talent shortage (evidenced by SK Hynix enrolling chip workers in matchmaking) signals structural labor constraints in a sector critical to global AI infrastructure, capex cycles, and geopolitical supply-chain resilience—relevant to semiconductor equity positioning and semiconductor-exposed credit exposures. Eye transplant breakthroughs represent biotech upside optionality but lack immediate macro materiality for financial markets or banking analytics."
+        }
+      ],
+      "generatedAt": "2026-07-07T05:42:19.310Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "China gives its investors more access to bonds in Hong Kong",
+          "url": "https://www.ft.com/content/cab6c916-1127-4254-a68e-62d66bb37e85",
+          "content": "Authorities raise quota for offshore ‘connect’ scheme in bid to boost international use of renminbi",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 07 Jul 2026 05:06:27 GMT",
+          "summary": "**MACRO/MARKETS:** China's expanded Bond Connect quota signals structural pivot toward CNY internationalization and offshore liquidity depth, reducing reliance on onshore funding—material for EM FX carry, duration positioning, and cross-border capital flow forecasting in 2024-25 macro regimes.\n\n**CREDIT RISK:** Increased offshore bond issuance widens counterparty exposure vectors (foreign issuer concentration, basis risk in CNY forwards) and complicates IFRS 9 Stage migration modeling; ECL calibration requires refreshed PD curves reflecting elevated geopolitical/regulatory tail risks in cross-border instruments."
+        },
+        {
+          "title": "UAE’s Adnoc strikes $1bn deal for Shell’s South African fuels business",
+          "url": "https://www.ft.com/content/c9774e9d-27c4-4a75-93ab-f8c99d0c4a51",
+          "content": "Acquistion of 580 service stations and other assets marks latest overseas expansion by Adnoc subsidiary",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 07 Jul 2026 04:15:07 GMT",
+          "summary": "**MACRO/MARKETS:** Adnoc's $1bn South African fuel retail acquisition signals strategic geographic diversification beyond oil upstream, reflecting OPEC producer shift into downstream/consumer-facing assets amid energy transition pressures and regional integration plays in emerging markets.\n\n**CREDIT RISK:** Retail fuel station portfolios introduce new counterparty concentration and commodity basis risk; ECL modeling must incorporate fuel margin volatility, station-level default correlations, and geopolitical exposure to South Africa's credit profile and currency depreciation risk."
+        },
+        {
+          "title": "\n        The World Bank has ditched its climate targets\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets",
+          "content": "The rise and fall of the institution’s love for green growth",
+          "source": "The Economist",
+          "publishedAt": "Mon, 06 Jul 2026 19:40:33 +0000",
+          "summary": "**Macro/Markets & Credit Risk Angle:**\nWorld Bank's climate target retreat signals weakening policy enforcement on ESG criteria, potentially raising ECL assumptions for green/emerging market portfolios and widening sovereign spreads in climate-vulnerable economies. Regulatory arbitrage risk rises as multilateral development banks recalibrate—expect PD/LGD volatility in renewable energy and climate-transition loan books."
+        },
+        {
+          "title": "\n        Women’s progress at work appears to be stalling\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling",
+          "content": "After the “lean in” generation, are professional women leaning out?",
+          "source": "The Economist",
+          "publishedAt": "Sun, 05 Jul 2026 17:22:02 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Female labor force participation plateau signals structural headwind to developed-market productivity growth and consumer spending; impacts long-term GDP forecasts and sovereign credit quality. Rising female unemployment/underemployment in key economies increases household default risk, requiring ECL model recalibration for consumer portfolios and regional PD/LGD assumptions."
+        },
+        {
+          "title": "Asian markets bleed as tech selloff overwhelms overnight Wall Street gains",
+          "url": "https://seekingalpha.com/news/4611824-asian-markets-bleed-as-tech-selloff-overwhelms-overnight-wall-street-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 07 Jul 2026 01:40:11 -0400",
+          "summary": "**MACRO/MARKETS:** Tech sector contagion across Asia signals weakening demand cycle and potential margin compression; concurrent US/Asia divergence suggests rotation away from growth equities, pressuring valuations tied to low-rate assumptions and raising refinancing risk for leveraged corporates.\n\n**CREDIT RISK:** Tech selloff increases PD volatility and potential LGD stress in tech-heavy portfolios; ECL models must reflect correlation spillover between equity drawdowns and credit deterioration, especially in emerging Asian financials exposed to tech leverage."
+        },
+        {
+          "title": "U.S. states seek $1.4T in penalties from Meta over youth addiction claims",
+          "url": "https://seekingalpha.com/news/4611819-us-states-seek-14t-in-penalties-from-meta-over-youth-addiction-claims?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 07 Jul 2026 01:35:14 -0400",
+          "summary": "**MACRO/MARKETS & REGULATORY RISK:**\nU.S. states' $1.4T penalty claim against Meta signals escalating regulatory burden on big tech—pressuring valuations, ad-dependent business models, and forward earnings. Creates precedent for consumer harm litigation that could reshape platform economics, impacting tech sector multiples and forcing content moderation capex cycles globally.\n\n**CREDIT RISK (IFRS 9 / ECL):**\nMeta's contingent liability exposure (if materialized) triggers IFRS 9 provisioning; elevated uncertainty on cash flow recovery increases PD assumptions for tech sector credit assessments and warrants higher ECL overlays in banking portfolios holding"
+        },
+        {
+          "title": "Bitcoin climbs over $63,000 as buying interest returns; key on-chain metric signals market stabilization ",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-over-63000-as-buying-interest-returns-key-on-chain-metric-signals-market-stabilization/articleshow/132230728.cms",
+          "content": "Bitcoin climbed past $63,000 as buying interest returned on Tuesday.  Key on-chain metrics indicated market stabilization after recent fluctuations.  Ethereum also saw gains, supported by stronger network activity and stablecoin supply.  Major altcoins experienced mixed movements, with some falling and others rising.  Analysts suggest further confirmation is needed for a decisive trend reversal.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 07 Jul 2026 10:28:00 +0530",
+          "summary": "**MACRO/MARKETS:** Bitcoin's breach above $63K with stabilizing on-chain metrics suggests renewed institutional confidence after volatility; Ethereum strength via network activity uptick indicates potential crypto infrastructure maturation, relevant to broader digital asset adoption narratives affecting banking sector digitalization timelines and fintech competitive dynamics."
+        },
+        {
+          "title": "Global Market: UK regulator urged to consider rules for AI chatbots in financial advice ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-regulator-urged-to-consider-rules-for-ai-chatbots-in-financial-advice/articleshow/132230689.cms",
+          "content": "A UK regulatory review has recommended that the Financial Conduct Authority consider bringing AI models such as ChatGPT, Claude and Gemini within its regulatory framework as their influence on consumer financial decisions grows. The report also warned of systemic risks from increasing reliance on a handful of AI and cloud providers.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 07 Jul 2026 10:24:22 +0530",
+          "summary": "**MACRO/MARKETS + CREDIT RISK + AI/ML:**\nUK regulatory push to formalize AI chatbot oversight signals broader fintech governance tightening; systemic concentration risk in AI/cloud providers mirrors banking sector fragility concerns, elevating tail-risk scenarios for ECL stress testing and PD model stability. Potential regulatory arbitrage between jurisdictions reshapes consumer leverage dynamics and cross-border credit origination workflows."
+        }
+      ],
+      "generatedAt": "2026-07-07T05:42:36.990Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "From cloning to gene-editing: the enduring legacy of Dolly the sheep",
+          "url": "https://www.nature.com/articles/d41586-026-02096-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-06T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Gene-editing tech (CRISPR successor to Dolly-era cloning) unlocks $200B+ biotech/agritech sectors; regulatory clarity on GMO crops reshapes commodity pricing, agricultural leverage cycles, and emerging market export competitiveness in next 5–10 years.\n\n**CREDIT RISK:** Biotech/pharma loan books require enhanced ESG/regulatory stress testing; gene-therapy patent disputes and FDA approval volatility create EAD/PD model recalibration needs and collateral concentration risk in life-science lending portfolios."
+        },
+        {
+          "title": "Universities are relying on AI-detection software to catch cheating. How well do the programs work?",
+          "url": "https://www.nature.com/articles/d41586-026-01358-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-06T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & AI/ML ANGLE:**\nAI detection tool proliferation in education creates regulatory precedent for algorithmic accountability in high-stakes decisions, pressuring EdTech valuations while signaling broader institutional skepticism of AI reliability—relevant to fintech model governance and potential compliance overhead for banking AI deployments. Unreliable detection systems underscore validation gaps in production ML, directly paralleling ECL model backtesting rigor and PD/LGD stability concerns under IFRS 9 stress scenarios."
+        },
+        {
+          "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+          "content": "NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient cluster are clues to how exploding stars helped transform the young universe into one capable of forming planets and, eventually, life.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 05 Jul 2026 00:10:58 EDT",
+          "summary": "**BREAKTHROUGHS:** Hubble's visualization of stellar nucleosynthesis in ancient clusters reinforces long-duration science narratives; minimal near-term market impact, though validates space-tech infrastructure spending (NASA budget cycles, defense contractors) and STEM talent pipelines—macro themes for 2030+ demographic/growth positioning.\n\n**BUILDER:** None—pure astronomy content; no fintech, analytics, or software architecture relevance."
+        },
+        {
+          "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
+          "content": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 05 Jul 2026 00:03:07 EDT",
+          "summary": "**BREAKTHROUGHS:** Hubble's LH 95 observations advance stellar formation models, refining timescales for star development and multi-generational star systems—insights potentially valuable for long-duration space resource exploration strategies and emerging space economy valuations.\n\n**MACRO/MARKETS:** Limited direct market relevance; primarily foundational science with potential 10-15 year horizon applications in space tech/mining sector narratives rather than near-term macro or commodity linkage."
+        },
+        {
+          "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
+          "url": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
+          "content": "Its issues with current nuclear safety standards are termed semantic, not physical.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 06 Jul 2026 17:48:45 +0000",
+          "summary": "**MACRO/MARKETS:** NRC's semantic reframing of ALARA (As Low As Reasonably Achievable) signals potential acceleration of US nuclear capex cycles and operational cost relief, bullish for uranium/energy equities and grid-stability plays amid decarbonization targets.\n\n**CREDIT RISK:** Regulatory language shifts on safety standards may ease capex burden ratios for nuclear utilities (improving leverage metrics), but create model uncertainty in ECL stress scenarios if interpreted as reduced operational reserves.\n\n**BREAKTHROUGHS:** Clarified safety semantics could unlock smaller modular reactor (SMR) deployment and private capital entry, reshaping energy transition venture/growth equity landscapes."
+        },
+        {
+          "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+          "url": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+          "content": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 06 Jul 2026 17:14:09 +0000",
+          "summary": "**BREAKTHROUGHS / SPACE TECH**: Katalyst's orbital servicing mission signals commercial viability of satellite repair/refurbishment—a $100B+ addressable market. Success de-risks on-orbit logistics as critical infrastructure, attracting institutional capital to space economy plays (Axiom, Relativity, Axiom Space) and reshaping satellite constellation economics for telecom/defense."
+        }
+      ],
+      "generatedAt": "2026-07-07T05:42:50.522Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "How to sequence your own DNA at home",
+          "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+          "content": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 124\n# Comments: 39",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 07 Jul 2026 00:14:21 +0000",
+          "summary": "**BUILDER/TECH DISRUPTION:** Consumer genomics democratization (DIY sequencing) signals productization of biotech infrastructure—parallels fintech's API-first disruption model. Relevant for biotech SaaS platforms, privacy-preserving data architectures (Firebase patterns), and emerging genomics API ecosystems competing with legacy clinical labs."
+        },
+        {
+          "title": "Small AI Models Gain Traction In places with unreliable networks",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "content": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\nComments URL: https://news.ycombinator.com/item?id=48812055\nPoints: 73\n# Comments: 15",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 06 Jul 2026 23:59:54 +0000",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION**: Edge AI deployment in bandwidth-constrained regions (emerging markets, remote areas) creates new $B TAM for inference-optimized models, reducing cloud dependency—bullish for semiconductor/telecom capex but threatens hyperscaler margins. **CREDIT RISK & BUILDER**: Proliferation of locally-run LLMs complicates fintech KYC/AML audit trails and model governance; on-device inference requires rearchitected mobile backends (Firebase sync, Node.js edge logic) with explicit data residency controls—material for IFRS 9 operational risk and regulatory model validation."
+        },
+        {
+          "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+          "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+          "content": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 07 Jul 2026 00:47:33 +0000",
+          "summary": "**MACRO/MARKETS:** Streaming saturation signals consumer discretionary weakness amid ad-driven pivot; validates thesis that content moats erode faster than capital intensity suggests, pressuring media multiples and refinancing risk for leveraged streamer balance sheets.\n\n**CREDIT RISK:** Rising subscriber churn and content ROI compression weaken Netflix's debt serviceability metrics; ECL models must recalibrate revenue persistence assumptions—particularly for securitized streaming receivables and covenant-light facilities reliant on user growth narratives now proving cyclical.\n\n**AI/ML:** Netflix's algorithmic recommendation engine failure (retention collapse despite personalization) exposes limits of collaborative filtering at scale; banking analytics must challenge similar \""
+        },
+        {
+          "title": "The ‘first’ AI-run ransomware attack still needed a human",
+          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+          "content": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 06 Jul 2026 23:56:14 +0000",
+          "summary": "**MACRO/MARKETS:** Cyber-insurance premiums and enterprise software security budgets face upward pressure; financial services face elevated operational risk pricing, though full autonomy remains distant—limiting immediate systemic threat escalation.\n\n**CREDIT RISK:** Ransomware incidents elevate counterparty operational risk assessments under IFRS 9; ECL models require recalibration of PD for critical infrastructure and financial services exposure given hybrid human-AI attack vectors now observable.\n\n**AI/ML:** Narrow AI agents execute high-impact tasks under human direction, not autonomous—clarifies current threat model for banking analytics; guardrails and human-in-loop controls remain essential for production ML systems"
+        }
+      ],
+      "generatedAt": "2026-07-07T05:43:04.283Z"
+    }
+  ]
+}
