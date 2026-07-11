@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T04:44:15.353Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "SoS! The overnight bilateral liquidity provision of non-bank financial institutions to banks",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Jul 2026 14:01:00 +0100",
+          "summary": "**CREDIT RISK & MACRO SIGNIFICANCE:**\n\nNon-bank financial institutions (NBFIs) have become critical overnight liquidity providers to banks, creating hidden interconnectedness that bypasses traditional repo markets—a systemic risk channel absent from most ECL/PD models and stress testing frameworks. This structural shift demands urgent IFRS 9 counterparty risk reassessment and regulatory capital adequacy recalibration as shadow banking liquidity provision concentrates tail risk in less-regulated entities during market dislocations."
+        },
+        {
+          "title": "Central bank communications that reach the public",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Jul 2026 14:00:00 +0100",
+          "summary": "**CREDIT RISK & MACRO SIGNIFICANCE:**\n\nCentral bank forward guidance directly impacts PD/LGD calibration cycles and ECL provisioning volatility through market-implied rate expectations; staff research on communication transparency can materially shift regulatory capital requirements and IFRS 9 model inputs across portfolios with duration/rate sensitivity."
+        }
+      ],
+      "generatedAt": "2026-07-11T04:43:25.251Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "url": "https://huggingface.co/blog/torch-attention-profile",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 10 Jul 2026 00:00:00 GMT",
+          "summary": "**AI/ML + BUILDER angle:**\n\nPyTorch profiling optimization for transformer attention mechanisms directly reduces inference latency and GPU memory footprint—critical for real-time risk scoring, NLP-based transaction monitoring, and mobile fintech deployment. Profiling methodologies enable practitioners to identify bottlenecks in large language models used for regulatory reporting automation and client communication, lowering operational costs while improving model governance compliance."
+        },
+        {
+          "title": "Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 08 Jul 2026 17:16:05 GMT",
+          "summary": "**AI & ML Research — Data for Agents**\n\nLLM-powered autonomous agents require high-quality, structured training data; shortages create a bottleneck for enterprise AI deployment across banking (risk modeling, compliance automation) and capital markets, while data scarcity inflates costs for firms building proprietary models. This mirrors historical ML scaling challenges and directly impacts fintech infrastructure—agents trained on synthetic/curated datasets may degrade ECL accuracy or PD calibration if data quality degrades, requiring new validation frameworks."
+        },
+        {
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 03 Jul 2026 14:25:43 +0000",
+          "summary": "**MACRO/MARKETS:** Google DeepMind–A24 partnership signals AI's expansion into creative industries, validating generative AI as structural economic multiplier across media/entertainment; potential margin compression in content production offset by new revenue streams—watch for creative sector M&A acceleration and talent flight to AI labs.\n\n**CREDIT RISK:** Accelerated AI adoption in entertainment increases intangible asset volatility and IP valuation uncertainty; IFRS 9 ECL models for media/tech counterparties require updated PD assumptions reflecting faster disruption cycles; regulatory scrutiny on AI-driven asset impairment likely.\n\n**AI/ML:** Validates AI as strategic moat in non-"
+        },
+        {
+          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 30 Jun 2026 16:02:40 +0000",
+          "summary": "**AI/ML + BUILDER angle:**\n\nGoogle's Nano Banana 2 Lite and Gemini Omni Flash democratize on-device & edge inference, enabling real-time, low-latency ML for mobile fintech apps (React Native/Firebase compatible). For banking analytics, this reduces cloud dependency, cuts latency-critical PD/LGD scoring, and improves privacy for sensitive ECL models—reshaping cost/compliance tradeoffs in retail credit risk workflows."
+        },
+        {
+          "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+          "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 10 Jul 2026 12:10:00 +0000",
+          "summary": "**AI/ML + BREAKTHROUGHS:** Anthropic's interpretability breakthrough into LLM internals reduces model opacity risk—critical for regulated financial AI (credit decisioning, ECL forecasting). Potential to unlock more reliable, auditable models for banking analytics and risk systems, shifting AI adoption from black-box to transparent-by-design architecture."
+        },
+        {
+          "title": "Sperm donors need limits, says a European fertility group",
+          "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+          "content": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 10 Jul 2026 09:00:00 +0000",
+          "summary": "**Category: AI & ML Research → Social Policy (Low Direct Relevance)**\n\nEuropean fertility regulators tightening donor anonymity rules creates data governance & identity verification challenges for healthcare systems, but lacks direct banking analytics, credit risk, or fintech application implications. Relevant only if tracking healthcare sector regulation or identity-verification SaaS opportunities in compliance."
+        }
+      ],
+      "generatedAt": "2026-07-11T04:43:39.418Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "SK Hynix’s US shares jump 13% on Nasdaq debut",
+          "url": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
+          "content": "South Korean memory chipmaker’s US-listed stock price rose as high as $177 after pricing at $149",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 10 Jul 2026 20:23:24 GMT",
+          "summary": "**MACRO/MARKETS:** SK Hynix's 19% pop signals renewed appetite for semiconductor exposure amid AI capex cycle tailwinds and potential easing of US export controls on advanced chips to South Korea—a key barometer for memory demand and geopolitical thaw in tech supply chains."
+        },
+        {
+          "title": "Bezos-backed fusion start-up to become first to go public",
+          "url": "https://www.ft.com/content/1f0bdc93-5ee8-41d7-aaf8-11df73a9847c",
+          "content": "General Fusion’s ‘steampunk’ approach to the technology is under scrutiny ahead of Nasdaq debut",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 10 Jul 2026 19:57:18 GMT",
+          "summary": "**MACRO/MARKETS + BREAKTHROUGHS:**\nFusion energy's transition from deep-tech to public markets signals commodities/energy transition mega-theme maturing; validates climate-tech venture capital ecosystem and potential reshuffling of energy sector valuations as first-mover advantages crystallize in regulated infrastructure plays.\n\n**CREDIT RISK:**\nFusion SPACs/IPOs create new counterparty and collateral valuation challenges for ECL frameworks—long-duration, pre-revenue deep-tech requires PD/LGD recalibration; regulatory scrutiny on \"steampunk\" tech risk may tighten Pillar 2 capital buffers for lenders to"
+        },
+        {
+          "title": "\n        China may struggle to fund Xi Jinping’s tech dreams\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams",
+          "content": "Even though capital markets are staging a comeback",
+          "source": "The Economist",
+          "publishedAt": "Thu, 09 Jul 2026 08:27:02 +0000",
+          "summary": "**Macro/Markets:** China's fiscal constraints amid capital market recovery limit funding capacity for strategic tech investment, creating sustained underinvestment in semiconductors/AI—raising geopolitical supply-chain risk and reshaping global tech competitive dynamics. Sector rotation implications: relative underweight Chinese tech vs. US peers despite valuation spreads."
+        },
+        {
+          "title": "\n        An ageing society might not cost too much\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/09/an-ageing-society-might-not-cost-too-much",
+          "content": "A dystopian vision of the future may not come to pass",
+          "source": "The Economist",
+          "publishedAt": "Thu, 09 Jul 2026 08:26:42 +0000",
+          "summary": "**Macro/Markets & Credit Risk angle:**\nDemographic ageing may impose lower fiscal/economic drag than consensus fears, reshaping long-term growth assumptions embedded in ECL overlays and sovereign/corporate credit models; re-pricing of healthcare/pension risk across developed markets could shift duration positioning and EM relative value."
+        },
+        {
+          "title": "Traffic through the Strait of Hormuz has largely stalled, but not for Iran",
+          "url": "https://seekingalpha.com/news/4613039-traffic-thorough-the-strait-of-hormuz-has-largely-stalled-but-not-for-iran?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 10 Jul 2026 20:08:17 -0400",
+          "summary": "**Macro/Markets & Credit Risk:**\nHormuz strait congestion signals geopolitical risk premium persisting in energy markets while Iranian sanctions-evasion activity suggests hidden supply flows—material for ECL models on oil-dependent sovereigns/corporates and energy sector PD calibration given cash flow volatility. Asymmetric information (official vs. actual throughput) complicates macro forecasting and widens credit spreads for EM oil exporters exposed to sanctions regimes."
+        },
+        {
+          "title": "BHP explores up to $2B sale of Chilean desalination plant, power lines - Bloomberg",
+          "url": "https://seekingalpha.com/news/4613038-bhp-explores-up-to-2b-sale-of-chilean-desalination-plant-power-lines-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 10 Jul 2026 19:53:21 -0400",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nBHP's $2B+ divestiture of Chilean water/power infrastructure signals accelerating ESG-driven asset rotation in commodities majors—reducing stranded asset risk and improving credit profiles under IFRS 9 forward-looking ECL models. Reflects structural shift: mining capex pivoting from extraction capex to energy transition, reshaping emerging-market commodity financing and sovereign credit exposure (Chile's external sector)."
+        },
+        {
+          "title": "Will Google be Berkshire CEO Greg Abel's best stock pick after predecessor Warren Buffett's Apple bet? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-google-be-berkshire-ceo-greg-abels-best-stock-pick-after-predecessor-warren-buffetts-apple-bet/articleshow/132324438.cms",
+          "content": "After taking over the reign as Berkshire Hathaway CEO in January this year, Greg Abel began putting the company’s record cash pile of nearly $400 billion to work. At the centre of this shift in strategy is Google-parent Alphabet.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 11 Jul 2026 09:41:51 +0530",
+          "summary": "**MACRO/MARKETS:** Berkshire's $400B deployment signal—largest since Buffett era—reflects institutional pivot toward mega-cap tech as inflation hedge; Alphabet's moat (search, cloud, AI) now central to conglomerate rotation thesis, signaling broader equity market repricing away from duration sensitivity."
+        },
+        {
+          "title": "TCS, HDFC Bank, 8 others with up to 49% upside. How many in your portfolio? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-hdfc-bank-8-others-with-up-to-49-upside-how-many-in-your-portfolio/slideshow/132324420.cms",
+          "content": "In a recent report, the brokerage has shortlisted 10 blue-chip stocks across multiple sectors that it believes offer attractive value and the potential to deliver returns of up to 49% return. Here’s the full list.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 11 Jul 2026 09:34:06 +0530",
+          "summary": "**MACRO/MARKETS:** Indian large-cap rerating cycle underway as valuations compress despite strong fundamentals; domestic consumption and IT services benefiting from global capex recovery, signaling EM rotation risk for developed markets holding stretched multiples."
+        }
+      ],
+      "generatedAt": "2026-07-11T04:43:55.697Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
+          "url": "https://www.nature.com/articles/s41586-026-10853-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-10T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Corrected iron cycle research refines understanding of ocean nutrient dynamics, critical for agricultural commodity pricing (fertilizer demand), climate models underpinning energy transition valuations, and emerging market agricultural export forecasts. Implies potential recalibration of carbon credit methodologies and blue economy sector thesis."
+        },
+        {
+          "title": "Alpine crossing took a heavy toll on Hannibal’s elephants and troops",
+          "url": "https://www.nature.com/articles/d41586-026-02113-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-10T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & HISTORICAL CONTEXT:**\nHannibal's Alpine crossing (218 BC) demonstrates logistics-constrained military operations reducing force multiplier effectiveness by ~60%, paralleling modern supply-chain disruption impacts on emerging market equities and commodity volatility. Historical attrition analysis offers empirical lens for modeling geopolitical risk premiums in energy/EM portfolios during infrastructure strain scenarios."
+        },
+        {
+          "title": "The biggest problem with solid-state batteries may finally be solved",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+          "content": "Researchers solved the mystery of how soft lithium dendrites crack the hard ceramic inside solid-state batteries, triggering short circuits. The breakthrough could help engineers build safer, longer-lasting batteries for smartphones, electric vehicles, and other electronics.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 10 Jul 2026 08:29:27 EDT",
+          "summary": "**MACRO/MARKETS:** Solid-state battery breakthrough accelerates EV adoption timeline and reshapes auto/energy sectors; reduces supply-chain risk for lithium and cobalt, supporting commodity price stabilization and cleaner energy transition economics globally.\n\n**CREDIT RISK:** Faster EV commercialization improves credit profiles of auto OEMs and battery manufacturers; reduces stranded asset risk in ICE supply chains; may tighten PD/LGD assumptions for legacy auto-parts ECL models.\n\n**AI/ML:** Battery R&D acceleration signals faster adoption cycles for predictive maintenance analytics; increases data volume for ML training on battery health/degradation—new revenue stream for fintech"
+        },
+        {
+          "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
+          "content": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising stars to examine, since advanced civilizations could potentially build energy-harvesting swarms around them more easily. These objects would stand out by glowing in infrared light instead of visible light, lacking the dusty signatures of ordinary stars, and possibly flickering in unusual ways.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 10 Jul 2026 02:04:44 EDT",
+          "summary": "**BREAKTHROUGHS / MACRO:** Dyson sphere detection frameworks could catalyze next-gen space exploration funding and commercialization cycles, with implications for aerospace/defense capex allocation and long-duration energy infrastructure thesis. Infrared signature detection methodology mirrors thermal anomaly scanning in climate/commodity monitoring—relevant for ESG-linked equity positioning."
+        },
+        {
+          "title": "Quantum error correction can constantly recalibrate a processor",
+          "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+          "content": "Reinforcement learning uses error information to adjust control algorithms.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 10 Jul 2026 23:02:30 +0000",
+          "summary": "**MACRO/MARKETS + AI/ML + BREAKTHROUGHS:**\nQuantum error correction via reinforcement learning accelerates viable quantum computing—reshaping semiconductor supply chains, cryptography frameworks, and computational finance (risk models, optimization). Potential 5–10yr disruption to classical compute monopolies; energy sector may benefit from quantum-optimized grid/material discovery."
+        },
+        {
+          "title": "Check out the first images of Quest shipwreck",
+          "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+          "content": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 10 Jul 2026 19:59:31 +0000",
+          "summary": "**BREAKTHROUGHS angle:**\nDeep-ocean wreck preservation and microbial ecosystem mapping demonstrate emerging biotech applications in extreme-environment resource recovery and carbon sequestration monitoring—potential growth verticals for climate-tech and biotech equities tied to ocean restoration and blue economy commodities."
+        }
+      ],
+      "generatedAt": "2026-07-11T04:44:07.165Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+          "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+          "content": "https://www.science.org/doi/10.1126/science.aei1285\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 156\n# Comments: 54",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 10 Jul 2026 22:30:44 +0000",
+          "summary": "**Scientific breakthrough with limited near-term market relevance.** Heavy-element chemistry corrections via relativistic effects refine materials science fundamentals but don't materially impact macro cycles, credit models, or banking analytics. Potential long-term applications in semiconductor/battery chemistry could influence energy transition narratives tracked by commodities investors, but lacks immediate ECL/PD/LGD or fintech disruption implications."
+        },
+        {
+          "title": "Moss (YC F25) Is Hiring",
+          "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+          "content": "Article URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\nComments URL: https://news.ycombinator.com/item?id=48865332\nPoints: 0\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 10 Jul 2026 21:11:18 +0000",
+          "summary": "**Moss (YC F25) SDK Engineer Role:** Early-stage fintech builder hiring for developer tools—likely API/infrastructure play targeting financial services workflow automation. Relevant for tracking fintech disruption in banking operations and potential ECL/regulatory reporting tooling that could reshape how mid-market banks operationalize IFRS 9 compliance and model governance."
+        },
+        {
+          "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+          "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+          "content": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 11 Jul 2026 01:01:28 +0000",
+          "summary": "**BUILDER & CREDIT RISK:** CISA's reactive incident response reveals systemic gaps in government cybersecurity governance—critical for financial institutions assessing third-party/contractor risk models, ECL provisions for cyber incidents, and compliance frameworks. Highlights need for hardened secrets management in CI/CD pipelines, directly relevant to fintech infrastructure security and regulatory scrutiny of cloud/API-based architectures."
+        },
+        {
+          "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+          "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+          "content": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 11 Jul 2026 00:29:25 +0000",
+          "summary": "**BUILDER & PRODUCT / CREDIT RISK:**\nCookie stuffing exposes affiliate-commerce arbitrage collapse; regulatory scrutiny on fintech attribution fraud will tighten KYC/AML controls and require stricter transactional reconciliation logic in consumer fintech revenue models. Reputational damage signals venture-backed consumer apps lack transaction-level governance—critical for credit decisioning models relying on platform merchant/user behavior signals."
+        }
+      ],
+      "generatedAt": "2026-07-11T04:44:15.353Z"
+    }
+  ]
+}
