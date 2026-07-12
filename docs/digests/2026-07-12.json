@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-12T04:55:59.982Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "SoS! The overnight bilateral liquidity provision of non-bank financial institutions to banks",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Jul 2026 14:01:00 +0100",
+          "summary": "**CREDIT RISK & MACRO/MARKETS:**\n\nNon-bank liquidity provision to banks overnight creates hidden procyclical leverage and tail-risk concentration, directly impacting ECL models' assumption of stable funding costs and counterparty credit quality—especially for shadow bank exposure in IFRS 9 staging. This structural vulnerability amplifies systemic contagion during stress, requiring regulators to rethink capital buffers and stress-testing scenarios across interconnected financial networks."
+        },
+        {
+          "title": "Central bank communications that reach the public",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Jul 2026 14:00:00 +0100",
+          "summary": "**CREDIT RISK & MACRO SIGNIFICANCE:**\n\nCentral bank forward guidance and transparency directly influence market pricing of risk-free rates, which underpins IFRS 9 ECL discount rate assumptions and PD/LGD calibration cycles. Public communication clarity reduces tail-risk volatility and credit spread compression, stabilizing regulatory capital requirements across portfolios."
+        }
+      ],
+      "generatedAt": "2026-07-12T04:54:57.478Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "url": "https://huggingface.co/blog/torch-attention-profile",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 10 Jul 2026 00:00:00 GMT",
+          "summary": "**AI/ML + BUILDER angle:**\n\nPyTorch profiling of transformer attention mechanisms reveals critical bottlenecks in inference latency and memory consumption—directly applicable to real-time credit scoring, NLP-driven document processing, and mobile deployment of ML models in fintech apps. Optimizing attention layers reduces computational footprint, enabling on-device model inference for low-latency risk decisioning and improved React Native app performance under constrained mobile environments."
+        },
+        {
+          "title": "Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 08 Jul 2026 17:16:05 GMT",
+          "summary": "**Summary:**\n\nFoundational research on agent training data quality directly impacts financial services ML robustness—critical for ECL model validation, PD/LGD stability, and regulatory backtesting under IFRS 9. Data curation frameworks emerging here could unlock next-generation fintech automation in risk analytics and reduce model risk governance burden across banking infrastructure."
+        },
+        {
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 03 Jul 2026 14:25:43 +0000",
+          "summary": "# Summary\n\n**MACRO/MARKETS & BREAKTHROUGHS:** DeepMind-A24 partnership signals AI's shift into creative/content domains, validating generative models as enterprise infrastructure—parallels broader tech consolidation and potential margin expansion in media/entertainment, though raises IP/copyright regulatory risk and creator-economy disruption. **CREDIT RISK & BUILDER:** Validates AI-as-a-service monetization model; watch for content-tech platform covenant implications; generative video capabilities may accelerate fintech app UX (React Native, Firebase) workflows but introduce model governance/explainability challenges analogous to PD model documentation under IFRS 9."
+        },
+        {
+          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 30 Jun 2026 16:02:40 +0000",
+          "summary": "**AI/ML + BUILDER angle:**\n\nGoogle's Nano Banana 2 Lite and Gemini Omni Flash democratize on-device inference and multimodal processing at ultra-low latency/cost, enabling real-time fintech apps (trade alerts, fraud detection, portfolio analytics) without cloud dependency. For banking analytics: edge deployment reduces regulatory latency concerns and unlocks microsecond-class risk monitoring in React Native/Node stacks."
+        },
+        {
+          "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+          "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 10 Jul 2026 12:10:00 +0000",
+          "summary": "**AI/ML + BREAKTHROUGHS:** Anthropic's mechanistic interpretability breakthrough (identifying hidden concept spaces in Claude) accelerates transparency in LLM decision-making—critical for regulated banking deployments. OpenAI's \"super app\" strategy signals consolidation around AI-native platforms, reshaping fintech architecture and competitive dynamics in embedded finance."
+        },
+        {
+          "title": "Sperm donors need limits, says a European fertility group",
+          "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+          "content": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 10 Jul 2026 09:00:00 +0000",
+          "summary": "**Category: AI & ML Research → Social Policy/Regulatory**\n\nEuropean fertility regulators are tightening donor anonymity rules to address genetic liability and family relationship risks. For banking analytics: emerging regulatory framework requiring genetic/identity data management systems; potential credit risk exposure for fertility clinics (balance sheet impact, reputational ECL adjustments); fintech/app opportunity in identity verification and genetic record management compliance infrastructure."
+        }
+      ],
+      "generatedAt": "2026-07-12T04:55:09.665Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "How AI rebrands fail to deliver a lasting share price boost  ",
+          "url": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
+          "content": "Most of the groups that pivoted have not sustained their valuation gains, an FT analysis has found",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 11 Jul 2026 15:41:24 GMT",
+          "summary": "**Macro/Markets + Credit Risk**: AI-pivot rebranding shows mean reversion in equity valuations post-hype; implies sector rotation risk and potential earnings downgrades that could elevate PD/LGD assumptions in credit models and stress ECL provisions across tech-exposed portfolios. **AI/ML insight**: Demonstrates that AI adoption alone doesn't generate durable cash flows—underscores need for rigorous ML model validation in banking (PD/LGD calibration) to avoid embedding inflated assumptions into regulatory capital."
+        },
+        {
+          "title": "UK inflation is not distributed equally",
+          "url": "https://www.ft.com/content/8916354a-4c7c-4df6-8c9e-2303f883855d",
+          "content": "The poorest pay the most in an energy shock",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 11 Jul 2026 09:30:08 GMT",
+          "summary": "**MACRO/MARKETS:** UK energy shock disproportionately impacts low-income households (higher consumption share of budget), creating stagflationary pressure on consumer demand and retail sector margins. Unequal inflation distribution signals divergent monetary policy transmission and potential social policy intervention risk—relevant for GBP, consumer staples, and gilt curve positioning."
+        },
+        {
+          "title": "\n        China may struggle to fund Xi Jinping’s tech dreams\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams",
+          "content": "Even though capital markets are staging a comeback",
+          "source": "The Economist",
+          "publishedAt": "Thu, 09 Jul 2026 08:27:02 +0000",
+          "summary": "**Macro/Markets & Credit Risk Angle:**\nChina's tech funding constraints amid capital market recovery signal structural headwinds in state-directed industrial policy—material for ECL models given elevated default risk in tech/semiconductor SOEs and potential collateral revaluation in loan books. Tightening fiscal space could compress PD/LGD assumptions for Chinese corporates and trigger portfolio concentration reviews under IFRS 9 stress scenarios."
+        },
+        {
+          "title": "\n        An ageing society might not cost too much\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/09/an-ageing-society-might-not-cost-too-much",
+          "content": "A dystopian vision of the future may not come to pass",
+          "source": "The Economist",
+          "publishedAt": "Thu, 09 Jul 2026 08:26:42 +0000",
+          "summary": "**Macro/Markets:** Demographic ageing may impose lower fiscal/growth drag than consensus fears, reshaping long-term inflation, pension/healthcare spending expectations and revaluing defensive equities, bonds, and EM growth narratives. Challenges conventional bearish case on developed market sovereign debt sustainability and forces recalibration of central bank terminal rate assumptions."
+        },
+        {
+          "title": "What's next for Tesla after Q2 delivery results?",
+          "url": "https://seekingalpha.com/news/4612949-whats-next-for-tesla-after-q2-delivery-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sun, 12 Jul 2026 00:25:24 -0400",
+          "summary": "**MACRO/MARKETS & INVESTMENT:** Tesla's Q2 delivery miss signals EV demand normalization and pricing pressure across auto—watch for margin compression rippling into supplier credit quality and refinancing stress in cyclical sectors; signals potential Fed pause benefit already priced in.\n\n**CREDIT RISK:** Deteriorating auto OEM cash conversion and rising leverage ratios (Tesla, legacy auto) warrant ECL review for auto-correlated counterparty exposures; PD/LGD assumptions on dealer floor-plan financing and captive finance arms require upward bias adjustment."
+        },
+        {
+          "title": "U.S. launches new strikes on Iran as standoff threatens chronic Persian Gulf oil instability",
+          "url": "https://seekingalpha.com/news/4613052-us-launches-new-strikes-on-iran-as-standoff-threatens-chronic-persian-gulf-oil-instability?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 11 Jul 2026 21:39:49 -0400",
+          "summary": "**MACRO/MARKETS:** U.S.-Iran escalation risks sustained crude volatility (WTI +3–5% near-term), inflation pass-through to global supply chains, and equity volatility across energy/defensives; geopolitical premium now structural in oil pricing, pressuring downstream margins and EM currency stability.\n\n**CREDIT RISK:** Elevated oil price variance widens PD/LGD bands for energy corporates and oil-dependent sovereigns (GCC, Russia, Nigeria); ECL models need dynamic commodity correlation matrices; potential CLO/securitization repricing if energy issuer spreads spike >200bps."
+        },
+        {
+          "title": "Dmart recasts strategy as rapid delivery competition intensifies ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/dmart-recasts-strategy-as-rapid-delivery-competition-intensifies/articleshow/132340693.cms",
+          "content": "DMart has scaled back its e-commerce footprint, exiting underperforming cities to focus on metros as competition intensifies in India’s rapid delivery space. Despite rising pressure from Amazon, Flipkart, Zepto and Swiggy, the retailer is sticking to its low-cost model and non-10-minute delivery approach amid muted earnings performance.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 12 Jul 2026 10:01:20 +0530",
+          "summary": "**MACRO/MARKETS:** India's retail consolidation accelerates as quick-commerce disrupts traditional models; DMart's retreat signals margin compression across organized retail, pressuring valuations in emerging market consumption plays amid intensifying Amazon/Flipkart competitive moat-building.\n\n**CREDIT RISK:** Rising operational losses and market share erosion weaken DMart's leverage metrics and cash generation; ECL models must reassess PD/LGD trajectories for retail sector exposure as competitive intensity reduces recovery prospects in downside scenarios."
+        },
+        {
+          "title": "HDFC Bank, HCL Tech among 143 companies to announce earnings this week ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-hcl-tech-among-143-companies-to-announce-earnings-this-week/articleshow/132340559.cms",
+          "content": "The June quarter earnings season is set to accelerate with 143 companies, including HDFC Bank, Reliance Industries and HCL Tech, scheduled to report this week. With growth projected at 10%, investors will track sectoral trends across banking, IT and consumption, focusing on margins, demand outlook and asset quality signals.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 12 Jul 2026 09:49:30 +0530",
+          "summary": "**MACRO/MARKETS:**\nIndia's June quarter earnings acceleration (143 companies, 10% growth) will test banking asset quality resilience and IT margin sustainability amid global demand uncertainty; sectoral divergence signals will calibrate FY25 GDP trajectory and rupee carry-trade positioning for EM allocators.\n\n**CREDIT RISK:**\nLarge-cap bank earnings (HDFC, others) will reveal Stage 2 migration trends and NPA trajectories critical for ECL calibration; asset quality signals directly impact PD/LGD inputs and regulatory capital adequacy under stress, informing wholesale portfolio risk models.\n\n**AI/ML:**\nQ1 earnings calls provide real-time"
+        }
+      ],
+      "generatedAt": "2026-07-12T04:55:28.412Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
+          "url": "https://www.nature.com/articles/s41586-026-10853-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-10T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & COMMODITIES:**\nCorrected iron-cycle research refines understanding of oceanic nutrient dynamics, directly impacting agricultural productivity forecasts, fertilizer demand cycles, and emerging-market commodity export valuations—particularly for iron ore and phosphate-dependent economies. Shifts long-term climate/food security narratives affecting agribusiness equity valuations and emerging-market FX stability.\n\n**CREDIT RISK (IFRS 9 / ECL):**\nAuthigenic mineral phase discovery enhances climate-scenario modeling for PD/LGD inputs in agricultural & mining portfolios; improves forward-looking ECL assumptions under TCFD stress scenarios by"
+        },
+        {
+          "title": "Alpine crossing took a heavy toll on Hannibal’s elephants and troops",
+          "url": "https://www.nature.com/articles/d41586-026-02113-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-10T00:00:00.000Z",
+          "summary": "**Category Assessment: Science Breakthroughs (historical/archaeological)**\n\nThis article lacks material relevance to your focus areas. No macro market themes, credit cycle signals, regulatory implications, AI/ML disruption vectors, or fintech/app development applications. Historical military logistics analysis—interesting context for decision-making under uncertainty, but not actionable for banking analytics, equity macro tracking, or tech infrastructure.\n\n**Recommendation:** Skip for professional briefing purposes."
+        },
+        {
+          "title": "Columbia scientists discover surprising link between serotonin and heart valve disease",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010131.htm",
+          "content": "Scientists have uncovered evidence that serotonin, the chemical best known for regulating mood, may also speed the progression of a common heart valve disease in some people. The research suggests that patients with degenerative mitral regurgitation who take SSRI antidepressants and carry a specific genetic variant may develop severe valve damage sooner, potentially requiring surgery at a younger age.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 11 Jul 2026 23:11:19 EDT",
+          "summary": "**MACRO/MARKETS:** Pharma/healthcare sector volatility risk—SSRIs represent $15B+ global market; potential label warnings could reshape psychiatric treatment protocols and litigation exposure for major players (Eli Lilly, Pfizer, GSK), whilst cardiology device makers (Edwards, Boston Scientific) may see earlier intervention demand.\n\n**CREDIT RISK:** Elevated counterparty risk for pharma issuers if litigation/product liability materializes; insurers face claims tail-risk; IFRS 9 Stage 2 migration likely for healthcare bonds if pipeline confidence deteriorates and default probability assumptions shift.\n\n**AI/ML:** Opportunity for multimodal phenotype discovery models"
+        },
+        {
+          "title": "Second pregnancy changes the brain in surprising new ways",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010125.htm",
+          "content": "Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the first. The discoveries could lead to better ways to recognize and treat maternal mental health challenges, including peripartum depression.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 11 Jul 2026 07:37:04 EDT",
+          "summary": "**BREAKTHROUGHS / HEALTHTECH SECTOR:**\nMaternal brain plasticity research unlocks $2B+ mental health diagnostics and therapeutics market; potential biomarker-driven screening tools and personalized perinatal care platforms represent new venture/public equity thesis in women's health, currently underserved vs. oncology/cardio despite 4M+ annual US births.\n\n**CREDIT RISK / IFRS 9 (tangential):**\nImproved peripartum depression recognition reduces downstream loan default risk in female-headed households and maternity-linked income volatility; insurers/lenders could leverage predictive biomarkers to refine PD models and lower ECL"
+        },
+        {
+          "title": "A Jupiter-size planet that escaped its star's death",
+          "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+          "content": "It's unclear how the planet avoided its star's bloated red giant stage.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 11 Jul 2026 12:00:58 +0000",
+          "summary": "**BREAKTHROUGHS:** Exoplanet survival mechanisms challenge stellar evolution models; could reshape habitability risk frameworks for astrobiology-focused deep-tech funds and space exploration ETFs tracking long-duration asset thesis (decades-to-centuries). Limited near-term market impact unless detection methods improve planetary survey economics."
+        },
+        {
+          "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+          "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+          "content": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 11 Jul 2026 11:11:26 +0000",
+          "summary": "**MACRO/MARKETS:** BLM grazing regulation overhaul signals potential commodities volatility—livestock input costs, rangeland productivity, and agricultural sector margins face structural shifts. Reduced public consultation may accelerate policy changes affecting agribusiness, energy infrastructure co-location, and emerging water/carbon credit markets.\n\n**CREDIT RISK:** Increased regulatory uncertainty for agricultural lenders; potential ECL model recalibration needed for livestock/ranching portfolios given policy transition risk and land-use classification shifts affecting collateral valuation under IFRS 9 frameworks.\n\n**BREAKTHROUGHS:** Regulatory streamlining reduces compliance friction for agritech/climate tech—creates market opportunity"
+        }
+      ],
+      "generatedAt": "2026-07-12T04:55:43.972Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+          "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+          "content": "Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans\nComments URL: https://news.ycombinator.com/item?id=48878126\nPoints: 20\n# Comments: 6",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 12 Jul 2026 04:00:14 +0000",
+          "summary": "**MACRO/CREDIT RISK angle:** Federal \"earnings outcome\" rule pressures higher ed funding, triggering potential loan portfolio stress for servicers and banks holding education debt; parallels regulatory ECL modeling shifts toward outcome-based loss provisioning rather than historical default curves, forcing recalibration of PD/LGD assumptions on ~$1.7T student loan market."
+        },
+        {
+          "title": "Why are US consumers so angry? It's not just high prices",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
+          "content": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy\nComments URL: https://news.ycombinator.com/item?id=48877927\nPoints: 43\n# Comments: 31",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 12 Jul 2026 03:10:08 +0000",
+          "summary": "**MACRO/MARKETS:** Consumer sentiment collapse despite nominal wage gains signals demand destruction risk; real purchasing power erosion across discretionary categories threatens Q3-Q4 GDP and retail earnings, with stagflationary implications for equity multiples and bond curves.\n\n**CREDIT RISK:** Rising consumer anger correlates with payment stress signals; ECL models underweighting behavioral default triggers tied to sentiment-driven delinquency acceleration—requires PD recalibration and forward-looking macroeconomic scenarios beyond backward-looking 12-month data."
+        },
+        {
+          "title": "Reed Jobs would rather talk about curing cancer than his last name",
+          "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+          "content": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs's words, a huge part of what Yosemite does. \"I didn't expect Yosemite to be moving this fast,\" he said.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 12 Jul 2026 00:16:06 +0000",
+          "summary": "**MACRO/MARKETS | BIOTECH SECTOR THEME:**\nPatent cliff concentration in biotech (2024-2026) creates M&A/licensing consolidation wave; AI-driven drug discovery reshaping sector productivity metrics and valuation multiples—watch for margin compression in legacy pharma and repricing of biotech risk premiums.\n\n**CREDIT RISK | IFRS 9 / ECL IMPLICATIONS:**\nAccelerating biotech patent expirations increase counterparty credit risk for pharma lenders; AI-enabled discovery shortens development cycles, reducing EAD estimates but requiring PD model recalibration for clinical-stage cohorts with improved success probabilities."
+        },
+        {
+          "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+          "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+          "content": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja’s latest slushie machine builds on the popularity of the original […]",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 11 Jul 2026 22:00:00 +0000",
+          "summary": "**Category: Builder & Product**\n\nConsumer appliance review lacks macro relevance or banking/fintech implications. Ninja's slushie machine penetration reflects discretionary spending resilience amid inflation, but negligible signal for credit modeling, equity positioning, or technical architecture patterns applicable to analytics or app development workflows."
+        }
+      ],
+      "generatedAt": "2026-07-12T04:55:59.982Z"
+    }
+  ]
+}
