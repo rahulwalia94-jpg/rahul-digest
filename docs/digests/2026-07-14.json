@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-14T04:29:33.218Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "SoS! The overnight bilateral liquidity provision of non-bank financial institutions to banks",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Jul 2026 14:01:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY:**\nNon-bank overnight liquidity provision to banks creates hidden procyclical funding risk—critical for ECL staging (Stage 2 migration during stress) and PD/LGD recalibration under IFRS 9, as counterparty concentration in shadow banking exposes regulatory capital buffers to rapid volatility spillovers."
+        },
+        {
+          "title": "Central bank communications that reach the public",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Jul 2026 14:00:00 +0100",
+          "summary": "**Credit Risk & Regulatory + Macro/Markets Angle:**\n\nCentral bank staff research dissemination signals policy direction earlier than official communications, influencing macro forecasts, long-duration asset pricing, and PD/LGD calibration assumptions in ECL models. Public-facing working papers create information asymmetry decay—early retail access flattens alpha windows but tightens correlation assumptions across equity/credit risk factors globally."
+        }
+      ],
+      "generatedAt": "2026-07-14T04:28:41.217Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "url": "https://huggingface.co/blog/torch-attention-profile",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 10 Jul 2026 00:00:00 GMT",
+          "summary": "**AI/ML + BUILDER angle:**\n\nEfficient attention profiling in PyTorch directly cuts inference latency and compute costs for production LLM deployments—critical for real-time fintech apps (credit decisioning, trade signals). Mastering attention bottlenecks enables sub-100ms API response times essential for mobile/web trading platforms and ECL model scoring pipelines at scale."
+        },
+        {
+          "title": "Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 08 Jul 2026 17:16:05 GMT",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\n\nAutonomous agents require structured, high-quality training data—a nascent constraint reshaping data infrastructure spending and creating winners in data labeling/curation. Macro relevance: accelerates AI capex cycles across financials/tech; investment angle favors data platform providers and synthetic data vendors over commodity compute."
+        },
+        {
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 03 Jul 2026 14:25:43 +0000",
+          "summary": "**MACRO/MARKETS:** DeepMind-A24 partnership signals AI's expansion into creative content generation—a $2.6T+ global media market. Validates generative AI as structural economic force; watch for content IP valuation shifts, talent arbitrage, and downstream margin compression in traditional media supply chains.\n\n**CREDIT RISK:** Accelerated AI adoption in creative workflows may impair legacy media/entertainment loan collateral quality and refinance risk; monitor covenant stress for studios with high content production leverage. Model PD/LGD revisions needed if IP monetization timelines compress.\n\n**AI/ML:** Demonstration that frontier models (video/multimodal) now monetizable beyond"
+        },
+        {
+          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 30 Jun 2026 16:02:40 +0000",
+          "summary": "**AI/ML + BUILDER angle:**\n\nGoogle's Nano Banana 2 Lite and Gemini Omni Flash represent edge-deployable, cost-efficient LLM inference—critical for fintech apps requiring real-time decisioning (credit scoring, transaction monitoring) without cloud latency/cost overhead. For banking analytics, on-device multimodal processing enables document intelligence in ECL workflows and regulatory reporting while maintaining data sovereignty—key for IFRS 9 compliance in regulated environments."
+        },
+        {
+          "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+          "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 13 Jul 2026 18:00:00 +0000",
+          "summary": "**AI/ML + Macro Significance**: Anthropic's research into AI model behavior (pain perception) signals a shift toward interpretability and safety—critical for regulatory approval and enterprise adoption. This affects AI sector valuations and banking's AI model validation frameworks (IFRS 9 model governance, explainability for credit/market risk ECL calculations)."
+        },
+        {
+          "title": "The Download: a donor conception cap and world models for AI",
+          "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 13 Jul 2026 12:10:00 +0000",
+          "summary": "**AI & ML Research / Regulatory:**\nDonor conception caps highlight emerging regulatory fragmentation across jurisdictions—relevant to fintech compliance modeling and cross-border data governance. World models in AI represent next-gen foundation models that could disrupt banking analytics pipelines (credit risk, fraud detection); implications for model validation frameworks and IFRS 9 ECL calibration under evolving regulatory scrutiny."
+        }
+      ],
+      "generatedAt": "2026-07-14T04:28:52.883Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "US launches air strikes as Iran targets tankers with cruise missiles",
+          "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
+          "content": "Donald Trump demands 20% fee on cargoes passing through Strait of Hormuz",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 14 Jul 2026 03:01:14 GMT",
+          "summary": "**MACRO/MARKETS:** Geopolitical escalation in Persian Gulf threatens 20% of global oil supply; Strait of Hormuz toll proposal inverts traditional tariff logic, creating stagflation risk across energy, shipping, and EM currencies. Volatility spike favors safe-haven bonds/USD, pressures emerging market debt servicing.\n\n**CREDIT RISK:** Energy sector PD/LGD models face structural shock; shipping/logistics counterparty risk rises sharply. ECL provisions likely under-calibrated for tail-risk geopolitical scenarios; scenario analysis and stress-testing frameworks require urgent refresh across commodity-linked exposures and trade finance books."
+        },
+        {
+          "title": "FirstFT: Investors cut back bets on Asia’s chipmakers",
+          "url": "https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275",
+          "content": "Also in today’s newsletter: companies turn to Chinese AI models to cut costs and Jane Fraser’s ruthless remake of Citigroup",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 13 Jul 2026 21:37:31 GMT",
+          "summary": "**Macro/Markets + Credit Risk + AI/ML + Investment Angle:**\n\nAsian semiconductor sector facing valuation compression amid demand uncertainty and margin pressure—material for IFRS 9 ECL models given cyclical PD volatility and China's low-cost AI alternative displacement. Cost-cutting adoption of Chinese LLMs signals structural disruption to chipmaker moats, reshaping sector risk premiums and requiring dynamic PMA overlays on semiconductor exposure across banking portfolios."
+        },
+        {
+          "title": "\n        The stubborn scarcity of female breadwinners \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners",
+          "content": "Wives who outearn their husbands remain rare in America",
+          "source": "The Economist",
+          "publishedAt": "Mon, 13 Jul 2026 19:12:11 +0000",
+          "summary": "**Macro/Markets & Credit Risk Angle:**\nFemale breadwinner scarcity signals persistent household income concentration risk, affecting consumer leverage dynamics, default correlation modeling, and ECL provisioning accuracy—particularly in mortgage and unsecured lending portfolios where dual-income stability assumptions may underestimate tail risk. Structural wage/career gaps also constrain aggregate demand and EM remittance flows, with implications for emerging market credit quality and FX stability."
+        },
+        {
+          "title": "\n        Storm clouds gather over America’s financial supremacy\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
+          "content": "Its payments firms may be the first casualties",
+          "source": "The Economist",
+          "publishedAt": "Sun, 12 Jul 2026 17:05:30 +0000",
+          "summary": "**Macro & Markets angle:** U.S. payments dominance faces structural pressure from geopolitical fragmentation, de-dollarization, and competitive fintech ecosystems—threatening dollar-denominated settlement networks and cross-border flow margins that underpin American financial hegemony. Sector rotation risk: domestic payments processors face margin compression and regulatory arbitrage as alternatives (CBDC, blockchain, regional rails) proliferate."
+        },
+        {
+          "title": "Paramount Skydance pushes back deadlines for exchange, tender offers",
+          "url": "https://seekingalpha.com/news/4613411-paramount-skydance-pushes-back-deadlines-for-exchange-tender-offers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 14 Jul 2026 00:13:21 -0400",
+          "summary": "**MACRO/MARKETS:** M&A timeline extensions signal deal-financing stress amid elevated rates and equity volatility; precedent for broader re-pricing of leveraged transactions and contingent valuations across media/entertainment sector facing structural streaming headwinds."
+        },
+        {
+          "title": "Nvidia halves Asian AI chip buyer list amid tighter China screening - report",
+          "url": "https://seekingalpha.com/news/4613408-nvidia-halves-asian-ai-chip-buyer-list-amid-tighter-china-screening---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 14 Jul 2026 00:10:36 -0400",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:**\nUS-China semiconductor decoupling accelerates, pressuring valuations of chipmakers dependent on Asian distribution and threatening EAD/PD assumptions in tech lending portfolios; potential credit deterioration in downstream AI infrastructure capex cycles if buyer concentration narrows further, requiring ECL model recalibration for counterparty exposure."
+        },
+        {
+          "title": "Global Market: China's upbeat trade data lifts hopes for export-linked stocks ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-upbeat-trade-data-lifts-hopes-for-export-linked-stocks/articleshow/132380856.cms",
+          "content": "China's exports saw a strong 27% year-on-year increase in June. Imports also climbed a significant 36%, accelerating from May's figures. This performance indicates resilient global demand and strengthening domestic economic activity. The robust trade data suggests improved industrial output and consumption within China. These positive figures are expected to boost investor confidence in Chinese markets.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 14 Jul 2026 09:53:49 +0530",
+          "summary": "**MACRO/MARKETS:** China's 27% export surge and 36% import jump signal synchronized global demand recovery and domestic reflation, supporting cyclicals, industrials, and commodity-linked equities while reducing hard-landing recession fears globally. Export acceleration may extend the commodity super-cycle, benefiting EM currencies and energy stocks.\n\n**CREDIT RISK:** Rising Chinese trade activity and industrial output improve obligor cash flows and reduce default probability (PD) for export-exposed corporates and trade finance portfolios; ECL models may warrant PD downgrades, though geopolitical/policy volatility warrants scenario stress-testing and EAD monitoring on FX-hedged trade lines."
+        },
+        {
+          "title": "Avenue Supermarts among 4 F&amp;O stocks with sharp rise in futures open interest ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/132380893.cms",
+          "content": "A sharp rise in futures open interest indicates a significant increase in the number of active, unexpired futures contracts in a stock.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 14 Jul 2026 09:46:34 +0530",
+          "summary": "**Macro/Markets:** Rising futures OI in select Indian equities signals retail/institutional hedging activity amid market volatility—watch for broader liquidity stress signals and sector rotation flows, particularly in consumer/discretionary if Avenue Supermarts momentum correlates with RBI policy expectations."
+        }
+      ],
+      "generatedAt": "2026-07-14T04:29:10.632Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Perovskite–organic tandem solar cells with a photo-transformable stabilizer",
+          "url": "https://www.nature.com/articles/s41586-026-10869-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-13T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nPerovskite-organic tandem cells achieve >30% efficiency with photo-stabilizing additives, materially de-risking commercialization of next-gen solar and threatening incumbent silicon/polysilicon supply chains (commodities volatility hedge). Sector inflection point: accelerates clean energy capex cycles, reshapes energy transition CapEx allocation, and pressures traditional utilities' stranded asset ECL models.\n\n**CREDIT RISK (IFRS 9/ECL):**\nTechnology de-risking reduces default probability for perovskite manufacturers and solar project sponsors; conversely, triggers material LGD/"
+        },
+        {
+          "title": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
+          "url": "https://www.nature.com/articles/s41586-026-10855-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-13T00:00:00.000Z",
+          "summary": "**BREAKTHROUGHS**: OR7A10 GPCR optimization enhances CAR-NK cell efficacy against solid tumors, potentially expanding immunotherapy addressable market beyond blood cancers. Success de-risks biotech R&D pipelines and could reshape oncology sector valuations if clinical translation accelerates, with significant upside for therapeutic biotech equities and CDx diagnostics enabling patient stratification."
+        },
+        {
+          "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm",
+          "content": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In the scientific journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers – real numbers can in fact also be used. The American Physical Society has also dedicated a “Highlight” to these findings in its Physics Magazine.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 13 Jul 2026 03:22:08 EDT",
+          "summary": "**BREAKTHROUGHS / THEORETICAL PHYSICS:**\nGerman physicists demonstrate quantum mechanics formulation using real-number algebra instead of imaginary numbers—potentially simplifying computational models across quantitative finance, risk simulation, and derivatives pricing while reducing numerical instability in Monte Carlo methods critical to ECL and PD/LGD calibration."
+        },
+        {
+          "title": "Losing just 80 minutes of sleep a night could make you gain weight",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713000800.htm",
+          "content": "Sleeping about an hour and 20 minutes less each night for six weeks caused participants to gain weight and spend more time inactive. Researchers found that even mild, realistic sleep loss, similar to what many adults experience, had measurable effects. They warn that if this pattern continues over months or years, the health consequences could become much more significant, including a higher risk of diabetes and heart disease.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 13 Jul 2026 09:24:13 EDT",
+          "summary": "**MACRO/MARKETS:** Sleep deprivation-driven metabolic dysfunction could elevate healthcare costs and reduce labour productivity globally, pressuring consumer discretionary spending and increasing demand for weight-management pharma/wellness sectors (Novo Nordisk, Eli Lilly GLP-1 derivatives).\n\n**CREDIT RISK:** Chronic sleep loss accelerates diabetes/CVD incidence, increasing future claims intensity in life/health insurance portfolios; IFRS 9 ECL models may underestimate long-tail mortality/morbidity risk if sleep-quality metrics remain unmeasured in population health datasets.\n\n**AI/ML:** Wearable sleep-tracking data (Apple Watch,"
+        },
+        {
+          "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+          "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+          "content": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 14 Jul 2026 01:17:14 +0000",
+          "summary": "**MACRO/MARKETS:** Starship's 13th flight advances commercial space infrastructure, potentially accelerating satellite internet adoption and reducing launch costs—a deflationary force for telecom capex and a secular growth driver for space economy equities and emerging market connectivity plays.\n\n**BREAKTHROUGHS:** Successful orbital deployment of next-gen Starlink satellites reinforces SpaceX's competitive moat in low-latency global broadband, with implications for telecom disruption, defense contracts, and valuation multiples in the private space economy ($200B+ TAM)."
+        },
+        {
+          "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
+          "url": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
+          "content": "New study confirms 2024 \"momentum flux theory\" on how angular momentum of water flows drives rotation.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 13 Jul 2026 19:00:47 +0000",
+          "summary": "**BREAKTHROUGHS | Physics/Engineering:**\nMomentum flux theory resolving century-old fluid dynamics puzzle signals maturation of angular momentum modeling—applicable to turbomachinery, pump efficiency, industrial process optimization. Potential tailwind for cleantech capex cycles and engineering software vendors; minimal direct market impact but validates computational fluid dynamics reliability for infrastructure project valuations."
+        }
+      ],
+      "generatedAt": "2026-07-14T04:29:24.538Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "America's Other Elections Problem",
+          "url": "https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem",
+          "content": "Article URL: https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem\nComments URL: https://news.ycombinator.com/item?id=48901788\nPoints: 3\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 14 Jul 2026 03:04:06 +0000",
+          "summary": "**MACRO/MARKETS & CREDIT RISK:** Electoral integrity concerns could amplify policy uncertainty and sovereign risk premiums, affecting Treasury volatility and cross-asset correlations; potential regulatory fragmentation post-election creates model recalibration risk for IFRS 9 macro scenarios and PD/LGD assumptions in US credit portfolios."
+        },
+        {
+          "title": "Agents.md – Dumb Human",
+          "url": "https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff",
+          "content": "Article URL: https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff\nComments URL: https://news.ycombinator.com/item?id=48901695\nPoints: 17\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 14 Jul 2026 02:47:54 +0000",
+          "summary": "**Summary:**\n\nThe \"Dumb Human\" agent framework challenges conventional AI assumptions about intelligence requirements for autonomous systems—potentially disrupting how banks architect ECL/PD models and risk analytics. Relevant for fintech builders: suggests simpler, more interpretable agent architectures could outperform complex black-boxes, reducing model governance friction and improving regulatory defensibility in credit risk workflows."
+        },
+        {
+          "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+          "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+          "content": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 14 Jul 2026 02:46:42 +0000",
+          "summary": "**MACRO/MARKETS:** Tech mega-caps re-deploying capital into AI infrastructure signals sustained secular growth premium, but concentration risk intensifies—potential crowding in compute/chips reshapes sector rotation and liquidity dynamics across developed markets.\n\n**CREDIT RISK:** Accelerated capex cycles increase leverage metrics and debt serviceability scrutiny; IFRS 9 PD models must recalibrate for tech's cyclical capex sensitivity; ECL provisions tighten if AI ROI timelines slip.\n\n**AI/ML:** Large-scale model training infrastructure becomes competitive moat—banking analytics teams face skill/compute arbitrage; real-time ECL recalibration engines require GPU-"
+        },
+        {
+          "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+          "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+          "content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 14 Jul 2026 00:45:00 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:** Uber's diversification into financial services, robotaxis, and autonomous vehicle labs signals a shift toward high-margin, capital-light revenue streams; success here reshapes rideshare unit economics and creates new competitive moats in mobility/fintech, with implications for transportation/payments sector valuations.\n\n**CREDIT RISK & AI/ML:** Autonomous fleet expansion introduces operational concentration risk (Waymo dependency) requiring PD/LGD reassessment; AI-driven driver/rider behavior modeling and dynamic pricing could improve loss provisioning accuracy under IFRS 9 but add model governance complexity for regulatory validation."
+        }
+      ],
+      "generatedAt": "2026-07-14T04:29:33.218Z"
+    }
+  ]
+}
