@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-15T04:29:38.039Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "SoS! The overnight bilateral liquidity provision of non-bank financial institutions to banks",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Jul 2026 14:01:00 +0100",
+          "summary": "**CREDIT RISK & MACRO RELEVANCE:**\nNon-bank financial institutions' overnight liquidity provision to banks represents a hidden systemic vulnerability gap in ECL/stress-testing frameworks—when NBFIs withdraw funding during market stress, banks face unmodeled liquidity shocks that traditional PD/LGD/EAD models don't capture, forcing regulatory capital recalibration and exposing interconnectedness risks across emerging markets and commodity-linked sectors."
+        },
+        {
+          "title": "Central bank communications that reach the public",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 10 Jul 2026 14:00:00 +0100",
+          "summary": "**CREDIT RISK & REGULATORY**\n\nCentral bank public communications shape market expectations and credit conditions; this research likely quantifies transmission channels to ECL provisioning cycles and PD/LGD calibration through sentiment/forward guidance analysis. Critical for stress-testing assumptions and understanding how policy messaging volatility impacts regulatory capital adequacy across credit portfolios."
+        }
+      ],
+      "generatedAt": "2026-07-15T04:28:36.650Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "url": "https://huggingface.co/blog/torch-attention-profile",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 10 Jul 2026 00:00:00 GMT",
+          "summary": "**AI/ML + BUILDER:**\nPyTorch profiling of transformer attention mechanisms directly impacts production ML deployment costs in banking—critical for real-time ECL model inference and fraud detection at scale. Attention profiling optimizations reduce latency/memory footprint, enabling cost-efficient LLM-based financial analysis tools and mobile fintech apps processing sequential transaction data."
+        },
+        {
+          "title": "Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 08 Jul 2026 17:16:05 GMT",
+          "summary": "**AI & ML Research / Data for Agents:**\n\nAgent systems require structured data pipelines and quality governance—directly impacting ECL model robustness, regulatory validation, and real-time risk decisioning at scale. For banking analytics, this shifts competitive advantage to firms embedding agentic workflows in credit assessment, FX/commodities pricing, and portfolio optimization; macro investors should track AI adoption velocity as a leading indicator of banking sector margin expansion and systemic risk recalibration."
+        },
+        {
+          "title": "Empowering India’s next generation of innovators with ATL Saathi",
+          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+          "content": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+          "source": "DeepMind",
+          "publishedAt": "Mon, 13 Jul 2026 12:37:28 +0000",
+          "summary": "**MACRO/MARKETS:** India's AI-in-education push signals accelerating digital human capital investment in emerging markets, with spillover effects on tech talent supply chains and downstream productivity gains across APAC. Positions India as AI adoption leader beyond just consumption, supporting long-term structural growth thesis.\n\n**CREDIT RISK:** Immaterial to IFRS 9/ECL directly. Indirect: improved STEM workforce quality reduces sovereign/corporate credit risk in India over 5–10yr horizon; strengthens collateral quality in education-linked lending portfolios.\n\n**AI/ML:** Democratizing Gemini API access via education unlocks distributed training data and use-case validation; banking analytics"
+        },
+        {
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 03 Jul 2026 14:25:43 +0000",
+          "summary": "**MACRO/MARKETS:** DeepMind-A24 partnership signals AI's shift toward creative/media production, validating generative AI as economic engine beyond software—bullish for compute infrastructure (NVDA/AMD), bearish for traditional content studios lacking AI moats.\n\n**CREDIT RISK:** Accelerated AI adoption in media/entertainment increases default risk for legacy studios with high fixed costs; IFRS 9 PD models for TMT sector require recalibration; regulatory scrutiny on AI-driven labor displacement may trigger covenant stress.\n\n**AI/ML:** Generative models moving into production creative workflows validates end-to-end foundation model architectures; banking analytics applications ("
+        },
+        {
+          "title": "The Download: Claude’s inner workings, and the future of world models",
+          "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 14 Jul 2026 12:10:00 +0000",
+          "summary": "**AI/ML + CREDIT RISK angle:** Anthropic's interpretability breakthrough (accessing model reasoning chains) has direct IFRS 9 implications—explainable AI could strengthen ECL model governance, regulatory defensibility of PD/LGD inputs, and audit trails for PMA frameworks. For banking analytics: transparency into neural decision logic reduces model risk classification and enhances stress-testing credibility."
+        },
+        {
+          "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+          "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+          "content": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 14 Jul 2026 08:00:00 +0000",
+          "summary": "**MACRO/MARKETS & BREAKTHROUGHS:**\nPsiQuantum's photonic quantum architecture represents a potential paradigm shift in computing that could disrupt cryptography, optimization, and risk modeling—triggering reassessment of cybersecurity valuations, post-quantum encryption spending, and long-term competitive moats in cloud/semiconductor sectors. If viable at scale, quantum could accelerate drug discovery, materials science, and financial modeling, reshaping energy transition and EM growth narratives.\n\n**CREDIT RISK & AI/ML:**\nQuantum computing threatens current encryption standards underpinning transaction validation and regulatory data integrity; banks must assess model obsolescence risk (PD/LGD bac"
+        }
+      ],
+      "generatedAt": "2026-07-15T04:28:53.680Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "China-backed copper mine threatens Pakistan shutdown over security risk",
+          "url": "https://www.ft.com/content/0579db3f-3279-43f0-a7a8-85a4b2e81c8f",
+          "content": "Worsening violence in Balochistan imperils Islamabad’s resource ambitions",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 15 Jul 2026 01:27:53 GMT",
+          "summary": "**MACRO/MARKETS:** Balochistan instability threatens China's Belt & Road copper supply chain and Pakistan's FX reserves (copper export revenue ~$2bn annually). Cascading risks to global base metals, emerging market credit spreads, and China's commodity hedging strategies.\n\n**CREDIT RISK:** Pakistani sovereign and project finance ECL models require volatility uplift for political risk; Chinese lender exposures need concentration risk review under IFRS 9; PD migration likely for Pakistan's external debt tranches."
+        },
+        {
+          "title": "Circle clashed with Tether-backed fund over market manipulation concerns ",
+          "url": "https://www.ft.com/content/d2ea75d8-ffe4-406f-a04e-59416ae1ed20",
+          "content": "New filings detail long-running legal battle between Heka Funds and the $73bn stablecoin group",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 14 Jul 2026 23:36:54 GMT",
+          "summary": "**MACRO/MARKETS**: Stablecoin governance disputes escalate amid $73bn sector maturation—signals broader fragmentation in crypto infrastructure credibility and potential regulatory scrutiny on reserve adequacy, relevant to macro volatility and EM currency competition themes.\n\n**CREDIT RISK**: Legal/reputational friction in stablecoin ecosystem raises counterparty risk assessment questions; PMA frameworks may need enhanced scrutiny on off-balance-sheet exposures and collateral quality verification for institutions holding stablecoin reserves."
+        },
+        {
+          "title": "\n        Trump’s Hormuz brinkmanship is worsening a global fuel crunch\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/14/trumps-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch",
+          "content": "Rising oil prices are only part of the problem",
+          "source": "The Economist",
+          "publishedAt": "Tue, 14 Jul 2026 18:22:01 +0000",
+          "summary": "**MACRO/MARKETS:** Geopolitical escalation in the Strait of Hormuz (20% of global oil transit) is tightening energy supplies beyond headline price moves—compressing refinery margins, elevating transport risk premiums, and creating stagflationary pressure on downstream sectors (airlines, chemicals, plastics). Emerging markets with current account deficits face acute FX and inflation headwinds.\n\n**CREDIT RISK:** Rising energy costs and supply volatility increase default correlation across oil-import-dependent corporates and sovereigns (Mexico, India, EM); ECL models require stressed commodity curves and geopolitical tail-risk assumptions; PD/LGD inputs for"
+        },
+        {
+          "title": "\n        What investment gurus get wrong\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/14/what-investment-gurus-get-wrong",
+          "content": "To see a country’s financial follies, look to its celebrity advisers",
+          "source": "The Economist",
+          "publishedAt": "Tue, 14 Jul 2026 17:21:18 +0000",
+          "summary": "**Macro/Markets Summary:**\n\nCelebrity financial advisers often reflect rather than predict market trends, amplifying existing biases in their home country's asset allocation and policy mistakes. Their influence on retail capital flows can exacerbate systemic vulnerabilities—relevant for tracking EM volatility, commodity positioning, and cross-border capital adequacy stress scenarios."
+        },
+        {
+          "title": "CoreWeave eyes derivatives to hedge memory chip price risks: report",
+          "url": "https://seekingalpha.com/news/4613809-coreweave-eyes-derivatives-to-hedge-memory-chip-price-risks-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 15 Jul 2026 00:22:03 -0400",
+          "summary": "**MACRO/MARKETS & AI/ML DISRUPTION:**\nGPU memory chip price volatility—driven by AI infrastructure capex cycles—is creating hedging demand that signals both structural supply constraints and financialization of commodity-like semiconductors; CoreWeave's derivatives strategy reflects how AI capex intensity is reshaping risk management across tech infrastructure, with broader implications for semiconductor sector valuations and Fed policy sensitivity to tech-driven inflation."
+        },
+        {
+          "title": "Liberty Energy declares $0.09 dividend",
+          "url": "https://seekingalpha.com/news/4613808-liberty-energy-declares-0_09-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 15 Jul 2026 00:15:11 -0400",
+          "summary": "**Macro & Markets Significance:**\nLiberty Energy's $0.09 dividend signals upstream energy cash generation strength amid volatile commodity cycles, reflecting sector confidence in sustained oil/gas pricing. Signals potential capital return acceleration across energy majors—relevant to commodity-linked EM currency stability and energy equity weighting in macro portfolios."
+        },
+        {
+          "title": "101 equity mutual funds doubled money in 5 years; 4 did it in just 3. Should you invest now? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/101-equity-mutual-funds-doubled-money-in-5-years-4-did-it-in-just-3-should-you-invest-now/articleshow/132405810.cms",
+          "content": "More than 100 Indian equity mutual funds doubled investors' money over five years, but experts caution against chasing past winners. While sectors such as defence, infrastructure and PSUs delivered stellar returns, recent performance has weakened. Fund managers recommend diversified equity funds over concentrated sector bets, citing attractive valuations and long-term opportunities despite near-term market volatility.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 15 Jul 2026 09:39:24 +0530",
+          "summary": "**MACRO/MARKETS:** Indian equity funds' 5-year doubling reflects structural tailwinds (defence, infrastructure, PSU modernisation) masking recent sector rotation weakness; valuation compression and volatility normalisation suggest momentum-chasing into late-cycle rally carries execution risk despite long-term fundamentals."
+        },
+        {
+          "title": "US Stock Market: Fed officials welcome softer US inflation, seek more evidence before policy shift ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-officials-welcome-softer-us-inflation-seek-more-evidence-before-policy-shift/articleshow/132405816.cms",
+          "content": "Federal Reserve officials noted cooling inflation data but stressed more months are needed. They indicated a weakened case for a near-term rate hike while remaining cautious. Market attention now shifts to producer price data for broader inflation trends. Investors have reduced expectations for an imminent interest rate increase. Policymakers remain committed to restoring price stability and await further confirmation.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 15 Jul 2026 09:36:08 +0530",
+          "summary": "**MACRO/MARKETS:** Softer inflation and delayed rate hikes extend the low-rate cycle, supporting equity valuations and reducing near-term recession risk, though PPI data will signal whether disinflation is structural or transitory—critical for duration positioning and sector rotation timing.\n\n**CREDIT RISK:** Prolonged accommodative policy reduces default probabilities and improves LGD recovery assumptions in IFRS 9 ECL models, but extends tail-risk uncertainty; PD calibration and forward-looking macro scenarios require recalibration if rate-hike probability shifts materially."
+        }
+      ],
+      "generatedAt": "2026-07-15T04:29:12.406Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
+          "url": "https://www.nature.com/articles/d41586-026-02188-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "summary": "**MACRO/MARKETS:** H5N1 spread in Australia risks agricultural output disruption, commodity price volatility (poultry, feed), and potential supply-chain shocks to food exporters—material for emerging market inflation dynamics and agribusiness sector rotation.\n\n**CREDIT RISK:** Poultry industry concentration in rural lending portfolios warrants ECL model recalibration; pandemic clauses in agricultural covenants may trigger PD/LGD repricing and collateral revaluation across regional banks exposed to primary production."
+        },
+        {
+          "title": "Academia should recognize community partnerships as having societal impact",
+          "url": "https://www.nature.com/articles/d41586-026-02190-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "summary": "**Not material to your core focus.** This is a higher-education policy piece on academic incentive structures—lacking direct macro, credit, regulatory, or technical relevance to banking analytics, ECL frameworks, equity market themes, energy/commodities, or fintech infrastructure."
+        },
+        {
+          "title": "Eating chili peppers may raise the risk of one deadly cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
+          "content": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers. Researchers emphasize that the findings show an association, not proof of cause and effect, and that more research is needed to determine whether moderate consumption carries similar risks.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 14 Jul 2026 09:27:21 EDT",
+          "summary": "**BREAKTHROUGHS / HEALTH & WELLNESS SECTOR:**\nStudy links high chili consumption to elevated esophageal cancer risk, creating potential regulatory headwinds for capsaicin-heavy food/supplement companies and liability exposure for health claims—relevant for consumer staples valuations and emerging market food exporters (India, Mexico, Thailand). Downstream impact: insurance underwriting models may recalibrate food-related health risk premiums."
+        },
+        {
+          "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
+          "content": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before concluding that the medication can help people age more slowly.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 14 Jul 2026 05:47:41 EDT",
+          "summary": "**BREAKTHROUGHS:** Semaglutide's anti-aging mechanism could reshape pharma valuations and healthcare spending models; validates GLP-1 class beyond metabolic disease, potentially expanding TAM by decades of lifespan extension and creating novel longevity biotech sector. **MACRO/MARKETS:** Shifts risk/return for healthcare equities, pension liabilities, and life insurance underwriting models—retiree longevity assumptions may require actuarial recalibration across institutional portfolios."
+        },
+        {
+          "title": "These painted e-tattoos could be the future of wearable biosensors",
+          "url": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
+          "content": "Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 14 Jul 2026 17:31:58 +0000",
+          "summary": "**MACRO/MARKETS:** Wearable biosensor adoption could drive $40B+ medtech market shift toward continuous health monitoring, benefiting semiconductor supply chains and healthcare IT infrastructure globally, while creating demand for biocompatible materials and wireless connectivity layers.\n\n**CREDIT RISK:** Real-time biometric monitoring enables dynamic health-status underwriting for life/disability insurance portfolios; enhances PD model calibration through continuous behavioral/physiological data, reducing ECL volatility but requiring new validation frameworks under IFRS 9.\n\n**AI/ML:** Continuous wearable data streams demand edge ML pipelines (on-device signal processing) and federated learning architectures to preserve privacy—critical"
+        },
+        {
+          "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+          "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+          "content": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 14 Jul 2026 01:17:14 +0000",
+          "summary": "**MACRO/MARKETS:** Starship's 13th flight advances commercial space infrastructure, reducing launch costs and supporting satellite broadband proliferation—structural tailwinds for telecommunications, defense capex cycles, and emerging-market connectivity themes globally.\n\n**BREAKTHROUGHS:** Successful orbital deployment validates reusable heavy-lift economics, accelerating space industrialization; potential disruption to traditional launch providers (ULA, Arianespace) and unlocking new revenue streams in orbital services and space manufacturing."
+        }
+      ],
+      "generatedAt": "2026-07-15T04:29:25.043Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Jurassic Park computers in excruciating detail",
+          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+          "content": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html\nComments URL: https://news.ycombinator.com/item?id=48915709\nPoints: 59\n# Comments: 17",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 15 Jul 2026 02:57:47 +0000",
+          "summary": "**BUILDER relevance:** Deep technical archaeology of 1990s SGI/Unix systems reveals how legacy infrastructure design patterns (modular OS, network resilience, constraint-driven optimization) remain foundational to mission-critical systems; applicable to understanding tech debt in banking backend migrations and React Native cross-platform architecture decisions under resource constraints."
+        },
+        {
+          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+          "url": "https://tailscale.com/security-bulletins",
+          "content": "Article URL: https://tailscale.com/security-bulletins\nComments URL: https://news.ycombinator.com/item?id=48915004\nPoints: 73\n# Comments: 31",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 15 Jul 2026 01:08:26 +0000",
+          "summary": "**BUILDER RELEVANCE:** Tailscale SSH vulnerability enabling unauthenticated root access poses critical risk for infrastructure-as-code deployments in fintech/banking backends; impacts zero-trust network architectures increasingly adopted by Node.js/React Native mobile apps relying on secure API gateways and infrastructure automation."
+        },
+        {
+          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "content": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 15 Jul 2026 00:27:04 +0000",
+          "summary": "**MACRO/MARKETS:** AI-driven drug discovery unlocks $2B+ valuation potential, signaling investor pivot toward biotech productivity gains. Expect sector consolidation, pressure on traditional pharma R&D models, and biotech volatility as AI-enabled competitors compress development cycles and cap structures.\n\n**CREDIT RISK:** Early-stage biotech funding concentration creates tail-risk exposure; IFRS 9 ECL models must reflect sector disruption (lower legacy pharma LGD, higher EM biotech PD). Regulatory scrutiny on concentration risk and model governance will intensify.\n\n**AI/ML:** Validates ML productionization in high-stakes domains (medical under"
+        },
+        {
+          "title": "Lorde says AI glasses are ‘not sexy’",
+          "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+          "content": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 14 Jul 2026 23:10:02 +0000",
+          "summary": "**BUILDER & PRODUCT**: Consumer skepticism toward AR/VR wearables signals weak near-term adoption—relevant for fintech app designers prioritizing mobile-first UX over hardware-dependent features. Reality authenticity concerns may drive demand for blockchain-verified data layers in financial apps."
+        }
+      ],
+      "generatedAt": "2026-07-15T04:29:38.039Z"
+    }
+  ]
+}
