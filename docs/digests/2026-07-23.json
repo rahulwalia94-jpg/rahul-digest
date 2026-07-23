@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-23T04:53:17.873Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "A flexible deviation from FIRE in the sequence space",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/a-flexible-deviation-from-fire-in-the-sequence-space",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 17 Jul 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Inflation thresholds and oil shock transmission in the UK: a self-exciting threshold VAR approach",
+          "url": "https://www.bankofengland.co.uk/macro-technical-paper/2026/inflation-thresholds-and-oil-shock-transmission-in-the-uk",
+          "content": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 17 Jul 2026 14:00:00 +0100",
+          "summary": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and fost..."
+        }
+      ],
+      "generatedAt": "2026-07-23T04:53:12.396Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 21 Jul 2026 20:00:27 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Grabette: an open system to record robot-manipulation data",
+          "url": "https://huggingface.co/blog/grabette",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 21 Jul 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 22 Jul 2026 13:38:54 +0000",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission..."
+        },
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "content": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 21 Jul 2026 15:16:30 +0000",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber...."
+        },
+        {
+          "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+          "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 22 Jul 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unv..."
+        },
+        {
+          "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+          "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+          "content": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 22 Jul 2026 09:00:00 +0000",
+          "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first..."
+        }
+      ],
+      "generatedAt": "2026-07-23T04:53:13.854Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "English football is for sale",
+          "url": "https://www.ft.com/content/e5dd1766-71b0-4127-996b-7f5fb2d72531?syn-25a6b1a6=1",
+          "content": "In the afterglow of the World Cup, some club owners are looking to do deals",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 23 Jul 2026 04:00:21 GMT",
+          "summary": "In the afterglow of the World Cup, some club owners are looking to do deals..."
+        },
+        {
+          "title": "Buyout groups hunt for software bargains after ‘SaaS-pocalypse’",
+          "url": "https://www.ft.com/content/d331c1f5-27c0-4d5a-a4ab-7a52e1119cc5?syn-25a6b1a6=1",
+          "content": "Francisco Partners co-founder Dipanjan ‘DJ’ Deb says AI will not kill software sector as firm raises $21bn",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 23 Jul 2026 04:00:21 GMT",
+          "summary": "Francisco Partners co-founder Dipanjan ‘DJ’ Deb says AI will not kill software sector as firm raises $21bn..."
+        },
+        {
+          "title": "\n        How investors learned to live with inflation\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation",
+          "content": "Fewer than ever believe central bankers will bring it back to target",
+          "source": "The Economist",
+          "publishedAt": "Tue, 21 Jul 2026 17:29:00 +0000",
+          "summary": "Fewer than ever believe central bankers will bring it back to target..."
+        },
+        {
+          "title": "\n        How to shrink the Fed’s $7trn balance-sheet\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/16/how-to-shrink-the-feds-7trn-balance-sheet",
+          "content": "Kevin Warsh will struggle to reverse the effects of bond-buying",
+          "source": "The Economist",
+          "publishedAt": "Thu, 16 Jul 2026 09:06:46 +0000",
+          "summary": "Kevin Warsh will struggle to reverse the effects of bond-buying..."
+        },
+        {
+          "title": "Intel, AMD ink long-term CPU deals in China amid price surge: Reuters",
+          "url": "https://seekingalpha.com/news/4617136-intel-amd-ink-long-term-cpu-deals-in-china-amid-price-surge-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 23 Jul 2026 00:50:18 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Musk: Micron gave Tesla 'significant' allocation of memory chips",
+          "url": "https://seekingalpha.com/news/4617131-musk-micron-gave-tesla-significant-allocation-of-memory-chips?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 23 Jul 2026 00:35:01 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Alphabet's quarterly earnings beat Wall Street estimates, but here's what is spooking investors ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/alphabets-quarterly-earnings-beat-wall-street-estimates-but-heres-what-is-spooking-investors/articleshow/132572049.cms",
+          "content": "Alphabet announced strong second-quarter earnings, but its shares declined significantly. The company plans to substantially increase its capital expenditures for artificial intelligence. This massive spending hike comes as Google Cloud revenue saw substantial growth. CEO Sundar Pichai addressed concerns about Google's competitive position in the AI race. Investors and analysts are weighing the potential returns of this significant AI investment.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 23 Jul 2026 10:14:01 +0530",
+          "summary": "Alphabet announced strong second-quarter earnings, but its shares declined significantly. The company plans to substantially increase its capital expenditures for artificial intelligence. This massive..."
+        },
+        {
+          "title": "Up to 451% return in 6 months! 11 smallcap stocks turn multibaggers as FIIs raise stakes for 2 straight quarters ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/up-to-451-return-in-6-months-11-smallcap-stocks-turn-multibaggers-as-fiis-raise-stakes-for-2-straight-quarters/articleshow/132571826.cms",
+          "content": "11 smallcaps have at least doubled in six months, led by Sterlite Technologies' 451% jump, as FIIs raised stakes across the March and June 2026 quarters. The parallel rise signals selective conviction, but analysts warn the sharp rerating leaves little room for earnings misses.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 23 Jul 2026 09:50:51 +0530",
+          "summary": "11 smallcaps have at least doubled in six months, led by Sterlite Technologies' 451% jump, as FIIs raised stakes across the March and June 2026 quarters. The parallel rise signals selective conviction..."
+        }
+      ],
+      "generatedAt": "2026-07-23T04:53:15.242Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Could small-team science be dying out?",
+          "url": "https://www.nature.com/articles/d41586-026-02174-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Electronic-resonance enhanced molecule for perovskite solar cells",
+          "url": "https://www.nature.com/articles/s41586-026-10919-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-22T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A strange quantum effect dramatically boosts energy transfer",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+          "content": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 22 Jul 2026 08:17:00 EDT",
+          "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electr..."
+        },
+        {
+          "title": "MIT’s new lidar chip could give self-driving cars a wider view",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+          "content": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 22 Jul 2026 06:00:54 EDT",
+          "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambl..."
+        },
+        {
+          "title": "What happens when you try to chop a photon in half?",
+          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
+          "content": "A mirror that moves mid-photon could release a shower of new photons.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 22 Jul 2026 14:17:08 +0000",
+          "summary": "A mirror that moves mid-photon could release a shower of new photons...."
+        },
+        {
+          "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
+          "url": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
+          "content": "NatGeo's Pompeii: Out of Time fuses historical fact and imagination to bring city's last 24 hours to life.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 21 Jul 2026 18:17:55 +0000",
+          "summary": "NatGeo's Pompeii: Out of Time fuses historical fact and imagination to bring city's last 24 hours to life...."
+        }
+      ],
+      "generatedAt": "2026-07-23T04:53:16.685Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Restructuring GitHub's bug bounty program",
+          "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+          "content": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 24\n# Comments: 9",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 23 Jul 2026 02:28:23 +0000",
+          "summary": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 24\n# Comments: 9..."
+        },
+        {
+          "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+          "url": "https://arxiv.org/abs/2607.20386",
+          "content": "Article URL: https://arxiv.org/abs/2607.20386\nComments URL: https://news.ycombinator.com/item?id=49015878\nPoints: 9\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 23 Jul 2026 01:58:18 +0000",
+          "summary": "Article URL: https://arxiv.org/abs/2607.20386\nComments URL: https://news.ycombinator.com/item?id=49015878\nPoints: 9\n# Comments: 0..."
+        },
+        {
+          "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+          "content": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 22 Jul 2026 23:47:54 +0000",
+          "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily...."
+        },
+        {
+          "title": "Google justifies its massive AI spending with a booming cloud business",
+          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "content": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 22 Jul 2026 22:01:52 +0000",
+          "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits...."
+        }
+      ],
+      "generatedAt": "2026-07-23T04:53:17.873Z"
+    }
+  ]
+}
