@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T04:49:31.555Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 22 July 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/22-july-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 23 Jul 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "A flexible deviation from FIRE in the sequence space",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/a-flexible-deviation-from-fire-in-the-sequence-space",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 17 Jul 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-07-24T04:49:28.178Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "url": "https://huggingface.co/blog/nunchaku-diffusers",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 21 Jul 2026 20:00:27 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 22 Jul 2026 13:38:54 +0000",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission..."
+        },
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "content": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 21 Jul 2026 15:16:30 +0000",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber...."
+        },
+        {
+          "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+          "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+          "content": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 23 Jul 2026 16:58:28 +0000",
+          "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a reci..."
+        },
+        {
+          "title": "The Download: energy transmission and US threats against Chinese AI",
+          "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 23 Jul 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting s..."
+        }
+      ],
+      "generatedAt": "2026-07-24T04:49:29.065Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Oil hits $100 as Trump weighs ‘massive attack’",
+          "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
+          "content": "US stocks and bonds also sold off as Middle East tensions increase",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 24 Jul 2026 04:33:50 GMT",
+          "summary": "US stocks and bonds also sold off as Middle East tensions increase..."
+        },
+        {
+          "title": "Blackstone’s Stephen Schwarzman: ‘Our stock is on sale’",
+          "url": "https://www.ft.com/content/8bf64e52-3e00-4305-8c1d-afd7e5591055?syn-25a6b1a6=1",
+          "content": "Private capital group’s chief says company’s shares offer cheap exposure to AI",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 24 Jul 2026 04:00:21 GMT",
+          "summary": "Private capital group’s chief says company’s shares offer cheap exposure to AI..."
+        },
+        {
+          "title": "\n        The world’s balance-sheet is out of kilter with its economy\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
+          "content": "Restoring balance could be painful",
+          "source": "The Economist",
+          "publishedAt": "Thu, 23 Jul 2026 09:42:17 +0000",
+          "summary": "Restoring balance could be painful..."
+        },
+        {
+          "title": "\n        A brief history of Luddism\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/23/a-brief-history-of-luddism",
+          "content": "States ultimately decide how fast technology is adopted",
+          "source": "The Economist",
+          "publishedAt": "Thu, 23 Jul 2026 09:09:03 +0000",
+          "summary": "States ultimately decide how fast technology is adopted..."
+        },
+        {
+          "title": "Hilltop GAAP EPS of $0.63 misses by $0.01, revenue of $315.81M misses by $9.21M",
+          "url": "https://seekingalpha.com/news/4617918-hilltop-gaap-eps-of-063-misses-by-001-revenue-of-31581m-misses-by-921m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 24 Jul 2026 00:36:53 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "White House monitors OpenAI after test model goes rogue; lawmakers propose 'kill switch'",
+          "url": "https://seekingalpha.com/news/4617910-white-house-monitors-openai-after-test-model-goes-rogue-lawmakers-propose-kill-switch?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 24 Jul 2026 00:36:18 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "RBI intervention blunts oil surge, shores up rupee ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-blunts-oil-surge-shores-up-rupee/articleshow/132596478.cms",
+          "content": "The Reserve Bank of India intervened by selling dollars to prevent the rupee from reaching a record low. Surging oil prices and declining stock markets are currently pressuring the Indian currency. Geopolitical tensions in the Middle East are contributing to higher crude oil prices globally. India, heavily reliant on oil imports, faces significant economic challenges from these price increases.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 24 Jul 2026 10:15:33 +0530",
+          "summary": "The Reserve Bank of India intervened by selling dollars to prevent the rupee from reaching a record low. Surging oil prices and declining stock markets are currently pressuring the Indian currency. Ge..."
+        },
+        {
+          "title": "Caliber Mining and Logistics shares list at 19% premium over IPO price on BSE ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-and-logistics-shares-list-at-19-premium-over-ipo-price-on-bse/articleshow/132596430.cms",
+          "content": "Caliber Mining & Logistics shares debuted nearly 19% above their IPO price on Friday, beating grey market expectations. The Rs 450 crore issue was subscribed 156.63 times, driven by strong demand across investor categories. The company plans to use the IPO proceeds to reduce debt, fund expansion, and strengthen operations.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 24 Jul 2026 10:13:20 +0530",
+          "summary": "Caliber Mining & Logistics shares debuted nearly 19% above their IPO price on Friday, beating grey market expectations. The Rs 450 crore issue was subscribed 156.63 times, driven by strong demand acro..."
+        }
+      ],
+      "generatedAt": "2026-07-24T04:49:30.233Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "What <i>The Odyssey</i> reveals about ancient science — from botany to psychiatry",
+          "url": "https://www.nature.com/articles/d41586-026-02275-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Could small-team science be dying out?",
+          "url": "https://www.nature.com/articles/d41586-026-02174-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
+          "content": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 23 Jul 2026 09:55:59 EDT",
+          "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into..."
+        },
+        {
+          "title": "A strange quantum effect dramatically boosts energy transfer",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+          "content": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 22 Jul 2026 08:17:00 EDT",
+          "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electr..."
+        },
+        {
+          "title": "White House report says Trump can usher in a \"new golden age\" of science",
+          "url": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
+          "content": "The resulting report is a near-random mixture of grievances and real problems.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 23 Jul 2026 11:23:21 +0000",
+          "summary": "The resulting report is a near-random mixture of grievances and real problems...."
+        },
+        {
+          "title": "Watch orcas ram a sunfish so hard it explodes",
+          "url": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+          "content": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 23 Jul 2026 04:00:38 +0000",
+          "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”..."
+        }
+      ],
+      "generatedAt": "2026-07-24T04:49:30.909Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
+          "url": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
+          "content": "Article URL: https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607\nComments URL: https://news.ycombinator.com/item?id=49030474\nPoints: 47\n# Comments: 17",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 24 Jul 2026 02:06:31 +0000",
+          "summary": "Article URL: https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607\nComments URL: https://news.ycombinator.com/item?id=49030474\nPoints: 47\n# C..."
+        },
+        {
+          "title": "The Visual 6502",
+          "url": "http://visual6502.org/JSSim/index.html",
+          "content": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 73\n# Comments: 20",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 23 Jul 2026 23:36:42 +0000",
+          "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 73\n# Comments: 20..."
+        },
+        {
+          "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+          "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+          "content": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 24 Jul 2026 01:00:00 +0000",
+          "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work...."
+        },
+        {
+          "title": "Meet the judges who will crown Australia’s next breakout startup",
+          "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+          "content": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 24 Jul 2026 00:05:00 +0000",
+          "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups...."
+        }
+      ],
+      "generatedAt": "2026-07-24T04:49:31.555Z"
+    }
+  ]
+}
