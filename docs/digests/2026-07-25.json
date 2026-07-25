@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-25T04:45:23.980Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Jul 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Agents' summary of business conditions - July 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Jul 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        }
+      ],
+      "generatedAt": "2026-07-25T04:45:17.626Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "url": "https://huggingface.co/blog/nunchaku-diffusers",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 21 Jul 2026 20:00:27 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 22 Jul 2026 13:38:54 +0000",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission..."
+        },
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "content": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 21 Jul 2026 15:16:30 +0000",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber...."
+        },
+        {
+          "title": "The quest to keep organs alive outside the body",
+          "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+          "content": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 24 Jul 2026 17:03:55 +0000",
+          "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside ..."
+        },
+        {
+          "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+          "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”  When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 24 Jul 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “lan..."
+        }
+      ],
+      "generatedAt": "2026-07-25T04:45:19.148Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Dropping quarterly company reports in US may not be a bad thing",
+          "url": "https://www.ft.com/content/803b02dd-9d0d-43b9-8af9-24d81b1b6557",
+          "content": "Despite backlash against SEC, it could be beneficial if done in the right way",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 25 Jul 2026 04:00:27 GMT",
+          "summary": "Despite backlash against SEC, it could be beneficial if done in the right way..."
+        },
+        {
+          "title": "India and South Africa lead push to amass emergency fuel stockpiles",
+          "url": "https://www.ft.com/content/42847a3b-f4b6-4a16-88e0-f06fdfabbdc6?syn-25a6b1a6=1",
+          "content": "Developing countries forced into rationing during Middle East conflict plan to build or expand official buffers",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 25 Jul 2026 04:00:27 GMT",
+          "summary": "Developing countries forced into rationing during Middle East conflict plan to build or expand official buffers..."
+        },
+        {
+          "title": "\n        The world’s balance-sheet is out of kilter with its economy\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
+          "content": "Restoring balance could be painful",
+          "source": "The Economist",
+          "publishedAt": "Thu, 23 Jul 2026 09:42:17 +0000",
+          "summary": "Restoring balance could be painful..."
+        },
+        {
+          "title": "\n        A brief history of Luddism\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/23/a-brief-history-of-luddism",
+          "content": "States ultimately decide how fast technology is adopted",
+          "source": "The Economist",
+          "publishedAt": "Thu, 23 Jul 2026 09:09:03 +0000",
+          "summary": "States ultimately decide how fast technology is adopted..."
+        },
+        {
+          "title": "Crude oil turns lower as reports say China pushing to resume U.S.-Iran talks",
+          "url": "https://seekingalpha.com/news/4618412-crude-oil-turns-lower-as-reports-say-china-pushing-to-resume-us-iran-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 24 Jul 2026 19:53:12 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Sb financial projects 3.45% to 3.55% net interest margin range as it targets $50M to $70M loan growth in 2H 2026",
+          "url": "https://seekingalpha.com/news/4618413-sb-financial-projects-3_45-percent-to-3_55-percent-net-interest-margin-range-as-it-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 24 Jul 2026 19:11:10 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Crude oil prices rise 10% this week but China enters fray to push for end to Iran war. What’s next? ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms",
+          "content": "Crude oil futures experienced a significant decline on Friday. This drop followed reports of China's initiative to restart stalled US-Iran peace negotiations. Despite the fall, both Brent and West Texas Intermediate crude are set for weekly gains. Geopolitical developments continue to heavily influence global oil prices and supply concerns. Experts warn of potential price surges if shipping disruptions persist in key waterways.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 25 Jul 2026 10:05:15 +0530",
+          "summary": "Crude oil futures experienced a significant decline on Friday. This drop followed reports of China's initiative to restart stalled US-Iran peace negotiations. Despite the fall, both Brent and West Tex..."
+        },
+        {
+          "title": "European shares gain as SAP lifts tech stocks; Middle East on watch ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-gain-as-sap-lifts-tech-stocks-middle-east-on-watch/articleshow/132618864.cms",
+          "content": "European shares saw a rise on Friday, recovering from previous losses. Investors reacted positively to select corporate earnings reports and oil price concerns. Germany's DAX index climbed as SAP's cloud backlog growth exceeded expectations. Higher oil prices did not boost energy stocks due to a drop in Neste's performance. Policymakers indicated potential interest rate hikes amid inflation risks.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 25 Jul 2026 09:55:10 +0530",
+          "summary": "European shares saw a rise on Friday, recovering from previous losses. Investors reacted positively to select corporate earnings reports and oil price concerns. Germany's DAX index climbed as SAP's cl..."
+        }
+      ],
+      "generatedAt": "2026-07-25T04:45:20.551Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+          "url": "https://www.nature.com/articles/s41586-026-10911-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-24T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Personalized gene therapy relieves severe epilepsy in two boys",
+          "url": "https://www.nature.com/articles/d41586-026-02267-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-24T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists discover a compound that could supercharge aging muscle repair",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
+          "content": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 24 Jul 2026 09:37:50 EDT",
+          "summary": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and pres..."
+        },
+        {
+          "title": "A new antiviral could stop measles before an outbreak takes off",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
+          "content": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals remained contagious. Researchers say the drug could one day complement vaccination and make outbreaks easier to contain.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 24 Jul 2026 09:27:10 EDT",
+          "summary": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness..."
+        },
+        {
+          "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+          "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+          "content": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 24 Jul 2026 17:31:26 +0000",
+          "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes...."
+        },
+        {
+          "title": "This is the world's most advanced robotic servicing satellite—that we know about",
+          "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+          "content": "\"These are things that tend to be really hard.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 24 Jul 2026 15:23:06 +0000",
+          "summary": "\"These are things that tend to be really hard.\"..."
+        }
+      ],
+      "generatedAt": "2026-07-25T04:45:21.666Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+          "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+          "content": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc\nComments URL: https://news.ycombinator.com/item?id=49044074\nPoints: 104\n# Comments: 32",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 25 Jul 2026 02:54:36 +0000",
+          "summary": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc\nComments URL: https://news.ycombinator.com/item?id=49044074\nPoints: 104\n# Comments: 32..."
+        },
+        {
+          "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+          "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+          "content": "Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize\nComments URL: https://news.ycombinator.com/item?id=49043724\nPoints: 12\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 25 Jul 2026 01:44:12 +0000",
+          "summary": "Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize\nComments URL: https://news.ycombinator.com/item?id=49043724\nPoints: 12\n# Comments: 1..."
+        },
+        {
+          "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+          "content": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 25 Jul 2026 00:23:11 +0000",
+          "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it...."
+        },
+        {
+          "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+          "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+          "content": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 24 Jul 2026 23:25:47 +0000",
+          "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines...."
+        }
+      ],
+      "generatedAt": "2026-07-25T04:45:23.980Z"
+    }
+  ]
+}
