@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T04:44:07.112Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Jul 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Agents' summary of business conditions - July 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Jul 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        }
+      ],
+      "generatedAt": "2026-07-28T04:44:01.730Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 27 Jul 2026 09:32:20 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "url": "https://huggingface.co/blog/nunchaku-diffusers",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 22 Jul 2026 13:38:54 +0000",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission..."
+        },
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+          "content": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 21 Jul 2026 15:16:30 +0000",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber...."
+        },
+        {
+          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 27 Jul 2026 18:00:00 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models b..."
+        },
+        {
+          "title": "How lasers could help provide fuel for nuclear reactors",
+          "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+          "content": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 27 Jul 2026 14:24:42 +0000",
+          "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could..."
+        }
+      ],
+      "generatedAt": "2026-07-28T04:44:02.949Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Is a private equity megadeal brewing?",
+          "url": "https://www.ft.com/content/d471f2f4-e720-4684-86fd-21713daa4119?syn-25a6b1a6=1",
+          "content": "One of the premier private lenders on Wall Street has held talks to acquire one of the oldest and most profitable private equity firms",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 28 Jul 2026 04:00:23 GMT",
+          "summary": "One of the premier private lenders on Wall Street has held talks to acquire one of the oldest and most profitable private equity firms..."
+        },
+        {
+          "title": "Trump’s ability to talk down oil prices is being tested",
+          "url": "https://www.ft.com/content/063eecdd-125f-44a7-86c0-78f202817d7e?syn-25a6b1a6=1",
+          "content": "As Iran conflict drags on, verbal intervention may no longer be enough to suppress prices",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 28 Jul 2026 04:00:15 GMT",
+          "summary": "As Iran conflict drags on, verbal intervention may no longer be enough to suppress prices..."
+        },
+        {
+          "title": "\n        How to design paper money that represents Europe\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/27/how-to-design-paper-money-that-represents-europe",
+          "content": "The euro gets a makeover",
+          "source": "The Economist",
+          "publishedAt": "Mon, 27 Jul 2026 17:16:17 +0000",
+          "summary": "The euro gets a makeover..."
+        },
+        {
+          "title": "\n        Oil markets are on edge again\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again",
+          "content": "The bombing may have paused, but energy supplies are precarious",
+          "source": "The Economist",
+          "publishedAt": "Sun, 26 Jul 2026 14:06:48 +0000",
+          "summary": "The bombing may have paused, but energy supplies are precarious..."
+        },
+        {
+          "title": "Nvidia behind $50B lease on Texas data centre that will use its chips: FT",
+          "url": "https://seekingalpha.com/news/4619103-nvidia-behind-50b-lease-on-texas-data-centre-that-will-use-its-chips-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 28 Jul 2026 00:37:10 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Anthropic CEO Amodei denies seeking ban on open-weight AI models",
+          "url": "https://seekingalpha.com/news/4619104-anthropic-ceo-amodei-denies-seeking-ban-on-open-weight-ai-models?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 28 Jul 2026 00:27:21 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: ECB may need more rate hikes to curb inflation risks, says Kazimir ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ecb-may-need-more-rate-hikes-to-curb-inflation-risks-says-kazimir/articleshow/132674958.cms",
+          "content": "Slovak central bank governor Peter Kazimir warned that the European Central Bank may need to raise interest rates at least once more to control inflation. He stressed that geopolitical risks and rising energy costs could force the ECB into further monetary tightening beyond current market expectations ahead of September.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 28 Jul 2026 09:44:58 +0530",
+          "summary": "Slovak central bank governor Peter Kazimir warned that the European Central Bank may need to raise interest rates at least once more to control inflation. He stressed that geopolitical risks and risin..."
+        },
+        {
+          "title": "Rupee rises 35 paise to 95.64 against US dollar in early trade ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-35-paise-to-95-64-against-us-dollar-in-early-trade/articleshow/132674886.cms",
+          "content": "The Indian rupee strengthened significantly against the US dollar in early trade. Lower crude oil prices and easing geopolitical tensions boosted the rupee's momentum. A weaker US dollar index and positive equity market sentiment also supported the currency. Foreign institutional investors offloaded equities worth Rs 1,688.23 crore on Monday. The Sensex and Nifty saw marginal gains in early trading sessions.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 28 Jul 2026 09:40:20 +0530",
+          "summary": "The Indian rupee strengthened significantly against the US dollar in early trade. Lower crude oil prices and easing geopolitical tensions boosted the rupee's momentum. A weaker US dollar index and pos..."
+        }
+      ],
+      "generatedAt": "2026-07-28T04:44:04.763Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+          "url": "https://www.nature.com/articles/s41586-026-10930-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics",
+          "url": "https://www.nature.com/articles/s41586-026-10929-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Why Jupiter has several giant moons but Saturn has only Titan",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727012143.htm",
+          "content": "Young Jupiter’s powerful magnetic field may have created a safe zone where several large moons could survive. Saturn lacked this protection, possibly explaining why Titan stands almost alone among its largest moons.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 27 Jul 2026 06:24:05 EDT",
+          "summary": "Young Jupiter’s powerful magnetic field may have created a safe zone where several large moons could survive. Saturn lacked this protection, possibly explaining why Titan stands almost alone among its..."
+        },
+        {
+          "title": "After 241 days in orbit this NASA astronaut is finally home",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
+          "content": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and included 3,856 trips around the planet.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 27 Jul 2026 04:06:53 EDT",
+          "summary": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and inclu..."
+        },
+        {
+          "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+          "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+          "content": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 25 Jul 2026 17:47:22 +0000",
+          "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight...."
+        },
+        {
+          "title": "With help from data, art museums are reframing the visitor experience",
+          "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+          "content": "Museums are embracing data-driven curation and a shifting technology landscape.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 25 Jul 2026 11:00:32 +0000",
+          "summary": "Museums are embracing data-driven curation and a shifting technology landscape...."
+        }
+      ],
+      "generatedAt": "2026-07-28T04:44:05.938Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Using an open model feels surprisingly good",
+          "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+          "content": "Article URL: https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/\nComments URL: https://news.ycombinator.com/item?id=49078583\nPoints: 99\n# Comments: 43",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 28 Jul 2026 02:37:14 +0000",
+          "summary": "Article URL: https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/\nComments URL: https://news.ycombinator.com/item?id=49078583\nPoints: 99\n# Comments: 43..."
+        },
+        {
+          "title": "An Uncomplicated Man",
+          "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
+          "content": "Article URL: https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man\nComments URL: https://news.ycombinator.com/item?id=49078575\nPoints: 15\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 28 Jul 2026 02:35:28 +0000",
+          "summary": "Article URL: https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man\nComments URL: https://news.ycombinator.com/item?id=49078575\nPoints: 15\n# Comments: 3..."
+        },
+        {
+          "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+          "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+          "content": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 28 Jul 2026 04:30:00 +0000",
+          "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales...."
+        },
+        {
+          "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "content": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 28 Jul 2026 00:13:33 +0000",
+          "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities...."
+        }
+      ],
+      "generatedAt": "2026-07-28T04:44:07.111Z"
+    }
+  ]
+}
