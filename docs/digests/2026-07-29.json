@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-29T04:48:43.555Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Jul 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Agents' summary of business conditions - July 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Jul 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        }
+      ],
+      "generatedAt": "2026-07-29T04:48:37.799Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Jul 2026 16:27:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Jul 2026 15:01:45 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 22 Jul 2026 13:38:54 +0000",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission..."
+        },
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+          "content": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 21 Jul 2026 15:16:30 +0000",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber...."
+        },
+        {
+          "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+          "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 28 Jul 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve..."
+        },
+        {
+          "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
+          "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+          "content": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 28 Jul 2026 09:18:57 +0000",
+          "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight..."
+        }
+      ],
+      "generatedAt": "2026-07-29T04:48:38.938Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Bank of England probes Asian equity risk at prime brokers",
+          "url": "https://www.ft.com/content/3a99b024-c7bc-4f10-ad77-3cdfccbc39e8?syn-25a6b1a6=1",
+          "content": "Regulator to review exposure to AI sector at hedge funds and other clients of investment banks operating in UK",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 29 Jul 2026 04:00:23 GMT",
+          "summary": "Regulator to review exposure to AI sector at hedge funds and other clients of investment banks operating in UK..."
+        },
+        {
+          "title": "The dilution cycle hiding in tech valuations",
+          "url": "https://www.ft.com/content/99967aac-5878-4789-88ad-f3d826cede6f?syn-25a6b1a6=1",
+          "content": "Companies have a responsibility to protect every share but stock-based pay is quietly eroding their value",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 29 Jul 2026 04:00:14 GMT",
+          "summary": "Companies have a responsibility to protect every share but stock-based pay is quietly eroding their value..."
+        },
+        {
+          "title": "\n        Retail investors should beware perpetual futures\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures",
+          "content": "These peculiar products, popular in the crypto world, are hitting the mainstream",
+          "source": "The Economist",
+          "publishedAt": "Tue, 28 Jul 2026 18:48:27 +0000",
+          "summary": "These peculiar products, popular in the crypto world, are hitting the mainstream..."
+        },
+        {
+          "title": "\n        AI revenues are growing fast, but not fast enough\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+          "content": "The returns on trillions of dollars of spending are deeply uncertain",
+          "source": "The Economist",
+          "publishedAt": "Tue, 28 Jul 2026 10:45:17 +0000",
+          "summary": "The returns on trillions of dollars of spending are deeply uncertain..."
+        },
+        {
+          "title": "Precision Drilling GAAP EPS of -$0.52 misses by $0.51, revenue of $452.8M beats by $141.09M",
+          "url": "https://seekingalpha.com/news/4620034-precision-drilling-gaap-eps-of--052-misses-by-051-revenue-of-4528m-beats-by-14109m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 29 Jul 2026 00:43:05 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Zions Bancorp prices $500M senior notes due 2029",
+          "url": "https://seekingalpha.com/news/4620030-zions-bancorp-prices-500m-senior-notes-due-2029?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 29 Jul 2026 00:39:51 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: Warning signals flash red as oil, AI concerns and debt risks rattle investors ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-warning-signals-flash-red-as-oil-ai-concerns-and-debt-risks-rattle-investors/articleshow/132700977.cms",
+          "content": "Several key market warning indicators are approaching crisis levels now. Elevated oil prices and geopolitical uncertainty fuel inflation concerns for consumers. The powerful artificial intelligence stock rally faces increasing scrutiny over its sustainability. Bond yields remain high, and margin debt has reached record levels. Investors closely monitor these signals for signs of broader financial stress.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 29 Jul 2026 10:14:49 +0530",
+          "summary": "Several key market warning indicators are approaching crisis levels now. Elevated oil prices and geopolitical uncertainty fuel inflation concerns for consumers. The powerful artificial intelligence st..."
+        },
+        {
+          "title": "Global Market | AI boom could complicate central banks’ inflation assessment, monetary policy decisions: BIS ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ai-boom-could-complicate-central-banks-inflation-assessment-monetary-policy-decisions-bis/articleshow/132700645.cms",
+          "content": "Artificial intelligence complicates economic assessments for central banks globally. The technology simultaneously boosts demand and expands future supply potential. Policymakers face an unusually complex environment as AI impacts investment and trade. Distinguishing AI-driven growth from overheating economies presents a key challenge. Monetary policy misjudgements risk increasing as economies adjust to AI expansion.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 29 Jul 2026 10:06:47 +0530",
+          "summary": "Artificial intelligence complicates economic assessments for central banks globally. The technology simultaneously boosts demand and expands future supply potential. Policymakers face an unusually com..."
+        }
+      ],
+      "generatedAt": "2026-07-29T04:48:40.962Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Editorial Expression of Concern: Carcinoma-produced factors activate myeloid cells through TLR2 to stimulate metastasis",
+          "url": "https://www.nature.com/articles/s41586-026-10923-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Entangled dual-site migration via boracycle rearrangement",
+          "url": "https://www.nature.com/articles/s41586-026-10931-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A slowing Atlantic current could unleash stronger California storms",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214626.htm",
+          "content": "A weakening Atlantic current could supercharge California’s atmospheric rivers while leaving Greenland with fewer snow-producing storms. The changes could raise flood risks, strain infrastructure, and reshape water supplies far beyond the Atlantic.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 28 Jul 2026 08:31:45 EDT",
+          "summary": "A weakening Atlantic current could supercharge California’s atmospheric rivers while leaving Greenland with fewer snow-producing storms. The changes could raise flood risks, strain infrastructure, and..."
+        },
+        {
+          "title": "Hidden charcoal reveals the true age of ancient cave paintings",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
+          "content": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon dating. The results show that a bison was painted about 13,000 years ago, while sections of a mask-like figure were added during several widely separated periods.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 28 Jul 2026 07:16:44 EDT",
+          "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing the..."
+        },
+        {
+          "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+          "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+          "content": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 28 Jul 2026 22:09:00 +0000",
+          "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"..."
+        },
+        {
+          "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
+          "url": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+          "content": "“We're in the realm where we might be essentially killing off everything within that first hour or two.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 28 Jul 2026 20:51:45 +0000",
+          "summary": "“We're in the realm where we might be essentially killing off everything within that first hour or two.\"..."
+        }
+      ],
+      "generatedAt": "2026-07-29T04:48:42.217Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+          "url": "https://transformer-transformer.github.io/",
+          "content": "Article URL: https://transformer-transformer.github.io/\nComments URL: https://news.ycombinator.com/item?id=49093232\nPoints: 8\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 29 Jul 2026 03:52:29 +0000",
+          "summary": "Article URL: https://transformer-transformer.github.io/\nComments URL: https://news.ycombinator.com/item?id=49093232\nPoints: 8\n# Comments: 0..."
+        },
+        {
+          "title": "Hooray for the Sockets Interface",
+          "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+          "content": "Article URL: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\nComments URL: https://news.ycombinator.com/item?id=49092754\nPoints: 13\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 29 Jul 2026 02:25:29 +0000",
+          "summary": "Article URL: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\nComments URL: https://news.ycombinator.com/item?id=49092754\nPoints: 13\n# Comments: 7..."
+        },
+        {
+          "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+          "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+          "content": "The deal is Cyera's third acquisition this year.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 29 Jul 2026 00:09:05 +0000",
+          "summary": "The deal is Cyera's third acquisition this year...."
+        },
+        {
+          "title": "Bot-detection startup Spur nabs $200M from Insight",
+          "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+          "content": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 28 Jul 2026 21:29:34 +0000",
+          "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots...."
+        }
+      ],
+      "generatedAt": "2026-07-29T04:48:43.555Z"
+    }
+  ]
+}
