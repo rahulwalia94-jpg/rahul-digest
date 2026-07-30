@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-30T04:36:29.409Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Jul 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Agents' summary of business conditions - July 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 24 Jul 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        }
+      ],
+      "generatedAt": "2026-07-30T04:36:25.589Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Jul 2026 16:27:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Jul 2026 15:01:45 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 29 Jul 2026 16:02:10 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 22 Jul 2026 13:38:54 +0000",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission..."
+        },
+        {
+          "title": "How an overlooked geothermal plant got a second chance",
+          "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+          "content": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 29 Jul 2026 17:58:44 +0000",
+          "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, maki..."
+        },
+        {
+          "title": "The Download: a chip talent battle, and deflating AI hype",
+          "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 29 Jul 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Le..."
+        }
+      ],
+      "generatedAt": "2026-07-30T04:36:26.556Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Winner of US-China AI rivalry falls 9% in Hong Kong debut",
+          "url": "https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1",
+          "content": "Shandong-based Innolight supplies data centre equipment to American and Chinese tech groups",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 30 Jul 2026 03:25:25 GMT",
+          "summary": "Shandong-based Innolight supplies data centre equipment to American and Chinese tech groups..."
+        },
+        {
+          "title": "‘My life’s screwed’: Korean investors stress out after AI bubble bursts",
+          "url": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1",
+          "content": "Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock tumbles",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 30 Jul 2026 03:13:57 GMT",
+          "summary": "Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock tumbles..."
+        },
+        {
+          "title": "\n        Retail investors should beware perpetual futures\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures",
+          "content": "These peculiar products, popular in the crypto world, are hitting the mainstream",
+          "source": "The Economist",
+          "publishedAt": "Tue, 28 Jul 2026 18:48:27 +0000",
+          "summary": "These peculiar products, popular in the crypto world, are hitting the mainstream..."
+        },
+        {
+          "title": "\n        AI revenues are growing fast, but not fast enough\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+          "content": "The returns on trillions of dollars of spending are deeply uncertain",
+          "source": "The Economist",
+          "publishedAt": "Tue, 28 Jul 2026 10:45:17 +0000",
+          "summary": "The returns on trillions of dollars of spending are deeply uncertain..."
+        },
+        {
+          "title": "MYR GAAP EPS of $3.17 beats by $0.62, revenue of $1.08B beats by $85.29M",
+          "url": "https://seekingalpha.com/news/4621208-myr-gaap-eps-of-317-beats-by-062-revenue-of-108b-beats-by-8529m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 30 Jul 2026 00:30:16 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "OpenAI CFO Friar tells staff July annualized revenue outstripped Q2: CNBC",
+          "url": "https://seekingalpha.com/news/4621201-openai-cfo-friar-tells-staff-july-annualized-revenue-outstripped-q2-cnbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 30 Jul 2026 00:28:46 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: Zhongji Innolight shares slip in Hong Kong debut after record $6.8 billion IPO ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-zhongji-innolight-shares-slip-in-hong-kong-debut-after-record-6-8-billion-ipo/articleshow/132726855.cms",
+          "content": "Chinese optical component maker Zhongji Innolight fell up to 8% in its Hong Kong listing debut on Thursday after raising HK$53.4 billion ($6.8 billion) in the city's largest IPO of 2026. Despite weak market sentiment surrounding AI valuations, long-term investor focus remains on the company's leading global market share.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 30 Jul 2026 09:54:08 +0530",
+          "summary": "Chinese optical component maker Zhongji Innolight fell up to 8% in its Hong Kong listing debut on Thursday after raising HK$53.4 billion ($6.8 billion) in the city's largest IPO of 2026. Despite weak ..."
+        },
+        {
+          "title": "Eicher Motors share price target: What are Morgan Stanley, Nomura saying about Royal Enfield maker? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/eicher-motors-share-price-target-what-are-morgan-stanley-nomura-saying-about-royal-enfield-maker/articleshow/132726822.cms",
+          "content": "Eicher Motors shares remained flat on Thursday following a 21% YoY rise in Q1 FY27 net profit to Rs 1,462 crore, backed by record Royal Enfield sales. International brokerages Nomura, Morgan Stanley, and Nuvama issued mixed ratings, setting target prices between Rs 7,763 and Rs 8,900 for the motorcycle maker.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 30 Jul 2026 09:51:51 +0530",
+          "summary": "Eicher Motors shares remained flat on Thursday following a 21% YoY rise in Q1 FY27 net profit to Rs 1,462 crore, backed by record Royal Enfield sales. International brokerages Nomura, Morgan Stanley, ..."
+        }
+      ],
+      "generatedAt": "2026-07-30T04:36:27.938Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
+          "url": "https://www.nature.com/articles/s41586-026-10945-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Retraction Note: Human HDAC6 senses valine abundancy to regulate DNA damage",
+          "url": "https://www.nature.com/articles/s41586-026-10942-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "New microwave frying method could make french fries much healthier",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+          "content": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 29 Jul 2026 06:15:04 EDT",
+          "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with con..."
+        },
+        {
+          "title": "Can’t sleep in the heat? These 8 tricks could save your night",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
+          "content": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the hottest hours. Moving to a cooler room, choosing light bedding and using fans or ice packs safely can also make hot nights more manageable.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 29 Jul 2026 01:35:45 EDT",
+          "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appl..."
+        },
+        {
+          "title": "Yet more qubit tech: New quantum dot options, diamond vacancies ",
+          "url": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+          "content": "Companies are making sure we have a surplus of options for building qubits.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 29 Jul 2026 17:37:47 +0000",
+          "summary": "Companies are making sure we have a surplus of options for building qubits...."
+        },
+        {
+          "title": "What happens when you put AI to work deciphering lost languages?",
+          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+          "content": "AI is fantastic at spotting patterns, but human insight is the key.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 29 Jul 2026 13:23:31 +0000",
+          "summary": "AI is fantastic at spotting patterns, but human insight is the key...."
+        }
+      ],
+      "generatedAt": "2026-07-30T04:36:28.815Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "NSF pilots 4-year PhDs with industry research placements",
+          "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+          "content": "Article URL: https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four\nComments URL: https://news.ycombinator.com/item?id=49105642\nPoints: 53\n# Comments: 41",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 30 Jul 2026 02:55:21 +0000",
+          "summary": "Article URL: https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four\nComments URL: https://news.ycombinator.com/item?id=49105642\nPoints: 53\n# Comments: 41..."
+        },
+        {
+          "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+          "url": "https://noelo.org/blog/kuna-release/",
+          "content": "Article URL: https://noelo.org/blog/kuna-release/\nComments URL: https://news.ycombinator.com/item?id=49105563\nPoints: 10\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 30 Jul 2026 02:41:16 +0000",
+          "summary": "Article URL: https://noelo.org/blog/kuna-release/\nComments URL: https://news.ycombinator.com/item?id=49105563\nPoints: 10\n# Comments: 1..."
+        },
+        {
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "content": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 30 Jul 2026 00:21:06 +0000",
+          "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth...."
+        },
+        {
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+          "content": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 29 Jul 2026 23:00:11 +0000",
+          "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price...."
+        }
+      ],
+      "generatedAt": "2026-07-30T04:36:29.409Z"
+    }
+  ]
+}
