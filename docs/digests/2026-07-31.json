@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-31T05:02:24.790Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 29 July 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-july-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Monetary Policy Report - July 2026",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-report/2026/july-2026",
+          "content": "Our quarterly Monetary Policy Report sets out the economic analysis and inflation projections that the Monetary Policy Committee uses to make its interest rate decisions.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Jul 2026 12:00:00 +0100",
+          "summary": "Our quarterly Monetary Policy Report sets out the economic analysis and inflation projections that the Monetary Policy Committee uses to make its interest rate decisions...."
+        }
+      ],
+      "generatedAt": "2026-07-31T05:02:15.780Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 30 Jul 2026 15:09:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Jul 2026 16:27:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 29 Jul 2026 16:02:10 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+          "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+          "content": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 30 Jul 2026 17:10:00 +0000",
+          "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few a..."
+        },
+        {
+          "title": "The Download: tricking LLMs, and reviving geothermal plants",
+          "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 30 Jul 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack..."
+        }
+      ],
+      "generatedAt": "2026-07-31T05:02:16.678Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "How investors should brace portfolios for tech volatility ",
+          "url": "https://www.ft.com/content/7a5c560a-862b-47e4-9896-196ee9494739",
+          "content": "Many cross-asset holdings are too tilted towards innovation and not protected enough against inflation",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 31 Jul 2026 04:00:17 GMT",
+          "summary": "Many cross-asset holdings are too tilted towards innovation and not protected enough against inflation..."
+        },
+        {
+          "title": "FCA launches new push to revive London share trading",
+          "url": "https://www.ft.com/content/7b2dd2b2-36f5-469b-a13e-19e936c22bea?syn-25a6b1a6=1",
+          "content": "Regulator sets out plans for single stream of stock data and will publish market depth figures",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 31 Jul 2026 04:00:17 GMT",
+          "summary": "Regulator sets out plans for single stream of stock data and will publish market depth figures..."
+        },
+        {
+          "title": "\n        Oil prices remain highly flammable\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
+          "content": "As tensions flare in the Gulf, triple digits could return in a flash",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Jul 2026 13:02:21 +0000",
+          "summary": "As tensions flare in the Gulf, triple digits could return in a flash..."
+        },
+        {
+          "title": "\n        How many people are dying as a result of USAID’s demise?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/30/how-many-people-are-dying-as-a-result-of-usaids-demise",
+          "content": "Fewer than academics imagine, but more than Elon Musk will admit",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Jul 2026 09:38:15 +0000",
+          "summary": "Fewer than academics imagine, but more than Elon Musk will admit..."
+        },
+        {
+          "title": "SK Hynix and Samsung surge as US tech earnings reignite AI optimism",
+          "url": "https://seekingalpha.com/news/4622406-sk-hynix-and-samsung-surge-as-us-tech-earnings-reignite-ai-optimism?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 31 Jul 2026 00:53:03 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "BigBear.ai forecasts $135M-$165M 2026 revenue while accelerating hunt for accretive M&A",
+          "url": "https://seekingalpha.com/news/4622412-bigbear-ai-forecasts-135m-165m-2026-revenue-while-accelerating-hunt-for-accretive-m-and-a?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 31 Jul 2026 00:45:57 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: BoE outlines inflation, growth paths under three economic scenarios after holding rates ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boe-outlines-inflation-growth-paths-under-three-economic-scenarios-after-holding-rates/articleshow/132756119.cms",
+          "content": "The Bank of England kept its benchmark interest rate unchanged at 3.75% and outlined three economic scenarios for the UK, with its central forecast projecting inflation to fall below the 2% target over the medium term as economic growth gradually strengthens.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 31 Jul 2026 10:14:11 +0530",
+          "summary": "The Bank of England kept its benchmark interest rate unchanged at 3.75% and outlined three economic scenarios for the UK, with its central forecast projecting inflation to fall below the 2% target ove..."
+        },
+        {
+          "title": "Global Market: Weak yen lifts Japan's forex reserve surplus to $31 billion in FY25 ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-weak-yen-lifts-japans-forex-reserve-surplus-to-31-billion-in-fy25/articleshow/132755944.cms",
+          "content": "Japan posted a 5.06 trillion yen ($31 billion) surplus in its special foreign exchange reserves account in FY2025, the second-highest on record, as a weaker yen boosted returns on overseas assets, particularly U.S. Treasuries.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 31 Jul 2026 10:05:05 +0530",
+          "summary": "Japan posted a 5.06 trillion yen ($31 billion) surplus in its special foreign exchange reserves account in FY2025, the second-highest on record, as a weaker yen boosted returns on overseas assets, par..."
+        }
+      ],
+      "generatedAt": "2026-07-31T05:02:18.121Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
+          "url": "https://www.nature.com/articles/s41586-026-10939-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+          "url": "https://www.nature.com/articles/s41586-026-10920-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+          "content": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 30 Jul 2026 08:13:37 EDT",
+          "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, bu..."
+        },
+        {
+          "title": "New microwave frying method could make french fries much healthier",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+          "content": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 29 Jul 2026 06:15:04 EDT",
+          "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with con..."
+        },
+        {
+          "title": "Yet more qubit tech: New quantum dot options, diamond vacancies ",
+          "url": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+          "content": "Companies are making sure we have a surplus of options for building qubits.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 29 Jul 2026 17:37:47 +0000",
+          "summary": "Companies are making sure we have a surplus of options for building qubits...."
+        },
+        {
+          "title": "What happens when you put AI to work deciphering lost languages?",
+          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+          "content": "AI is fantastic at spotting patterns, but human insight is the key.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 29 Jul 2026 13:23:31 +0000",
+          "summary": "AI is fantastic at spotting patterns, but human insight is the key...."
+        }
+      ],
+      "generatedAt": "2026-07-31T05:02:18.909Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+          "url": "https://greyswansignals.com/?theme=dark",
+          "content": "Article URL: https://greyswansignals.com/?theme=dark\nComments URL: https://news.ycombinator.com/item?id=49118933\nPoints: 35\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 31 Jul 2026 04:15:04 +0000",
+          "summary": "Article URL: https://greyswansignals.com/?theme=dark\nComments URL: https://news.ycombinator.com/item?id=49118933\nPoints: 35\n# Comments: 3..."
+        },
+        {
+          "title": "The Session You Cannot take with you",
+          "url": "https://earendil.com/posts/session-portability/",
+          "content": "Article URL: https://earendil.com/posts/session-portability/\nComments URL: https://news.ycombinator.com/item?id=49118781\nPoints: 20\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 31 Jul 2026 03:47:59 +0000",
+          "summary": "Article URL: https://earendil.com/posts/session-portability/\nComments URL: https://news.ycombinator.com/item?id=49118781\nPoints: 20\n# Comments: 1..."
+        },
+        {
+          "title": "Anthropic says its own AI models breached three companies during security tests",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "content": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 31 Jul 2026 01:06:54 +0000",
+          "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents..."
+        },
+        {
+          "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+          "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+          "content": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 30 Jul 2026 23:28:05 +0000",
+          "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September...."
+        }
+      ],
+      "generatedAt": "2026-07-31T05:02:24.790Z"
+    }
+  ]
+}
