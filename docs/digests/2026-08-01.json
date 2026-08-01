@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T04:53:56.873Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Market Participants Survey results - July 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-july-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 31 Jul 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        },
+        {
+          "title": "Bank of England Weekly Report 29 July 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-july-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-08-01T04:53:49.695Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 30 Jul 2026 15:09:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Jul 2026 16:27:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 29 Jul 2026 16:02:10 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: Montana’s new experimental drug rules",
+          "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 31 Jul 2026 12:16:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just push..."
+        },
+        {
+          "title": "Montana’s new “right to try” law can’t come soon enough for some",
+          "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+          "content": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 31 Jul 2026 09:00:00 +0000",
+          "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key miles..."
+        }
+      ],
+      "generatedAt": "2026-08-01T04:53:50.819Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Why South Korea’s won is one of world’s best performers",
+          "url": "https://www.ft.com/content/1b8a5bf5-d043-4a28-a606-801a00bb8082?syn-25a6b1a6=1",
+          "content": "Currency strengthened nearly 8% against dollar last month despite tech stock sell-off",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 01 Aug 2026 02:10:27 GMT",
+          "summary": "Currency strengthened nearly 8% against dollar last month despite tech stock sell-off..."
+        },
+        {
+          "title": "US Treasury undertakes historic intervention in yen market",
+          "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
+          "content": "New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 31 Jul 2026 23:03:56 GMT",
+          "summary": "New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency..."
+        },
+        {
+          "title": "\n        Oil prices remain highly flammable\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
+          "content": "As tensions flare in the Gulf, triple digits could return in a flash",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Jul 2026 13:02:21 +0000",
+          "summary": "As tensions flare in the Gulf, triple digits could return in a flash..."
+        },
+        {
+          "title": "\n        How many people are dying as a result of USAID’s demise?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/30/how-many-people-are-dying-as-a-result-of-usaids-demise",
+          "content": "Fewer than academics imagine, but more than Elon Musk will admit",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Jul 2026 09:38:15 +0000",
+          "summary": "Fewer than academics imagine, but more than Elon Musk will admit..."
+        },
+        {
+          "title": "Patria targets $225M-$245M 2026 FRE while expecting 2026 FRE margin modestly below 58%-60%",
+          "url": "https://seekingalpha.com/news/4623047-patria-targets-225m-245m-2026-fre-while-expecting-2026-fre-margin-modestly-below-58?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 01 Aug 2026 00:24:50 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Cubesmart signals 2026 same-store revenue growth of 0.5% to 1.25% as it outlines Heitman JV and buybacks",
+          "url": "https://seekingalpha.com/news/4623046-cubesmart-signals-2026-same-store-revenue-growth-of-0_5-percent-to-1_25-percent-as-it?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 31 Jul 2026 19:24:31 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Aluminium signals recovery after correction; supply risks and energy concerns may drive the next leg higher ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/aluminium-signals-recovery-after-correction-supply-risks-and-energy-concerns-may-drive-the-next-leg-higher/articleshow/132761511.cms",
+          "content": "The recent rebound has been supported by tightening global inventories, concerns over energy availability in key producing regions, geopolitical tensions in the Middle East, and expectations of robust demand from the power, transportation, renewable energy, and electric vehicle sectors.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 01 Aug 2026 10:00:00 +0530",
+          "summary": "The recent rebound has been supported by tightening global inventories, concerns over energy availability in key producing regions, geopolitical tensions in the Middle East, and expectations of robust..."
+        },
+        {
+          "title": "5 World Market themes for the week ahead ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/132780885.cms",
+          "content": "Global markets face significant turbulence this week from multiple sources.  AI-linked stocks are experiencing unprecedented volatility as investor concerns grow.  The ongoing conflict in the Middle East continues to impact oil prices and trade routes.  U.S. jobs data will provide clues on potential Federal Reserve interest rate hikes.  Europe's heatwave and wildfires add economic pressures to already strained governments.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 01 Aug 2026 09:25:17 +0530",
+          "summary": "Global markets face significant turbulence this week from multiple sources.  AI-linked stocks are experiencing unprecedented volatility as investor concerns grow.  The ongoing conflict in the Middle E..."
+        }
+      ],
+      "generatedAt": "2026-08-01T04:53:52.362Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+          "url": "https://www.nature.com/articles/s41586-026-10921-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-31T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+          "url": "https://www.nature.com/articles/d41586-026-02419-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-31T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+          "content": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 30 Jul 2026 08:13:37 EDT",
+          "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, bu..."
+        },
+        {
+          "title": "New microwave frying method could make french fries much healthier",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+          "content": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 29 Jul 2026 06:15:04 EDT",
+          "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with con..."
+        },
+        {
+          "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+          "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+          "content": "Some group with no modern descendants contributed a lot to our genomes.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 31 Jul 2026 22:17:05 +0000",
+          "summary": "Some group with no modern descendants contributed a lot to our genomes...."
+        },
+        {
+          "title": "Researchers devise a full-color night vision goggle",
+          "url": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+          "content": "Wavelength and intensity in the infrared are translated into colors in the visible.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 31 Jul 2026 17:58:38 +0000",
+          "summary": "Wavelength and intensity in the infrared are translated into colors in the visible...."
+        }
+      ],
+      "generatedAt": "2026-08-01T04:53:53.702Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "BMW Spider-Man in-car advertising",
+          "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+          "content": "Article URL: https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising\nComments URL: https://news.ycombinator.com/item?id=49130756\nPoints: 90\n# Comments: 33",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 01 Aug 2026 03:25:12 +0000",
+          "summary": "Article URL: https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising\nComments URL: https://news.ycombinator.com/item?id=49130756\nPoints: 90\n# Comments: 33..."
+        },
+        {
+          "title": "The development pipeline is a production system",
+          "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+          "content": "Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system\nComments URL: https://news.ycombinator.com/item?id=49130726\nPoints: 34\n# Comments: 11",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 01 Aug 2026 03:16:09 +0000",
+          "summary": "Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system\nComments URL: https://news.ycombinator.com/item?id=49130726\nPoints: 34\n# Comments: 11..."
+        },
+        {
+          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+          "content": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 31 Jul 2026 22:47:26 +0000",
+          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face...."
+        },
+        {
+          "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+          "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+          "content": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 31 Jul 2026 22:00:08 +0000",
+          "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon...."
+        }
+      ],
+      "generatedAt": "2026-08-01T04:53:56.873Z"
+    }
+  ]
+}
