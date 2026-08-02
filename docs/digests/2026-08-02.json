@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T04:56:11.991Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Market Participants Survey results - July 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-july-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 31 Jul 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        },
+        {
+          "title": "Bank of England Weekly Report 29 July 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-july-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-08-02T04:56:06.892Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 30 Jul 2026 15:09:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Jul 2026 16:27:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 29 Jul 2026 16:02:10 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: Montana’s new experimental drug rules",
+          "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 31 Jul 2026 12:16:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just push..."
+        },
+        {
+          "title": "Montana’s new “right to try” law can’t come soon enough for some",
+          "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+          "content": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 31 Jul 2026 09:00:00 +0000",
+          "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key miles..."
+        }
+      ],
+      "generatedAt": "2026-08-02T04:56:08.048Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Who needs junior markets like Aim anyway? ",
+          "url": "https://www.ft.com/content/fbc26742-c2a8-4509-ad13-8ad61139f41f?syn-25a6b1a6=1",
+          "content": "The London Stock Exchange is trying to stem Aim’s decline by streamlining rules to cut costs and make capital-raising easier",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 02 Aug 2026 04:00:12 GMT",
+          "summary": "The London Stock Exchange is trying to stem Aim’s decline by streamlining rules to cut costs and make capital-raising easier..."
+        },
+        {
+          "title": "Australian farmers in trade dispute over pineapple import plan",
+          "url": "https://www.ft.com/content/89450629-32d9-495e-b287-42156e1aa68a?syn-25a6b1a6=1",
+          "content": "Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity threat",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 02 Aug 2026 02:25:49 GMT",
+          "summary": "Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity threat..."
+        },
+        {
+          "title": "\n        Oil prices remain highly flammable\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
+          "content": "As tensions flare in the Gulf, triple digits could return in a flash",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Jul 2026 13:02:21 +0000",
+          "summary": "As tensions flare in the Gulf, triple digits could return in a flash..."
+        },
+        {
+          "title": "\n        How many people are dying as a result of USAID’s demise?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/30/how-many-people-are-dying-as-a-result-of-usaids-demise",
+          "content": "Fewer than academics imagine, but more than Elon Musk will admit",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Jul 2026 09:38:15 +0000",
+          "summary": "Fewer than academics imagine, but more than Elon Musk will admit..."
+        },
+        {
+          "title": "High fuel prices likely to linger with or without continued Iran war, Exxon and Chevron say",
+          "url": "https://seekingalpha.com/news/4623120-high-fuel-prices-likely-to-linger-with-or-without-continued-iran-war-exxon-and-chevron-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 01 Aug 2026 21:05:52 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Capital One says it closed Trump Organization accounts after AML probe - report",
+          "url": "https://seekingalpha.com/news/4623121-capital-one-says-it-closed-trump-organization-accounts-after-aml-probe-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 01 Aug 2026 21:05:31 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Goldman Sachs sees a bigger space opportunity beyond launch providers ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-sees-a-bigger-space-opportunity-beyond-launch-providers/articleshow/132800299.cms",
+          "content": "Space stocks could offer significant long-term growth opportunities as the industry expands beyond rocket launches into satellites, orbital broadband, communications, defence applications and other space-enabled services, although high valuations and extreme volatility could make the investment journey uneven, according to research report by Goldman Sachs.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 02 Aug 2026 09:39:30 +0530",
+          "summary": "Space stocks could offer significant long-term growth opportunities as the industry expands beyond rocket launches into satellites, orbital broadband, communications, defence applications and other sp..."
+        },
+        {
+          "title": "Japan to announce Tokyo, Washington took joint action on yen: Report ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/japan-to-announce-tokyo-washington-took-joint-action-on-yen-report/articleshow/132800289.cms",
+          "content": "Japan's Finance Minister plans to reveal a cooperation with Washington regarding currency market interventions aimed at arresting the yen's drastic decline to levels not seen in 40 years. Sources suggest that both nations have engaged in yen-buying strategies, marking their first collaborative effort since 2011. The operation is ongoing, as officials work to stabilize the currency.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 02 Aug 2026 09:37:01 +0530",
+          "summary": "Japan's Finance Minister plans to reveal a cooperation with Washington regarding currency market interventions aimed at arresting the yen's drastic decline to levels not seen in 40 years. Sources sugg..."
+        }
+      ],
+      "generatedAt": "2026-08-02T04:56:09.251Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+          "url": "https://www.nature.com/articles/s41586-026-10921-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-31T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+          "url": "https://www.nature.com/articles/d41586-026-02419-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-31T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Superheated magma may power towering lava fountains",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+          "content": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain fluid far longer as it rises.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 01 Aug 2026 02:38:28 EDT",
+          "summary": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolv..."
+        },
+        {
+          "title": "Eating one avocado a day may lower heart disease risk",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
+          "content": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline associated with an estimated 4% reduction in cardiovascular risk.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 01 Aug 2026 08:35:57 EDT",
+          "summary": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day ex..."
+        },
+        {
+          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "content": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 01 Aug 2026 18:20:11 +0000",
+          "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"..."
+        },
+        {
+          "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+          "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+          "content": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 01 Aug 2026 10:00:19 +0000",
+          "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory...."
+        }
+      ],
+      "generatedAt": "2026-08-02T04:56:10.159Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+          "url": "https://philarchive.org/archive/NIEWTCv17",
+          "content": "Article URL: https://philarchive.org/archive/NIEWTCv17\nComments URL: https://news.ycombinator.com/item?id=49140869\nPoints: 23\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 02 Aug 2026 03:41:38 +0000",
+          "summary": "Article URL: https://philarchive.org/archive/NIEWTCv17\nComments URL: https://news.ycombinator.com/item?id=49140869\nPoints: 23\n# Comments: 4..."
+        },
+        {
+          "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+          "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+          "content": "Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\nComments URL: https://news.ycombinator.com/item?id=49140702\nPoints: 22\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 02 Aug 2026 03:12:52 +0000",
+          "summary": "Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\nComments URL: https://news.ycombinator.com/item?id=49140702\nPoints: 22\n# Comments: 1..."
+        },
+        {
+          "title": "Inside the London hacker house taking a stand against founder burnout",
+          "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+          "content": "How one founder house is betting work-life balance can beat burnout .",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 01 Aug 2026 21:14:48 +0000",
+          "summary": "How one founder house is betting work-life balance can beat burnout ...."
+        },
+        {
+          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 01 Aug 2026 20:26:04 +0000",
+          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward...."
+        }
+      ],
+      "generatedAt": "2026-08-02T04:56:11.991Z"
+    }
+  ]
+}
