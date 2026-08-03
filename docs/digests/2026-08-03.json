@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T05:05:31.320Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Market Participants Survey results - July 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-july-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 31 Jul 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        },
+        {
+          "title": "Bank of England Weekly Report 29 July 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-july-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-08-03T05:05:27.589Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 30 Jul 2026 15:09:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Jul 2026 16:27:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 29 Jul 2026 16:02:10 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: Montana’s new experimental drug rules",
+          "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 31 Jul 2026 12:16:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just push..."
+        },
+        {
+          "title": "Montana’s new “right to try” law can’t come soon enough for some",
+          "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+          "content": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 31 Jul 2026 09:00:00 +0000",
+          "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key miles..."
+        }
+      ],
+      "generatedAt": "2026-08-03T05:05:28.586Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Japan vows to intervene again with US over yen if needed",
+          "url": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1",
+          "content": "Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 03 Aug 2026 00:48:08 GMT",
+          "summary": "Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’..."
+        },
+        {
+          "title": "America’s biggest companies report ‘rock solid’ profits as consumers face higher costs",
+          "url": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1",
+          "content": "S&P 500 groups on track for strongest earnings in five years",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 02 Aug 2026 16:00:06 GMT",
+          "summary": "S&P 500 groups on track for strongest earnings in five years..."
+        },
+        {
+          "title": "\n        What will Kevin Warsh do if America’s economy breaks?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
+          "content": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring",
+          "source": "The Economist",
+          "publishedAt": "Sun, 02 Aug 2026 16:12:02 +0000",
+          "summary": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring..."
+        },
+        {
+          "title": "\n        Oil prices remain highly flammable\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
+          "content": "As tensions flare in the Gulf, triple digits could return in a flash",
+          "source": "The Economist",
+          "publishedAt": "Thu, 30 Jul 2026 13:02:21 +0000",
+          "summary": "As tensions flare in the Gulf, triple digits could return in a flash..."
+        },
+        {
+          "title": "Japan's July manufacturing PMI revised to 54.5 in July",
+          "url": "https://seekingalpha.com/news/4623164-japans-july-manufacturing-pmi-revised-to-545-in-july?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 03 Aug 2026 00:59:12 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "EchoStar unit Hughes Satellite Systems files for Chapter 11 bankruptcy",
+          "url": "https://seekingalpha.com/news/4623156-echostar-unit-hughes-satellite-systems-files-for-chapter-11-bankruptcy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 03 Aug 2026 00:57:26 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Maruti Suzuki shares decline over 2% after Q1. Morgan Stanley, Motilal Oswal decode the road ahead ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-decline-over-2-after-q1-morgan-stanley-motilal-oswal-decode-the-road-ahead/articleshow/132818801.cms",
+          "content": "Maruti Suzuki shares fell over 2% after the automaker reported an 11% YoY decline in June-quarter standalone net profit, even as revenue rose 36% and sales volumes hit a record high. While Nomura retained a Neutral rating citing margin risks, Motilal Oswal reiterated its Buy call, expecting market share gains, easing input costs and strong earnings growth to support the stock.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 03 Aug 2026 09:57:03 +0530",
+          "summary": "Maruti Suzuki shares fell over 2% after the automaker reported an 11% YoY decline in June-quarter standalone net profit, even as revenue rose 36% and sales volumes hit a record high. While Nomura reta..."
+        },
+        {
+          "title": "Global Market: Japan, US confirm coordinated yen intervention to stem currency slide ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-us-confirm-coordinated-yen-intervention-to-stem-currency-slide/articleshow/132818469.cms",
+          "content": "Japan's finance ministry confirmed that Tokyo and Washington jointly intervened in currency markets to support the yen for the first time since 2011. The coordinated move underscores both governments' resolve to curb excessive currency volatility, though analysts remain cautious about its long-term impact.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 03 Aug 2026 09:47:56 +0530",
+          "summary": "Japan's finance ministry confirmed that Tokyo and Washington jointly intervened in currency markets to support the yen for the first time since 2011. The coordinated move underscores both governments'..."
+        }
+      ],
+      "generatedAt": "2026-08-03T05:05:29.815Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Sickle-cell disease linked to prematurely aged stem cells in mice",
+          "url": "https://www.nature.com/articles/d41586-026-02339-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-03T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+          "url": "https://www.nature.com/articles/s41586-026-10921-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-07-31T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists detect a sharp acceleration in global warming",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+          "content": "Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C per decade over the past ten years, compared with just under 0.2°C per decade from 1970 to 2015. The acceleration, which becomes visible around 2013 to 2015, appeared across five major global temperature datasets with more than 98% statistical certainty.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 01 Aug 2026 09:32:39 EDT",
+          "summary": "Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C p..."
+        },
+        {
+          "title": "This once-a-week workout may help cut belly fat, study shows",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
+          "content": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers found that completing 75 minutes of brisk interval walking in a single weekly session reduced body fat, trimmed waistlines, and improved cardiovascular fitness about as effectively as splitting the same exercise across three days.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 02 Aug 2026 03:33:41 EDT",
+          "summary": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers fo..."
+        },
+        {
+          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "content": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 01 Aug 2026 18:20:11 +0000",
+          "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"..."
+        },
+        {
+          "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+          "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+          "content": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 01 Aug 2026 10:00:19 +0000",
+          "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory...."
+        }
+      ],
+      "generatedAt": "2026-08-03T05:05:30.560Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "AI migrated legacy COBOL programs to Java, bugs included",
+          "url": "https://arxiv.org/abs/2607.28271",
+          "content": "Article URL: https://arxiv.org/abs/2607.28271\nComments URL: https://news.ycombinator.com/item?id=49150773\nPoints: 5\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 03 Aug 2026 03:06:12 +0000",
+          "summary": "Article URL: https://arxiv.org/abs/2607.28271\nComments URL: https://news.ycombinator.com/item?id=49150773\nPoints: 5\n# Comments: 0..."
+        },
+        {
+          "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+          "content": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda\nComments URL: https://news.ycombinator.com/item?id=49150561\nPoints: 32\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 03 Aug 2026 02:30:30 +0000",
+          "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda\nComments URL: https:/..."
+        },
+        {
+          "title": "The global memory shortage hits the MacBook Air",
+          "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+          "content": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 02 Aug 2026 21:33:59 +0000",
+          "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac...."
+        },
+        {
+          "title": "Sam Altman and AI’s decel debate",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "content": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 02 Aug 2026 20:54:22 +0000",
+          "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"..."
+        }
+      ],
+      "generatedAt": "2026-08-03T05:05:31.320Z"
+    }
+  ]
+}
