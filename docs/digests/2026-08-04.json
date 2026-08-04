@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T04:44:31.192Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Market Participants Survey results - July 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-july-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 31 Jul 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        },
+        {
+          "title": "Bank of England Weekly Report 29 July 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-july-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-08-04T04:44:27.630Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 30 Jul 2026 15:09:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 28 Jul 2026 16:27:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 29 Jul 2026 16:02:10 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Trump’s AI protectionism has come for robotics",
+          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 03 Aug 2026 18:43:30 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum..."
+        },
+        {
+          "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+          "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 03 Aug 2026 12:08:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When t..."
+        }
+      ],
+      "generatedAt": "2026-08-04T04:44:28.784Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Spanish stocks offer a sunny escape for tech-weary investors",
+          "url": "https://www.ft.com/content/90a0828c-1074-4609-b378-bfd410b7ec19?syn-25a6b1a6=1",
+          "content": "But the country’s relative isolation from AI may not last",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 04 Aug 2026 04:00:24 GMT",
+          "summary": "But the country’s relative isolation from AI may not last..."
+        },
+        {
+          "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
+          "url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1",
+          "content": "Private credit, chip leases and data centre guarantees underpin a vast new model for AI spending",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 04 Aug 2026 04:00:16 GMT",
+          "summary": "Private credit, chip leases and data centre guarantees underpin a vast new model for AI spending..."
+        },
+        {
+          "title": "\n        How China gets better bang for its buck than America in AI\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
+          "content": "Its investment lags far behind America’s. Its models do not",
+          "source": "The Economist",
+          "publishedAt": "Mon, 03 Aug 2026 17:15:13 +0000",
+          "summary": "Its investment lags far behind America’s. Its models do not..."
+        },
+        {
+          "title": "\n        What will Kevin Warsh do if America’s economy breaks?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
+          "content": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring",
+          "source": "The Economist",
+          "publishedAt": "Sun, 02 Aug 2026 16:12:02 +0000",
+          "summary": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring..."
+        },
+        {
+          "title": "SK hynix and Sandisk unveil first high-bandwidth flash standards",
+          "url": "https://seekingalpha.com/news/4624271-sk-hynix-and-sandisk-unveil-first-high-bandwidth-flash-standards?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 04 Aug 2026 00:24:09 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Medifast targets return to profitability in Q4 2026 as Trilivy rollout continues",
+          "url": "https://seekingalpha.com/news/4624275-medifast-targets-return-to-profitability-in-q4-2026-as-trilivy-rollout-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 04 Aug 2026 00:20:33 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Rupee opens on flat note, rises 3 paise to 95.34 against US dollar in early trade ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-opens-on-flat-note-rises-3-paise-to-95-34-against-us-dollar-in-early-trade/articleshow/132846463.cms",
+          "content": "The rupee opened flat and gained three paise against the US dollar in early trade. Dollar demand from importers was negated by a weaker dollar index and improved risk sentiment. Lower oil prices and a softer US dollar also supported the rupee's movement. Market participants are now awaiting the upcoming RBI MPC decision and key US economic data. Foreign portfolio inflows into Indian equities provided additional support for the rupee.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 04 Aug 2026 09:59:52 +0530",
+          "summary": "The rupee opened flat and gained three paise against the US dollar in early trade. Dollar demand from importers was negated by a weaker dollar index and improved risk sentiment. Lower oil prices and a..."
+        },
+        {
+          "title": "Ather Energy shares zoom 18% after Q1 results. Why is it Nomura's top 2-wheeler pick? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-zoom-18-after-q1-results-why-is-it-nomuras-top-2-wheeler-pick/articleshow/132846384.cms",
+          "content": "Ather Energy shares rose sharply on Tuesday after the electric two-wheeler maker sharply narrowed its June-quarter loss and reported strong revenue growth with positive EBITDA. Nomura retained its Buy rating, raised the target price to Rs 1,714, and kept Ather as its top electric two-wheeler pick, citing improving margins, scale and long-term growth prospects.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 04 Aug 2026 09:59:22 +0530",
+          "summary": "Ather Energy shares rose sharply on Tuesday after the electric two-wheeler maker sharply narrowed its June-quarter loss and reported strong revenue growth with positive EBITDA. Nomura retained its Buy..."
+        }
+      ],
+      "generatedAt": "2026-08-04T04:44:29.917Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
+          "url": "https://www.nature.com/articles/s41586-026-10957-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-03T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
+          "url": "https://www.nature.com/articles/s41586-026-10943-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-03T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Your brain may be wired to regain lost weight",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "content": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, and lower energy use after weight loss. This biological “memory” helps explain why many people regain weight after dieting and why medications such as Wegovy and Mounjaro can help by reducing appetite signals, although their effects may fade when treatment ends.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 03 Aug 2026 23:38:28 EDT",
+          "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger ..."
+        },
+        {
+          "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
+          "content": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activates the entire TAOK protein family, offering scientists an unexpected new research tool. Together, the compounds could reveal hidden disease mechanisms and point toward new treatment strategies.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 03 Aug 2026 06:20:53 EDT",
+          "summary": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activa..."
+        },
+        {
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+          "content": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 03 Aug 2026 20:13:37 +0000",
+          "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star...."
+        },
+        {
+          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "content": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 01 Aug 2026 18:20:11 +0000",
+          "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"..."
+        }
+      ],
+      "generatedAt": "2026-08-04T04:44:30.628Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Why did we wait so long for the bicycle? (2019)",
+          "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+          "content": "Article URL: https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle\nComments URL: https://news.ycombinator.com/item?id=49162787\nPoints: 14\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 03 Aug 2026 23:44:19 +0000",
+          "summary": "Article URL: https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle\nComments URL: https://news.ycombinator.com/item?id=49162787\nPoints: 14\n# Comments: 3..."
+        },
+        {
+          "title": "There Will Come Soft Rains (1950) [pdf]",
+          "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+          "content": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\nComments URL: https://news.ycombinator.com/item?id=49162653\nPoints: 65\n# Comments: 26",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 03 Aug 2026 23:24:53 +0000",
+          "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\nComments URL: https://news.ycombinator.com/item?id=49162653\nPoints: 65\n# Comments: 26..."
+        },
+        {
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "content": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 03 Aug 2026 23:19:50 +0000",
+          "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises...."
+        },
+        {
+          "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+          "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+          "content": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 03 Aug 2026 22:10:58 +0000",
+          "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade...."
+        }
+      ],
+      "generatedAt": "2026-08-04T04:44:31.192Z"
+    }
+  ]
+}
