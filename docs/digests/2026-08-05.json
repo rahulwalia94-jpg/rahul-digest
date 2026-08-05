@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T04:44:15.044Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q2 ",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        },
+        {
+          "title": "Market Participants Survey results - July 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-july-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 31 Jul 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        }
+      ],
+      "generatedAt": "2026-08-05T04:44:11.611Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 04 Aug 2026 13:58:29 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 30 Jul 2026 15:09:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 29 Jul 2026 16:02:10 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+          "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell  Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 04 Aug 2026 12:14:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donn..."
+        },
+        {
+          "title": "Trump’s AI protectionism has come for robotics",
+          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 03 Aug 2026 18:43:30 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum..."
+        }
+      ],
+      "generatedAt": "2026-08-05T04:44:12.511Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Paradise Papers law firm explores private equity sale",
+          "url": "https://www.ft.com/content/db1f029b-c7e2-4b11-b0b7-ebf96cd37dcf?syn-25a6b1a6=1",
+          "content": "Appleby, once at the centre of offshore data leak, draws up list of potential investors",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 05 Aug 2026 04:00:30 GMT",
+          "summary": "Appleby, once at the centre of offshore data leak, draws up list of potential investors..."
+        },
+        {
+          "title": "Banks to offload $15bn of debt for Anthropic data centre backed by Google",
+          "url": "https://www.ft.com/content/c492ce6b-483b-4196-8f2a-9bd1afda92d3?syn-25a6b1a6=1",
+          "content": "Bond sale could free up lending capacity as mega AI deals stretch Wall Street financing limits",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 05 Aug 2026 04:00:29 GMT",
+          "summary": "Bond sale could free up lending capacity as mega AI deals stretch Wall Street financing limits..."
+        },
+        {
+          "title": "\n        Investors in Situational Awareness deserved to lose their shirts\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+          "content": "The plight of the hedge fund says more about them than about its 24-year-old founder",
+          "source": "The Economist",
+          "publishedAt": "Tue, 04 Aug 2026 17:11:44 +0000",
+          "summary": "The plight of the hedge fund says more about them than about its 24-year-old founder..."
+        },
+        {
+          "title": "\n        How China gets better bang for its buck than America in AI\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
+          "content": "Its investment lags far behind America’s. Its models do not",
+          "source": "The Economist",
+          "publishedAt": "Mon, 03 Aug 2026 17:15:13 +0000",
+          "summary": "Its investment lags far behind America’s. Its models do not..."
+        },
+        {
+          "title": "Amprius Technologies beats top-line estimates; raises FY26 outlook",
+          "url": "https://seekingalpha.com/news/4625610-amprius-technologies-beats-top-line-estimates-raises-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 05 Aug 2026 00:37:25 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Revolut CEO Nik Storonsky in talks over new share award tied to $500B valuation - report",
+          "url": "https://seekingalpha.com/news/4625598-revolut-ceo-nik-storonsky-in-talks-over-new-share-award-tied-to-500b-valuation---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 05 Aug 2026 00:33:28 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Rupee sails past 95 to one-month high, premiums drop before RBI decision ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-sails-past-95-to-one-month-high-premiums-drop-before-rbi-decision/articleshow/132890285.cms",
+          "content": "The Indian rupee hit a peak not seen in a month this Wednesday, thanks to lower oil prices and a dip in the U.S. dollar value. As forward premiums fall in anticipation of the Reserve Bank of India's impending policy meeting, traders express muted expectations regarding its effect on the rupee. Essential drivers include the fluctuating oil prices, the dollar's performance, and potential RBI interventions.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 05 Aug 2026 09:59:00 +0530",
+          "summary": "The Indian rupee hit a peak not seen in a month this Wednesday, thanks to lower oil prices and a dip in the U.S. dollar value. As forward premiums fall in anticipation of the Reserve Bank of India's i..."
+        },
+        {
+          "title": "$25 billion FII comeback? HSBC explains why foreign money may return to India ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/25-billion-fii-comeback-hsbc-explains-why-foreign-money-may-return-to-india/articleshow/132889999.cms",
+          "content": "HSBC says India could attract up to $25 billion in foreign equity inflows if underweight global emerging-market funds restore allocations to neutral. Improving earnings, resilient domestic demand and lower relative volatility strengthen the case, with the brokerage favouring financials, autos, retail, hospitals and select industrial stocks",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 05 Aug 2026 09:55:19 +0530",
+          "summary": "HSBC says India could attract up to $25 billion in foreign equity inflows if underweight global emerging-market funds restore allocations to neutral. Improving earnings, resilient domestic demand and ..."
+        }
+      ],
+      "generatedAt": "2026-08-05T04:44:13.652Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
+          "url": "https://www.nature.com/articles/s41586-026-10958-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Put health systems at the centre of European heatwave plans",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This hydrogen turbine turns controlled explosions into electricity",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
+          "content": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could unlock dramatically more efficient power systems for clean energy and future aviation.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 04 Aug 2026 09:02:27 EDT",
+          "summary": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could..."
+        },
+        {
+          "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+          "content": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more affordable therapy.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 04 Aug 2026 09:33:37 EDT",
+          "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a sa..."
+        },
+        {
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+          "content": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 03 Aug 2026 20:13:37 +0000",
+          "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star...."
+        },
+        {
+          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "content": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 01 Aug 2026 18:20:11 +0000",
+          "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"..."
+        }
+      ],
+      "generatedAt": "2026-08-05T04:44:14.361Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+          "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
+          "content": "Article URL: https://www.asiae.co.kr/en/article/2026080416131786841\nComments URL: https://news.ycombinator.com/item?id=49177554\nPoints: 43\n# Comments: 23",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 05 Aug 2026 01:34:26 +0000",
+          "summary": "Article URL: https://www.asiae.co.kr/en/article/2026080416131786841\nComments URL: https://news.ycombinator.com/item?id=49177554\nPoints: 43\n# Comments: 23..."
+        },
+        {
+          "title": "Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s",
+          "url": "https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/",
+          "content": "Article URL: https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/\nComments URL: https://news.ycombinator.com/item?id=49177301\nPoints: 10\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 05 Aug 2026 00:54:18 +0000",
+          "summary": "Article URL: https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/\nComments URL: https://news.ycombinator.com/item?id=49177301\nPoin..."
+        },
+        {
+          "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+          "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+          "content": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 04 Aug 2026 22:30:58 +0000",
+          "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call...."
+        },
+        {
+          "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+          "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+          "content": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 04 Aug 2026 22:24:00 +0000",
+          "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis...."
+        }
+      ],
+      "generatedAt": "2026-08-05T04:44:15.043Z"
+    }
+  ]
+}
