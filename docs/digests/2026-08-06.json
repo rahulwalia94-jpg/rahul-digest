@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-06T04:44:58.137Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q2 ",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        },
+        {
+          "title": "Market Participants Survey results - July 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-july-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 31 Jul 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        }
+      ],
+      "generatedAt": "2026-08-06T04:44:54.007Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 04 Aug 2026 13:58:29 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 30 Jul 2026 15:09:09 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 29 Jul 2026 16:02:10 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Puzzle Corner",
+          "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+          "content": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 05 Aug 2026 14:56:29 +0000",
+          "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includ..."
+        },
+        {
+          "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+          "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 05 Aug 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer ..."
+        }
+      ],
+      "generatedAt": "2026-08-06T04:44:54.860Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Glencore takes a smart shortcut to triple nationality",
+          "url": "https://www.ft.com/content/a0c3fad0-77ab-4893-b9ee-c22719d4631d?syn-25a6b1a6=1",
+          "content": "Issuing depository receipts in Sydney will enable Australia’s mining investors to buy and sell its shares in a local wrapper",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 06 Aug 2026 00:00:00 GMT",
+          "summary": "Issuing depository receipts in Sydney will enable Australia’s mining investors to buy and sell its shares in a local wrapper..."
+        },
+        {
+          "title": "Iran says it has reached agreement with Oman on Hormuz shipping route",
+          "url": "https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676?syn-25a6b1a6=1",
+          "content": "Islamic republic is determined to retain a degree of control over the chokepoint",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 05 Aug 2026 19:56:35 GMT",
+          "summary": "Islamic republic is determined to retain a degree of control over the chokepoint..."
+        },
+        {
+          "title": "\n        Investors in Situational Awareness deserved to lose their shirts\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+          "content": "The plight of the hedge fund says more about them than about its 24-year-old founder",
+          "source": "The Economist",
+          "publishedAt": "Tue, 04 Aug 2026 17:11:44 +0000",
+          "summary": "The plight of the hedge fund says more about them than about its 24-year-old founder..."
+        },
+        {
+          "title": "\n        How China gets better bang for its buck than America in AI\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
+          "content": "Its investment lags far behind America’s. Its models do not",
+          "source": "The Economist",
+          "publishedAt": "Mon, 03 Aug 2026 17:15:13 +0000",
+          "summary": "Its investment lags far behind America’s. Its models do not..."
+        },
+        {
+          "title": "Joby raises 2026 revenue guidance to $115M-$125M as eIPP flights planned for September",
+          "url": "https://seekingalpha.com/news/4627251-joby-raises-2026-revenue-guidance-to-115m-125m-as-eipp-flights-planned-for-september?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 06 Aug 2026 00:41:24 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Cardlytics expects Q3 2026 revenue of $34M-$39M while targeting adjusted EBITDA of $0-$3M",
+          "url": "https://seekingalpha.com/news/4627250-cardlytics-expects-q3-2026-revenue-of-34m-39m-while-targeting-adjusted-ebitda-of-0-3m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 06 Aug 2026 00:41:18 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: Hong Kong insurers slump after report on China taxing offshore policy income ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hong-kong-insurers-slump-after-report-on-china-taxing-offshore-policy-income/articleshow/132980125.cms",
+          "content": "Hong Kong-listed insurance stocks slumped after reports that Chinese tax authorities have begun levying a 20% personal income tax on income earned from offshore insurance policies. The move has raised concerns over demand from mainland Chinese customers, weighing on insurers and financial stocks with significant cross-border exposure.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 06 Aug 2026 09:52:22 +0530",
+          "summary": "Hong Kong-listed insurance stocks slumped after reports that Chinese tax authorities have begun levying a 20% personal income tax on income earned from offshore insurance policies. The move has raised..."
+        },
+        {
+          "title": "Global Market: Japan's Nikkei slips 2% as tech selloff offsets gains in broader market ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-slips-2-as-tech-selloff-offsets-gains-in-broader-market/articleshow/132981551.cms",
+          "content": "Japan's Nikkei 225 fell nearly 2% on Thursday as a global technology selloff weighed on heavyweight semiconductor stocks, overshadowing gains across much of the broader market. While weakness in AI-linked shares dragged the benchmark lower, lower crude oil prices and strength in non-technology sectors helped limit losses in the broader Topix index.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 06 Aug 2026 09:52:14 +0530",
+          "summary": "Japan's Nikkei 225 fell nearly 2% on Thursday as a global technology selloff weighed on heavyweight semiconductor stocks, overshadowing gains across much of the broader market. While weakness in AI-li..."
+        }
+      ],
+      "generatedAt": "2026-08-06T04:44:56.251Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Pumas are drivers’ guardian angels",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-06T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
+          "url": "https://www.nature.com/articles/s41586-026-10970-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-05T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Dirty air may trigger painful rheumatoid arthritis flares",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082452.htm",
+          "content": "Tiny pollution particles from smoke, soot, and dust may worsen rheumatoid arthritis and raise the risk of painful flares, particularly after prolonged exposure. The findings suggest that avoiding poor air quality could become an important part of managing the disease.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 05 Aug 2026 23:32:50 EDT",
+          "summary": "Tiny pollution particles from smoke, soot, and dust may worsen rheumatoid arthritis and raise the risk of painful flares, particularly after prolonged exposure. The findings suggest that avoiding poor..."
+        },
+        {
+          "title": "THC medication made PTSD nightmares disappear for more than a third of patients",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082450.htm",
+          "content": "A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks. The results could point toward a long-awaited treatment for one of PTSD’s most distressing and stubborn symptoms.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 05 Aug 2026 23:16:44 EDT",
+          "summary": "A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks. The r..."
+        },
+        {
+          "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+          "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "content": "\"The models are forecasting something outside the envelope of anything we have ever observed.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 05 Aug 2026 19:19:04 +0000",
+          "summary": "\"The models are forecasting something outside the envelope of anything we have ever observed.\"..."
+        },
+        {
+          "title": "D-Wave shows off its new entry in quantum computing race",
+          "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+          "content": "Company noted for building quantum annealers now also making gate-based hardware.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 05 Aug 2026 16:37:07 +0000",
+          "summary": "Company noted for building quantum annealers now also making gate-based hardware...."
+        }
+      ],
+      "generatedAt": "2026-08-06T04:44:57.220Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Nashville uses eminent domain to block data center near zoo",
+          "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+          "content": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project\nComments URL: https://news.ycombinator.com/item?id=49191624\nPoints: 123\n# Comments: 110",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 06 Aug 2026 02:15:14 +0000",
+          "summary": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project\nComments URL: https://news.ycombinator.com/item?id=49191624\nPoints: 1..."
+        },
+        {
+          "title": "LLMs won't break symmetric crypto",
+          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+          "content": "Article URL: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto\nComments URL: https://news.ycombinator.com/item?id=49191365\nPoints: 59\n# Comments: 61",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 06 Aug 2026 01:39:06 +0000",
+          "summary": "Article URL: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto\nComments URL: https://news.ycombinator.com/item?id=49191365\nPoints: 59\n# Comments: 61..."
+        },
+        {
+          "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+          "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+          "content": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 05 Aug 2026 22:55:43 +0000",
+          "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing...."
+        },
+        {
+          "title": "Nikita Bier steps down as X’s head of product",
+          "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+          "content": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 05 Aug 2026 21:30:50 +0000",
+          "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X...."
+        }
+      ],
+      "generatedAt": "2026-08-06T04:44:58.137Z"
+    }
+  ]
+}
