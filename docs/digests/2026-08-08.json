@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T03:10:19.121Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 5 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 06 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q2 ",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        }
+      ],
+      "generatedAt": "2026-08-08T03:10:13.178Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 07 Aug 2026 17:53:32 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Baseten on Hugging Face Inference Providers 🔥",
+          "url": "https://huggingface.co/blog/baseten",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 06 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 06 Aug 2026 15:06:15 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+          "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 07 Aug 2026 14:20:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online f..."
+        },
+        {
+          "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+          "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+          "content": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.  For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 07 Aug 2026 14:00:00 +0000",
+          "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got th..."
+        }
+      ],
+      "generatedAt": "2026-08-08T03:10:14.415Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Iran’s oil exports stall and Kharg Island idles under US blockade",
+          "url": "https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53?syn-25a6b1a6=1",
+          "content": "Naval interdiction appears to be halting tankers from carrying Tehran’s crude",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 07 Aug 2026 21:12:17 GMT",
+          "summary": "Naval interdiction appears to be halting tankers from carrying Tehran’s crude..."
+        },
+        {
+          "title": "Passing the Clarity Act on digital assets is a matter of national security",
+          "url": "https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318",
+          "content": "If the US does not set terms, crypto activity will migrate beyond American laws and law enforcement to lightly regulated foreign venues",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 07 Aug 2026 17:00:06 GMT",
+          "summary": "If the US does not set terms, crypto activity will migrate beyond American laws and law enforcement to lightly regulated foreign venues..."
+        },
+        {
+          "title": "\n        India’s IT sector is surviving artificial intelligence\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
+          "content": "Though the technology is making life still harder for many graduates",
+          "source": "The Economist",
+          "publishedAt": "Thu, 06 Aug 2026 09:22:08 +0000",
+          "summary": "Though the technology is making life still harder for many graduates..."
+        },
+        {
+          "title": "\n        African countries are souring on the dollar\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/06/african-countries-are-souring-on-the-dollar",
+          "content": "The yuan and local currencies stand to benefit",
+          "source": "The Economist",
+          "publishedAt": "Thu, 06 Aug 2026 08:55:14 +0000",
+          "summary": "The yuan and local currencies stand to benefit..."
+        },
+        {
+          "title": "AIXC targets August 2026 RoboShare rentals in Los Angeles as liquidity remains constrained",
+          "url": "https://seekingalpha.com/news/4629638-aixc-targets-august-2026-roboshare-rentals-in-los-angeles-as-liquidity-remains-constrained?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 07 Aug 2026 22:24:43 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Vaxart outlines Phase IIb COVID-19 top line data in first half of 2027 backed by BARDA funding",
+          "url": "https://seekingalpha.com/news/4629637-vaxart-outlines-phase-iib-covidminus-19-top-line-data-in-first-half-of-2027-backed-by-barda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 07 Aug 2026 21:44:57 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
+          "content": "The US stock market enjoyed a significant boost on Friday as the S&P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Reserve interest rate hike in September. Strong earnings from corporations further propelled market indices upward. Meanwhile, a dip in oil prices, influenced by advancing peace talks, helped to soothe inflation fears.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 08 Aug 2026 01:38:04 +0530",
+          "summary": "The US stock market enjoyed a significant boost on Friday as the S&P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Reserve interest rate hike ..."
+        },
+        {
+          "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-fed-hike-after-jobs-data-but-economists-still-see-case-for-tightening/articleshow/133040583.cms",
+          "content": "The weak job report for July has tempered expectations surrounding a Federal Reserve rate increase. Consequently, futures markets now indicate a diminished probability of a rise in interest rates next month. Despite calls from several Fed officials for tighter monetary policy to counteract inflation, the economic community remains split on what lies ahead in rate decisions. The Federal Reserve is actively tracking inflation trends to shape its future policies.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 07 Aug 2026 23:50:08 +0530",
+          "summary": "The weak job report for July has tempered expectations surrounding a Federal Reserve rate increase. Consequently, futures markets now indicate a diminished probability of a rise in interest rates next..."
+        }
+      ],
+      "generatedAt": "2026-08-08T03:10:15.975Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+          "url": "https://www.nature.com/articles/d41586-026-02488-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-07T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+          "url": "https://www.nature.com/articles/d41586-026-02462-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-07T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+          "content": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug and by targeting fat metabolism. The discovery points to several exciting possibilities for future back pain treatments.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 06 Aug 2026 05:50:21 EDT",
+          "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spin..."
+        },
+        {
+          "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+          "content": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 07 Aug 2026 07:18:01 EDT",
+          "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension..."
+        },
+        {
+          "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+          "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "content": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 07 Aug 2026 19:00:17 +0000",
+          "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona...."
+        },
+        {
+          "title": "How snails engineer their slime",
+          "url": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+          "content": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 07 Aug 2026 17:25:20 +0000",
+          "summary": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus...."
+        }
+      ],
+      "generatedAt": "2026-08-08T03:10:16.972Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+          "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+          "content": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\nComments URL: https://news.ycombinator.com/item?id=49218179\nPoints: 35\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 08 Aug 2026 01:49:11 +0000",
+          "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\nComments URL: https://news.ycombinator.com/item?i..."
+        },
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "content": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 118\n# Comments: 46",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 08 Aug 2026 01:12:45 +0000",
+          "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 118\n# Comments: 46..."
+        },
+        {
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "content": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 07 Aug 2026 22:48:24 +0000",
+          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro..."
+        },
+        {
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "content": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 07 Aug 2026 21:30:11 +0000",
+          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending...."
+        }
+      ],
+      "generatedAt": "2026-08-08T03:10:19.121Z"
+    }
+  ]
+}
