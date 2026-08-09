@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-09T03:17:56.588Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 5 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 06 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q2 ",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        }
+      ],
+      "generatedAt": "2026-08-09T03:17:46.960Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 07 Aug 2026 17:53:32 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Baseten on Hugging Face Inference Providers 🔥",
+          "url": "https://huggingface.co/blog/baseten",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 06 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 06 Aug 2026 15:06:15 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+          "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 07 Aug 2026 14:20:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online f..."
+        },
+        {
+          "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+          "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+          "content": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.  For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 07 Aug 2026 14:00:00 +0000",
+          "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got th..."
+        }
+      ],
+      "generatedAt": "2026-08-09T03:17:48.145Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "One of the world’s biggest coal producers battles to keep lights on",
+          "url": "https://www.ft.com/content/ff321dc1-41d6-473d-b7e7-2a58224a18e7?syn-25a6b1a6=1",
+          "content": "Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 09 Aug 2026 02:05:57 GMT",
+          "summary": "Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market..."
+        },
+        {
+          "title": "The bank behind China’s AI listings bonanza",
+          "url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
+          "content": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 09 Aug 2026 01:22:52 GMT",
+          "summary": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race..."
+        },
+        {
+          "title": "\n        India’s IT sector is surviving artificial intelligence\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
+          "content": "Though the technology is making life still harder for many graduates",
+          "source": "The Economist",
+          "publishedAt": "Thu, 06 Aug 2026 09:22:08 +0000",
+          "summary": "Though the technology is making life still harder for many graduates..."
+        },
+        {
+          "title": "\n        African countries are souring on the dollar\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/06/african-countries-are-souring-on-the-dollar",
+          "content": "The yuan and local currencies stand to benefit",
+          "source": "The Economist",
+          "publishedAt": "Thu, 06 Aug 2026 08:55:14 +0000",
+          "summary": "The yuan and local currencies stand to benefit..."
+        },
+        {
+          "title": "Texas moratorium on data centers puts 20% of U.S. pipeline at risk of delay - Bloomberg NEF",
+          "url": "https://seekingalpha.com/news/4629635-texas-moratorium-on-data-centers-puts-20-percent-of-u-s-pipeline-at-risk-of-delay-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 08 Aug 2026 20:20:07 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "SA Asks: Should Google's AI leadership changes concern investors?",
+          "url": "https://seekingalpha.com/news/4629653-sa-asks-should-googles-ai-leadership-changes-concern-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 08 Aug 2026 15:51:59 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Delhivery Q1 Results: Net profit tumbles 65% YoY to Rs 32 crore, but revenue rises 28% ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/delhivery-q1-results-net-profit-tumbles-65-yoy-to-rs-32-crore-but-revenue-rises-28/articleshow/133051939.cms",
+          "content": "Delhivery reported a 65% year-on-year decline in Q1 FY27 net profit to Rs 31.9 crore, despite a 28% rise in revenue to Rs 2,930.7 crore. EBITDA fell 4% as higher labour, fuel and operating costs weighed on margins. The logistics company expects pricing revisions and revenue growth to offset cost pressures.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 08 Aug 2026 17:20:13 +0530",
+          "summary": "Delhivery reported a 65% year-on-year decline in Q1 FY27 net profit to Rs 31.9 crore, despite a 28% rise in revenue to Rs 2,930.7 crore. EBITDA fell 4% as higher labour, fuel and operating costs weigh..."
+        },
+        {
+          "title": "India's resilient economy to support markets but global risks remain elevated: Sebi ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-resilient-economy-to-support-markets-but-global-risks-remain-elevated-sebi/articleshow/133051804.cms",
+          "content": "India's financial markets are poised for growth, buoyed by robust domestic economic fundamentals like strong consumer demand and proactive government spending. Nevertheless, international geopolitical tensions and fluctuating commodity prices present daunting challenges. Consequently, there may be fluctuations in foreign capital inflows, which could affect market stability. Nonetheless, SEBI remains optimistic about India's potential to outperform globally, despite these external challenges.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 08 Aug 2026 17:09:40 +0530",
+          "summary": "India's financial markets are poised for growth, buoyed by robust domestic economic fundamentals like strong consumer demand and proactive government spending. Nevertheless, international geopolitical..."
+        }
+      ],
+      "generatedAt": "2026-08-09T03:17:49.259Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+          "url": "https://www.nature.com/articles/d41586-026-02488-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-07T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+          "url": "https://www.nature.com/articles/d41586-026-02462-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-07T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Cutting sweet foods doesn’t curb cravings or improve health",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
+          "content": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful differences in their preference for sweet foods, body weight, or markers linked to diabetes and heart disease. Many participants also drifted back toward their previous eating habits once the trial ended.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 08 Aug 2026 08:55:19 EDT",
+          "summary": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average..."
+        },
+        {
+          "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+          "content": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 08 Aug 2026 10:58:54 EDT",
+          "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new ..."
+        },
+        {
+          "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+          "content": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 08 Aug 2026 11:05:50 +0000",
+          "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data...."
+        },
+        {
+          "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+          "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "content": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 07 Aug 2026 19:00:17 +0000",
+          "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona...."
+        }
+      ],
+      "generatedAt": "2026-08-09T03:17:50.360Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The phone book that led us to Assad's spy chief in hiding",
+          "url": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
+          "content": "Article URL: https://www.bbc.com/news/articles/c4gyrzn8p94o\nComments URL: https://news.ycombinator.com/item?id=49227686\nPoints: 14\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 09 Aug 2026 01:55:53 +0000",
+          "summary": "Article URL: https://www.bbc.com/news/articles/c4gyrzn8p94o\nComments URL: https://news.ycombinator.com/item?id=49227686\nPoints: 14\n# Comments: 3..."
+        },
+        {
+          "title": "TheoremDB · A public workspace for machine mathematics",
+          "url": "https://theoremdb.org/",
+          "content": "Article URL: https://theoremdb.org/\nComments URL: https://news.ycombinator.com/item?id=49227505\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 09 Aug 2026 01:23:36 +0000",
+          "summary": "Article URL: https://theoremdb.org/\nComments URL: https://news.ycombinator.com/item?id=49227505\nPoints: 4\n# Comments: 0..."
+        },
+        {
+          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "content": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 08 Aug 2026 21:24:02 +0000",
+          "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States...."
+        },
+        {
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "content": "NextSlide says its team members are now working on ChatGPT.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000",
+          "summary": "NextSlide says its team members are now working on ChatGPT...."
+        }
+      ],
+      "generatedAt": "2026-08-09T03:17:56.588Z"
+    }
+  ]
+}
