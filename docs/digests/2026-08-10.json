@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-10T03:27:37.039Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 5 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 06 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q2 ",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        }
+      ],
+      "generatedAt": "2026-08-10T03:27:33.382Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 07 Aug 2026 17:53:32 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Baseten on Hugging Face Inference Providers 🔥",
+          "url": "https://huggingface.co/blog/baseten",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 06 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 06 Aug 2026 15:06:15 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+          "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 07 Aug 2026 14:20:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online f..."
+        },
+        {
+          "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+          "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+          "content": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.  For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 07 Aug 2026 14:00:00 +0000",
+          "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got th..."
+        }
+      ],
+      "generatedAt": "2026-08-10T03:27:34.237Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Tehran says US must meet new conditions before Iran reopens strait",
+          "url": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
+          "content": "Iranian rhetoric hardens amid push to seal deal between Islamic republic and Oman that would reopen the waterway",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 09 Aug 2026 19:29:36 GMT",
+          "summary": "Iranian rhetoric hardens amid push to seal deal between Islamic republic and Oman that would reopen the waterway..."
+        },
+        {
+          "title": "Asian carmakers cash in as high petrol prices lift US demand for hybrids",
+          "url": "https://www.ft.com/content/c15abecc-5f9a-4f7b-92e2-8c99f9ea3ae5?syn-25a6b1a6=1",
+          "content": "Sales, including of models made by Honda, Hyundai and Toyota, jump by a fifth in July",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 09 Aug 2026 10:00:09 GMT",
+          "summary": "Sales, including of models made by Honda, Hyundai and Toyota, jump by a fifth in July..."
+        },
+        {
+          "title": "\n        How China became the world’s great oil power\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/09/how-china-became-the-worlds-great-oil-power",
+          "content": "Forget OPEC. The Chinese Communist Party now calls the shots",
+          "source": "The Economist",
+          "publishedAt": "Sun, 09 Aug 2026 16:22:40 +0000",
+          "summary": "Forget OPEC. The Chinese Communist Party now calls the shots..."
+        },
+        {
+          "title": "\n        India’s IT sector is surviving artificial intelligence\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
+          "content": "Though the technology is making life still harder for many graduates",
+          "source": "The Economist",
+          "publishedAt": "Thu, 06 Aug 2026 09:22:08 +0000",
+          "summary": "Though the technology is making life still harder for many graduates..."
+        },
+        {
+          "title": "Here are the major earnings before the open Monday",
+          "url": "https://seekingalpha.com/news/4629673-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sun, 09 Aug 2026 18:00:38 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Rapid7 Q2 2026 Earnings Preview",
+          "url": "https://seekingalpha.com/news/4629507-rapid7-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sun, 09 Aug 2026 17:35:53 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Anawil Wire &amp; Engineering shares to list today; GMP points to 21% premium ahead of debut ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/anawil-wire-engineering-shares-to-list-today-gmp-points-to-21-premium-ahead-of-debut/articleshow/133079189.cms",
+          "content": "Anawil Wire & Engineering is set to list on the NSE SME platform today, August 10, with a 21% grey market premium (GMP) signalling a strong debut. Its IPO was subscribed 149.13 times, led by NII demand at 233.36 times, followed by QIBs at 164.56 times and retail investors at 104.22 times.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 10 Aug 2026 08:43:07 +0530",
+          "summary": "Anawil Wire & Engineering is set to list on the NSE SME platform today, August 10, with a 21% grey market premium (GMP) signalling a strong debut. Its IPO was subscribed 149.13 times, led by NII deman..."
+        },
+        {
+          "title": "Japan's Nikkei rises 2% as AI stocks rally, Middle East worries cap gains ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-2-as-ai-stocks-rally-middle-east-worries-cap-gains/articleshow/133079117.cms",
+          "content": "Japan’s Nikkei index recorded an upward trend thanks to strong performances in AI and semiconductor stocks. Companies like Advantest and Tokyo Electron saw notable increases, while Recruit Holdings enjoyed a boost after surpassing market expectations with revised projections. Nevertheless, concerns regarding the Middle East and forecasts from a battery materials producer restrained further growth. Investor caution prevailed amidst the Obon holidays and scarce market indicators.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 10 Aug 2026 08:39:30 +0530",
+          "summary": "Japan’s Nikkei index recorded an upward trend thanks to strong performances in AI and semiconductor stocks. Companies like Advantest and Tokyo Electron saw notable increases, while Recruit Holdings en..."
+        }
+      ],
+      "generatedAt": "2026-08-10T03:27:35.360Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+          "url": "https://www.nature.com/articles/d41586-026-02488-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-07T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+          "url": "https://www.nature.com/articles/d41586-026-02462-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-07T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
+          "content": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deliberate rules rather than being improvised. The engravers may even have planned entire patterns in their minds before carving them.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 09 Aug 2026 07:51:37 EDT",
+          "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recu..."
+        },
+        {
+          "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
+          "content": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider, and spirits were linked to higher mortality, while wine was associated with lower risk. Moderate wine drinkers had a 21% lower risk of cardiovascular death compared with people who rarely or never drank.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 09 Aug 2026 03:49:30 EDT",
+          "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surpris..."
+        },
+        {
+          "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+          "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+          "content": "The massive Toba eruption seems to have had little climate impact.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 09 Aug 2026 11:00:14 +0000",
+          "summary": "The massive Toba eruption seems to have had little climate impact...."
+        },
+        {
+          "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+          "content": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 08 Aug 2026 11:05:50 +0000",
+          "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data...."
+        }
+      ],
+      "generatedAt": "2026-08-10T03:27:36.129Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "What Happened to HackerOne?",
+          "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+          "content": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/\nComments URL: https://news.ycombinator.com/item?id=49238561\nPoints: 38\n# Comments: 9",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 10 Aug 2026 02:23:17 +0000",
+          "summary": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/\nComments URL: https://news.ycombinator.com/item?id=49238561\nPoints: 38\n# Comments: 9..."
+        },
+        {
+          "title": "How We Pushed CDC into Postgres",
+          "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+          "content": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\nComments URL: https://news.ycombinator.com/item?id=49238050\nPoints: 36\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 10 Aug 2026 01:01:34 +0000",
+          "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\nComments URL: https://news.ycombinator.com/item?id=49238050\nPoints: 36\n# Comments: 4..."
+        },
+        {
+          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "content": "The AI-focused hedge fund is still making some big bets.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 09 Aug 2026 20:35:17 +0000",
+          "summary": "The AI-focused hedge fund is still making some big bets...."
+        },
+        {
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "content": "Programming with Claude Code will soon require even less human oversight.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 09 Aug 2026 19:20:32 +0000",
+          "summary": "Programming with Claude Code will soon require even less human oversight...."
+        }
+      ],
+      "generatedAt": "2026-08-10T03:27:37.039Z"
+    }
+  ]
+}
