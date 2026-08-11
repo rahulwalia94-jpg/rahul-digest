@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T03:20:29.595Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 5 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 06 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q2 ",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        }
+      ],
+      "generatedAt": "2026-08-11T03:20:22.696Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 10 Aug 2026 16:25:36 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 10 Aug 2026 10:05:36 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 06 Aug 2026 15:06:15 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "AI professors are negotiating the new realities of academic research",
+          "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 10 Aug 2026 20:00:00 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel..."
+        },
+        {
+          "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+          "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 10 Aug 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, t..."
+        }
+      ],
+      "generatedAt": "2026-08-11T03:20:23.770Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Hong Kong set to include trading firms in ‘big bang’ tax reforms",
+          "url": "https://www.ft.com/content/c9c7c2dc-979e-49b2-a57f-77bb461bb7db?syn-25a6b1a6=1",
+          "content": "Proposal is part of push by the Chinese territory to compete with Singapore for top-tier financial talent",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 11 Aug 2026 02:50:15 GMT",
+          "summary": "Proposal is part of push by the Chinese territory to compete with Singapore for top-tier financial talent..."
+        },
+        {
+          "title": "Yen sinks as effect of US-Japan intervention fades",
+          "url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
+          "content": "Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 11 Aug 2026 01:38:21 GMT",
+          "summary": "Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks..."
+        },
+        {
+          "title": "\n        China is now the world’s great oil power\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power",
+          "content": "Forget OPEC. The Chinese Communist Party calls the shots",
+          "source": "The Economist",
+          "publishedAt": "Sun, 09 Aug 2026 16:22:40 +0000",
+          "summary": "Forget OPEC. The Chinese Communist Party calls the shots..."
+        },
+        {
+          "title": "\n        India’s IT sector is surviving artificial intelligence\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
+          "content": "Though the technology is making life still harder for many graduates",
+          "source": "The Economist",
+          "publishedAt": "Thu, 06 Aug 2026 09:22:08 +0000",
+          "summary": "Though the technology is making life still harder for many graduates..."
+        },
+        {
+          "title": "Tactile Medical projects $360M-$366M 2026 revenue as airway clearance ordering normalizes in Q4",
+          "url": "https://seekingalpha.com/news/4630408-tactile-medical-projects-360m-366m-2026-revenue-as-airway-clearance-ordering-normalizes-in-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 10 Aug 2026 22:29:07 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "AST SpaceMobile reiterates $150M-$200M 2026 revenue guidance while targeting ~45 BlueBird satellites by early 2027",
+          "url": "https://seekingalpha.com/news/4630407-ast-spacemobile-reiterates-150m-200m-2026-revenue-guidance-while-targeting-45-bluebird?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 10 Aug 2026 22:19:06 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "LEAP India IPO Day 3: Check GMP, subscription status, issue details; Should you subscribe? ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/leap-india-ipo-day-3-check-gmp-subscription-status-issue-details-should-you-subscribe/articleshow/133141051.cms",
+          "content": "The Rs 2,480-crore LEAP India IPO entered its third and final day of bidding on August 11, with the grey market premium hovering around 8%. Backed by KKR and showing strong 66% YoY profit growth in FY26, analysts recommend a subscribe for long term despite aggressive valuations.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 11 Aug 2026 08:39:18 +0530",
+          "summary": "The Rs 2,480-crore LEAP India IPO entered its third and final day of bidding on August 11, with the grey market premium hovering around 8%. Backed by KKR and showing strong 66% YoY profit growth in FY..."
+        },
+        {
+          "title": "Dhoot Transmission IPO Day 2; GMP signals 30% listing gain - Should you subscribe? ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-ipo-day-2-gmp-signals-30-listing-gain-should-you-subscribe/articleshow/133141011.cms",
+          "content": "The Rs 3,066.89-crore Dhoot Transmission IPO entered its second day of bidding on Tuesday, August 11, with the grey market premium signaling a potential 30% listing gain. Backed by solid FY26 financials and strong demand in retail and NII segments, market analysts have maintained a subscribe rating for long-term investors.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 11 Aug 2026 08:34:05 +0530",
+          "summary": "The Rs 3,066.89-crore Dhoot Transmission IPO entered its second day of bidding on Tuesday, August 11, with the grey market premium signaling a potential 30% listing gain. Backed by solid FY26 financia..."
+        }
+      ],
+      "generatedAt": "2026-08-11T03:20:25.196Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+          "url": "https://www.nature.com/articles/s41586-026-10984-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-10T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
+          "url": "https://www.nature.com/articles/s41586-026-10973-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-10T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
+          "content": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that can be taken once daily with or without food and could potentially be produced more easily at scale.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 10 Aug 2026 10:50:43 EDT",
+          "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a s..."
+        },
+        {
+          "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
+          "content": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst designs that boost clean power generation while making green hydrogen more energy-efficient.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 10 Aug 2026 08:27:30 EDT",
+          "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable s..."
+        },
+        {
+          "title": "Dogs can tell if you're scared or sad",
+          "url": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
+          "content": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 10 Aug 2026 15:00:53 +0000",
+          "summary": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains...."
+        },
+        {
+          "title": "Peer review is overwhelmed—can it survive in the AI era?",
+          "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+          "content": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 10 Aug 2026 11:00:47 +0000",
+          "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up...."
+        }
+      ],
+      "generatedAt": "2026-08-11T03:20:25.867Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Recycle – Floppydisks",
+          "url": "https://www.floppydisk.com/recycle",
+          "content": "Article URL: https://www.floppydisk.com/recycle\nComments URL: https://news.ycombinator.com/item?id=49252462\nPoints: 8\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 11 Aug 2026 02:01:01 +0000",
+          "summary": "Article URL: https://www.floppydisk.com/recycle\nComments URL: https://news.ycombinator.com/item?id=49252462\nPoints: 8\n# Comments: 0..."
+        },
+        {
+          "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+          "url": "https://github.com/antirez/h3.c",
+          "content": "Article URL: https://github.com/antirez/h3.c\nComments URL: https://news.ycombinator.com/item?id=49252179\nPoints: 45\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 11 Aug 2026 01:22:09 +0000",
+          "summary": "Article URL: https://github.com/antirez/h3.c\nComments URL: https://news.ycombinator.com/item?id=49252179\nPoints: 45\n# Comments: 4..."
+        },
+        {
+          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+          "content": "San Francisco's housing market is in trouble again.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 11 Aug 2026 00:03:18 +0000",
+          "summary": "San Francisco's housing market is in trouble again...."
+        },
+        {
+          "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "content": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 10 Aug 2026 23:56:15 +0000",
+          "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it...."
+        }
+      ],
+      "generatedAt": "2026-08-11T03:20:29.595Z"
+    }
+  ]
+}
