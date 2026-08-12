@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T03:39:00.712Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 5 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 06 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q2 ",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        }
+      ],
+      "generatedAt": "2026-08-12T03:38:55.465Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 11 Aug 2026 13:37:10 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 10 Aug 2026 16:25:36 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 06 Aug 2026 15:06:15 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app..."
+        },
+        {
+          "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+          "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+          "content": "I first heard the term “censorship-industrial complex” on April 15, 2025.  That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.  And the reason? R/FIMI, as the office…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 11 Aug 2026 17:58:57 +0000",
+          "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.  That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreig..."
+        },
+        {
+          "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+          "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 11 Aug 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine yea..."
+        }
+      ],
+      "generatedAt": "2026-08-12T03:38:56.606Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "US fires on ship it says violated Iran blockade ",
+          "url": "https://www.ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1",
+          "content": "Central Command says Panama-flagged vessel ‘ignored repeated warnings’ from American forces",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 11 Aug 2026 20:51:47 GMT",
+          "summary": "Central Command says Panama-flagged vessel ‘ignored repeated warnings’ from American forces..."
+        },
+        {
+          "title": "Why the yen matters",
+          "url": "https://www.ft.com/content/f52478de-29af-41bd-a390-9f8102ac32a8?syn-25a6b1a6=1",
+          "content": "What’s driving the US intervention in a foreign bond market?",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 11 Aug 2026 20:00:00 GMT",
+          "summary": "What’s driving the US intervention in a foreign bond market?..."
+        },
+        {
+          "title": "\n        Hooray for index funds—just don’t call them passive\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/11/hooray-for-index-funds-just-dont-call-them-passive",
+          "content": "Jack Bogle’s creation has transformed markets, and involves plenty of choices",
+          "source": "The Economist",
+          "publishedAt": "Tue, 11 Aug 2026 19:25:38 +0000",
+          "summary": "Jack Bogle’s creation has transformed markets, and involves plenty of choices..."
+        },
+        {
+          "title": "\n        China is now the world’s great oil power\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power",
+          "content": "Forget OPEC. The Chinese Communist Party calls the shots",
+          "source": "The Economist",
+          "publishedAt": "Sun, 09 Aug 2026 16:22:40 +0000",
+          "summary": "Forget OPEC. The Chinese Communist Party calls the shots..."
+        },
+        {
+          "title": "Stereotaxis expects recurring revenue to reach $8M in Q4 2026 as MAGiC adoption remains supply constrained",
+          "url": "https://seekingalpha.com/news/4631199-stereotaxis-expects-recurring-revenue-to-reach-8m-in-q4-2026-as-magic-adoption-remains-supply?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 11 Aug 2026 23:28:02 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "TransAct outlines $1.5M-$2.0M 2026 adjusted EBITDA outlook while launching strategic review of casino and gaming",
+          "url": "https://seekingalpha.com/news/4631198-transact-outlines-1_5m-2_0m-2026-adjusted-ebitda-outlook-while-launching-strategic-review-of?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 11 Aug 2026 23:17:58 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Horizon Industrial Parks sets IPO price band at Rs 57-60 for Rs 2,600 crore issue. Check key dates ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/horizon-industrial-parks-sets-ipo-price-band-at-rs-57-60-for-rs-2600-crore-issue-check-key-dates/articleshow/133168395.cms",
+          "content": "Horizon Industrial Parks has set the price band for its Rs 2,600-crore IPO at Rs 57-60 per share. The IPO will open on August 17 and close on August 19, with the company planning to use most of the proceeds to repay or prepay debt.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 12 Aug 2026 08:21:05 +0530",
+          "summary": "Horizon Industrial Parks has set the price band for its Rs 2,600-crore IPO at Rs 57-60 per share. The IPO will open on August 17 and close on August 19, with the company planning to use most of the pr..."
+        },
+        {
+          "title": "HCL Tech Share Price Live Updates: HCL Tech's Trading Performance ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-today-live-updates-12-aug-2026/liveblog/133168365.cms",
+          "content": " ",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 12 Aug 2026 08:15:04 +0530",
+          "summary": " ..."
+        }
+      ],
+      "generatedAt": "2026-08-12T03:38:58.168Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+          "url": "https://www.nature.com/articles/s41586-026-10991-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-11T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+          "url": "https://www.nature.com/articles/s41586-026-10947-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-11T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
+          "content": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that can be taken once daily with or without food and could potentially be produced more easily at scale.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 10 Aug 2026 10:50:43 EDT",
+          "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a s..."
+        },
+        {
+          "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
+          "content": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst designs that boost clean power generation while making green hydrogen more energy-efficient.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 10 Aug 2026 08:27:30 EDT",
+          "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable s..."
+        },
+        {
+          "title": "Tracking extreme heat by the hour makes climate change seem even worse",
+          "url": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+          "content": "Hot hours of summer could triple in the coming decades.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 11 Aug 2026 16:26:38 +0000",
+          "summary": "Hot hours of summer could triple in the coming decades...."
+        },
+        {
+          "title": "Dogs can tell if you're scared or sad",
+          "url": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
+          "content": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 10 Aug 2026 15:00:53 +0000",
+          "summary": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains...."
+        }
+      ],
+      "generatedAt": "2026-08-12T03:38:59.522Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The Human Is the Loop",
+          "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+          "content": "Article URL: https://brentfitzgerald.com/posts/the-human-is-the-loop/\nComments URL: https://news.ycombinator.com/item?id=49267108\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 12 Aug 2026 02:15:01 +0000",
+          "summary": "Article URL: https://brentfitzgerald.com/posts/the-human-is-the-loop/\nComments URL: https://news.ycombinator.com/item?id=49267108\nPoints: 4\n# Comments: 0..."
+        },
+        {
+          "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+          "content": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/\nComments URL: https://news.ycombinator.com/item?id=49267057\nPoints: 21\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 12 Aug 2026 02:05:42 +0000",
+          "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/\nComments URL: https://news.ycombinator.com/item?id=49267057\nPoints: 21\n# Comments: 3..."
+        },
+        {
+          "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+          "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+          "content": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 11 Aug 2026 21:39:58 +0000",
+          "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices...."
+        },
+        {
+          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+          "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+          "content": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 11 Aug 2026 21:39:11 +0000",
+          "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment...."
+        }
+      ],
+      "generatedAt": "2026-08-12T03:39:00.712Z"
+    }
+  ]
+}
