@@ -1,0 +1,238 @@
+{
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T03:42:12.658Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 5 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 06 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q2 ",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0100",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        }
+      ],
+      "generatedAt": "2026-08-13T03:42:06.915Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 12 Aug 2026 14:01:59 +0000",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users...."
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 06 Aug 2026 15:06:15 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists just created female clones of male mice",
+          "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+          "content": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.  “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 12 Aug 2026 18:59:48 +0000",
+          "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female ..."
+        },
+        {
+          "title": "Scaling AI agents with trustworthy data",
+          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+          "content": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 12 Aug 2026 16:51:57 +0000",
+          "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work..."
+        }
+      ],
+      "generatedAt": "2026-08-13T03:42:07.885Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Rio Tinto gets $1.8bn bailout for Australia’s biggest aluminium smelter",
+          "url": "https://www.ft.com/content/92f69c81-f15f-409f-877d-0cc61f4ef697?syn-25a6b1a6=1",
+          "content": "Taxpayer funding follows similar deals by Anthony Albanese’s government to save vulnerable industrial operations",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 13 Aug 2026 03:15:34 GMT",
+          "summary": "Taxpayer funding follows similar deals by Anthony Albanese’s government to save vulnerable industrial operations..."
+        },
+        {
+          "title": "Digital gold, copper and uranium: prospectors stake bets on metals-crypto fusion",
+          "url": "https://www.ft.com/content/de7ded5c-23d4-44ac-8b21-bf7f5cdfefda?syn-25a6b1a6=1",
+          "content": "Tokenisation of minerals is the latest attempt to bring the fervour of crypto into a new asset class",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 13 Aug 2026 03:00:01 GMT",
+          "summary": "Tokenisation of minerals is the latest attempt to bring the fervour of crypto into a new asset class..."
+        },
+        {
+          "title": "\n        Kevin Warsh is struggling to escape his predecessor’s problems\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems",
+          "content": "High inflation, weak jobs numbers and presidential interference trouble the Federal Reserve",
+          "source": "The Economist",
+          "publishedAt": "Wed, 12 Aug 2026 17:33:32 +0000",
+          "summary": "High inflation, weak jobs numbers and presidential interference trouble the Federal Reserve..."
+        },
+        {
+          "title": "\n        Hooray for index funds—just don’t call them passive\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/11/hooray-for-index-funds-just-dont-call-them-passive",
+          "content": "Jack Bogle’s creation has transformed markets, and involves plenty of choices",
+          "source": "The Economist",
+          "publishedAt": "Tue, 11 Aug 2026 19:25:38 +0000",
+          "summary": "Jack Bogle’s creation has transformed markets, and involves plenty of choices..."
+        },
+        {
+          "title": "AOSL anticipates $176M September-quarter revenue with advanced computing projected to grow more than 40% sequentially",
+          "url": "https://seekingalpha.com/news/4632054-aosl-anticipates-176m-september-quarter-revenue-with-advanced-computing-projected-to-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 12 Aug 2026 23:28:03 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Spero outlines cash runway into the second half of 2029 following $105M royalty financing",
+          "url": "https://seekingalpha.com/news/4632053-spero-outlines-cash-runway-into-the-second-half-of-2029-following-105m-royalty-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 12 Aug 2026 22:47:53 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "HAL shares in focus after Q1 earnings beat estimates. Nomura, other brokerages hike target price ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-in-focus-after-q1-earnings-beat-estimates-nomura-other-brokerages-hike-target-price/articleshow/133196943.cms",
+          "content": "Hindustan Aeronautics shares gained after the defence major reported strong Q1FY27 results, with net profit rising 15% and revenue increasing 14% year-on-year. Brokerages Nomura and Motilal Oswal raised their target prices, citing healthy order visibility, improving supply chains and rising Tejas Mk1A deliveries. Nomura retained HAL as its top defence pick.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 13 Aug 2026 09:08:21 +0530",
+          "summary": "Hindustan Aeronautics shares gained after the defence major reported strong Q1FY27 results, with net profit rising 15% and revenue increasing 14% year-on-year. Brokerages Nomura and Motilal Oswal rais..."
+        },
+        {
+          "title": "Molbio Diagnostics IPO allotment likely today; GMP at 20% — Here’s how to check status ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-diagnostics-ipo-allotment-likely-today-gmp-at-20-heres-how-to-check-status/articleshow/133196862.cms",
+          "content": "Molbio Diagnostics IPO allotment is expected on Thursday after the Rs 939.70-crore issue was subscribed 70.26 times. With a grey market premium of around 20%, investors await allotment results ahead of the August 17 listing. Proceeds will fund R&D infrastructure, manufacturing expansion and corporate purposes, while FY26 revenue grew 42% year-on-year.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 13 Aug 2026 09:07:36 +0530",
+          "summary": "Molbio Diagnostics IPO allotment is expected on Thursday after the Rs 939.70-crore issue was subscribed 70.26 times. With a grey market premium of around 20%, investors await allotment results ahead o..."
+        }
+      ],
+      "generatedAt": "2026-08-13T03:42:09.370Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+          "url": "https://www.nature.com/articles/s41586-026-10994-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-12T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Reply to: Pre-clinical data interpretation requires clinical context",
+          "url": "https://www.nature.com/articles/s41586-026-10773-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-12T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
+          "content": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satellite tracking and help reduce the growing risk of collisions in increasingly crowded orbits.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 12 Aug 2026 09:38:05 EDT",
+          "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructe..."
+        },
+        {
+          "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+          "content": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 12 Aug 2026 07:17:51 EDT",
+          "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional col..."
+        },
+        {
+          "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+          "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+          "content": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 12 Aug 2026 21:13:39 +0000",
+          "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”..."
+        },
+        {
+          "title": "Did poop enable the evolution of complex animals?",
+          "url": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
+          "content": "In a recent study, evolution gets even messier than usual.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 12 Aug 2026 12:34:38 +0000",
+          "summary": "In a recent study, evolution gets even messier than usual...."
+        }
+      ],
+      "generatedAt": "2026-08-13T03:42:10.490Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+          "url": "https://www.ballet.dev/",
+          "content": "Article URL: https://www.ballet.dev/\nComments URL: https://news.ycombinator.com/item?id=49280184\nPoints: 18\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 13 Aug 2026 00:01:43 +0000",
+          "summary": "Article URL: https://www.ballet.dev/\nComments URL: https://news.ycombinator.com/item?id=49280184\nPoints: 18\n# Comments: 2..."
+        },
+        {
+          "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+          "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+          "content": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 38\n# Comments: 13",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 12 Aug 2026 23:50:33 +0000",
+          "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 38\n# Comments: 13..."
+        },
+        {
+          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "content": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 12 Aug 2026 22:26:37 +0000",
+          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is...."
+        },
+        {
+          "title": "AI nuclear power firm Fermi finally has a new CEO",
+          "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+          "content": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 12 Aug 2026 22:24:00 +0000",
+          "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post...."
+        }
+      ],
+      "generatedAt": "2026-08-13T03:42:12.658Z"
+    }
+  ]
+}
