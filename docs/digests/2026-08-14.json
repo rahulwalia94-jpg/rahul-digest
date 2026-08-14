@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T03:39:36.581Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 12 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/12-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 13 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Bank of England Weekly Report 5 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 06 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-08-14T03:39:30.792Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 13 Aug 2026 17:16:04 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "What We Learned by Reproducing 2,200 papers from ICML",
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 13 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 12 Aug 2026 14:01:59 +0000",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users...."
+        },
+        {
+          "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+          "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+          "content": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 13 Aug 2026 21:00:00 +0000",
+          "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. Thi..."
+        },
+        {
+          "title": "Building a practical path to post-quantum cryptography",
+          "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+          "content": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 13 Aug 2026 18:11:42 +0000",
+          "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for busin..."
+        }
+      ],
+      "generatedAt": "2026-08-14T03:39:32.332Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "AI frenzy drives Chinese tech valuations to multiples of US peers",
+          "url": "https://www.ft.com/content/094f578b-517a-4d05-a9f1-1cc1f2e56c44?syn-25a6b1a6=1",
+          "content": "Support from Beijing has helped power 29% gain for Star 50 index this year",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 14 Aug 2026 01:43:21 GMT",
+          "summary": "Support from Beijing has helped power 29% gain for Star 50 index this year..."
+        },
+        {
+          "title": "BP joins Big Oil return to post-Maduro Venezuela",
+          "url": "https://www.ft.com/content/7a9808c3-0d3f-4c85-a8d8-1156e4a6230e?syn-25a6b1a6=1",
+          "content": "British company among winners of offshore licence less than nine months after US toppled Caracas strongman",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 14 Aug 2026 00:16:36 GMT",
+          "summary": "British company among winners of offshore licence less than nine months after US toppled Caracas strongman..."
+        },
+        {
+          "title": "\n        When Japan buys yen, it unwinds a dangerous trade\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
+          "content": "The world’s biggest carry trader begins to exit its position",
+          "source": "The Economist",
+          "publishedAt": "Thu, 13 Aug 2026 08:49:36 +0000",
+          "summary": "The world’s biggest carry trader begins to exit its position..."
+        },
+        {
+          "title": "\n        Is China’s debt-bomb squad about to blow up?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up",
+          "content": "Firms tasked with defusing credit crises are getting into trouble",
+          "source": "The Economist",
+          "publishedAt": "Thu, 13 Aug 2026 08:37:46 +0000",
+          "summary": "Firms tasked with defusing credit crises are getting into trouble..."
+        },
+        {
+          "title": "Nektar outlines REZPEG Phase III timeline with mid-2028 data and 2029 BLA plan",
+          "url": "https://seekingalpha.com/news/4633008-nektar-outlines-rezpeg-phase-iii-timeline-with-midminus-2028-data-and-2029-bla-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 13 Aug 2026 23:27:54 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Elutia anticipates NXT-41x clearance in 1H 2027 while targeting >80% gross margins at scale",
+          "url": "https://seekingalpha.com/news/4633007-elutia-anticipates-nxtminus-41x-clearance-in-1h-2027-while-targeting-80-percent-gross-margins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 13 Aug 2026 23:17:46 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Advent-backed Svatantra Microfin files for $315 million IPO ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/advent-backed-svatantra-microfin-files-for-315-million-ipo/articleshow/133228058.cms",
+          "content": "Svatantra Microfin has filed for an initial public offering worth thirty billion rupees. Existing investors Advent International and Multiples are offloading shares worth fifteen billion rupees. The microfinance company primarily provides loans to women in rural areas. Svatantra reported a forty-five point eight percent jump in net profit for the year. Proceeds from the IPO will boost the company's Tier I capital base.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 14 Aug 2026 08:44:14 +0530",
+          "summary": "Svatantra Microfin has filed for an initial public offering worth thirty billion rupees. Existing investors Advent International and Multiples are offloading shares worth fifteen billion rupees. The m..."
+        },
+        {
+          "title": "Shiprocket IPO Day 3: GMP signals 38% listing premium, subscribed 3.16 times; should you subscribe? ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-ipo-day-3-gmp-signals-38-listing-premium-subscribed-3-16-times-should-you-subscribe/articleshow/133228000.cms",
+          "content": "Shiprocket IPO GMP: Shiprocket IPO entered its third and final day of bidding, showing strong investor interest with a grey market premium of 38% over its price band of Rs 92 to Rs 97. Major brokerages have given a SUBSCRIBE rating, highlighting the company's dominant market position in India's expanding e-commerce ecosystem.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 14 Aug 2026 08:39:47 +0530",
+          "summary": "Shiprocket IPO GMP: Shiprocket IPO entered its third and final day of bidding, showing strong investor interest with a grey market premium of 38% over its price band of Rs 92 to Rs 97. Major brokerage..."
+        }
+      ],
+      "generatedAt": "2026-08-14T03:39:33.919Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+          "url": "https://www.nature.com/articles/s41586-026-10959-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-13T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+          "url": "https://www.nature.com/articles/s41586-026-10960-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-13T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
+          "content": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satellite tracking and help reduce the growing risk of collisions in increasingly crowded orbits.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 12 Aug 2026 09:38:05 EDT",
+          "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructe..."
+        },
+        {
+          "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+          "content": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 12 Aug 2026 07:17:51 EDT",
+          "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional col..."
+        },
+        {
+          "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+          "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+          "content": "Let's shield the astronauts instead of the spacecraft.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 13 Aug 2026 13:48:55 +0000",
+          "summary": "Let's shield the astronauts instead of the spacecraft...."
+        },
+        {
+          "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+          "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+          "content": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 12 Aug 2026 21:13:39 +0000",
+          "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”..."
+        }
+      ],
+      "generatedAt": "2026-08-14T03:39:35.242Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+          "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+          "content": "Article URL: https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters\nComments URL: https://news.ycombinator.com/item?id=49294199\nPoints: 66\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 14 Aug 2026 02:39:10 +0000",
+          "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters\nComments URL: https://news.ycombinator.com/item?id=49294199\nPoints: 66\n# Comments: 7..."
+        },
+        {
+          "title": "Bluesky Protocol Services",
+          "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+          "content": "Article URL: https://atproto.com/blog/introducing-bluesky-protocol-services\nComments URL: https://news.ycombinator.com/item?id=49293324\nPoints: 88\n# Comments: 19",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 14 Aug 2026 00:14:28 +0000",
+          "summary": "Article URL: https://atproto.com/blog/introducing-bluesky-protocol-services\nComments URL: https://news.ycombinator.com/item?id=49293324\nPoints: 88\n# Comments: 19..."
+        },
+        {
+          "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+          "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+          "content": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 13 Aug 2026 22:12:40 +0000",
+          "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup...."
+        },
+        {
+          "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+          "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+          "content": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 13 Aug 2026 22:02:04 +0000",
+          "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool w..."
+        }
+      ],
+      "generatedAt": "2026-08-14T03:39:36.581Z"
+    }
+  ]
+}
