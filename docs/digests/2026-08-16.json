@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-16T02:43:47.702Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Outsourcing and competition in the banking sector: the rise of Cloud Service Providers",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/outsourcing-and-competition-in-the-banking-sector-the-rise-of-csps",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 12 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/12-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 13 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-08-16T02:43:42.379Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 14 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 13 Aug 2026 17:16:04 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 12 Aug 2026 14:01:59 +0000",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users...."
+        },
+        {
+          "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+          "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 14 Aug 2026 12:17:21 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveil..."
+        },
+        {
+          "title": "This scientist is helping build a missing map of childhood",
+          "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+          "content": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 14 Aug 2026 09:00:00 +0000",
+          "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that ai..."
+        }
+      ],
+      "generatedAt": "2026-08-16T02:43:43.423Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "South Korea’s inverse correlation",
+          "url": "https://www.ft.com/content/57d098e2-7cb7-426b-90b9-38bbd2a37eb3?syn-25a6b1a6=1",
+          "content": "Kospi down, won up",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 15 Aug 2026 09:30:03 GMT",
+          "summary": "Kospi down, won up..."
+        },
+        {
+          "title": "Traders are spoiling for a fight over the yen",
+          "url": "https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1",
+          "content": "After historic US-Japan intervention on the currency, the risk of market ructions is again rising",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 15 Aug 2026 04:00:32 GMT",
+          "summary": "After historic US-Japan intervention on the currency, the risk of market ructions is again rising..."
+        },
+        {
+          "title": "\n        When Japan buys yen, it unwinds a dangerous trade\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
+          "content": "The world’s biggest carry trader begins to exit its position",
+          "source": "The Economist",
+          "publishedAt": "Thu, 13 Aug 2026 08:49:36 +0000",
+          "summary": "The world’s biggest carry trader begins to exit its position..."
+        },
+        {
+          "title": "\n        Is China’s debt-bomb squad about to blow up?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up",
+          "content": "Firms tasked with defusing credit crises are getting into trouble",
+          "source": "The Economist",
+          "publishedAt": "Thu, 13 Aug 2026 08:37:46 +0000",
+          "summary": "Firms tasked with defusing credit crises are getting into trouble..."
+        },
+        {
+          "title": "Trump asks Americans to accept high pump prices as Iran standoff drags on",
+          "url": "https://seekingalpha.com/news/4633590-trump-asks-americans-to-accept-high-pump-prices-as-iran-standoff-drags-on?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 15 Aug 2026 20:25:46 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
+          "url": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 15 Aug 2026 15:15:56 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Madhusudan Kela’s portfolio: 7 stocks rally up to 135% in CY26 ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kelas-portfolio-7-stocks-rally-up-to-135-in-cy26/slideshow/133259821.cms",
+          "content": "Madhusudan Kela’s disclosed portfolio of 19 stocks was worth about Rs 2,665 crore as of August 14. Seven holdings gained 10–135% in 2026, while five declined 15–30%, highlighting sharply divergent performances.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 15 Aug 2026 14:56:31 +0530",
+          "summary": "Madhusudan Kela’s disclosed portfolio of 19 stocks was worth about Rs 2,665 crore as of August 14. Seven holdings gained 10–135% in 2026, while five declined 15–30%, highlighting sharply divergent per..."
+        },
+        {
+          "title": "Bitcoin near $63,000 as weaker ETF demand and cancelled SEC meeting dampen crypto sentiment ",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-63000-as-weaker-etf-demand-and-cancelled-sec-meeting-dampen-crypto-sentiment/articleshow/133259389.cms",
+          "content": "Bitcoin hovered near $63,000 as weaker ETF demand and a cancelled SEC meeting weighed on crypto sentiment. Bitcoin and Ethereum declined, while the global crypto market cap slipped 0.4%. Analysts cited subdued momentum, regulatory uncertainty and range-bound trading.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 15 Aug 2026 14:32:23 +0530",
+          "summary": "Bitcoin hovered near $63,000 as weaker ETF demand and a cancelled SEC meeting weighed on crypto sentiment. Bitcoin and Ethereum declined, while the global crypto market cap slipped 0.4%. Analysts cite..."
+        }
+      ],
+      "generatedAt": "2026-08-16T02:43:44.775Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+          "url": "https://www.nature.com/articles/s41586-026-11023-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-14T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+          "url": "https://www.nature.com/articles/s41586-026-11022-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-14T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists detect a surprising shift in human blood as CO2 rises",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
+          "content": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while calcium and phosphorus have declined—changes that closely track increasing atmospheric CO2.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 15 Aug 2026 10:39:32 EDT",
+          "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels h..."
+        },
+        {
+          "title": "When gut microbes run low on fiber, they may start eating you",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
+          "content": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help microbes produce more beneficial compounds.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 15 Aug 2026 10:30:28 EDT",
+          "summary": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, wh..."
+        },
+        {
+          "title": "So much solar: Digging into the list of every US power plant that went online this year",
+          "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+          "content": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 15 Aug 2026 11:09:57 +0000",
+          "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much...."
+        },
+        {
+          "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+          "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+          "content": "Let's shield the astronauts instead of the spacecraft.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 13 Aug 2026 13:48:55 +0000",
+          "summary": "Let's shield the astronauts instead of the spacecraft...."
+        }
+      ],
+      "generatedAt": "2026-08-16T02:43:45.816Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+          "url": "https://www.micdrop.gg/",
+          "content": "Article URL: https://www.micdrop.gg/\nComments URL: https://news.ycombinator.com/item?id=49315742\nPoints: 16\n# Comments: 6",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 16 Aug 2026 00:46:29 +0000",
+          "summary": "Article URL: https://www.micdrop.gg/\nComments URL: https://news.ycombinator.com/item?id=49315742\nPoints: 16\n# Comments: 6..."
+        },
+        {
+          "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://waku.sh",
+          "content": "Article URL: https://waku.sh\nComments URL: https://news.ycombinator.com/item?id=49315709\nPoints: 8\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 16 Aug 2026 00:38:44 +0000",
+          "summary": "Article URL: https://waku.sh\nComments URL: https://news.ycombinator.com/item?id=49315709\nPoints: 8\n# Comments: 2..."
+        },
+        {
+          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "content": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 15 Aug 2026 21:29:19 +0000",
+          "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"..."
+        },
+        {
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000",
+          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?..."
+        }
+      ],
+      "generatedAt": "2026-08-16T02:43:47.702Z"
+    }
+  ]
+}
