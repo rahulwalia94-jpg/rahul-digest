@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-17T02:43:35.969Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Outsourcing and competition in the banking sector: the rise of Cloud Service Providers",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/outsourcing-and-competition-in-the-banking-sector-the-rise-of-csps",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 12 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/12-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 13 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-08-17T02:43:27.083Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 14 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 13 Aug 2026 17:16:04 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 12 Aug 2026 14:01:59 +0000",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users...."
+        },
+        {
+          "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+          "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 14 Aug 2026 12:17:21 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveil..."
+        },
+        {
+          "title": "This scientist is helping build a missing map of childhood",
+          "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+          "content": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 14 Aug 2026 09:00:00 +0000",
+          "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that ai..."
+        }
+      ],
+      "generatedAt": "2026-08-17T02:43:28.205Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Olympus boss tries to beat buyout firms at their own game",
+          "url": "https://www.ft.com/content/db29304b-6a28-4e12-8125-3f9658efb89e?syn-25a6b1a6=1",
+          "content": "Bob White adopts private equity-style tactics to deflect takeover interest and boost share price",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 17 Aug 2026 01:21:38 GMT",
+          "summary": "Bob White adopts private equity-style tactics to deflect takeover interest and boost share price..."
+        },
+        {
+          "title": "China’s energy strategy vindicated by Iran war",
+          "url": "https://www.ft.com/content/3aa706c2-50bb-4187-a053-c09e3c063d72",
+          "content": "Playbook is likely to be adopted by other countries, shaping markets",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 16 Aug 2026 23:01:05 GMT",
+          "summary": "Playbook is likely to be adopted by other countries, shaping markets..."
+        },
+        {
+          "title": "\n        When Japan buys yen, it unwinds a dangerous trade\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
+          "content": "The world’s biggest carry trader begins to exit its position",
+          "source": "The Economist",
+          "publishedAt": "Thu, 13 Aug 2026 08:49:36 +0000",
+          "summary": "The world’s biggest carry trader begins to exit its position..."
+        },
+        {
+          "title": "\n        Is China’s debt-bomb squad about to blow up?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up",
+          "content": "Firms tasked with defusing credit crises are getting into trouble",
+          "source": "The Economist",
+          "publishedAt": "Thu, 13 Aug 2026 08:37:46 +0000",
+          "summary": "Firms tasked with defusing credit crises are getting into trouble..."
+        },
+        {
+          "title": "Oil edges higher as Middle East tensions return to focus",
+          "url": "https://seekingalpha.com/news/4633619-oil-edges-higher-as-middle-east-tensions-return-to-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sun, 16 Aug 2026 18:37:57 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "A2 Milk profit tumbles 44% after China formula shortage",
+          "url": "https://seekingalpha.com/news/4633618-a2-milk-profit-tumbles-44-percent-after-china-formula-shortage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sun, 16 Aug 2026 18:30:52 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Dhoot Transmission shares set for debut today. GMP signals potential 30% listing premium ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/dhoot-transmission-shares-set-for-debut-today-gmp-signals-potential-30-listing-premium/articleshow/133284973.cms",
+          "content": "The company’s Rs 3,066.89 crore initial public offering (IPO), priced at Rs 871 per share, has been commanding a grey market premium (GMP) of around Rs 264. If the trend holds, the stock could potentially list at close to Rs 1,135 per share—roughly 30% above the issue price. However, investors should note that the grey market is unofficial and GMP levels can change before the actual listing.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 17 Aug 2026 07:52:37 +0530",
+          "summary": "The company’s Rs 3,066.89 crore initial public offering (IPO), priced at Rs 871 per share, has been commanding a grey market premium (GMP) of around Rs 264. If the trend holds, the stock could potenti..."
+        },
+        {
+          "title": "Negative Breakout: These 9 stocks cross below their 200 DMAs ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/133284958.cms",
+          "content": "Traders use the 200 DMA as a key indicator to determine the overall trend in a particular stock.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 17 Aug 2026 07:44:29 +0530",
+          "summary": "Traders use the 200 DMA as a key indicator to determine the overall trend in a particular stock...."
+        }
+      ],
+      "generatedAt": "2026-08-17T02:43:29.500Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+          "url": "https://www.nature.com/articles/s41586-026-11023-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-14T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+          "url": "https://www.nature.com/articles/s41586-026-11022-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-14T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists reveal why walking gets so much harder with age",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
+          "content": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while producing less forward motion. This leads to shorter strides, slower walking, and faster fatigue. Exercises targeting balance, coordination, and lower-leg strength could help preserve mobility.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 16 Aug 2026 05:13:25 EDT",
+          "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to w..."
+        },
+        {
+          "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+          "content": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a decades-old textbook picture and could deepen our understanding of why protons—and ultimately matter itself—remain stable.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 16 Aug 2026 05:55:45 EDT",
+          "summary": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three ..."
+        },
+        {
+          "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+          "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+          "content": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 16 Aug 2026 10:00:59 +0000",
+          "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains...."
+        },
+        {
+          "title": "So much solar: Digging into the list of every US power plant that went online this year",
+          "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+          "content": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 15 Aug 2026 11:09:57 +0000",
+          "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much...."
+        }
+      ],
+      "generatedAt": "2026-08-17T02:43:30.890Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+          "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+          "content": "Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64\nComments URL: https://news.ycombinator.com/item?id=49325714\nPoints: 9\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 17 Aug 2026 01:45:36 +0000",
+          "summary": "Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64\nComments URL: https://news.ycombinator.com/item?id=49325714\nPoints: 9\n# Comments: 0..."
+        },
+        {
+          "title": "Rhombus 1.1 is now available",
+          "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+          "content": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\nComments URL: https://news.ycombinator.com/item?id=49325384\nPoints: 23\n# Comments: 9",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 17 Aug 2026 00:48:21 +0000",
+          "summary": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\nComments URL: https://news.ycombinator.com/item?id=49325384\nPoints: 23\n# Comments: 9..."
+        },
+        {
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "content": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 16 Aug 2026 20:57:04 +0000",
+          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI...."
+        },
+        {
+          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "content": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 16 Aug 2026 20:32:01 +0000",
+          "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision...."
+        }
+      ],
+      "generatedAt": "2026-08-17T02:43:35.969Z"
+    }
+  ]
+}
