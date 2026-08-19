@@ -1,0 +1,238 @@
+{
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T02:40:37.847Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Outsourcing and competition in the banking sector: the rise of Cloud Service Providers",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/outsourcing-and-competition-in-the-banking-sector-the-rise-of-csps",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 12 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/12-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 13 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-08-19T02:40:33.533Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 18 Aug 2026 18:09:38 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 18 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 12 Aug 2026 14:01:59 +0000",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users...."
+        },
+        {
+          "title": "The Download: how people really use AI, and Flock’s design choices",
+          "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 18 Aug 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companie..."
+        },
+        {
+          "title": "We still don’t know how people are really using AI",
+          "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+          "content": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 18 Aug 2026 10:06:43 +0000",
+          "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “The..."
+        }
+      ],
+      "generatedAt": "2026-08-19T02:40:34.499Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Mark Walter sought loan from Apollo backed by Lakers stake",
+          "url": "https://www.ft.com/content/59c06284-d1fd-4223-8e70-e68956b219da?syn-25a6b1a6=1",
+          "content": "Talks over the financing continued until Guggenheim chief reached a deal to sell the holding in the basketball team",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 18 Aug 2026 21:47:56 GMT",
+          "summary": "Talks over the financing continued until Guggenheim chief reached a deal to sell the holding in the basketball team..."
+        },
+        {
+          "title": "Klarna overhauls leadership as it targets US banking licence",
+          "url": "https://www.ft.com/content/811850d2-01c9-4ea5-8af8-86b22c41a284?syn-25a6b1a6=1",
+          "content": "Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 18 Aug 2026 21:06:19 GMT",
+          "summary": "Swedish ‘buy now, pay later’ lender seeks New York-based finance chief as part of efforts to revamp business model..."
+        },
+        {
+          "title": "\n        Stock indices no longer reflect equity reality\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality",
+          "content": "Lies, damned lies and stock markets",
+          "source": "The Economist",
+          "publishedAt": "Tue, 18 Aug 2026 17:50:12 +0000",
+          "summary": "Lies, damned lies and stock markets..."
+        },
+        {
+          "title": "\n        The White House’s absurd claim of a Chinese transshipment “scam” \n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+          "content": "High tariffs on Chinese goods have had predictable effects",
+          "source": "The Economist",
+          "publishedAt": "Tue, 18 Aug 2026 15:42:49 +0000",
+          "summary": "High tariffs on Chinese goods have had predictable effects..."
+        },
+        {
+          "title": "Pizza Pizza Royalty declares $0.0675 dividend",
+          "url": "https://seekingalpha.com/news/4634598-pizza-pizza-royalty-declares-0_0675-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 18 Aug 2026 22:34:50 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Marten Transport declares $0.06 dividend",
+          "url": "https://seekingalpha.com/news/4634597-marten-transport-declares-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 18 Aug 2026 22:34:18 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Behari Lal Engineering shares set to debut today; GMP signals 47% premium ahead of listing ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-set-to-debut-today-gmp-signals-47-premium-ahead-of-listing/articleshow/133335450.cms",
+          "content": "The IPO, which was open for subscription from August 12 to August 14, drew an overwhelming response from investors and was subscribed 108.44 times overall. The retail portion was subscribed 53.27 times, while the QIB and NII categories saw exceptionally strong demand, with subscriptions of 165.33 times and 165.32 times, respectively.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 19 Aug 2026 07:55:56 +0530",
+          "summary": "The IPO, which was open for subscription from August 12 to August 14, drew an overwhelming response from investors and was subscribed 108.44 times overall. The retail portion was subscribed 53.27 time..."
+        },
+        {
+          "title": "Shiprocket shares to list today; GMP signals 37% listing gains ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-to-list-today-gmp-signals-37-listing-gains/articleshow/133335398.cms",
+          "content": "The Rs 1,617.48-crore IPO, which was open for subscription from August 12 to August 14, received an overwhelming response from investors. The issue was subscribed 99.38 times overall, reflecting exceptionally strong demand across investor categories.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 19 Aug 2026 07:50:45 +0530",
+          "summary": "The Rs 1,617.48-crore IPO, which was open for subscription from August 12 to August 14, received an overwhelming response from investors. The issue was subscribed 99.38 times overall, reflecting excep..."
+        }
+      ],
+      "generatedAt": "2026-08-19T02:40:35.716Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Scientists turn DNA into a memory device that uses 100x less power",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+          "content": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 17 Aug 2026 04:06:45 EDT",
+          "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could even..."
+        },
+        {
+          "title": "The bacteria that make cheese taste so good may also benefit your gut",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+          "content": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and textures while potentially producing compounds linked to reduced inflammation, cholesterol regulation, and appetite control.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 17 Aug 2026 18:18:03 EDT",
+          "summary": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful b..."
+        },
+        {
+          "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+          "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+          "content": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 18 Aug 2026 19:01:09 +0000",
+          "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"..."
+        },
+        {
+          "title": "X-rays add new twist to narwhal's spiral tusk",
+          "url": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+          "content": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 18 Aug 2026 15:00:51 +0000",
+          "summary": "New study finds that the tusks have not one but two spirals, twisting in opposite directions...."
+        }
+      ],
+      "generatedAt": "2026-08-19T02:40:37.169Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The Integer",
+          "url": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
+          "content": "Article URL: https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b\nComments URL: https://news.ycombinator.com/item?id=49355368\nPoints: 17\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 19 Aug 2026 01:23:45 +0000",
+          "summary": "Article URL: https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b\nComments URL: https://news.ycombinator.com/item?id=49355368\nPoints: 17\n# Comments: 1..."
+        },
+        {
+          "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
+          "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+          "content": "Article URL: https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/\nComments URL: https://news.ycombinator.com/item?id=49355360\nPoints: 8\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 19 Aug 2026 01:22:45 +0000",
+          "summary": "Article URL: https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/\nComments URL: https://news.ycombinator.com/item?id=49355360\nPoints: 8\n# Comments: 0..."
+        },
+        {
+          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "content": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 18 Aug 2026 22:14:25 +0000",
+          "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub...."
+        },
+        {
+          "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+          "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+          "content": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 18 Aug 2026 20:36:20 +0000",
+          "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms...."
+        }
+      ],
+      "generatedAt": "2026-08-19T02:40:37.847Z"
+    }
+  ]
+}
