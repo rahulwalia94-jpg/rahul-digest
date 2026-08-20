@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-20T02:39:14.532Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Outsourcing and competition in the banking sector: the rise of Cloud Service Providers",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/outsourcing-and-competition-in-the-banking-sector-the-rise-of-csps",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 12 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/12-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 13 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-08-20T02:39:10.760Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 19 Aug 2026 13:48:49 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 18 Aug 2026 18:09:38 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 12 Aug 2026 14:01:59 +0000",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users...."
+        },
+        {
+          "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+          "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 19 Aug 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly afte..."
+        },
+        {
+          "title": "Child-monitoring apps might need a reboot",
+          "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+          "content": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 19 Aug 2026 09:00:00 +0000",
+          "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile ..."
+        }
+      ],
+      "generatedAt": "2026-08-20T02:39:11.736Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Trump proposed reviving the Keystone XL pipeline. Does Canada still want it?",
+          "url": "https://www.ft.com/content/28a39ff4-cc0b-4a32-93d7-d5fbc8a4bcb9?syn-25a6b1a6=1",
+          "content": "The bilateral relationship has soured significantly since the project was first proposed two decades ago",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 20 Aug 2026 00:27:53 GMT",
+          "summary": "The bilateral relationship has soured significantly since the project was first proposed two decades ago..."
+        },
+        {
+          "title": "Hudson River posts $11.4bn trading windfall as it seizes on market tumult",
+          "url": "https://www.ft.com/content/6a9f79b8-d47c-4cd2-b4ed-1ac77bd75576?syn-25a6b1a6=1",
+          "content": "Wall Street firm benefited from swings in AI stocks and volatility triggered by Iran war",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 19 Aug 2026 21:26:40 GMT",
+          "summary": "Wall Street firm benefited from swings in AI stocks and volatility triggered by Iran war..."
+        },
+        {
+          "title": "\n        Why bond markets are unnerving rich-world politicians\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians",
+          "content": "As stocks rise ever higher, yields have been climbing ominously",
+          "source": "The Economist",
+          "publishedAt": "Wed, 19 Aug 2026 18:02:58 +0000",
+          "summary": "As stocks rise ever higher, yields have been climbing ominously..."
+        },
+        {
+          "title": "\n        Stock indices no longer reflect equity reality\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality",
+          "content": "Lies, damned lies and stock markets",
+          "source": "The Economist",
+          "publishedAt": "Tue, 18 Aug 2026 17:50:12 +0000",
+          "summary": "Lies, damned lies and stock markets..."
+        },
+        {
+          "title": "BILL forecasts FY 2027 non-GAAP EPS of $3.56-$3.79 while targeting meaningful GAAP profitability",
+          "url": "https://seekingalpha.com/news/4635196-bill-forecasts-fy-2027-non-gaap-eps-of-3_56-3_79-while-targeting-meaningful-gaap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 19 Aug 2026 20:12:37 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Iran may be losing its grip on Hormuz as U.S. military steps up help for tankers, reports say",
+          "url": "https://seekingalpha.com/news/4635192-iran-may-be-losing-its-grip-on-hormuz-as-us-steps-up-help-for-tankers-reports-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 19 Aug 2026 19:58:25 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Bonus issue alert! Last day to buy Goodluck India shares for 2:1 bonus reward. How will dividend payout be impacted? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-goodluck-india-shares-for-21-bonus-reward-how-will-dividend-payout-be-impacted/articleshow/133361960.cms",
+          "content": "Goodluck India in July announced its maiden bonus issue in the ratio of 2:1. Under the proposal, eligible shareholders will receive two bonus equity shares of face value Rs 2 each for every one equity share held as of the record date, which will be announced separately.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 20 Aug 2026 07:53:10 +0530",
+          "summary": "Goodluck India in July announced its maiden bonus issue in the ratio of 2:1. Under the proposal, eligible shareholders will receive two bonus equity shares of face value Rs 2 each for every one equity..."
+        },
+        {
+          "title": "ETMarkets Smart Talk | Nifty enters ‘very attractive’ zone as earnings improve: Union AMC’s Sanjay Bembalkar ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-nifty-enters-very-attractive-zone-as-earnings-improve-union-amcs-sanjay-bembalkar/articleshow/133361932.cms",
+          "content": "Despite muted foreign flows and persistent geopolitical uncertainties keeping a lid on the broader market, corporate earnings have remained encouraging and several manufacturing segments are showing signs of stronger growth ahead.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 20 Aug 2026 07:48:36 +0530",
+          "summary": "Despite muted foreign flows and persistent geopolitical uncertainties keeping a lid on the broader market, corporate earnings have remained encouraging and several manufacturing segments are showing s..."
+        }
+      ],
+      "generatedAt": "2026-08-20T02:39:12.970Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "These trees are making air quality in cities worse",
+          "url": "https://www.nature.com/articles/d41586-026-02586-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-20T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
+          "url": "https://www.nature.com/articles/s41586-026-11037-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+          "content": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 19 Aug 2026 22:01:27 EDT",
+          "summary": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinso..."
+        },
+        {
+          "title": "Pollen has a surprising problem — and honeybees have found a way around it",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
+          "content": "Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarkably well-balanced “baby food” for their larvae, revealing a sophisticated nutritional strategy hidden inside the hive.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 19 Aug 2026 07:25:45 EDT",
+          "summary": "Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarka..."
+        },
+        {
+          "title": "Scientists find closest star to the Milky Way's central black hole",
+          "url": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+          "content": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 19 Aug 2026 15:56:56 +0000",
+          "summary": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation...."
+        },
+        {
+          "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+          "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+          "content": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 18 Aug 2026 19:01:09 +0000",
+          "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"..."
+        }
+      ],
+      "generatedAt": "2026-08-20T02:39:13.803Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Universality of Gradient Descent Neural Network Training",
+          "url": "https://arxiv.org/abs/2007.13664",
+          "content": "Article URL: https://arxiv.org/abs/2007.13664\nComments URL: https://news.ycombinator.com/item?id=49368828\nPoints: 9\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 20 Aug 2026 00:05:12 +0000",
+          "summary": "Article URL: https://arxiv.org/abs/2007.13664\nComments URL: https://news.ycombinator.com/item?id=49368828\nPoints: 9\n# Comments: 2..."
+        },
+        {
+          "title": "Collaborative Human Agent Protocol (CHAP)",
+          "url": "https://github.com/BrightbeamAI/chap",
+          "content": "Article URL: https://github.com/BrightbeamAI/chap\nComments URL: https://news.ycombinator.com/item?id=49367836\nPoints: 20\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 19 Aug 2026 22:09:16 +0000",
+          "summary": "Article URL: https://github.com/BrightbeamAI/chap\nComments URL: https://news.ycombinator.com/item?id=49367836\nPoints: 20\n# Comments: 4..."
+        },
+        {
+          "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+          "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "content": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 19 Aug 2026 23:32:00 +0000",
+          "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason...."
+        },
+        {
+          "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+          "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+          "content": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 19 Aug 2026 22:25:01 +0000",
+          "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability...."
+        }
+      ],
+      "generatedAt": "2026-08-20T02:39:14.532Z"
+    }
+  ]
+}
