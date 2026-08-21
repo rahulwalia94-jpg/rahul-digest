@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T02:46:09.582Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 19 August 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/19-august-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 20 Aug 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Outsourcing and competition in the banking sector: the rise of Cloud Service Providers",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/outsourcing-and-competition-in-the-banking-sector-the-rise-of-csps",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-21T02:46:05.518Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 20 Aug 2026 16:52:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 18 Aug 2026 18:09:38 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 12 Aug 2026 14:01:59 +0000",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users...."
+        },
+        {
+          "title": "Debates over AI consciousness are a trap",
+          "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+          "content": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 20 Aug 2026 15:42:39 +0000",
+          "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ..."
+        },
+        {
+          "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+          "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 20 Aug 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Somet..."
+        }
+      ],
+      "generatedAt": "2026-08-21T02:46:06.411Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "What is Bessent doing with the $32tn Treasury market — and will it work?",
+          "url": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1",
+          "content": "US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 20 Aug 2026 23:08:14 GMT",
+          "summary": "US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs..."
+        },
+        {
+          "title": "Heatwaves and waterways",
+          "url": "https://www.ft.com/content/da9d84b1-9c67-4d56-890c-ce667db2be3c?syn-25a6b1a6=1",
+          "content": "How climate change is hurting Germany’s economy",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 20 Aug 2026 20:00:00 GMT",
+          "summary": "How climate change is hurting Germany’s economy..."
+        },
+        {
+          "title": "\n        The high cost of phantom tollbooths\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths",
+          "content": "Freedom of navigation is worth preserving",
+          "source": "The Economist",
+          "publishedAt": "Thu, 20 Aug 2026 09:21:32 +0000",
+          "summary": "Freedom of navigation is worth preserving..."
+        },
+        {
+          "title": "\n        However you measure it, China’s job market is weak\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
+          "content": "Some workers are going back to the farm",
+          "source": "The Economist",
+          "publishedAt": "Thu, 20 Aug 2026 09:21:25 +0000",
+          "summary": "Some workers are going back to the farm..."
+        },
+        {
+          "title": "OSI Systems forecasts $1.875B-$1.93B fiscal 2027 revenue as Middle East deliveries shift into 2H",
+          "url": "https://seekingalpha.com/news/4635735-osi-systems-forecasts-1_875b-1_93b-fiscal-2027-revenue-as-middle-east-deliveries-shift-into?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 20 Aug 2026 20:13:33 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Flux Power expects Q1 2027 revenue of $6M-$7M while expanding into robotics testing with 70 batteries",
+          "url": "https://seekingalpha.com/news/4635734-flux-power-expects-q1-2027-revenue-of-6m-7m-while-expanding-into-robotics-testing-with-70?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 20 Aug 2026 20:13:00 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Dividend alert! Last day to buy Senco Gold, NALCO among 10 stocks for dividend rewards ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-senco-gold-nalco-among-10-stocks-for-dividend-rewards/articleshow/133390915.cms",
+          "content": "Today is the last opportunity for investors to buy the shares so that they are credited to their accounts by the record date (August 24), making them eligible for the dividend.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 21 Aug 2026 07:45:02 +0530",
+          "summary": "Today is the last opportunity for investors to buy the shares so that they are credited to their accounts by the record date (August 24), making them eligible for the dividend...."
+        },
+        {
+          "title": "ETMarkets NRI Talk | GIFT City AIFs could be the next big NRI investment destination: LGT Wealth’s Nikhil Advani ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-gift-city-aifs-could-be-the-next-big-nri-investment-destination-lgt-wealths-nikhil-advani/articleshow/133390827.cms",
+          "content": "In an interaction with Kshitij Anand of ETMarkets, Advani also discusses why NRIs remain under-allocated to Indian equities, how they should choose between NRE and NRO accounts, the role of REITs and InvITs, and how a ₹1 crore NRI portfolio could be structured for a 5–7-year investment horizon.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 21 Aug 2026 07:39:26 +0530",
+          "summary": "In an interaction with Kshitij Anand of ETMarkets, Advani also discusses why NRIs remain under-allocated to Indian equities, how they should choose between NRE and NRO accounts, the role of REITs and ..."
+        }
+      ],
+      "generatedAt": "2026-08-21T02:46:07.965Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+          "url": "https://www.nature.com/articles/s41586-026-11043-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-20T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Hidden volcanoes hint at Moon’s turbulent past",
+          "url": "https://www.nature.com/articles/d41586-026-02555-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-20T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The “Asian water tower” is losing 24 billion tonnes of groundwater every year",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820002454.htm",
+          "content": "The “Asian Water Tower” is losing roughly 24.2 billion tonnes of groundwater every year, with some of the worst declines hitting densely populated farming regions. Glacier melt may temporarily soften the crisis around the 2060s, but without changes in water use, researchers expect depletion to accelerate afterward.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 20 Aug 2026 05:21:01 EDT",
+          "summary": "The “Asian Water Tower” is losing roughly 24.2 billion tonnes of groundwater every year, with some of the worst declines hitting densely populated farming regions. Glacier melt may temporarily soften ..."
+        },
+        {
+          "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
+          "content": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a left frontal region that may serve as a starting point for the loss.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 20 Aug 2026 07:27:34 EDT",
+          "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surpr..."
+        },
+        {
+          "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+          "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+          "content": "The yeetcycling math resembles asteroid mining in reverse.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 20 Aug 2026 13:59:50 +0000",
+          "summary": "The yeetcycling math resembles asteroid mining in reverse...."
+        },
+        {
+          "title": "Scientists find closest star to the Milky Way's central black hole",
+          "url": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+          "content": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 19 Aug 2026 15:56:56 +0000",
+          "summary": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation...."
+        }
+      ],
+      "generatedAt": "2026-08-21T02:46:09.015Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Berkeley Law prohibits AI use in classes (by default)",
+          "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+          "content": "Article URL: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/\nComments URL: https://news.ycombinator.com/item?id=49382614\nPoints: 6\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 21 Aug 2026 01:37:27 +0000",
+          "summary": "Article URL: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/\nComments URL: https://news.ycombinator.com/item?id=49382614\nPoints: 6\n# Comments: 1..."
+        },
+        {
+          "title": "It is a sign of the times that Amazon gets to call this fair use",
+          "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+          "content": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html\nComments URL: https://news.ycombinator.com/item?id=49382200\nPoints: 69\n# Comments: 30",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 21 Aug 2026 00:34:32 +0000",
+          "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html\nComments URL: https://news.ycombinator.com/item?id=49382200\nPoints: 69\n# Comments: 30..."
+        },
+        {
+          "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+          "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+          "content": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 21 Aug 2026 00:23:36 +0000",
+          "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months...."
+        },
+        {
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "content": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 21 Aug 2026 00:13:44 +0000",
+          "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals...."
+        }
+      ],
+      "generatedAt": "2026-08-21T02:46:09.582Z"
+    }
+  ]
+}
