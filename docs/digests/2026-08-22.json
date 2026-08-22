@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T02:36:33.107Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Productivity and inflation dynamics",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/productivity-and-inflation-dynamics",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Capital gains taxation and asset price volatility",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-22T02:36:28.137Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Measuring benchmark optimization in speech recognition",
+          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 21 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 20 Aug 2026 16:52:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "content": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 21 Aug 2026 11:59:48 +0000",
+          "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay...."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: threats from space mirrors and credit for AI drugs",
+          "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 21 Aug 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize ..."
+        },
+        {
+          "title": "Mother tongue",
+          "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+          "content": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 21 Aug 2026 09:00:00 +0000",
+          "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one,..."
+        }
+      ],
+      "generatedAt": "2026-08-22T02:36:29.280Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
+          "url": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
+          "content": "President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 21 Aug 2026 22:27:59 GMT",
+          "summary": "President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections..."
+        },
+        {
+          "title": "Bitcoin and gold surge as Bessent’s intervention in bond market hits dollar",
+          "url": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
+          "content": "World’s biggest cryptocurrency registers best week in more than three years as investors pile into ‘debasement’ trades",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 21 Aug 2026 21:46:46 GMT",
+          "summary": "World’s biggest cryptocurrency registers best week in more than three years as investors pile into ‘debasement’ trades..."
+        },
+        {
+          "title": "\n        Tracking the cost of Donald Trump’s tariffs\n      ",
+          "url": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
+          "content": "America’s global effective tariff stands at 10.0%",
+          "source": "The Economist",
+          "publishedAt": "Fri, 21 Aug 2026 17:00:33 +0000",
+          "summary": "America’s global effective tariff stands at 10.0%..."
+        },
+        {
+          "title": "\n        The high cost of phantom tollbooths\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths",
+          "content": "Freedom of navigation is worth preserving",
+          "source": "The Economist",
+          "publishedAt": "Thu, 20 Aug 2026 09:21:32 +0000",
+          "summary": "Freedom of navigation is worth preserving..."
+        },
+        {
+          "title": "Iranian oil supply to Chinese buyers squeezed by U.S. blockade",
+          "url": "https://seekingalpha.com/news/4636035-iranian-oil-supply-to-chinese-buyers-squeezed-by-us-blockade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 21 Aug 2026 19:56:42 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Boeing engineers union rejects contract offer, setting stage for possible strike",
+          "url": "https://seekingalpha.com/news/4636033-boeing-engineers-union-rejects-contract-offer-setting-stage-for-possible-strike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 21 Aug 2026 18:09:03 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Sebi proposes new channel partner network to boost retail bond access ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-new-channel-partner-network-to-boost-retail-bond-access/articleshow/133416068.cms",
+          "content": "The Securities and Exchange Board of India (Sebi) is set to launch fixed income channel partners to broaden access to the retail bond market. This initiative is particularly focused on increasing engagement in smaller cities across India. Eligible individuals and firms can qualify as partners by fulfilling specific certification standards. Notably, existing mutual fund distributors can apply without incurring any enlistment fees.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 22 Aug 2026 07:53:57 +0530",
+          "summary": "The Securities and Exchange Board of India (Sebi) is set to launch fixed income channel partners to broaden access to the retail bond market. This initiative is particularly focused on increasing enga..."
+        },
+        {
+          "title": "Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-rebounds-on-fundraise-plans-analysts-see-up-to-20-upside/articleshow/133415946.cms",
+          "content": "The shares of Aditya Infotech have made a notable recovery after a recent equity raise focused on enhancing capacity. However, the company is grappling with high electronic component prices that are squeezing profits. On a positive note, the introduction of new STQC norms is expanding the market opportunities for Indian manufacturers.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 22 Aug 2026 07:42:03 +0530",
+          "summary": "The shares of Aditya Infotech have made a notable recovery after a recent equity raise focused on enhancing capacity. However, the company is grappling with high electronic component prices that are s..."
+        }
+      ],
+      "generatedAt": "2026-08-22T02:36:30.790Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+          "url": "https://www.nature.com/articles/d41586-026-02626-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Earth-shaking thunder probes underground geology",
+          "url": "https://www.nature.com/articles/d41586-026-02596-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "3 minutes of sprinting does something 90 minutes of exercise does not",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
+          "content": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more than 200 metabolites, while 90 minutes of moderate cycling produced far smaller immediate changes. Many of the proteins affected by sprinting were also associated with lower risks of obesity, type 2 diabetes, and other metabolic diseases.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 21 Aug 2026 08:17:36 EDT",
+          "summary": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more..."
+        },
+        {
+          "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
+          "content": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic fingerprint, revealing the landscapes surrounding the ship when repairs were made.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 21 Aug 2026 05:28:51 EDT",
+          "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a..."
+        },
+        {
+          "title": "Thunder + fiber-optic cabling used for seismic imaging",
+          "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+          "content": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 21 Aug 2026 20:26:46 +0000",
+          "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features...."
+        },
+        {
+          "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+          "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+          "content": "The yeetcycling math resembles asteroid mining in reverse.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 20 Aug 2026 13:59:50 +0000",
+          "summary": "The yeetcycling math resembles asteroid mining in reverse...."
+        }
+      ],
+      "generatedAt": "2026-08-22T02:36:31.966Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "There's no reason for software to be slow anymore",
+          "url": "https://danluu.com/perf-opt/",
+          "content": "Article URL: https://danluu.com/perf-opt/\nComments URL: https://news.ycombinator.com/item?id=49395628\nPoints: 56\n# Comments: 42",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 22 Aug 2026 01:06:17 +0000",
+          "summary": "Article URL: https://danluu.com/perf-opt/\nComments URL: https://news.ycombinator.com/item?id=49395628\nPoints: 56\n# Comments: 42..."
+        },
+        {
+          "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+          "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+          "content": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985\nComments URL: https://news.ycombinator.com/item?id=49395605\nPoints: 15\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 22 Aug 2026 01:02:09 +0000",
+          "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985\nComments URL: https://news.ycombinator.com/item?id=49395605\nPoints: 15\n# Comments: 5..."
+        },
+        {
+          "title": "Michael Polansky is training an AI model on skin that’s still alive",
+          "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+          "content": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 22 Aug 2026 01:31:04 +0000",
+          "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive..."
+        },
+        {
+          "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+          "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+          "content": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 22 Aug 2026 01:03:06 +0000",
+          "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 m..."
+        }
+      ],
+      "generatedAt": "2026-08-22T02:36:33.107Z"
+    }
+  ]
+}
