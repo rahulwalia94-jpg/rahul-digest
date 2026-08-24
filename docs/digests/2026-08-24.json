@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T02:47:21.502Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Productivity and inflation dynamics",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/productivity-and-inflation-dynamics",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Capital gains taxation and asset price volatility",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-24T02:47:17.505Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Measuring benchmark optimization in speech recognition",
+          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 21 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 20 Aug 2026 16:52:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "content": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 21 Aug 2026 11:59:48 +0000",
+          "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay...."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: threats from space mirrors and credit for AI drugs",
+          "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 21 Aug 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize ..."
+        },
+        {
+          "title": "Mother tongue",
+          "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+          "content": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 21 Aug 2026 09:00:00 +0000",
+          "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one,..."
+        }
+      ],
+      "generatedAt": "2026-08-24T02:47:18.476Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Occidental tries to free itself from the messy legacy of Anadarko deal ",
+          "url": "https://www.ft.com/content/65e41dc2-aeb6-4a2b-976a-cc3f5f990dd5?syn-25a6b1a6=1",
+          "content": "Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 23 Aug 2026 10:00:08 GMT",
+          "summary": "Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition..."
+        },
+        {
+          "title": "US buyers snap up Europe’s asset managers at fastest rate in decades",
+          "url": "https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
+          "content": "European fund groups struggle as firms race to bulk up and expand globally",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 23 Aug 2026 04:30:05 GMT",
+          "summary": "European fund groups struggle as firms race to bulk up and expand globally..."
+        },
+        {
+          "title": "\n        Is Scott Bessent the Fed chair Donald Trump always wanted?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
+          "content": "Perhaps. But his effort to talk bond yields lower is likely to fail",
+          "source": "The Economist",
+          "publishedAt": "Sun, 23 Aug 2026 13:38:58 +0000",
+          "summary": "Perhaps. But his effort to talk bond yields lower is likely to fail..."
+        },
+        {
+          "title": "\n        Tracking the cost of Donald Trump’s tariffs\n      ",
+          "url": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
+          "content": "America’s global effective tariff stands at 10.0%",
+          "source": "The Economist",
+          "publishedAt": "Fri, 21 Aug 2026 17:00:33 +0000",
+          "summary": "America’s global effective tariff stands at 10.0%..."
+        },
+        {
+          "title": "Here are the major earnings before the open Monday",
+          "url": "https://seekingalpha.com/news/4636048-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sun, 23 Aug 2026 18:00:06 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Gorilla Technology Group Q2 2026 Earnings Preview",
+          "url": "https://seekingalpha.com/news/4635951-gorilla-technology-group-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sun, 23 Aug 2026 17:35:00 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Stocks to buy in 2026 for long term: Jubilant FoodWorks, Max Financial among 5 stocks that could give 10-30% return ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-jubilant-foodworks-max-financial-among-5-stocks-that-could-give-10-30-return/slideshow/133449559.cms",
+          "content": "We have collated a list of recommendations from top brokerage firms from ETNow and other sources",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 24 Aug 2026 07:50:58 +0530",
+          "summary": "We have collated a list of recommendations from top brokerage firms from ETNow and other sources..."
+        },
+        {
+          "title": "Oil Price Today (August 24): Crude oil slips below $93 ahead of US sanctions announcement on Iran. What are experts saying? ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-24-crude-oil-slips-below-93-ahead-of-us-sanctions-announcement-on-iran-what-are-experts-saying/articleshow/133449404.cms",
+          "content": "US Treasury Secretary Scott Bessent, who is scheduled to hold a press conference at 2 p.m. EDT (1800 GMT) on Monday, has threatened to impose \"the toughest sanctions in history\" on Iran. US President Donald Trump has also threatened sanctions against countries trading with Iran.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 24 Aug 2026 07:42:15 +0530",
+          "summary": "US Treasury Secretary Scott Bessent, who is scheduled to hold a press conference at 2 p.m. EDT (1800 GMT) on Monday, has threatened to impose \"the toughest sanctions in history\" on Iran. US President ..."
+        }
+      ],
+      "generatedAt": "2026-08-24T02:47:19.942Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+          "url": "https://www.nature.com/articles/d41586-026-02626-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Earth-shaking thunder probes underground geology",
+          "url": "https://www.nature.com/articles/d41586-026-02596-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Experimental compound helps burn fat without muscle loss",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+          "content": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also produced stronger results when combined with GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 23 Aug 2026 06:24:17 EDT",
+          "summary": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduce..."
+        },
+        {
+          "title": "A hidden “on switch” in human DNA has finally been decoded",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+          "content": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventually contribute to decoding the broader genetic instructions that control gene activity throughout the body.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 23 Aug 2026 08:14:40 EDT",
+          "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly..."
+        },
+        {
+          "title": "Volcanoes that made history",
+          "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+          "content": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 23 Aug 2026 11:02:54 +0000",
+          "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe...."
+        },
+        {
+          "title": "Putting mice into hibernation causes a major loss of synapses",
+          "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+          "content": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 22 Aug 2026 11:22:32 +0000",
+          "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway...."
+        }
+      ],
+      "generatedAt": "2026-08-24T02:47:20.833Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+          "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+          "content": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\nComments URL: https://news.ycombinator.com/item?id=49409200\nPoints: 21\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 23 Aug 2026 14:38:25 +0000",
+          "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\nComments URL: https://news.ycombinator.com/item?id=49409200\nPoints: 21\n# Comments: 2..."
+        },
+        {
+          "title": "Authoritarianism of Code",
+          "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+          "content": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\nComments URL: https://news.ycombinator.com/item?id=49409184\nPoints: 5\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 23 Aug 2026 14:36:38 +0000",
+          "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\nComments URL: https://news.ycombinator.com/item?id=49409184\nPoints: 5\n# Comments: 3..."
+        },
+        {
+          "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+          "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "content": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
+          "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation...."
+        },
+        {
+          "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+          "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+          "content": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 23 Aug 2026 19:30:00 +0000",
+          "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR...."
+        }
+      ],
+      "generatedAt": "2026-08-24T02:47:21.502Z"
+    }
+  ]
+}
