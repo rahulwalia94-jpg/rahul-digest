@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T02:40:58.533Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Productivity and inflation dynamics",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/productivity-and-inflation-dynamics",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Capital gains taxation and asset price volatility",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-25T02:40:51.739Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Measuring benchmark optimization in speech recognition",
+          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 21 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 20 Aug 2026 16:52:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "content": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 21 Aug 2026 11:59:48 +0000",
+          "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay...."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "How to encourage smarter AI use in the classroom",
+          "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+          "content": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 24 Aug 2026 14:20:19 +0000",
+          "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools..."
+        },
+        {
+          "title": "The Download: kids outlearning AI, and space travel agents",
+          "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 24 Aug 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a comput..."
+        }
+      ],
+      "generatedAt": "2026-08-25T02:40:53.230Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Big Indian corporations want a piece of the booming gold-backed loan business",
+          "url": "https://www.ft.com/content/8a6b85f1-2df8-40b1-bc2e-8faecb8a8214?syn-25a6b1a6=1",
+          "content": "Also in this newsletter, a JPMorgan Chase entity faces Sebi’s ire",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 25 Aug 2026 01:30:06 GMT",
+          "summary": "Also in this newsletter, a JPMorgan Chase entity faces Sebi’s ire..."
+        },
+        {
+          "title": "SEC subpoenas Wall Street banks over Situational Awareness",
+          "url": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
+          "content": "Leopold Aschenbrenner’s AI-focused hedge fund nearly collapsed in July before striking a deal with Citadel",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 24 Aug 2026 22:56:18 GMT",
+          "summary": "Leopold Aschenbrenner’s AI-focused hedge fund nearly collapsed in July before striking a deal with Citadel..."
+        },
+        {
+          "title": "\n        Is Scott Bessent the Fed chair Donald Trump always wanted?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
+          "content": "Perhaps. But his effort to talk bond yields lower is likely to fail",
+          "source": "The Economist",
+          "publishedAt": "Sun, 23 Aug 2026 13:38:58 +0000",
+          "summary": "Perhaps. But his effort to talk bond yields lower is likely to fail..."
+        },
+        {
+          "title": "\n        Tracking the cost of Donald Trump’s tariffs\n      ",
+          "url": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
+          "content": "America’s global effective tariff stands at 10.0%",
+          "source": "The Economist",
+          "publishedAt": "Fri, 21 Aug 2026 17:00:33 +0000",
+          "summary": "America’s global effective tariff stands at 10.0%..."
+        },
+        {
+          "title": "Europe may need €100 gas to secure sufficient winter supply, Goldman Sachs says",
+          "url": "https://seekingalpha.com/news/4636427-europe-may-need-100-gas-to-secure-sufficient-winter-supply-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 24 Aug 2026 21:10:14 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "U.S. RIN prices plunge after EPA delays biofuel compliance deadline - Reuters",
+          "url": "https://seekingalpha.com/news/4636426-us-rin-prices-plunge-after-epa-delays-biofuel-compliance-deadline---reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 24 Aug 2026 20:42:04 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Vishal Mega Mart among 4 stocks showing bullish RSI upswing ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-among-4-stocks-showing-bullish-rsi-upswing/slideshow/133487508.cms",
+          "content": "On August 24, four Nifty500 stocks that gained 4% were identified using the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI value crosses above 50 from below, indicating strengthening price momentum and potential upward movement in the stocks.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 25 Aug 2026 07:46:27 +0530",
+          "summary": "On August 24, four Nifty500 stocks that gained 4% were identified using the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI value crosses above 50 f..."
+        },
+        {
+          "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/133487410.cms",
+          "content": "As long as the stock is priced above the 200-day SMA on the daily timeframe, it is generally considered to be in an overall uptrend.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 25 Aug 2026 07:40:37 +0530",
+          "summary": "As long as the stock is priced above the 200-day SMA on the daily timeframe, it is generally considered to be in an overall uptrend...."
+        }
+      ],
+      "generatedAt": "2026-08-25T02:40:54.747Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "The exoskeletons are coming (to a store near you)",
+          "url": "https://www.nature.com/articles/d41586-026-02641-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-24T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+          "url": "https://www.nature.com/articles/d41586-026-02572-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-24T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Common medications may change your gut for years",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
+          "content": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable years later, suggesting past medication use may strongly influence the gut bacteria people carry today.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 24 Aug 2026 09:14:50 EDT",
+          "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, b..."
+        },
+        {
+          "title": "Bird flu is spreading. Your backyard feeder could make it worse",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
+          "content": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 24 Aug 2026 08:49:08 EDT",
+          "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is..."
+        },
+        {
+          "title": "Buyer beware: Those mummified remains might carry toxic spores",
+          "url": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
+          "content": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 24 Aug 2026 16:59:07 +0000",
+          "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"..."
+        },
+        {
+          "title": "Trump tried to curb clean energy. It’s booming anyway.",
+          "url": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
+          "content": "Capacity will rise by a record 45GW this year, according to S&P Global Energy.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 24 Aug 2026 14:43:56 +0000",
+          "summary": "Capacity will rise by a record 45GW this year, according to S&P Global Energy...."
+        }
+      ],
+      "generatedAt": "2026-08-25T02:40:55.956Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "How Universities Should Prepare Founders",
+          "url": "https://paulgraham.com/prepare.html",
+          "content": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 22\n# Comments: 11",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 25 Aug 2026 01:40:39 +0000",
+          "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 22\n# Comments: 11..."
+        },
+        {
+          "title": "What languages are agent skills written in?",
+          "url": "https://plicara.ai/research/agent-skill-languages/",
+          "content": "Article URL: https://plicara.ai/research/agent-skill-languages/\nComments URL: https://news.ycombinator.com/item?id=49427825\nPoints: 11\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 25 Aug 2026 00:52:27 +0000",
+          "summary": "Article URL: https://plicara.ai/research/agent-skill-languages/\nComments URL: https://news.ycombinator.com/item?id=49427825\nPoints: 11\n# Comments: 2..."
+        },
+        {
+          "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+          "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+          "content": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 25 Aug 2026 00:23:12 +0000",
+          "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"..."
+        },
+        {
+          "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+          "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+          "content": "We all knew it was coming. The expected valuation may surprise, though.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 24 Aug 2026 23:05:44 +0000",
+          "summary": "We all knew it was coming. The expected valuation may surprise, though...."
+        }
+      ],
+      "generatedAt": "2026-08-25T02:40:58.533Z"
+    }
+  ]
+}
