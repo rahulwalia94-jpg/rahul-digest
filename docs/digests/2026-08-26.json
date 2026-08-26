@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T02:48:53.842Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Productivity and inflation dynamics",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/productivity-and-inflation-dynamics",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Capital gains taxation and asset price volatility",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-26T02:48:48.706Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 25 Aug 2026 15:14:14 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 25 Aug 2026 11:39:24 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "content": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 21 Aug 2026 11:59:48 +0000",
+          "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay...."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 13 Aug 2026 17:04:18 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Addressing a sticking point in sustainable adhesives",
+          "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+          "content": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
+          "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers...."
+        },
+        {
+          "title": "YouTuber finds niche as college admissions mentor",
+          "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+          "content": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
+          "summary": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier ..."
+        }
+      ],
+      "generatedAt": "2026-08-26T02:48:49.884Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "US audit regulator scraps investor advocate role as Trump-era revamp accelerates ",
+          "url": "https://www.ft.com/content/8f387dc3-44a3-423d-8b69-c0864513a493?syn-25a6b1a6=1",
+          "content": "Public Company Accounting Oversight Board scraps office set-up under Biden administration to represent shareholders",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 25 Aug 2026 22:34:06 GMT",
+          "summary": "Public Company Accounting Oversight Board scraps office set-up under Biden administration to represent shareholders..."
+        },
+        {
+          "title": "Bombing the bond market",
+          "url": "https://www.ft.com/content/bc1bb7db-12e6-475a-bb65-c29baabe070c?syn-25a6b1a6=1",
+          "content": "Trump wages war against his own economy",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 25 Aug 2026 20:00:00 GMT",
+          "summary": "Trump wages war against his own economy..."
+        },
+        {
+          "title": "\n        What makes a great investor?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
+          "content": "A big dose of luck, and a distinctly odd character",
+          "source": "The Economist",
+          "publishedAt": "Tue, 25 Aug 2026 17:15:09 +0000",
+          "summary": "A big dose of luck, and a distinctly odd character..."
+        },
+        {
+          "title": "\n        Is Scott Bessent the Fed chair Donald Trump always wanted?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
+          "content": "Perhaps. But his effort to talk bond yields lower is likely to fail",
+          "source": "The Economist",
+          "publishedAt": "Sun, 23 Aug 2026 13:38:58 +0000",
+          "summary": "Perhaps. But his effort to talk bond yields lower is likely to fail..."
+        },
+        {
+          "title": "NCino forecasts fiscal 2027 revenue of $644M-$647M while trimming U.S. mortgage outlook",
+          "url": "https://seekingalpha.com/news/4636834-ncino-forecasts-fiscal-2027-revenue-of-644m-647m-while-trimming-u-s-mortgage-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 25 Aug 2026 22:09:58 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "QumulusAI outlines 18 MW HPC capacity plan by year-end 2026 as signed contract value reaches $282.5M",
+          "url": "https://seekingalpha.com/news/4636833-qumulusai-outlines-18-mw-hpc-capacity-plan-by-year-end-2026-as-signed-contract-value-reaches?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 25 Aug 2026 20:29:52 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Oil Price Today (August 26): Crude oil tanks 6% in two days to hover near $85. What’s behind the decline? ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-26-crude-oil-tanks-6-in-two-days-to-hover-near-85-whats-behind-the-decline/articleshow/133527538.cms",
+          "content": "Brent crude futures were down $2.35, or 2.65%, at $86 a barrel, while U.S. West Texas Intermediate crude futures fell $1.94, or 2.36%, to $80.42. Both benchmarks had declined more than 3% on Tuesday.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 26 Aug 2026 07:44:27 +0530",
+          "summary": "Brent crude futures were down $2.35, or 2.65%, at $86 a barrel, while U.S. West Texas Intermediate crude futures fell $1.94, or 2.36%, to $80.42. Both benchmarks had declined more than 3% on Tuesday...."
+        },
+        {
+          "title": "Skyways Air IPO Day 3: GMP indicates 21% listing premium; Issue subscribed 2.46x — Should you subscribe? ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/skyways-air-ipo-day-3-gmp-indicates-21-listing-premium-issue-subscribed-2-46x-should-you-subscribe/articleshow/133527393.cms",
+          "content": "By the end of Day 2, the IPO was subscribed 2.46 times, with bids received for 2.95 crore shares on offer. Retail investors showed particularly strong demand, with their portion subscribed 3.54 times against the 1.48 crore shares reserved for them.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 26 Aug 2026 07:40:56 +0530",
+          "summary": "By the end of Day 2, the IPO was subscribed 2.46 times, with bids received for 2.95 crore shares on offer. Retail investors showed particularly strong demand, with their portion subscribed 3.54 times ..."
+        }
+      ],
+      "generatedAt": "2026-08-26T02:48:51.395Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+          "url": "https://www.nature.com/articles/s41586-026-11017-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Amend copyright licences to halt AI misuse and reassert human control",
+          "url": "https://www.nature.com/articles/d41586-026-02633-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Common medications may change your gut for years",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
+          "content": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable years later, suggesting past medication use may strongly influence the gut bacteria people carry today.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 24 Aug 2026 09:14:50 EDT",
+          "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, b..."
+        },
+        {
+          "title": "Atomic catalyst unlocks the hidden value of plant waste",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
+          "content": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for fuels, plastics, and other materials.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 25 Aug 2026 06:09:15 EDT",
+          "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst work..."
+        },
+        {
+          "title": "Preserving glow-in-the-dark art and fashion for future generations",
+          "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+          "content": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 25 Aug 2026 18:59:12 +0000",
+          "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition...."
+        },
+        {
+          "title": "Lab supply companies have been selling antibodies using manipulated images",
+          "url": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+          "content": "Image changes that would get a paper retracted are widespread among suppliers.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 25 Aug 2026 16:16:57 +0000",
+          "summary": "Image changes that would get a paper retracted are widespread among suppliers...."
+        }
+      ],
+      "generatedAt": "2026-08-26T02:48:52.813Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The brain may be about to have its Ozempic moment",
+          "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+          "content": "Article URL: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment\nComments URL: https://news.ycombinator.com/item?id=49442743\nPoints: 25\n# Comments: 17",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 26 Aug 2026 00:40:41 +0000",
+          "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment\nComments URL: https://news.ycombinator.com/item?id=49442743\nPoints: 25\n# Comm..."
+        },
+        {
+          "title": "Queryable Executables",
+          "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+          "content": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables\nComments URL: https://news.ycombinator.com/item?id=49442589\nPoints: 19\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 26 Aug 2026 00:20:49 +0000",
+          "summary": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables\nComments URL: https://news.ycombinator.com/item?id=49442589\nPoints: 19\n# Comments: 3..."
+        },
+        {
+          "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+          "content": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 26 Aug 2026 00:40:59 +0000",
+          "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation...."
+        },
+        {
+          "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+          "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+          "content": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 26 Aug 2026 00:06:20 +0000",
+          "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group...."
+        }
+      ],
+      "generatedAt": "2026-08-26T02:48:53.842Z"
+    }
+  ]
+}
