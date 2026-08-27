@@ -1,0 +1,238 @@
+{
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T11:52:58.484Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Productivity and inflation dynamics",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/productivity-and-inflation-dynamics",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Capital gains taxation and asset price volatility",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-27T11:52:51.200Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 25 Aug 2026 15:14:14 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "content": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 26 Aug 2026 17:01:00 +0000",
+          "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe...."
+        },
+        {
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "content": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 21 Aug 2026 11:59:48 +0000",
+          "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay...."
+        },
+        {
+          "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+          "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+          "content": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.  One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 27 Aug 2026 10:00:00 +0000",
+          "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the sin..."
+        },
+        {
+          "title": "The inside story on why OpenAI agents hacked Hugging Face",
+          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+          "content": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 26 Aug 2026 19:00:00 +0000",
+          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T..."
+        }
+      ],
+      "generatedAt": "2026-08-27T11:52:52.456Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "EU states revive plan to use frozen Russian assets for Ukraine",
+          "url": "https://www.ft.com/content/6d272811-8d26-46f0-ae24-abed61aa1bf3?syn-25a6b1a6=1",
+          "content": "Sweden, the Netherlands and Spain back plan to solve Kyiv’s latest funding crisis",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 27 Aug 2026 09:40:02 GMT",
+          "summary": "Sweden, the Netherlands and Spain back plan to solve Kyiv’s latest funding crisis..."
+        },
+        {
+          "title": "AI revenue reporting: slop",
+          "url": "https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040?syn-25a6b1a6=1",
+          "content": "Plus, more on bad weather",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 27 Aug 2026 05:30:07 GMT",
+          "summary": "Plus, more on bad weather..."
+        },
+        {
+          "title": "\n        The economic costs of Donald Trump’s immigration crackdown\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+          "content": "A smaller workforce and slower growth",
+          "source": "The Economist",
+          "publishedAt": "Thu, 27 Aug 2026 09:49:05 +0000",
+          "summary": "A smaller workforce and slower growth..."
+        },
+        {
+          "title": "\n        Scott Bessent takes on the bond market\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/scott-bessent-takes-on-the-bond-market",
+          "content": "And makes trouble for the Fed",
+          "source": "The Economist",
+          "publishedAt": "Thu, 27 Aug 2026 09:13:40 +0000",
+          "summary": "And makes trouble for the Fed..."
+        },
+        {
+          "title": "Kioxia and Sandisk to invest over $31B in Japan",
+          "url": "https://seekingalpha.com/news/4637427-kioxia-and-sandisk-to-invest-over-31b-in-japan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 27 Aug 2026 07:52:00 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "CIBC trades higher on double-digit growth in FQ3 profit",
+          "url": "https://seekingalpha.com/news/4637401-cibc-trades-higher-on-double-digit-growth-in-fq3-profit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 27 Aug 2026 07:49:30 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Quote of the day by Alfred Winslow Jones: \"The tools that get investors and speculators in and out of the market only after some widely followed average has turned must obviously exaggerate the movements of the market\" ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-alfred-winslow-jones-the-tools-that-get-investors-and-speculators-in-and-out-of-the-market-only-after-some-widely-followed-average-has-turned-must-obviously-exaggerate-the-movements-of-the-market/articleshow/133566518.cms",
+          "content": "Alfred Winslow Jones warned that investors reacting only after widely followed market averages turn can amplify market swings and lead to late decisions. His insight highlights crowd behaviour, momentum and the risks of chasing established trends instead of anticipating moves.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 27 Aug 2026 16:46:19 +0530",
+          "summary": "Alfred Winslow Jones warned that investors reacting only after widely followed market averages turn can amplify market swings and lead to late decisions. His insight highlights crowd behaviour, moment..."
+        },
+        {
+          "title": "Market wrap: Adani Enterprises, Kotak Mahindra Bank, HDFC Bank, M&amp;M top gainers and losers on Nifty and Sensex on Thursday ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-enterprises-kotak-mahindra-bank-hdfc-bank-mm-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/133566380.cms",
+          "content": "Indian equity markets closed lower on Thursday, with the Sensex falling 539 points and the Nifty declining 117 points as selling intensified late in the session. Adani Enterprises and Kotak Mahindra Bank led Nifty gainers, while Hindalco, HDFC Bank and M&M emerged among the biggest losers.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 27 Aug 2026 16:43:57 +0530",
+          "summary": "Indian equity markets closed lower on Thursday, with the Sensex falling 539 points and the Nifty declining 117 points as selling intensified late in the session. Adani Enterprises and Kotak Mahindra B..."
+        }
+      ],
+      "generatedAt": "2026-08-27T11:52:53.972Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+          "content": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 26 Aug 2026 09:00:53 EDT",
+          "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, r..."
+        },
+        {
+          "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
+          "content": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially removing about 22 percent of the remaining ice tongue.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 26 Aug 2026 08:39:11 EDT",
+          "summary": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon d..."
+        },
+        {
+          "title": "Researchers get two genetic codes to work at the same time",
+          "url": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
+          "content": "Messing with the genetic code might have gotten a bit easier to do.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 26 Aug 2026 15:00:34 +0000",
+          "summary": "Messing with the genetic code might have gotten a bit easier to do...."
+        },
+        {
+          "title": "Preserving glow-in-the-dark art and fashion for future generations",
+          "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+          "content": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 25 Aug 2026 18:59:12 +0000",
+          "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition...."
+        }
+      ],
+      "generatedAt": "2026-08-27T11:52:56.246Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Pollen Robotics (Hugging Face) Microduck",
+          "url": "https://pollen-robotics.com/microduck/",
+          "content": "Article URL: https://pollen-robotics.com/microduck/\nComments URL: https://news.ycombinator.com/item?id=49462763\nPoints: 5\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 27 Aug 2026 10:57:56 +0000",
+          "summary": "Article URL: https://pollen-robotics.com/microduck/\nComments URL: https://news.ycombinator.com/item?id=49462763\nPoints: 5\n# Comments: 0..."
+        },
+        {
+          "title": "Tell HN: PayPal Blocks GrapheneOS",
+          "url": "https://news.ycombinator.com/item?id=49462253",
+          "content": "It seems like the PayPal app now refuses to run on GrapheneOS. I don't know if it's only because I have enabled the PayPal card for contacless NFC payments, but when opening the app it crashes with the following exception: com.paypal.oslo.app.rasp.RootDetectionSecurityException: Security policy violation: s=root\nComments URL: https://news.ycombinator.com/item?id=49462253\nPoints: 45\n# Comments: 16",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 27 Aug 2026 09:56:54 +0000",
+          "summary": "It seems like the PayPal app now refuses to run on GrapheneOS. I don't know if it's only because I have enabled the PayPal card for contacless NFC payments, but when opening the app it crashes with th..."
+        },
+        {
+          "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "content": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 27 Aug 2026 11:35:59 +0000",
+          "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers...."
+        },
+        {
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "content": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 27 Aug 2026 06:32:51 +0000",
+          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business...."
+        }
+      ],
+      "generatedAt": "2026-08-27T11:52:58.484Z"
+    }
+  ]
+}
