@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T13:15:57.040Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "How do firms cope with economic shocks in real time?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-28T13:15:52.250Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 25 Aug 2026 15:14:14 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 16:11:32 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "content": "Piloting the world's first double-blind AI evaluations",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 12:59:16 +0000",
+          "summary": "Piloting the world's first double-blind AI evaluations..."
+        },
+        {
+          "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+          "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 28 Aug 2026 12:35:27 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —A..."
+        },
+        {
+          "title": "How to sign up for a virtual power plant—and decide whether you should",
+          "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+          "content": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 28 Aug 2026 09:00:00 +0000",
+          "summary": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and ene..."
+        }
+      ],
+      "generatedAt": "2026-08-28T13:15:53.127Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "How batteries are reshaping the solar power business model",
+          "url": "https://www.ft.com/content/3f170d25-190f-4deb-9906-431916b1eb1d?syn-25a6b1a6=1",
+          "content": "Also in today’s newsletter, are global emissions approaching a peak?",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 28 Aug 2026 11:01:03 GMT",
+          "summary": "Also in today’s newsletter, are global emissions approaching a peak?..."
+        },
+        {
+          "title": "Aberdeen fund takes £200mn hit on failure of UK broadband provider",
+          "url": "https://www.ft.com/content/d3eead8b-7b38-45bd-8fba-489d02a3e440",
+          "content": "Sale of Airband to Macquarie-backed rival is latest sign of distress in indebted ‘altnet’ sector",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 28 Aug 2026 10:28:16 GMT",
+          "summary": "Sale of Airband to Macquarie-backed rival is latest sign of distress in indebted ‘altnet’ sector..."
+        },
+        {
+          "title": "\n        The economic costs of Donald Trump’s immigration crackdown\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+          "content": "A smaller workforce and slower growth",
+          "source": "The Economist",
+          "publishedAt": "Thu, 27 Aug 2026 09:49:05 +0000",
+          "summary": "A smaller workforce and slower growth..."
+        },
+        {
+          "title": "\n        Scott Bessent takes on the bond market\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/scott-bessent-takes-on-the-bond-market",
+          "content": "And makes trouble for the Fed",
+          "source": "The Economist",
+          "publishedAt": "Thu, 27 Aug 2026 09:13:40 +0000",
+          "summary": "And makes trouble for the Fed..."
+        },
+        {
+          "title": "Why the Philip Morris-Altria manufacturing partnership is a win-win",
+          "url": "https://seekingalpha.com/news/4637871-why-the-philip-morris-altria-manufacturing-partnership-is-a-win-win?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 28 Aug 2026 09:11:05 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Crypto fund inflows reach highest level since October 2025: BofA",
+          "url": "https://seekingalpha.com/news/4637867-crypto-fund-inflows-reach-highest-level-since-october-2025-bofa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 28 Aug 2026 09:05:36 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Quote of the day by Arnold Van Den Berg: \"Regardless of yield, when investments are absent of value, cash is always a better option than permanently losing money\" ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-arnold-van-den-berg-regardless-of-yield-when-investments-are-absent-of-value-cash-is-always-a-better-option-than-permanently-losing-money/articleshow/133591168.cms",
+          "content": "Arnold Van Den Berg’s investing wisdom stresses that yield alone does not make an investment attractive. When value is absent and permanent capital loss risk is high, holding cash may be wiser, allowing investors to protect capital and wait for better opportunities.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 28 Aug 2026 17:47:55 +0530",
+          "summary": "Arnold Van Den Berg’s investing wisdom stresses that yield alone does not make an investment attractive. When value is absent and permanent capital loss risk is high, holding cash may be wiser, allowi..."
+        },
+        {
+          "title": "Was Sensex’s 2,000-point expiry crash a one-off? Here's what Friday's close hints about CAS ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/was-sensexs-2000-point-expiry-crash-a-one-off-heres-what-fridays-close-hints-about-cas/articleshow/133591046.cms",
+          "content": "Sensex stayed relatively calm during Friday’s closing auction, a day after a 2,000-point plunge during the monthly expiry raised fresh concerns over CAS. The subdued move suggests Thursday’s sharp swings may have been an expiry-driven anomaly rather than a persistent issue with the new closing-price mechanism, experts said.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 28 Aug 2026 17:42:03 +0530",
+          "summary": "Sensex stayed relatively calm during Friday’s closing auction, a day after a 2,000-point plunge during the monthly expiry raised fresh concerns over CAS. The subdued move suggests Thursday’s sharp swi..."
+        }
+      ],
+      "generatedAt": "2026-08-28T13:15:54.309Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Mysteries of the deep and AI friendship: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-02725-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
+          "url": "https://www.nature.com/articles/d41586-026-02688-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
+          "content": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 28 Aug 2026 05:01:51 EDT",
+          "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels..."
+        },
+        {
+          "title": "Scientists tracked 4,500 animals and found a surprising human effect",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm",
+          "content": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because different species reacted in very different ways, conservation efforts may need to become much more targeted.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 28 Aug 2026 01:22:04 EDT",
+          "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because diffe..."
+        },
+        {
+          "title": "Why did 1,000 world citizens bury their underpants?",
+          "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+          "content": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 27 Aug 2026 15:39:42 +0000",
+          "summary": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants...."
+        },
+        {
+          "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
+          "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+          "content": "\"We built this city on good cacao\" does have a nice ring to it.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 27 Aug 2026 14:22:42 +0000",
+          "summary": "\"We built this city on good cacao\" does have a nice ring to it...."
+        }
+      ],
+      "generatedAt": "2026-08-28T13:15:55.259Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+          "url": "https://www.nature.com/articles/d41586-026-02506-4",
+          "content": "Article URL: https://www.nature.com/articles/d41586-026-02506-4\nComments URL: https://news.ycombinator.com/item?id=49477559\nPoints: 9\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 28 Aug 2026 12:28:41 +0000",
+          "summary": "Article URL: https://www.nature.com/articles/d41586-026-02506-4\nComments URL: https://news.ycombinator.com/item?id=49477559\nPoints: 9\n# Comments: 3..."
+        },
+        {
+          "title": "OpenAI: Migrating to HTTPX2",
+          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+          "content": "Article URL: https://github.com/openai/openai-python/blob/main/httpx2.md\nComments URL: https://news.ycombinator.com/item?id=49477212\nPoints: 40\n# Comments: 16",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 28 Aug 2026 11:51:20 +0000",
+          "summary": "Article URL: https://github.com/openai/openai-python/blob/main/httpx2.md\nComments URL: https://news.ycombinator.com/item?id=49477212\nPoints: 40\n# Comments: 16..."
+        },
+        {
+          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "content": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 28 Aug 2026 12:46:12 +0000",
+          "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington...."
+        },
+        {
+          "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+          "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+          "content": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000",
+          "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role...."
+        }
+      ],
+      "generatedAt": "2026-08-28T13:15:57.040Z"
+    }
+  ]
+}
