@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T08:11:47.067Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "How do firms cope with economic shocks in real time?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-29T08:11:39.782Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 28 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 16:11:32 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "content": "Piloting the world's first double-blind AI evaluations",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 12:59:16 +0000",
+          "summary": "Piloting the world's first double-blind AI evaluations..."
+        },
+        {
+          "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+          "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 28 Aug 2026 12:35:27 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —A..."
+        },
+        {
+          "title": "How to sign up for a virtual power plant—and decide whether you should",
+          "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+          "content": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 28 Aug 2026 09:00:00 +0000",
+          "summary": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and ene..."
+        }
+      ],
+      "generatedAt": "2026-08-29T08:11:40.885Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant  ",
+          "url": "https://www.ft.com/content/359d4ea5-59b6-425f-ac66-c9836cec04f9?syn-25a6b1a6=1",
+          "content": "Singapore-based iron ore company Radiant has been battling liquidity squeeze",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 29 Aug 2026 04:00:40 GMT",
+          "summary": "Singapore-based iron ore company Radiant has been battling liquidity squeeze..."
+        },
+        {
+          "title": "Risk of a new age of financial repression is rising",
+          "url": "https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1",
+          "content": "The idea of pushing US government bonds down the throats of investors is being taken increasingly seriously",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 29 Aug 2026 04:00:40 GMT",
+          "summary": "The idea of pushing US government bonds down the throats of investors is being taken increasingly seriously..."
+        },
+        {
+          "title": "\n        Kevin Warsh tries being a normal central banker\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+          "content": "And markets like it",
+          "source": "The Economist",
+          "publishedAt": "Fri, 28 Aug 2026 17:02:18 +0000",
+          "summary": "And markets like it..."
+        },
+        {
+          "title": "\n        The economic costs of Donald Trump’s immigration crackdown\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+          "content": "A smaller workforce and slower growth",
+          "source": "The Economist",
+          "publishedAt": "Thu, 27 Aug 2026 09:49:05 +0000",
+          "summary": "A smaller workforce and slower growth..."
+        },
+        {
+          "title": "U.S. secures 65B barrels of oil reserves in sweeping deal with Venezuela, Trump announces",
+          "url": "https://seekingalpha.com/news/4638033-u-s-secures-65b-barrels-of-oil-reserves-from-venezuela-trump-announces?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 28 Aug 2026 20:02:04 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Oil futures fall as Persian Gulf exports may have recovered to two-thirds of pre-war levels",
+          "url": "https://seekingalpha.com/news/4638032-oil-futures-fall-as-persian-gulf-exports-may-have-recovered-to-two-thirds-of-pre-war-levels?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 28 Aug 2026 19:15:18 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "BlackRock helps pull more Bitcoin wealth deeper into Wall Street ",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/blackrock-helps-pull-more-bitcoin-wealth-deeper-into-wall-street/articleshow/133607321.cms",
+          "content": "BlackRock and other Wall Street firms are making it easier for large Bitcoin holders to move crypto wealth into spot Bitcoin ETFs through in-kind transactions. Lower minimums, expanding market infrastructure and growing demand for simpler custody are accelerating the shift, further integrating Bitcoin holdings into mainstream financial markets.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 29 Aug 2026 13:24:42 +0530",
+          "summary": "BlackRock and other Wall Street firms are making it easier for large Bitcoin holders to move crypto wealth into spot Bitcoin ETFs through in-kind transactions. Lower minimums, expanding market infrast..."
+        },
+        {
+          "title": "India’s housing market sees structural shift towards premium, luxury homes: CareEdge Ratings ",
+          "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-housing-market-sees-structural-shift-towards-premium-luxury-homes-careedge-ratings/articleshow/133607165.cms",
+          "content": "India’s housing market is seeing a structural shift towards premium and luxury homes, with affordable housing losing share in new launches. CareEdge Ratings said stronger demand from affluent buyers and rising development costs are driving the shift, even as housing sales moderate in some major cities amid affordability pressures and cautious sentiment.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 29 Aug 2026 13:17:00 +0530",
+          "summary": "India’s housing market is seeing a structural shift towards premium and luxury homes, with affordable housing losing share in new launches. CareEdge Ratings said stronger demand from affluent buyers a..."
+        }
+      ],
+      "generatedAt": "2026-08-29T08:11:42.639Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: How Dolly Parton left her mark on science",
+          "url": "https://www.nature.com/articles/d41586-026-02732-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Mysteries of the deep and AI friendship: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-02725-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
+          "content": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map billions of cosmic objects, and help scientists unravel the mysteries of dark matter and dark energy.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 28 Aug 2026 09:54:53 EDT",
+          "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden p..."
+        },
+        {
+          "title": "Experimental eye drops help blind mice see again",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
+          "content": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when administered as eye drops, pointing toward a potentially simple new approach to restoring vision.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 28 Aug 2026 10:21:46 EDT",
+          "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intri..."
+        },
+        {
+          "title": "Why did 1,000 world citizens bury their underpants?",
+          "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+          "content": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 27 Aug 2026 15:39:42 +0000",
+          "summary": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants...."
+        },
+        {
+          "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
+          "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+          "content": "\"We built this city on good cacao\" does have a nice ring to it.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 27 Aug 2026 14:22:42 +0000",
+          "summary": "\"We built this city on good cacao\" does have a nice ring to it...."
+        }
+      ],
+      "generatedAt": "2026-08-29T08:11:44.040Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "content": "Article URL: https://www.inventati.org/who/manifesto\nComments URL: https://news.ycombinator.com/item?id=49487786\nPoints: 7\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 29 Aug 2026 07:38:31 +0000",
+          "summary": "Article URL: https://www.inventati.org/who/manifesto\nComments URL: https://news.ycombinator.com/item?id=49487786\nPoints: 7\n# Comments: 1..."
+        },
+        {
+          "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
+          "url": "https://github.com/paveluv/e",
+          "content": "Article URL: https://github.com/paveluv/e\nComments URL: https://news.ycombinator.com/item?id=49487506\nPoints: 11\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 29 Aug 2026 06:35:28 +0000",
+          "summary": "Article URL: https://github.com/paveluv/e\nComments URL: https://news.ycombinator.com/item?id=49487506\nPoints: 11\n# Comments: 5..."
+        },
+        {
+          "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+          "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+          "content": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 28 Aug 2026 23:24:27 +0000",
+          "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers...."
+        },
+        {
+          "title": "Is the best way to watch a movie on a pair of sunglasses?",
+          "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+          "content": "Are XREAL's smart glasses the way of the future for home entertainment?",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 28 Aug 2026 22:42:48 +0000",
+          "summary": "Are XREAL's smart glasses the way of the future for home entertainment?..."
+        }
+      ],
+      "generatedAt": "2026-08-29T08:11:47.067Z"
+    }
+  ]
+}
