@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T07:11:31.617Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "How do firms cope with economic shocks in real time?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-30T07:11:27.720Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 28 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 16:11:32 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "content": "Piloting the world's first double-blind AI evaluations",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 12:59:16 +0000",
+          "summary": "Piloting the world's first double-blind AI evaluations..."
+        },
+        {
+          "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+          "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 28 Aug 2026 12:35:27 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —A..."
+        },
+        {
+          "title": "How to sign up for a virtual power plant—and decide whether you should",
+          "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+          "content": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 28 Aug 2026 09:00:00 +0000",
+          "summary": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and ene..."
+        }
+      ],
+      "generatedAt": "2026-08-30T07:11:28.588Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "What’s the fiscal hit from higher yields?",
+          "url": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
+          "content": "A long answer to a simple question",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 30 Aug 2026 04:12:14 GMT",
+          "summary": "A long answer to a simple question..."
+        },
+        {
+          "title": "Incoming Swiss banking chief warns against regulatory over-reach",
+          "url": "https://www.ft.com/content/17c61dd3-fa39-4061-b3a1-2d2333d1eb7f?syn-25a6b1a6=1",
+          "content": "Comments from chief executive of EFG International signal how opposition to new rules extends across the industry",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 30 Aug 2026 04:00:19 GMT",
+          "summary": "Comments from chief executive of EFG International signal how opposition to new rules extends across the industry..."
+        },
+        {
+          "title": "\n        Kevin Warsh tries being a normal central banker\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+          "content": "And markets like it",
+          "source": "The Economist",
+          "publishedAt": "Fri, 28 Aug 2026 17:02:18 +0000",
+          "summary": "And markets like it..."
+        },
+        {
+          "title": "\n        The economic costs of Donald Trump’s immigration crackdown\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+          "content": "A smaller workforce and slower growth",
+          "source": "The Economist",
+          "publishedAt": "Thu, 27 Aug 2026 09:49:05 +0000",
+          "summary": "A smaller workforce and slower growth..."
+        },
+        {
+          "title": "Trending stocks this week as big tech reports quarterly numbers",
+          "url": "https://seekingalpha.com/news/4638048-trending-stocks-this-week-as-big-tech-reports-quarterly-numbers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sun, 30 Aug 2026 02:51:54 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Trump seeking ways to shield farmers from expansion of refinery biofuel waivers - report",
+          "url": "https://seekingalpha.com/news/4638047-trump-seeking-ways-to-shield-farmers-from-expansion-of-refinery-biofuel-waivers-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 29 Aug 2026 20:45:15 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Warren Buffett turns 96: Top 10 investing lessons from the Oracle of Omaha ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-turns-96-top-10-investing-lessons-from-the-oracle-of-omaha/articleshow/133624955.cms",
+          "content": "As Warren Buffett turns 96 in his first birthday since stepping down as Berkshire Hathaway's CEO, the piece revisits the investing principles behind his six-decade run — patience, discipline, staying within his \"circle of competence,\" and concentrating capital when conviction is high.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 30 Aug 2026 12:15:07 +0530",
+          "summary": "As Warren Buffett turns 96 in his first birthday since stepping down as Berkshire Hathaway's CEO, the piece revisits the investing principles behind his six-decade run — patience, discipline, staying ..."
+        },
+        {
+          "title": "SBI, SBI Capital Markets plan 1% NSE stake sale via IPO: Bank Chairman C S Setty ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-sbi-capital-markets-plan-1-nse-stake-sale-via-ipo/articleshow/133624789.cms",
+          "content": "State Bank of India plans to divest nearly one percent of its National Stock Exchange stake.  This divestment will occur as part of the exchange's upcoming initial public offering.  SBI's mortgage portfolio is projected to surpass ten lakh crore rupees this quarter.  The bank holds a significant market share in the home loan segment.  Home loans are considered vital for India's overall economic growth.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 30 Aug 2026 12:03:43 +0530",
+          "summary": "State Bank of India plans to divest nearly one percent of its National Stock Exchange stake.  This divestment will occur as part of the exchange's upcoming initial public offering.  SBI's mortgage por..."
+        }
+      ],
+      "generatedAt": "2026-08-30T07:11:30.163Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: How Dolly Parton left her mark on science",
+          "url": "https://www.nature.com/articles/d41586-026-02732-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Mysteries of the deep and AI friendship: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-02725-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+          "content": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for extended periods.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 29 Aug 2026 06:52:20 EDT",
+          "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove m..."
+        },
+        {
+          "title": "Australia’s red soil may be hiding a massive clean energy source",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
+          "content": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath the Pilbara could become a major new source of low-emission energy for Australia and potentially the world.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 29 Aug 2026 06:05:43 EDT",
+          "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vas..."
+        },
+        {
+          "title": "Why did 1,000 world citizens bury their underpants?",
+          "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+          "content": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 27 Aug 2026 15:39:42 +0000",
+          "summary": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants...."
+        },
+        {
+          "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
+          "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+          "content": "\"We built this city on good cacao\" does have a nice ring to it.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 27 Aug 2026 14:22:42 +0000",
+          "summary": "\"We built this city on good cacao\" does have a nice ring to it...."
+        }
+      ],
+      "generatedAt": "2026-08-30T07:11:30.998Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+          "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+          "content": "Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt\nComments URL: https://news.ycombinator.com/item?id=49495372\nPoints: 143\n# Comments: 25",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 30 Aug 2026 03:15:36 +0000",
+          "summary": "Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-..."
+        },
+        {
+          "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
+          "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+          "content": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws\nComments URL: https://news.ycombinator.com/item?id=49495127\nPoints: 66\n# Comments: 33",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 30 Aug 2026 02:25:32 +0000",
+          "summary": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws\nComments URL: https://news.ycombinator.com/item?id=49495127\nPoints: 66\n..."
+        },
+        {
+          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "content": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 29 Aug 2026 18:41:59 +0000",
+          "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy...."
+        },
+        {
+          "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+          "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+          "content": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 29 Aug 2026 17:51:10 +0000",
+          "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI...."
+        }
+      ],
+      "generatedAt": "2026-08-30T07:11:31.617Z"
+    }
+  ]
+}
