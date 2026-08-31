@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T07:25:27.011Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "How do firms cope with economic shocks in real time?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-08-31T07:25:22.782Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 28 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 16:11:32 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "content": "Piloting the world's first double-blind AI evaluations",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 12:59:16 +0000",
+          "summary": "Piloting the world's first double-blind AI evaluations..."
+        },
+        {
+          "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+          "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 28 Aug 2026 12:35:27 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —A..."
+        },
+        {
+          "title": "How to sign up for a virtual power plant—and decide whether you should",
+          "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+          "content": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 28 Aug 2026 09:00:00 +0000",
+          "summary": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and ene..."
+        }
+      ],
+      "generatedAt": "2026-08-31T07:25:23.924Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Andrew Bailey warns G20 of danger AI poses to financial system",
+          "url": "https://www.ft.com/content/ed723a59-a889-40e0-b601-0c1f16c92f65?syn-25a6b1a6=1",
+          "content": "Head of world’s financial stability watchdog urges countries to take steps to control the release of new frontier models",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 31 Aug 2026 06:02:28 GMT",
+          "summary": "Head of world’s financial stability watchdog urges countries to take steps to control the release of new frontier models..."
+        },
+        {
+          "title": "Jane Street’s AI bets go sour",
+          "url": "https://www.ft.com/content/bddb9558-a00f-4407-8e77-dbf5549fbd0b?syn-25a6b1a6=1",
+          "content": "Plus, Woodford’s angry investors, fund management deals boom and Lucian Freud in Denmark",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 31 Aug 2026 05:00:11 GMT",
+          "summary": "Plus, Woodford’s angry investors, fund management deals boom and Lucian Freud in Denmark..."
+        },
+        {
+          "title": "\n        Kevin Warsh tries being a normal central banker\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+          "content": "And markets like it",
+          "source": "The Economist",
+          "publishedAt": "Fri, 28 Aug 2026 17:02:18 +0000",
+          "summary": "And markets like it..."
+        },
+        {
+          "title": "\n        The economic costs of Donald Trump’s immigration crackdown\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+          "content": "A smaller workforce and slower growth",
+          "source": "The Economist",
+          "publishedAt": "Thu, 27 Aug 2026 09:49:05 +0000",
+          "summary": "A smaller workforce and slower growth..."
+        },
+        {
+          "title": "U.S. Treasury blocks certain reporters from G20 meeting",
+          "url": "https://seekingalpha.com/news/4638103-us-treasury-blocks-certain-reporters-from-g20-meeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 31 Aug 2026 03:03:54 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Nvidia's Quant Rating upgraded to Strong Buy after upbeat outlook",
+          "url": "https://seekingalpha.com/news/4638095-nvidias-quant-rating-upgraded-to-strong-buy-after-upbeat-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 31 Aug 2026 02:58:35 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "India bonds slump on Fed rate hike bets, benchmark trades at discount ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-on-fed-rate-hike-bets-benchmark-trades-at-discount/articleshow/133645246.cms",
+          "content": "Indian government bonds faced a downturn on Monday as yields spiked significantly. Hawkish statements from the head of the U.S. Federal Reserve ignited concerns about imminent rate hikes. Additionally, oil prices surged over ninety dollars a barrel, compounding market pressures. This confluence of events casts a shadow over India's inflation expectations and fiscal health, prompting traders to anticipate local swap rate increases in light of potential Fed actions.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 31 Aug 2026 12:30:17 +0530",
+          "summary": "Indian government bonds faced a downturn on Monday as yields spiked significantly. Hawkish statements from the head of the U.S. Federal Reserve ignited concerns about imminent rate hikes. Additionally..."
+        },
+        {
+          "title": "Zee Entertainment shares crash 14% amid Subhash Chandra’s 99.97% loan haircut row ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-shares-crash-14-amid-subhash-chandras-99-97-loan-haircut-row/articleshow/133644854.cms",
+          "content": "Zee Entertainment shares crashed on Monday after the NCLT approved a repayment plan involving founder Subhash Chandra. The plan entails a recovery of around Rs 6.5 crore against admitted creditor claims of Rs 22,006.57 crore, implying a 99.97% haircut.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 31 Aug 2026 12:15:22 +0530",
+          "summary": "Zee Entertainment shares crashed on Monday after the NCLT approved a repayment plan involving founder Subhash Chandra. The plan entails a recovery of around Rs 6.5 crore against admitted creditor clai..."
+        }
+      ],
+      "generatedAt": "2026-08-31T07:25:25.023Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
+          "url": "https://www.nature.com/articles/d41586-026-02684-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
+          "url": "https://www.nature.com/articles/d41586-026-02727-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "HEPA air purifiers may boost brain function after just one month",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+          "content": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help protect the brain from the effects of traffic-related pollution.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 30 Aug 2026 09:33:54 EDT",
+          "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a si..."
+        },
+        {
+          "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
+          "content": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break off, capsize, and collide with the glacier. The surge in activity coincided with a period when Thwaites was flowing faster toward the ocean, hinting that changing ocean conditions may be destabilizing the ice.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 30 Aug 2026 09:07:17 EDT",
+          "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when hu..."
+        },
+        {
+          "title": "Why did 1,000 world citizens bury their underpants?",
+          "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+          "content": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 27 Aug 2026 15:39:42 +0000",
+          "summary": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants...."
+        },
+        {
+          "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
+          "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+          "content": "\"We built this city on good cacao\" does have a nice ring to it.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 27 Aug 2026 14:22:42 +0000",
+          "summary": "\"We built this city on good cacao\" does have a nice ring to it...."
+        }
+      ],
+      "generatedAt": "2026-08-31T07:25:26.090Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+          "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+          "content": "Article URL: https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/\nComments URL: https://news.ycombinator.com/item?id=49506182\nPoints: 19\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 31 Aug 2026 06:10:44 +0000",
+          "summary": "Article URL: https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/\nComments URL: https://news.ycombinator.com/item?id=49506182\nPoints: 19\n# ..."
+        },
+        {
+          "title": "OpenClaw 2.0, Accidentally",
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "content": "Article URL: https://openclaw.ai/blog/openclaw-2-accidentally\nComments URL: https://news.ycombinator.com/item?id=49505310\nPoints: 61\n# Comments: 56",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 31 Aug 2026 03:38:02 +0000",
+          "summary": "Article URL: https://openclaw.ai/blog/openclaw-2-accidentally\nComments URL: https://news.ycombinator.com/item?id=49505310\nPoints: 61\n# Comments: 56..."
+        },
+        {
+          "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+          "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+          "content": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 31 Aug 2026 02:34:00 +0000",
+          "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere...."
+        },
+        {
+          "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+          "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+          "content": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promising since 2022.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 31 Aug 2026 02:18:57 +0000",
+          "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and..."
+        }
+      ],
+      "generatedAt": "2026-08-31T07:25:27.011Z"
+    }
+  ]
+}
