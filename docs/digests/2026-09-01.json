@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T06:39:01.384Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "How do firms cope with economic shocks in real time?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-09-01T06:38:57.444Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 28 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 16:11:32 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "content": "Piloting the world's first double-blind AI evaluations",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 12:59:16 +0000",
+          "summary": "Piloting the world's first double-blind AI evaluations..."
+        },
+        {
+          "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+          "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 31 Aug 2026 18:00:00 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur..."
+        },
+        {
+          "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+          "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 28 Aug 2026 12:35:27 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —A..."
+        }
+      ],
+      "generatedAt": "2026-09-01T06:38:58.447Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Partners Group replaces chief executive as pressure grows on flagship fund",
+          "url": "https://www.ft.com/content/0d5b67bd-a07f-47da-9e9b-505df1b4ff33?syn-25a6b1a6=1",
+          "content": "David Layton to step down after surge in redemption requests hits share price of Swiss private equity manager.",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 01 Sep 2026 06:17:07 GMT",
+          "summary": "David Layton to step down after surge in redemption requests hits share price of Swiss private equity manager...."
+        },
+        {
+          "title": "Japan’s benchmark yield hits 3% as global bond sell-off deepens",
+          "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1",
+          "content": "US Treasury secretary Scott Bessent sends signal that he expects Bank of Japan to raise rates soon",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 01 Sep 2026 06:04:27 GMT",
+          "summary": "US Treasury secretary Scott Bessent sends signal that he expects Bank of Japan to raise rates soon..."
+        },
+        {
+          "title": "\n        The extraordinary rise of Miami’s economy\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-miamis-economy",
+          "content": "Thanks to a combination of capital and politics, the city is booming. Can its success be sustained?",
+          "source": "The Economist",
+          "publishedAt": "Mon, 31 Aug 2026 17:01:41 +0000",
+          "summary": "Thanks to a combination of capital and politics, the city is booming. Can its success be sustained?..."
+        },
+        {
+          "title": "\n        Kevin Warsh tries being a normal central banker\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+          "content": "And markets like it",
+          "source": "The Economist",
+          "publishedAt": "Fri, 28 Aug 2026 17:02:18 +0000",
+          "summary": "And markets like it..."
+        },
+        {
+          "title": "GSK to advance mRNA seasonal flu vaccine to phase 3 trial",
+          "url": "https://seekingalpha.com/news/4638554-gsk-to-advance-mrna-seasonal-flu-vaccine-to-phase-3-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 01 Sep 2026 02:33:13 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Germany retail sales slide 3.4% in July, annual decline hits fastest since 2023",
+          "url": "https://seekingalpha.com/news/4638555-germany-retail-sales-slide-34-in-july-annual-decline-hits-fastest-since-2023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 01 Sep 2026 02:26:55 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Alpha Wealth Summit 2.0: How AI is reshaping portfolio management and the role of human judgement ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/alpha-wealth-summit-2-0-how-ai-is-reshaping-portfolio-management-and-the-role-of-human-judgement/articleshow/133669730.cms",
+          "content": "Alpha Wealth Summit 2.0 brings together leading investment voices to explore a fundamental question for modern portfolio management: where can AI create a genuine investment advantage? From research and execution to risk and portfolio monitoring, the conversation will consider what technology can change, and what still depends on human judgement.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 01 Sep 2026 11:52:41 +0530",
+          "summary": "Alpha Wealth Summit 2.0 brings together leading investment voices to explore a fundamental question for modern portfolio management: where can AI create a genuine investment advantage? From research a..."
+        },
+        {
+          "title": "Titan Company, Sky Gold, other shares fall up to 6% on PM Modi’s second appeal to avoid gold ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/titan-company-sky-gold-other-shares-fall-up-to-6-on-pm-modis-second-appeal-to-avoid-gold/articleshow/133670706.cms",
+          "content": "Jewellery stocks fell after Prime Minister Narendra Modi urged citizens to avoid non-essential gold purchases. The appeal, aimed at conserving foreign exchange, follows a similar call made by Modi in May to avoid gold purchases for weddings for a year.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 01 Sep 2026 11:51:01 +0530",
+          "summary": "Jewellery stocks fell after Prime Minister Narendra Modi urged citizens to avoid non-essential gold purchases. The appeal, aimed at conserving foreign exchange, follows a similar call made by Modi in ..."
+        }
+      ],
+      "generatedAt": "2026-09-01T06:38:59.684Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Scale of snakebites estimated globally",
+          "url": "https://www.nature.com/articles/d41586-026-02642-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-31T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "What’s your lab’s archetype? The answer could inform how you use AI",
+          "url": "https://www.nature.com/articles/d41586-026-02543-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-08-31T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
+          "content": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman could uncover cosmic surprises astronomers have never seen before.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 31 Aug 2026 05:23:21 EDT",
+          "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey spee..."
+        },
+        {
+          "title": "Scientists find why the liver may not heal even after you stop drinking",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
+          "content": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors and identified a pathway that could potentially be targeted to restore liver repair.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 31 Aug 2026 06:43:38 EDT",
+          "summary": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammatio..."
+        },
+        {
+          "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
+          "url": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
+          "content": "Finding reveals an overlooked way that water can damage surfaces.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 31 Aug 2026 17:11:48 +0000",
+          "summary": "Finding reveals an overlooked way that water can damage surfaces...."
+        },
+        {
+          "title": "El Niño is now stronger than at any point in the last 1,000 years, study finds",
+          "url": "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
+          "content": "“One more warning sign here of what we're facing in a warmer world.”",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 31 Aug 2026 16:04:44 +0000",
+          "summary": "“One more warning sign here of what we're facing in a warmer world.”..."
+        }
+      ],
+      "generatedAt": "2026-09-01T06:39:00.608Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "AI Can Make You Suck Faster Too",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "content": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too\nComments URL: https://news.ycombinator.com/item?id=49518316\nPoints: 23\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 01 Sep 2026 05:32:56 +0000",
+          "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too\nComments URL: https://news.ycombinator.com/item?id=49518316\nPoints: 23\n# Comments: 7..."
+        },
+        {
+          "title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
+          "url": "https://github.com/vermellcc/vermell",
+          "content": "Article URL: https://github.com/vermellcc/vermell\nComments URL: https://news.ycombinator.com/item?id=49518121\nPoints: 14\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 01 Sep 2026 04:56:11 +0000",
+          "summary": "Article URL: https://github.com/vermellcc/vermell\nComments URL: https://news.ycombinator.com/item?id=49518121\nPoints: 14\n# Comments: 5..."
+        },
+        {
+          "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+          "url": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+          "content": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 01 Sep 2026 05:00:00 +0000",
+          "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm...."
+        },
+        {
+          "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+          "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+          "content": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 01 Sep 2026 00:30:00 +0000",
+          "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months...."
+        }
+      ],
+      "generatedAt": "2026-09-01T06:39:01.384Z"
+    }
+  ]
+}
