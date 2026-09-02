@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T06:15:37.320Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "How do firms cope with economic shocks in real time?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-09-02T06:15:33.590Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 01 Sep 2026 21:39:07 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 01 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing agentic video understanding with Gemini",
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 01 Sep 2026 17:08:51 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 27 Aug 2026 16:11:32 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "How AI plotted an interstellar journey to Alpha Centauri",
+          "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+          "content": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 01 Sep 2026 19:10:36 +0000",
+          "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all..."
+        },
+        {
+          "title": "Making the AI-powered case for legacy modernization",
+          "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+          "content": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 01 Sep 2026 14:00:00 +0000",
+          "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could..."
+        }
+      ],
+      "generatedAt": "2026-09-02T06:15:34.456Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "So how big *was* Bessent’s yentervention?",
+          "url": "https://www.ft.com/content/958aa5ab-78e0-40cb-9a18-25e9fd5de233",
+          "content": "Smaller than we had possibly imagined",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 02 Sep 2026 04:30:06 GMT",
+          "summary": "Smaller than we had possibly imagined..."
+        },
+        {
+          "title": "US launches further strikes on Iran as conflict flares up",
+          "url": "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1",
+          "content": "Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 02 Sep 2026 04:24:42 GMT",
+          "summary": "Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation..."
+        },
+        {
+          "title": "\n        Europe’s bond markets are suffering a post-holiday shock\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
+          "content": "Reasons for rising yields differ somewhat from those in America, but are no less problematic",
+          "source": "The Economist",
+          "publishedAt": "Tue, 01 Sep 2026 21:58:14 +0000",
+          "summary": "Reasons for rising yields differ somewhat from those in America, but are no less problematic..."
+        },
+        {
+          "title": "\n        IPO booms can spell trouble for the markets\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/01/ipo-booms-can-spell-trouble-for-the-markets",
+          "content": "Companies go public in good times that may not last",
+          "source": "The Economist",
+          "publishedAt": "Tue, 01 Sep 2026 19:03:06 +0000",
+          "summary": "Companies go public in good times that may not last..."
+        },
+        {
+          "title": "Western Asset Bond ETF declares $0.0897 dividend",
+          "url": "https://seekingalpha.com/news/4639296-western-asset-bond-etf-declares-0_0897-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 02 Sep 2026 02:03:30 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Everus Construction closes $295M acquisition of Epsilon Industries",
+          "url": "https://seekingalpha.com/news/4639280-everus-construction-closes-295m-acquisition-of-epsilon-industries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 02 Sep 2026 02:02:40 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "How to trade HDFC Bank shares after new 52-week low? 2 technical analysts explain ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-hdfc-bank-shares-after-new-52-week-low-2-technical-analysts-explain/articleshow/133699483.cms",
+          "content": "HDFC Bank shares remain under pressure, falling nearly 30% so far this year as investors assess the lender’s CEO succession process. Technical analysts see a weak trend, with key support around Rs 710 and resistance near Rs 750-780, while Jefferies has identified several potential internal and external candidates for the top job.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 02 Sep 2026 11:24:56 +0530",
+          "summary": "HDFC Bank shares remain under pressure, falling nearly 30% so far this year as investors assess the lender’s CEO succession process. Technical analysts see a weak trend, with key support around Rs 710..."
+        },
+        {
+          "title": "Global Market: China, Hong Kong stocks fall as global bond selloff, oil surge weigh on sentiment ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-fall-as-global-bond-selloff-oil-surge-weigh-on-sentiment/articleshow/133699219.cms",
+          "content": "Chinese and Hong Kong stocks fell as rising oil prices, higher bond yields and geopolitical tensions intensified inflation and interest-rate concerns. Major indexes declined, while gold, technology, auto and property stocks weakened. A lacklustre Shein debut added pressure in Hong Kong, although Chinese officials signalled openness to U.S. businesses.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 02 Sep 2026 11:13:37 +0530",
+          "summary": "Chinese and Hong Kong stocks fell as rising oil prices, higher bond yields and geopolitical tensions intensified inflation and interest-rate concerns. Major indexes declined, while gold, technology, a..."
+        }
+      ],
+      "generatedAt": "2026-09-02T06:15:35.549Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Satellite images before Nepal disaster showed warning signs",
+          "url": "https://www.nature.com/articles/d41586-026-02746-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "UN finally admits global warming will shoot past 1.5 ºC climate limit",
+          "url": "https://www.nature.com/articles/d41586-026-02753-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Too much coffee may weaken bones, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+          "content": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five cups a day was linked to lower bone density. The findings suggest tea may offer a small bone-health boost, while excessive coffee could carry some drawbacks.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 02 Sep 2026 02:04:39 EDT",
+          "summary": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drin..."
+        },
+        {
+          "title": "Earth may have lost the Sun’s protective shield millions of years ago",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm",
+          "content": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain ancient ice ages as well as how early Earth stayed warm enough for liquid water when the Sun was much dimmer.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 02 Sep 2026 00:25:48 EDT",
+          "summary": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain..."
+        },
+        {
+          "title": "Research roundup: 7 cool science stories we almost missed",
+          "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+          "content": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 01 Sep 2026 19:06:10 +0000",
+          "summary": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more...."
+        },
+        {
+          "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
+          "url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+          "content": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 01 Sep 2026 11:00:35 +0000",
+          "summary": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters...."
+        }
+      ],
+      "generatedAt": "2026-09-02T06:15:36.576Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+          "url": "https://arxiv.org/abs/2608.29530",
+          "content": "Article URL: https://arxiv.org/abs/2608.29530\nComments URL: https://news.ycombinator.com/item?id=49531651\nPoints: 38\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 02 Sep 2026 04:15:56 +0000",
+          "summary": "Article URL: https://arxiv.org/abs/2608.29530\nComments URL: https://news.ycombinator.com/item?id=49531651\nPoints: 38\n# Comments: 5..."
+        },
+        {
+          "title": "WebFPGA",
+          "url": "https://webfpga.io/",
+          "content": "Article URL: https://webfpga.io/\nComments URL: https://news.ycombinator.com/item?id=49531525\nPoints: 25\n# Comments: 15",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 02 Sep 2026 03:54:58 +0000",
+          "summary": "Article URL: https://webfpga.io/\nComments URL: https://news.ycombinator.com/item?id=49531525\nPoints: 25\n# Comments: 15..."
+        },
+        {
+          "title": "Larry Page’s flying car company Pivotal loses its CEO",
+          "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+          "content": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 01 Sep 2026 23:59:59 +0000",
+          "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025...."
+        },
+        {
+          "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+          "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+          "content": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 01 Sep 2026 23:00:00 +0000",
+          "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore...."
+        }
+      ],
+      "generatedAt": "2026-09-02T06:15:37.320Z"
+    }
+  ]
+}
