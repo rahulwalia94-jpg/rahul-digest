@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T06:19:03.038Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Frontier AI: Harness engineering",
+          "url": "https://www.bankofengland.co.uk/research/fintech/frontier-ai-information-sharing-forum/frontier-ai-harness-engineering",
+          "content": "This article outlines the practical considerations involved in designing harnesses that can apply frontier AI capability to cyber defence in a controlled and usable way.",
+          "source": "Bank of England",
+          "publishedAt": "Wed, 02 Sep 2026 12:00:00 +0100",
+          "summary": "This article outlines the practical considerations involved in designing harnesses that can apply frontier AI capability to cyber defence in a controlled and usable way...."
+        },
+        {
+          "title": "How do firms cope with economic shocks in real time?",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 28 Aug 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-09-03T06:18:56.441Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 02 Sep 2026 13:49:14 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 01 Sep 2026 21:39:07 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Proactive cyber defense for governments and enterprises",
+          "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 02 Sep 2026 16:24:24 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 02 Sep 2026 16:18:31 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Facilitating AI integration with simplicity at scale",
+          "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+          "content": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 02 Sep 2026 14:00:00 +0000",
+          "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ..."
+        },
+        {
+          "title": "The Download: AI puzzles and a path to our nearest star system",
+          "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 02 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett..."
+        }
+      ],
+      "generatedAt": "2026-09-03T06:18:57.912Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "More on the 60/40 portfolio",
+          "url": "https://www.ft.com/content/f2f05059-8fbe-47b9-8976-c85bb119bbd0?syn-25a6b1a6=1",
+          "content": "Unhedged readers weigh in, hard",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 03 Sep 2026 05:30:09 GMT",
+          "summary": "Unhedged readers weigh in, hard..."
+        },
+        {
+          "title": "Yen strengthens as traders bet on Japan interest rate rises",
+          "url": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
+          "content": "Currency falls under ¥157 to the dollar after sudden jump overnight",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 03 Sep 2026 04:50:08 GMT",
+          "summary": "Currency falls under ¥157 to the dollar after sudden jump overnight..."
+        },
+        {
+          "title": "\n        Central banking has a forbidding future\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/02/central-banking-has-a-forbidding-future",
+          "content": "But Kevin Warsh has bought himself time",
+          "source": "The Economist",
+          "publishedAt": "Wed, 02 Sep 2026 19:47:06 +0000",
+          "summary": "But Kevin Warsh has bought himself time..."
+        },
+        {
+          "title": "\n        Europe’s bond markets are suffering a post-holiday shock\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
+          "content": "Reasons for rising yields differ somewhat from those in America, but are no less problematic",
+          "source": "The Economist",
+          "publishedAt": "Tue, 01 Sep 2026 21:58:14 +0000",
+          "summary": "Reasons for rising yields differ somewhat from those in America, but are no less problematic..."
+        },
+        {
+          "title": "Shipping stocks hit decade-plus highs as Hormuz turmoil tightens capacity",
+          "url": "https://seekingalpha.com/news/4639817-shipping-stocks-hit-decade-plus-highs-as-hormuz-turmoil-tightens-capacity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 03 Sep 2026 02:13:59 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Impala Platinum Non-GAAP EPS of R25.48, revenue of R135.1B; gives full0year outlook",
+          "url": "https://seekingalpha.com/news/4639827-impala-platinum-non-gaap-eps-of-r2548-revenue-of-r1351b-gives-full0year-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 03 Sep 2026 02:03:27 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Lumino Industries shares soar 40% from IPO price after strong market debut. Should you buy or wait? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/lumino-industries-shares-soar-40-from-ipo-price-after-strong-market-debut-should-you-buy-or-wait/articleshow/133726784.cms",
+          "content": "Lumino Industries shares extended their strong debut gains, rising another 4% after listing at a 34% premium to the IPO price. While analysts see attractive valuations, strong profitability and debt reduction as positives, fresh investors have been advised to wait for consolidation, while IPO allottees can consider partial profit booking and monitor key support levels.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 03 Sep 2026 11:27:21 +0530",
+          "summary": "Lumino Industries shares extended their strong debut gains, rising another 4% after listing at a 34% premium to the IPO price. While analysts see attractive valuations, strong profitability and debt r..."
+        },
+        {
+          "title": "Nominal GDP growth set to surge to 12%. Why the stock market may still struggle to rally ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/nominal-gdp-growth-set-to-surge-to-12-why-the-stock-market-may-still-struggle-to-rally/articleshow/133726572.cms",
+          "content": "India’s nominal GDP growth could accelerate to 11.5%-12% in FY27, supporting stronger corporate earnings. However, elevated valuations, rising equity supply and potentially slower domestic flows could limit broad market gains. Jefferies favours lenders, power, ports and real estate, but sees a selective stock-picking environment rather than a broad-based rally.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 03 Sep 2026 11:23:58 +0530",
+          "summary": "India’s nominal GDP growth could accelerate to 11.5%-12% in FY27, supporting stronger corporate earnings. However, elevated valuations, rising equity supply and potentially slower domestic flows could..."
+        }
+      ],
+      "generatedAt": "2026-09-03T06:18:59.448Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Too much coffee may weaken bones, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+          "content": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five cups a day was linked to lower bone density. The findings suggest tea may offer a small bone-health boost, while excessive coffee could carry some drawbacks.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 02 Sep 2026 02:04:39 EDT",
+          "summary": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drin..."
+        },
+        {
+          "title": "Earth may have lost the Sun’s protective shield millions of years ago",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm",
+          "content": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain ancient ice ages as well as how early Earth stayed warm enough for liquid water when the Sun was much dimmer.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 02 Sep 2026 00:25:48 EDT",
+          "summary": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain..."
+        },
+        {
+          "title": "Spending deal comes with a bonus: Blocking political control of grants",
+          "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+          "content": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 02 Sep 2026 21:20:03 +0000",
+          "summary": "Congress pauses the OMB's attempt to rewrite how research is funded...."
+        },
+        {
+          "title": "Research roundup: 7 cool science stories we almost missed",
+          "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+          "content": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 01 Sep 2026 19:06:10 +0000",
+          "summary": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more...."
+        }
+      ],
+      "generatedAt": "2026-09-03T06:19:01.449Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+          "url": "https://news.ycombinator.com/item?id=49543530",
+          "content": "Hi HN,\nI’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.\nThe path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks.\nI had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough.\nAround the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication.\nFor me, losing weight was only the beginning. \"Food noise\" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80.\nThis was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all.\nGLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx.\nPatients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution.\nThe most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop.\nWe make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step.\nWe are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing.\nWe would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested.\nComments URL: https://news.ycombinator.com/item?id=49543530\nPoints: 45\n# Comments: 56",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 02 Sep 2026 22:36:04 +0000",
+          "summary": "Hi HN,\nI’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufact..."
+        },
+        {
+          "title": "Reasons robotics is hard",
+          "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+          "content": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 71\n# Comments: 36",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 02 Sep 2026 22:02:30 +0000",
+          "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 71\n# Comments: 36..."
+        },
+        {
+          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+          "content": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 02 Sep 2026 23:01:00 +0000",
+          "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale...."
+        },
+        {
+          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+          "content": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 02 Sep 2026 22:44:56 +0000",
+          "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe...."
+        }
+      ],
+      "generatedAt": "2026-09-03T06:19:03.038Z"
+    }
+  ]
+}
