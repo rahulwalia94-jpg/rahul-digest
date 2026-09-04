@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T06:27:30.365Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 2 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/2-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Frontier AI: Harness engineering",
+          "url": "https://www.bankofengland.co.uk/research/fintech/frontier-ai-information-sharing-forum/frontier-ai-harness-engineering",
+          "content": "This article outlines the practical considerations involved in designing harnesses that can apply frontier AI capability to cyber defence in a controlled and usable way.",
+          "source": "Bank of England",
+          "publishedAt": "Wed, 02 Sep 2026 12:00:00 +0100",
+          "summary": "This article outlines the practical considerations involved in designing harnesses that can apply frontier AI capability to cyber defence in a controlled and usable way...."
+        }
+      ],
+      "generatedAt": "2026-09-04T06:27:25.409Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 03 Sep 2026 13:13:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 03 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 03 Sep 2026 15:02:08 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Proactive cyber defense for governments and enterprises",
+          "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 02 Sep 2026 16:24:24 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: rethinking child safety and fossil-fueled farming",
+          "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 03 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have b..."
+        },
+        {
+          "title": "Agriculture relies on fossil fuels. It’s costing us.",
+          "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+          "content": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 03 Sep 2026 10:00:00 +0000",
+          "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especial..."
+        }
+      ],
+      "generatedAt": "2026-09-04T06:27:26.317Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "More stock ownership, weaker monetary policy?",
+          "url": "https://www.ft.com/content/ed41bea0-4b8d-47dc-9989-018bd85e52fd?syn-25a6b1a6=1",
+          "content": "A counterintuitive quirk",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 04 Sep 2026 05:30:06 GMT",
+          "summary": "A counterintuitive quirk..."
+        },
+        {
+          "title": "The $275mn question from Guggenheim’s auditor",
+          "url": "https://www.ft.com/content/212311c7-948a-4ee9-b57e-e303eb0eb4f4?syn-25a6b1a6=1",
+          "content": "KPMG warned the asset manager about weak controls within its business last year",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 04 Sep 2026 04:00:27 GMT",
+          "summary": "KPMG warned the asset manager about weak controls within its business last year..."
+        },
+        {
+          "title": "\n        Mexico is struggling to win over bond markets\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
+          "content": "Investors are unconvinced by Claudia Sheinbaum’s policies",
+          "source": "The Economist",
+          "publishedAt": "Thu, 03 Sep 2026 09:35:43 +0000",
+          "summary": "Investors are unconvinced by Claudia Sheinbaum’s policies..."
+        },
+        {
+          "title": "\n        China tries to look past the property slump\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump",
+          "content": "But its new policies could hurt construction and employment",
+          "source": "The Economist",
+          "publishedAt": "Thu, 03 Sep 2026 09:35:32 +0000",
+          "summary": "But its new policies could hurt construction and employment..."
+        },
+        {
+          "title": "Solana launches Payment Channels for AI agents, Alibaba Cloud integrates APIs",
+          "url": "https://seekingalpha.com/news/4640238-solana-launches-payment-channels-for-ai-agents-alibaba-cloud-integrates-apis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 04 Sep 2026 02:12:55 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Asian stocks surge as Waller’s dovish rate comments lift investor risk appetite; eyes on U.S. non-farm payrolls data",
+          "url": "https://seekingalpha.com/news/4640242-asian-stocks-surge-as-wallers-dovish-rate-comments-lift-investor-risk-appetite-eyes-on-us-non-farm-payrolls-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 04 Sep 2026 01:59:52 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: China stocks rebound, but weekly loss looms as AI rally cools ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rebound-but-weekly-loss-looms-as-ai-rally-cools/articleshow/133754061.cms",
+          "content": "China’s mainland stocks gained on Friday, but major benchmarks remained on track for weekly losses as fading momentum in AI shares and elevated US Treasury yields weighed on sentiment. The CSI300 and Shanghai Composite rose 0.4%, while Hong Kong’s Hang Seng advanced 2.1%, led by a rebound in technology stocks.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 04 Sep 2026 11:50:28 +0530",
+          "summary": "China’s mainland stocks gained on Friday, but major benchmarks remained on track for weekly losses as fading momentum in AI shares and elevated US Treasury yields weighed on sentiment. The CSI300 and ..."
+        },
+        {
+          "title": "India bonds pause before weekly debt supply ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-pause-before-weekly-debt-supply/articleshow/133753419.cms",
+          "content": "Indian government bond yields remained steady on Friday morning, with traders eyeing an impending debt sale that could reveal market demand. The recent stabilization of oil prices and U.S. Treasury yields is providing some influence on local markets. Banks are strategizing to cope with surplus liquidity, as ongoing global risks and inflation worries cast a shadow over bond market stability.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 04 Sep 2026 11:25:39 +0530",
+          "summary": "Indian government bond yields remained steady on Friday morning, with traders eyeing an impending debt sale that could reveal market demand. The recent stabilization of oil prices and U.S. Treasury yi..."
+        }
+      ],
+      "generatedAt": "2026-09-04T06:27:27.739Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
+          "url": "https://www.nature.com/articles/d41586-026-02739-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
+          "url": "https://www.nature.com/articles/s41586-026-11091-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-03T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
+          "content": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why it suddenly formed and whether it could persist for decades.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 03 Sep 2026 08:41:39 EDT",
+          "summary": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only beg..."
+        },
+        {
+          "title": "Ancient “living fossils” may reveal how complex life began",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm",
+          "content": "A newly discovered microbe living inside ancient stromatolite communities may offer a rare look at how complex life first emerged. Researchers captured the first direct images of an Asgard archaeon physically connected to a bacterium, with the two microbes appearing to exchange nutrients and other compounds. Scientists think similar partnerships billions of years ago may have helped produce the first complex cells.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 03 Sep 2026 09:11:28 EDT",
+          "summary": "A newly discovered microbe living inside ancient stromatolite communities may offer a rare look at how complex life first emerged. Researchers captured the first direct images of an Asgard archaeon ph..."
+        },
+        {
+          "title": "Just like a fruit fly, a new algorithm never forgets old scents",
+          "url": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
+          "content": "Insect-inspired \"sparse coding\" does fast learning, avoids catastrophic forgetting.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 03 Sep 2026 18:22:52 +0000",
+          "summary": "Insect-inspired \"sparse coding\" does fast learning, avoids catastrophic forgetting...."
+        },
+        {
+          "title": "Meet the 2026 Ig Nobel Prize winners",
+          "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+          "content": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 03 Sep 2026 17:00:37 +0000",
+          "summary": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures...."
+        }
+      ],
+      "generatedAt": "2026-09-04T06:27:28.671Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+          "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+          "content": "Article URL: https://www.agentconnect.md/blog/grep-beat-lsp-harness/\nComments URL: https://news.ycombinator.com/item?id=49560260\nPoints: 56\n# Comments: 32",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 04 Sep 2026 03:40:26 +0000",
+          "summary": "Article URL: https://www.agentconnect.md/blog/grep-beat-lsp-harness/\nComments URL: https://news.ycombinator.com/item?id=49560260\nPoints: 56\n# Comments: 32..."
+        },
+        {
+          "title": "A Mysterious Kidney Disease Has Arrived in Texas",
+          "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+          "content": "Article URL: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/\nComments URL: https://news.ycombinator.com/item?id=49559992\nPoints: 64\n# Comments: 41",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 04 Sep 2026 02:54:16 +0000",
+          "summary": "Article URL: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/\nComments URL: https://news.ycombinator.com/item?id=49559992\nPoints: 64\n# Comments: 41..."
+        },
+        {
+          "title": "The sameness problem behind those unappetizing AI-generated menus",
+          "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+          "content": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 04 Sep 2026 04:21:03 +0000",
+          "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food...."
+        },
+        {
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "content": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 04 Sep 2026 00:48:42 +0000",
+          "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street...."
+        }
+      ],
+      "generatedAt": "2026-09-04T06:27:30.365Z"
+    }
+  ]
+}
