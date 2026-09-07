@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T06:31:32.317Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Macroeconomic dynamics of the output floor",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/macroeconomic-dynamics-of-the-output-floor",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 04 Sep 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Innovation, financial frictions, and persistent effects of monetary policy",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/innovation-financial-frictions-and-persistent-effects-of-monetary-policy",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 04 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-09-07T06:31:15.957Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 03 Sep 2026 13:13:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 03 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 03 Sep 2026 15:02:08 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Proactive cyber defense for governments and enterprises",
+          "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 02 Sep 2026 16:24:24 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Architecting memory and storage in the AI era",
+          "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+          "content": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 04 Sep 2026 18:39:19 +0000",
+          "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv..."
+        },
+        {
+          "title": "The Download: selling battlefield drone data and AI reshaping language",
+          "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 04 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketp..."
+        }
+      ],
+      "generatedAt": "2026-09-07T06:31:17.096Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Everything is awesome",
+          "url": "https://www.ft.com/content/b122bc9f-9f51-46b8-9f42-dba9fb29244c?syn-25a6b1a6=1",
+          "content": "In stocks",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 07 Sep 2026 05:30:08 GMT",
+          "summary": "In stocks..."
+        },
+        {
+          "title": "Could the DMO take the BoE’s long gilts off their hands?",
+          "url": "https://www.ft.com/content/b08623a1-a976-4c5f-b247-0935643124fb",
+          "content": "And should they?",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 07 Sep 2026 05:00:09 GMT",
+          "summary": "And should they?..."
+        },
+        {
+          "title": "\n        Inflation is back around the world—as is the fight against it\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
+          "content": "Central banks are raising interest rates again",
+          "source": "The Economist",
+          "publishedAt": "Sun, 06 Sep 2026 15:39:54 +0000",
+          "summary": "Central banks are raising interest rates again..."
+        },
+        {
+          "title": "\n        The jobs apocalypse is postponed. An AI jobs boom is here\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "content": "Initial effects of the technology on employment look positive",
+          "source": "The Economist",
+          "publishedAt": "Fri, 04 Sep 2026 18:05:02 +0000",
+          "summary": "Initial effects of the technology on employment look positive..."
+        },
+        {
+          "title": "Novartis India inks $132M asset purchase deal with Pfizer for Minipress brands",
+          "url": "https://seekingalpha.com/news/4640545-novartis-india-inks-132m-asset-purchase-deal-with-pfizer-for-minipress-brands?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 07 Sep 2026 02:24:09 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "LVMH stock falls to 6-year low: Weak China demand, technicals to blame",
+          "url": "https://seekingalpha.com/news/4640544-lvmh-stock-falls-to-6-year-low-weak-china-demand-technicals-to-blame?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 07 Sep 2026 02:21:03 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-tcs-other-it-stocks-drop-up-to-3-as-fed-rate-hike-worries-return-heres-why/articleshow/133866433.cms",
+          "content": "Indian IT stocks dropped on Monday as stronger-than-expected US jobs data revived concerns over a September Federal Reserve rate hike. The Nifty IT index dropped over 2%, with Infosys, HCLTech, TCS and others declining. Analysts, however, see longer-term opportunities from AI-led spending on deployment, integration and modernisation.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 07 Sep 2026 11:32:21 +0530",
+          "summary": "Indian IT stocks dropped on Monday as stronger-than-expected US jobs data revived concerns over a September Federal Reserve rate hike. The Nifty IT index dropped over 2%, with Infosys, HCLTech, TCS an..."
+        },
+        {
+          "title": "Did HEG shares really crash 64% in one day? Here’s how the demerger math works ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/did-heg-shares-really-crash-64-in-one-day-heres-how-the-demerger-math-works/articleshow/133866176.cms",
+          "content": "HEG shares opened nearly 64% lower on Monday as the stock adjusted for the company’s demerger, which split its businesses into two separately listed entities. The graphite electrodes business will move to HEG Graphite, while the existing listed company will retain advanced materials, battery energy solutions and green power businesses and be renamed HEG Advanced Materials.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 07 Sep 2026 11:27:09 +0530",
+          "summary": "HEG shares opened nearly 64% lower on Monday as the stock adjusted for the company’s demerger, which split its businesses into two separately listed entities. The graphite electrodes business will mov..."
+        }
+      ],
+      "generatedAt": "2026-09-07T06:31:18.506Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+          "url": "https://www.nature.com/articles/d41586-026-02800-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Super-precise optical clocks in four nations tick in harmony",
+          "url": "https://www.nature.com/articles/d41586-026-02741-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Popular brain supplement linked to shorter lifespan in men",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+          "content": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 06 Sep 2026 17:21:25 EDT",
+          "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers..."
+        },
+        {
+          "title": "A mysterious signal around Earth could be dark matter",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
+          "content": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncovered several intriguing dark photon signals that still need to be explained.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 05 Sep 2026 20:58:46 EDT",
+          "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralig..."
+        },
+        {
+          "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+          "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+          "content": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 06 Sep 2026 11:55:26 +0000",
+          "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"..."
+        },
+        {
+          "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+          "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+          "content": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 06 Sep 2026 10:00:35 +0000",
+          "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate...."
+        }
+      ],
+      "generatedAt": "2026-09-07T06:31:19.758Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+          "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+          "content": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 06 Sep 2026 21:41:06 +0000",
+          "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store...."
+        },
+        {
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "content": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 06 Sep 2026 20:47:37 +0000",
+          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments...."
+        }
+      ],
+      "generatedAt": "2026-09-07T06:31:32.317Z"
+    }
+  ]
+}
