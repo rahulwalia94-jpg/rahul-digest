@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T06:23:46.539Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Macroeconomic dynamics of the output floor",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/macroeconomic-dynamics-of-the-output-floor",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 04 Sep 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Innovation, financial frictions, and persistent effects of monetary policy",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/innovation-financial-frictions-and-persistent-effects-of-monetary-policy",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 04 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-09-08T06:23:41.719Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 03 Sep 2026 13:13:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 03 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 03 Sep 2026 15:02:08 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Proactive cyber defense for governments and enterprises",
+          "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 02 Sep 2026 16:24:24 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+          "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 07 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of explorati..."
+        },
+        {
+          "title": "Architecting memory and storage in the AI era",
+          "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+          "content": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 04 Sep 2026 18:39:19 +0000",
+          "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv..."
+        }
+      ],
+      "generatedAt": "2026-09-08T06:23:42.827Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Offshore borrowing in renminbi hits record high of nearly $150bn",
+          "url": "https://www.ft.com/content/1de12ab6-0343-4113-a832-b0f11c3a9b7a?syn-25a6b1a6=1",
+          "content": "Issuance of ‘dim sum’ and ‘panda’ bonds rises past $149bn so far this year",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 08 Sep 2026 04:33:14 GMT",
+          "summary": "Issuance of ‘dim sum’ and ‘panda’ bonds rises past $149bn so far this year..."
+        },
+        {
+          "title": "The cost of being Apollo",
+          "url": "https://www.ft.com/content/2f0b8e53-60dc-4d31-b31f-9534908c10ae?syn-25a6b1a6=1",
+          "content": "US academics have calculated the price that the private equity group’s portfolio companies pay for its reputation",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 08 Sep 2026 04:00:27 GMT",
+          "summary": "US academics have calculated the price that the private equity group’s portfolio companies pay for its reputation..."
+        },
+        {
+          "title": "\n        Inflation is back around the world—as is the fight against it\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
+          "content": "Central banks are raising interest rates again",
+          "source": "The Economist",
+          "publishedAt": "Sun, 06 Sep 2026 15:39:54 +0000",
+          "summary": "Central banks are raising interest rates again..."
+        },
+        {
+          "title": "\n        The jobs apocalypse is postponed. An AI jobs boom is here\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "content": "Initial effects of the technology on employment look positive",
+          "source": "The Economist",
+          "publishedAt": "Fri, 04 Sep 2026 18:05:02 +0000",
+          "summary": "Initial effects of the technology on employment look positive..."
+        },
+        {
+          "title": "Volkswagen to turn German car plant into defense hub",
+          "url": "https://seekingalpha.com/news/4640620-volkswagen-to-turn-german-car-plant-into-defense-hub?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 08 Sep 2026 02:20:30 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Nvidia supplier Wistron slides 6% after pricing $1.5B stock offering",
+          "url": "https://seekingalpha.com/news/4640629-nvidia-supplier-wistron-slides-6-after-pricing-15b-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 08 Sep 2026 02:17:18 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "India bonds stuck in narrow range, focus on oil, RBI liquidity moves ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-stuck-in-narrow-range-focus-on-oil-rbi-liquidity-moves/articleshow/133910360.cms",
+          "content": "Indian bond traders are navigating uncertain waters as soaring oil prices weigh heavily on market sentiment. In response, the Reserve Bank of India is tightening liquidity to combat rising inflation. This strategic move intends to stabilize overnight rates and counterbalance the pressures of high crude costs. As the RBI adopts a careful approach, the possibility of interest rate hikes looms on the horizon.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 08 Sep 2026 11:22:41 +0530",
+          "summary": "Indian bond traders are navigating uncertain waters as soaring oil prices weigh heavily on market sentiment. In response, the Reserve Bank of India is tightening liquidity to combat rising inflation. ..."
+        },
+        {
+          "title": "Global Market: China stocks edge higher as agriculture, energy and gold shares offset tech weakness ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-edge-higher-as-agriculture-energy-and-gold-shares-offset-tech-weakness/articleshow/133910045.cms",
+          "content": "China’s stock markets edged higher on Tuesday, led by agriculture, energy and gold-related shares, while technology stocks declined. The CSI 300 rose 0.1% and the Shanghai Composite gained 0.4%, while Hong Kong’s Hang Seng fell 0.3% as escalating Middle East tensions weighed on sentiment. Investors are also awaiting US inflation data for clues on the Federal Reserve’s interest-rate outlook, keeping global markets cautious.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 08 Sep 2026 11:19:20 +0530",
+          "summary": "China’s stock markets edged higher on Tuesday, led by agriculture, energy and gold-related shares, while technology stocks declined. The CSI 300 rose 0.1% and the Shanghai Composite gained 0.4%, while..."
+        }
+      ],
+      "generatedAt": "2026-09-08T06:23:44.017Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
+          "url": "https://www.nature.com/articles/d41586-026-02407-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Two children died from gene therapies in China: where the field goes next",
+          "url": "https://www.nature.com/articles/d41586-026-02497-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Popular brain supplement linked to shorter lifespan in men",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+          "content": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 06 Sep 2026 17:21:25 EDT",
+          "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers..."
+        },
+        {
+          "title": "A mysterious signal around Earth could be dark matter",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
+          "content": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncovered several intriguing dark photon signals that still need to be explained.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 05 Sep 2026 20:58:46 EDT",
+          "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralig..."
+        },
+        {
+          "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+          "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+          "content": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 06 Sep 2026 11:55:26 +0000",
+          "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"..."
+        },
+        {
+          "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+          "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+          "content": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 06 Sep 2026 10:00:35 +0000",
+          "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate...."
+        }
+      ],
+      "generatedAt": "2026-09-08T06:23:45.178Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "content": "Article URL: https://cims.nyu.edu/~tristanb/statement.pdf\nComments URL: https://news.ycombinator.com/item?id=49605915\nPoints: 17\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 08 Sep 2026 05:42:28 +0000",
+          "summary": "Article URL: https://cims.nyu.edu/~tristanb/statement.pdf\nComments URL: https://news.ycombinator.com/item?id=49605915\nPoints: 17\n# Comments: 1..."
+        },
+        {
+          "title": "Multi-Agents LLM Financial Trading Framework",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "content": "Article URL: https://github.com/TauricResearch/TradingAgents\nComments URL: https://news.ycombinator.com/item?id=49605822\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 08 Sep 2026 05:20:23 +0000",
+          "summary": "Article URL: https://github.com/TauricResearch/TradingAgents\nComments URL: https://news.ycombinator.com/item?id=49605822\nPoints: 4\n# Comments: 0..."
+        },
+        {
+          "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+          "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+          "content": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 08 Sep 2026 02:16:39 +0000",
+          "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-f..."
+        },
+        {
+          "title": "Opaque recurrence, and other AI terms that you should probably know",
+          "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 07 Sep 2026 19:24:00 +0000",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter...."
+        }
+      ],
+      "generatedAt": "2026-09-08T06:23:46.539Z"
+    }
+  ]
+}
