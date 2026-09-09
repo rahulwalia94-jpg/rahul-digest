@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T06:29:51.451Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Macroeconomic dynamics of the output floor",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/macroeconomic-dynamics-of-the-output-floor",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 04 Sep 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Innovation, financial frictions, and persistent effects of monetary policy",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/innovation-financial-frictions-and-persistent-effects-of-monetary-policy",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 04 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-09-09T06:29:46.337Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 08 Sep 2026 14:23:07 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 03 Sep 2026 13:13:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 03 Sep 2026 15:02:08 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "What OpenAI’s latest controversy tells us about the future of math",
+          "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+          "content": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 09 Sep 2026 03:10:08 +0000",
+          "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan..."
+        },
+        {
+          "title": "The Download: our 35 Innovators Under 35 this year",
+          "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 08 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will..."
+        }
+      ],
+      "generatedAt": "2026-09-09T06:29:47.602Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Norway’s oil fund says what everyone is thinking ",
+          "url": "https://www.ft.com/content/fe0cbcfc-b351-4dac-889f-7b8f11f79102?syn-25a6b1a6=1",
+          "content": "Sovereign debt ain’t what it was",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 09 Sep 2026 05:30:06 GMT",
+          "summary": "Sovereign debt ain’t what it was..."
+        },
+        {
+          "title": "The clock is ticking on Senegal’s ‘total return swaps’",
+          "url": "https://www.ft.com/content/33d4674f-31db-4551-9ad3-c43d5c94c94c",
+          "content": "Not such a FAB way to manage sovereign debt",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 09 Sep 2026 05:00:06 GMT",
+          "summary": "Not such a FAB way to manage sovereign debt..."
+        },
+        {
+          "title": "\n        What is causing the global bond sell-off?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
+          "content": "India hints at the answer",
+          "source": "The Economist",
+          "publishedAt": "Tue, 08 Sep 2026 18:15:09 +0000",
+          "summary": "India hints at the answer..."
+        },
+        {
+          "title": "\n        China’s $54bn capital boost for banks falls far short\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
+          "content": "Old problems bedevil balance-sheets and hold back lending",
+          "source": "The Economist",
+          "publishedAt": "Tue, 08 Sep 2026 16:18:35 +0000",
+          "summary": "Old problems bedevil balance-sheets and hold back lending..."
+        },
+        {
+          "title": "Eldorado Gold hits first copper-gold concentrate milestone at Skouries",
+          "url": "https://seekingalpha.com/news/4641037-eldorado-gold-hits-first-copper-gold-concentrate-milestone-at-skouries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 09 Sep 2026 02:21:49 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Ingram Micro slips 8% after pricing secondary offering at $27.25",
+          "url": "https://seekingalpha.com/news/4641028-ingram-micro-slips-8-after-pricing-secondary-offering-at-2725?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 09 Sep 2026 02:21:27 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Sterlite Tech shares jump 5% to fresh 52-week high, multibagger skyrockets 745% in 2026. What lies ahead? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-jump-5-to-fresh-52-week-high-multibagger-skyrockets-745-in-2026-what-lies-ahead/articleshow/133955950.cms",
+          "content": "Sterlite Technologies shares hit a fresh 52-week high after rising 5% to the upper circuit, taking their 2026 gains to 745%. The rally follows the company’s growth plans, capacity expansion and strong Q1 performance, supported by robust demand for optical connectivity products.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 09 Sep 2026 11:47:34 +0530",
+          "summary": "Sterlite Technologies shares hit a fresh 52-week high after rising 5% to the upper circuit, taking their 2026 gains to 745%. The rally follows the company’s growth plans, capacity expansion and strong..."
+        },
+        {
+          "title": "IFCI shares fall 4% on reports of lower price band for NSE IPO ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-fall-4-on-reports-of-lower-price-band-for-nse-ipo/articleshow/133955883.cms",
+          "content": "IFCI shares fell sharply on Wednesday after reports suggested NSE could price its IPO below earlier indications and reduce the stake offered. The proposed price band of Rs 1,700–1,785 values NSE at around Rs 4.4 lakh crore. IFCI’s indirect exposure to NSE through Stock Holding Corporation has put its shares under pressure.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 09 Sep 2026 11:45:11 +0530",
+          "summary": "IFCI shares fell sharply on Wednesday after reports suggested NSE could price its IPO below earlier indications and reduce the stake offered. The proposed price band of Rs 1,700–1,785 values NSE at ar..."
+        }
+      ],
+      "generatedAt": "2026-09-09T06:29:49.174Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+          "url": "https://www.nature.com/articles/s41586-026-11081-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Put patients at the centre of medical AI governance",
+          "url": "https://www.nature.com/articles/d41586-026-02796-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+          "content": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspired snakebite treatments.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 08 Sep 2026 09:54:56 EDT",
+          "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixture..."
+        },
+        {
+          "title": "Giant new dinosaur discovered beneath construction site in Brazil",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
+          "content": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancestors crossed ancient land connections between Europe, Africa, and South America.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 08 Sep 2026 08:42:29 EDT",
+          "summary": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancest..."
+        },
+        {
+          "title": "NIH to use part of its budget to pay for Department of Defense research",
+          "url": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+          "content": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 08 Sep 2026 20:06:44 +0000",
+          "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted...."
+        },
+        {
+          "title": "Update to Google’s AI weather model improves forecast accuracy",
+          "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+          "content": "Like traditional weather models, it benefits from an expanded set of inputs.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 08 Sep 2026 18:00:56 +0000",
+          "summary": "Like traditional weather models, it benefits from an expanded set of inputs...."
+        }
+      ],
+      "generatedAt": "2026-09-09T06:29:50.336Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The Navier–Stokes Millennium Prize Problem",
+          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+          "content": "Article URL: https://simonwillison.net/2026/Sep/8/on-navier-stokes/\nComments URL: https://news.ycombinator.com/item?id=49621697\nPoints: 35\n# Comments: 6",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 09 Sep 2026 05:55:39 +0000",
+          "summary": "Article URL: https://simonwillison.net/2026/Sep/8/on-navier-stokes/\nComments URL: https://news.ycombinator.com/item?id=49621697\nPoints: 35\n# Comments: 6..."
+        },
+        {
+          "title": "AI Has a Discovery Problem",
+          "url": "https://mhacevedo.com/posts/the-discovery-problem",
+          "content": "Article URL: https://mhacevedo.com/posts/the-discovery-problem\nComments URL: https://news.ycombinator.com/item?id=49621223\nPoints: 5\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 09 Sep 2026 04:59:26 +0000",
+          "summary": "Article URL: https://mhacevedo.com/posts/the-discovery-problem\nComments URL: https://news.ycombinator.com/item?id=49621223\nPoints: 5\n# Comments: 3..."
+        },
+        {
+          "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+          "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+          "content": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 09 Sep 2026 06:00:00 +0000",
+          "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster...."
+        },
+        {
+          "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+          "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+          "content": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 09 Sep 2026 04:01:00 +0000",
+          "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million...."
+        }
+      ],
+      "generatedAt": "2026-09-09T06:29:51.451Z"
+    }
+  ]
+}
