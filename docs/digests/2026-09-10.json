@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T06:28:28.373Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Macroeconomic dynamics of the output floor",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/macroeconomic-dynamics-of-the-output-floor",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 04 Sep 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Innovation, financial frictions, and persistent effects of monetary policy",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/innovation-financial-frictions-and-persistent-effects-of-monetary-policy",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 04 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-09-10T06:28:23.794Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 09 Sep 2026 15:36:24 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 08 Sep 2026 14:23:07 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 03 Sep 2026 15:02:08 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: OpenAI’s turning point for math and a battery record",
+          "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 09 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of ..."
+        },
+        {
+          "title": "Batteries just broke another record in the US",
+          "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+          "content": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 09 Sep 2026 09:00:00 +0000",
+          "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily ..."
+        }
+      ],
+      "generatedAt": "2026-09-10T06:28:25.021Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
+          "url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+          "content": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 10 Sep 2026 05:44:06 GMT",
+          "summary": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme..."
+        },
+        {
+          "title": "Must high bond yields crack stocks? ",
+          "url": "https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
+          "content": "It’s mood first, then maths",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 10 Sep 2026 05:30:08 GMT",
+          "summary": "It’s mood first, then maths..."
+        },
+        {
+          "title": "\n        What is causing the global bond sell-off?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
+          "content": "India hints at the answer",
+          "source": "The Economist",
+          "publishedAt": "Tue, 08 Sep 2026 18:15:09 +0000",
+          "summary": "India hints at the answer..."
+        },
+        {
+          "title": "\n        China’s $54bn capital boost for banks falls far short\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
+          "content": "Old problems bedevil balance-sheets and hold back lending",
+          "source": "The Economist",
+          "publishedAt": "Tue, 08 Sep 2026 16:18:35 +0000",
+          "summary": "Old problems bedevil balance-sheets and hold back lending..."
+        },
+        {
+          "title": "CGI prices dual-tranche C$500M senior unsecured notes offering",
+          "url": "https://seekingalpha.com/news/4641428-cgi-prices-dual-tranche-c500m-senior-unsecured-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 10 Sep 2026 02:13:08 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Germany’s annual inflation rises to 2.9% in August",
+          "url": "https://seekingalpha.com/news/4641438-germanys-annual-inflation-rises-to-29-in-august?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 10 Sep 2026 02:06:43 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "India bonds face twin drag from rising oil, US yields ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-face-twin-drag-from-rising-oil-us-yields/articleshow/133995471.cms",
+          "content": "Indian government bonds weakened for a second day on Thursday. Rising U.S. Treasury yields and crude prices above $100/barrel fueled inflation concerns. Higher oil prices threaten India's import bill and government finances. The rupee also slipped for a fifth day against the dollar. Focus remains on upcoming inflation prints and the Fed's policy decision.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 10 Sep 2026 11:20:41 +0530",
+          "summary": "Indian government bonds weakened for a second day on Thursday. Rising U.S. Treasury yields and crude prices above $100/barrel fueled inflation concerns. Higher oil prices threaten India's import bill ..."
+        },
+        {
+          "title": "Why Jefferies is bullish on Manipal Hospitals after its ₹9,000 crore acquisition spree ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-jefferies-is-bullish-on-manipal-hospitals-after-its-9000-crore-acquisition-spree/articleshow/133995177.cms",
+          "content": "Manipal Hospitals’ acquisition-led expansion is entering a key phase, with Jefferies initiating coverage with a Buy rating and Rs 870 target. The brokerage expects strong earnings growth, driven by the turnaround of Sahyadri Hospitals, new bed additions, higher utilisation and operating leverage. However, execution risks at Sahyadri and intensifying competition in Bengaluru remain key concerns for the investment case.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 10 Sep 2026 11:16:54 +0530",
+          "summary": "Manipal Hospitals’ acquisition-led expansion is entering a key phase, with Jefferies initiating coverage with a Buy rating and Rs 870 target. The brokerage expects strong earnings growth, driven by th..."
+        }
+      ],
+      "generatedAt": "2026-09-10T06:28:26.449Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Distant sensors announced a fearsome tsunami’s birth",
+          "url": "https://www.nature.com/articles/d41586-026-02809-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-10T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
+          "url": "https://www.nature.com/articles/s41586-026-11118-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-09T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists find a bone-building switch that could fight osteoporosis",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
+          "content": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to stronger muscles, researchers see intriguing potential for combating age-related decline and osteoporosis.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 09 Sep 2026 09:52:53 EDT",
+          "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also ..."
+        },
+        {
+          "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm",
+          "content": "Interstellar comet 3I/ATLAS contains exceptionally high levels of methanol, suggesting it formed under conditions very different from those that shaped most comets in our solar system. ALMA also revealed that tiny icy grains around the comet are releasing methanol like miniature comets, giving astronomers an unusually detailed look at an object from another star system.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 09 Sep 2026 04:47:39 EDT",
+          "summary": "Interstellar comet 3I/ATLAS contains exceptionally high levels of methanol, suggesting it formed under conditions very different from those that shaped most comets in our solar system. ALMA also revea..."
+        },
+        {
+          "title": "When it comes to Beatles references, scientists can't let it be",
+          "url": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+          "content": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 09 Sep 2026 19:31:55 +0000",
+          "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers...."
+        },
+        {
+          "title": "Google's AI genome system evaluates every possible one-base change",
+          "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+          "content": "Most one-base changes to the human genome do nothing, but a few are significant.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 09 Sep 2026 16:34:18 +0000",
+          "summary": "Most one-base changes to the human genome do nothing, but a few are significant...."
+        }
+      ],
+      "generatedAt": "2026-09-10T06:28:27.469Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "OpenAI have no mathematicians capable of understanding what they put out",
+          "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
+          "content": "Article URL: https://mastodon.social/@tristanbuckmaster/117237555794407063\nComments URL: https://news.ycombinator.com/item?id=49638622\nPoints: 20\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 10 Sep 2026 05:01:50 +0000",
+          "summary": "Article URL: https://mastodon.social/@tristanbuckmaster/117237555794407063\nComments URL: https://news.ycombinator.com/item?id=49638622\nPoints: 20\n# Comments: 3..."
+        },
+        {
+          "title": "OpenAI might have stolen another major proof",
+          "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+          "content": "Article URL: https://twitter.com/ValerioCapraro/status/2097791836269977996\nComments URL: https://news.ycombinator.com/item?id=49638353\nPoints: 70\n# Comments: 12",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 10 Sep 2026 04:19:48 +0000",
+          "summary": "Article URL: https://twitter.com/ValerioCapraro/status/2097791836269977996\nComments URL: https://news.ycombinator.com/item?id=49638353\nPoints: 70\n# Comments: 12..."
+        },
+        {
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+          "content": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:37 +0000",
+          "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say...."
+        },
+        {
+          "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+          "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+          "content": "Mullenweg said in a company Slack message that it was against his will.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 09 Sep 2026 23:14:29 +0000",
+          "summary": "Mullenweg said in a company Slack message that it was against his will...."
+        }
+      ],
+      "generatedAt": "2026-09-10T06:28:28.373Z"
+    }
+  ]
+}
