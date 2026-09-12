@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T06:17:57.041Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - September 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Bank of England/Savanta Inflation Attitudes Survey - August 2026",
+          "url": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
+          "content": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work...."
+        }
+      ],
+      "generatedAt": "2026-09-12T06:17:50.993Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 09 Sep 2026 15:36:24 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 03 Sep 2026 15:02:08 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Roundtables: AI’s apocalypse crisis",
+          "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+          "content": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 11 Sep 2026 20:05:06 +0000",
+          "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Rev..."
+        },
+        {
+          "title": "The Download: biotech’s future and cheaper, cleaner steel",
+          "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 11 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, M..."
+        }
+      ],
+      "generatedAt": "2026-09-12T06:17:52.086Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Windshield megadeal could fix Europe’s broken IPO window",
+          "url": "https://www.ft.com/content/0e25f645-4e80-4299-a6b6-c09c7d459871?syn-25a6b1a6=1",
+          "content": "Belron is the sort of business that might help investors warm up to more deals",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 12 Sep 2026 04:00:33 GMT",
+          "summary": "Belron is the sort of business that might help investors warm up to more deals..."
+        },
+        {
+          "title": "Nick Train’s trust offers buyback in bid to boost weak share price",
+          "url": "https://www.ft.com/content/36dbe7cd-baa9-4474-9d31-14af67278a14?syn-25a6b1a6=1",
+          "content": "Tender offer by Lindsell Train Investment Trust for 20% of shares aims to address persistently wide discount",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 12 Sep 2026 04:00:33 GMT",
+          "summary": "Tender offer by Lindsell Train Investment Trust for 20% of shares aims to address persistently wide discount..."
+        },
+        {
+          "title": "\n        Surging bond yields presage pain—and not just for bond investors\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
+          "content": "Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds",
+          "source": "The Economist",
+          "publishedAt": "Fri, 11 Sep 2026 16:02:32 +0000",
+          "summary": "Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds..."
+        },
+        {
+          "title": "\n        Can Germany’s economic recovery outrun the AfD?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/10/can-germanys-economic-recovery-outrun-the-afd",
+          "content": "It is showing signs of life—but fragile ones",
+          "source": "The Economist",
+          "publishedAt": "Thu, 10 Sep 2026 09:17:17 +0000",
+          "summary": "It is showing signs of life—but fragile ones..."
+        },
+        {
+          "title": "Boeing, engineers union reach tentative contract agreement",
+          "url": "https://seekingalpha.com/news/4642258-boeing-engineers-union-reach-tentative-contract-agreement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 12 Sep 2026 00:07:03 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Glencore, Mercuria pursuing Venezuela aluminum smelter deal - Bloomberg",
+          "url": "https://seekingalpha.com/news/4642253-glencore-mercuria-pursuing-venezuela-aluminum-smelter-deal-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 11 Sep 2026 20:28:19 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Valuation question! Why did NSE cut its IPO size and price below unlisted market levels? ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/valuation-question-why-did-nse-cut-its-ipo-size-and-price-below-unlisted-market-levels/articleshow/134109696.cms",
+          "content": "NSE MD and CEO Ashish Chauhan said the exchange had invited shareholders to tender shares before filing the draft red herring prospectus. He said bankers advised the exchange on pricing, while the IPO size was based on the shares tendered by shareholders on the day of the updated draft red herring prospectus.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 12 Sep 2026 10:41:44 +0530",
+          "summary": "NSE MD and CEO Ashish Chauhan said the exchange had invited shareholders to tender shares before filing the draft red herring prospectus. He said bankers advised the exchange on pricing, while the IPO..."
+        },
+        {
+          "title": "De-dollarisation and its impact on commodities and global trade ",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/de-dollarisation-and-its-impact-on-commodities-and-global-trade/articleshow/134109334.cms",
+          "content": "For decades, the US dollar has dominated global trade and commodity markets. Most commodities, including crude oil, natural gas, gold, industrial metals, and agricultural products, are priced and traded in dollars.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 12 Sep 2026 10:34:02 +0530",
+          "summary": "For decades, the US dollar has dominated global trade and commodity markets. Most commodities, including crude oil, natural gas, gold, industrial metals, and agricultural products, are priced and trad..."
+        }
+      ],
+      "generatedAt": "2026-09-12T06:17:53.872Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+          "url": "https://www.nature.com/articles/d41586-026-02893-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "NSF moves to overhaul funding approach in line with White House priorities",
+          "url": "https://www.nature.com/articles/d41586-026-02892-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Wasps are disappearing this summer, and scientists are worried",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
+          "content": "Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape insect populations.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 11 Sep 2026 07:38:35 EDT",
+          "summary": "Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that ..."
+        },
+        {
+          "title": "Tiny nanolaser could cut computer energy use in half",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+          "content": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient data centers, smartphones, and advanced medical sensors.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 11 Sep 2026 08:03:26 EDT",
+          "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting ene..."
+        },
+        {
+          "title": "Some satellite companies still have an appetite for boutique launch services",
+          "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "content": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 11 Sep 2026 23:34:45 +0000",
+          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"..."
+        },
+        {
+          "title": "Random rewards enrich classic game-theory insights",
+          "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+          "content": "Simple games gain rich strategies in the face of noise.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 11 Sep 2026 21:41:16 +0000",
+          "summary": "Simple games gain rich strategies in the face of noise...."
+        }
+      ],
+      "generatedAt": "2026-09-12T06:17:55.043Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "OpenAI agents attacked RubyGems back in May",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+          "content": "Article URL: https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\nComments URL: https://news.ycombinator.com/item?id=49668914\nPoints: 19\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 12 Sep 2026 04:46:43 +0000",
+          "summary": "Article URL: https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\nComments URL: https://news.ycombinator.com/item?id=49668914\nPoints: 19\n# Comments: 1..."
+        },
+        {
+          "title": "Usenet rewind archive search engine",
+          "url": "https://www.usenet-rewind.com/",
+          "content": "Article URL: https://www.usenet-rewind.com/\nComments URL: https://news.ycombinator.com/item?id=49668777\nPoints: 27\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 12 Sep 2026 04:19:52 +0000",
+          "summary": "Article URL: https://www.usenet-rewind.com/\nComments URL: https://news.ycombinator.com/item?id=49668777\nPoints: 27\n# Comments: 4..."
+        },
+        {
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "content": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 11 Sep 2026 22:58:17 +0000",
+          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A...."
+        },
+        {
+          "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+          "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+          "content": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 11 Sep 2026 21:19:05 +0000",
+          "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two...."
+        }
+      ],
+      "generatedAt": "2026-09-12T06:17:57.041Z"
+    }
+  ]
+}
