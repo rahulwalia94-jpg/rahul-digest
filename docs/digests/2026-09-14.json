@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T06:50:28.146Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - September 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Bank of England/Savanta Inflation Attitudes Survey - August 2026",
+          "url": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
+          "content": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work...."
+        }
+      ],
+      "generatedAt": "2026-09-14T06:50:24.027Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 09 Sep 2026 15:36:24 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 03 Sep 2026 15:02:08 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Roundtables: Could AI really kill us all?",
+          "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+          "content": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 11 Sep 2026 20:05:06 +0000",
+          "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Rev..."
+        },
+        {
+          "title": "The Download: biotech’s future and cheaper, cleaner steel",
+          "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 11 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, M..."
+        }
+      ],
+      "generatedAt": "2026-09-14T06:50:24.790Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Global AI stocks slip on concerns over risks",
+          "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+          "content": "OpenAI backer SoftBank falls as much as 13% after tech leaders call for slowdown of development",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 14 Sep 2026 05:24:00 GMT",
+          "summary": "OpenAI backer SoftBank falls as much as 13% after tech leaders call for slowdown of development..."
+        },
+        {
+          "title": "Oil hits $108 after Gulf states postpone talks with Iran over Hormuz",
+          "url": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
+          "content": "Delay to crunch meeting sets back efforts to restore shipping through vital waterway",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 14 Sep 2026 04:42:40 GMT",
+          "summary": "Delay to crunch meeting sets back efforts to restore shipping through vital waterway..."
+        },
+        {
+          "title": "\n        Wanted: new business, finance and economics interns\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns",
+          "content": "The Economist invites applications for the Marjorie Deane internship",
+          "source": "The Economist",
+          "publishedAt": "Sat, 12 Sep 2026 08:04:14 +0000",
+          "summary": "The Economist invites applications for the Marjorie Deane internship..."
+        },
+        {
+          "title": "\n        Surging bond yields presage pain—and not just for bond investors\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
+          "content": "Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds",
+          "source": "The Economist",
+          "publishedAt": "Fri, 11 Sep 2026 16:02:32 +0000",
+          "summary": "Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds..."
+        },
+        {
+          "title": "OpenAI CEO calls for ‘pacing, not stopping’ AI development",
+          "url": "https://seekingalpha.com/news/4642328-openai-ceo-calls-for-pacing-not-stopping-ai-development?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 14 Sep 2026 02:39:23 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "SoftBank gets $11.87B loan for OpenAI bet, AI concerns hit shares - report",
+          "url": "https://seekingalpha.com/news/4642325-softbank-gets-1187b-loan-for-openai-bet-ai-concerns-hit-shares---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 14 Sep 2026 02:27:43 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: Samsung, SK Hynix reject $18.7 billion upfront power payment proposal ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-samsung-sk-hynix-reject-18-7-billion-upfront-power-payment-proposal/articleshow/134234539.cms",
+          "content": "Samsung Electronics and SK Hynix have rejected KEPCO’s proposal for a 25 trillion won upfront payment to fund electricity infrastructure for planned semiconductor clusters. The move highlights concerns over uncertain chip demand and the significant costs of expanding power infrastructure.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 14 Sep 2026 11:58:04 +0530",
+          "summary": "Samsung Electronics and SK Hynix have rejected KEPCO’s proposal for a 25 trillion won upfront payment to fund electricity infrastructure for planned semiconductor clusters. The move highlights concern..."
+        },
+        {
+          "title": "Global Market: China stocks mixed, Hong Kong shares edge higher as AI weakness weighs ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-mixed-hong-kong-shares-edge-higher-as-ai-weakness-weighs/articleshow/134234135.cms",
+          "content": "China's mainland stocks traded mixed on Monday as AI and semiconductor shares fell, dragging the CSI AI Index down 1.2% and the STAR50 down 0.9%, even as banking stocks rose due to defensive buying. Hong Kong's Hang Seng gained 0.4%, but its AI sub-index dropped 2.4%, led by a 10.5% plunge in Z.AI after a discounted share placement.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 14 Sep 2026 11:42:00 +0530",
+          "summary": "China's mainland stocks traded mixed on Monday as AI and semiconductor shares fell, dragging the CSI AI Index down 1.2% and the STAR50 down 0.9%, even as banking stocks rose due to defensive buying. H..."
+        }
+      ],
+      "generatedAt": "2026-09-14T06:50:25.809Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
+          "url": "https://www.nature.com/articles/d41586-026-02826-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-13T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+          "url": "https://www.nature.com/articles/d41586-026-02893-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+          "content": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth studying.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 13 Sep 2026 06:46:19 EDT",
+          "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue..."
+        },
+        {
+          "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
+          "content": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating Alzheimer’s.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 13 Sep 2026 09:56:06 EDT",
+          "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery revea..."
+        },
+        {
+          "title": "Some satellite companies still have an appetite for boutique launch services",
+          "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "content": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 11 Sep 2026 23:34:45 +0000",
+          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"..."
+        },
+        {
+          "title": "Random rewards enrich classic game-theory insights",
+          "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+          "content": "Simple games gain rich strategies in the face of noise.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 11 Sep 2026 21:41:16 +0000",
+          "summary": "Simple games gain rich strategies in the face of noise...."
+        }
+      ],
+      "generatedAt": "2026-09-14T06:50:26.504Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Of Gods and Languages: On \"When God Spoke Greek\"",
+          "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
+          "content": "Article URL: https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/\nComments URL: https://news.ycombinator.com/item?id=49692765\nPoints: 3\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 14 Sep 2026 06:34:06 +0000",
+          "summary": "Article URL: https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/\nComments URL: https://news.ycombinator.com/item?id=49692765\nPoints: 3\n# Comments: 0..."
+        },
+        {
+          "title": "Who gets to define the rules for AI?",
+          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+          "content": "Article URL: https://cohere.com/blog/who-gets-to-define-the-rules-for-ai\nComments URL: https://news.ycombinator.com/item?id=49692118\nPoints: 16\n# Comments: 12",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 14 Sep 2026 04:49:51 +0000",
+          "summary": "Article URL: https://cohere.com/blog/who-gets-to-define-the-rules-for-ai\nComments URL: https://news.ycombinator.com/item?id=49692118\nPoints: 16\n# Comments: 12..."
+        },
+        {
+          "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+          "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+          "content": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 13 Sep 2026 21:30:00 +0000",
+          "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $9..."
+        },
+        {
+          "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+          "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+          "content": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 13 Sep 2026 20:49:38 +0000",
+          "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion...."
+        }
+      ],
+      "generatedAt": "2026-09-14T06:50:28.146Z"
+    }
+  ]
+}
