@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T06:32:03.086Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - September 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Bank of England/Savanta Inflation Attitudes Survey - August 2026",
+          "url": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
+          "content": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work...."
+        }
+      ],
+      "generatedAt": "2026-09-15T06:31:58.181Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+          "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 03 Sep 2026 15:02:08 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The AI industry has taken a doomer turn. What now?",
+          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+          "content": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 14 Sep 2026 17:54:22 +0000",
+          "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for..."
+        },
+        {
+          "title": "Donated livers can be made biologically younger",
+          "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+          "content": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 14 Sep 2026 16:11:42 +0000",
+          "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade...."
+        }
+      ],
+      "generatedAt": "2026-09-15T06:31:59.427Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Ten-year Treasury yield hits highest since 2007",
+          "url": "https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1",
+          "content": "Benchmark 10-year hits 5.02% as investors continue to sell government debt in expectations of Fed rate increase",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 15 Sep 2026 06:31:04 GMT",
+          "summary": "Benchmark 10-year hits 5.02% as investors continue to sell government debt in expectations of Fed rate increase..."
+        },
+        {
+          "title": "The great British (and American) fork in the road",
+          "url": "https://www.ft.com/content/7ac9a299-1ba0-428c-9207-ecf959b386f1?syn-25a6b1a6=1",
+          "content": "Something’s cooking, but does it matter?",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 15 Sep 2026 05:30:08 GMT",
+          "summary": "Something’s cooking, but does it matter?..."
+        },
+        {
+          "title": "\n        Wanted: new business, finance and economics interns\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns",
+          "content": "The Economist invites applications for the Marjorie Deane internship",
+          "source": "The Economist",
+          "publishedAt": "Sat, 12 Sep 2026 08:04:14 +0000",
+          "summary": "The Economist invites applications for the Marjorie Deane internship..."
+        },
+        {
+          "title": "\n        Surging bond yields presage pain—and not just for bond investors\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
+          "content": "Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds",
+          "source": "The Economist",
+          "publishedAt": "Fri, 11 Sep 2026 16:02:32 +0000",
+          "summary": "Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds..."
+        },
+        {
+          "title": "Kestra targets $141M FY 2027 revenue and mid-70% gross margin in next few years as Q1 revenue reaches $31M",
+          "url": "https://seekingalpha.com/news/4642733-kestra-targets-141m-fy-2027-revenue-and-midminus-70-percent-gross-margin-in-next-few-years-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 15 Sep 2026 02:13:04 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Trump’s approval recovers from record low, but Democrats gain edge in Congress: Reuters",
+          "url": "https://seekingalpha.com/news/4642731-trumps-approval-recovers-from-record-low-but-democrats-gain-edge-in-congress-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 15 Sep 2026 02:07:52 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Hero Motors IPO opens tomorrow; GMP signals 29% potential listing upside. Check key details ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-opens-tomorrow-gmp-signals-29-potential-listing-upside-check-key-details/articleshow/134253888.cms",
+          "content": "Hero Motors’ Rs 1,000-crore IPO opens on September 16 with a price band of Rs 79–Rs 84 per share. Its Rs 23 grey market premium suggests a potential 27% listing gain, while fresh proceeds will support debt repayment, capacity expansion and acquisitions.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 15 Sep 2026 11:48:32 +0530",
+          "summary": "Hero Motors’ Rs 1,000-crore IPO opens on September 16 with a price band of Rs 79–Rs 84 per share. Its Rs 23 grey market premium suggests a potential 27% listing gain, while fresh proceeds will support..."
+        },
+        {
+          "title": "Goldman, Templeton, Fidelity said to plan buying into NSE IPO ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/goldman-templeton-fidelity-said-to-plan-buying-into-nse-ipo/articleshow/134253848.cms",
+          "content": "Goldman Sachs Asset Management, Franklin Templeton and Fidelity International are among global investors expected to participate as anchor investors in NSE’s IPO. Norges Bank Investment Management, Abu Dhabi Investment Authority, GIC, Millennium Management, Marshall Wace and Citadel Capital are also likely to subscribe. The exchange is preparing to raise up to Rs 22,600 crore through the issue.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 15 Sep 2026 11:45:10 +0530",
+          "summary": "Goldman Sachs Asset Management, Franklin Templeton and Fidelity International are among global investors expected to participate as anchor investors in NSE’s IPO. Norges Bank Investment Management, Ab..."
+        }
+      ],
+      "generatedAt": "2026-09-15T06:32:00.879Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Encoded and non-genetic protein variants expand human functional proteome",
+          "url": "https://www.nature.com/articles/s41586-026-11124-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-14T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-02908-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-14T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists discover strange link between low vitamin D and pain",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm",
+          "content": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain during the first 24 hours after surgery and also used substantially more of the opioid painkiller tramadol. They received slightly more fentanyl during surgery and experienced more postoperative nausea as well.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 14 Sep 2026 08:52:54 EDT",
+          "summary": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely..."
+        },
+        {
+          "title": "Plague was killing entire families thousands of years before the Black Death",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm",
+          "content": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerous because they carried a genetic factor capable of provoking severe immune reactions.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 14 Sep 2026 22:54:45 EDT",
+          "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerou..."
+        },
+        {
+          "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+          "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+          "content": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 15 Sep 2026 03:47:36 +0000",
+          "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"..."
+        },
+        {
+          "title": "A new solar cell could generate electricity underwater",
+          "url": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+          "content": "The trick isn't using perovskites—the trick is making them last.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 14 Sep 2026 18:03:16 +0000",
+          "summary": "The trick isn't using perovskites—the trick is making them last...."
+        }
+      ],
+      "generatedAt": "2026-09-15T06:32:01.958Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Linux from Scratch",
+          "url": "https://www.linuxfromscratch.org/",
+          "content": "Article URL: https://www.linuxfromscratch.org/\nComments URL: https://news.ycombinator.com/item?id=49707627\nPoints: 48\n# Comments: 17",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 15 Sep 2026 04:15:23 +0000",
+          "summary": "Article URL: https://www.linuxfromscratch.org/\nComments URL: https://news.ycombinator.com/item?id=49707627\nPoints: 48\n# Comments: 17..."
+        },
+        {
+          "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+          "content": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\nComments URL: https://news.ycombinator.com/item?id=49706223\nPoints: 127\n# Comments: 57",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 15 Sep 2026 00:40:14 +0000",
+          "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\nComments URL: https://news.ycombinat..."
+        },
+        {
+          "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+          "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+          "content": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 15 Sep 2026 01:50:48 +0000",
+          "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it...."
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "content": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 14 Sep 2026 21:51:02 +0000",
+          "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently...."
+        }
+      ],
+      "generatedAt": "2026-09-15T06:32:03.086Z"
+    }
+  ]
+}
