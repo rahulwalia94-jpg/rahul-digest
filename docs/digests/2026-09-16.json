@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T06:31:27.184Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - September 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Bank of England/Savanta Inflation Attitudes Survey - August 2026",
+          "url": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
+          "content": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work...."
+        }
+      ],
+      "generatedAt": "2026-09-16T06:31:19.589Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 15 Sep 2026 16:00:44 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+          "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "Roundtables: Could AI really kill us all?",
+          "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+          "content": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 15 Sep 2026 17:47:51 +0000",
+          "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremonger..."
+        },
+        {
+          "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+          "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 15 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs D..."
+        }
+      ],
+      "generatedAt": "2026-09-16T06:31:21.028Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "AI debt vs Treasuries",
+          "url": "https://www.ft.com/content/033b21e7-b5d5-4511-ae01-53edaa4e051e?syn-25a6b1a6=1",
+          "content": "Imperfect substitution, at best",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 16 Sep 2026 05:30:03 GMT",
+          "summary": "Imperfect substitution, at best..."
+        },
+        {
+          "title": "The BoE’s three balance sheet problem",
+          "url": "https://www.ft.com/content/3401a104-598d-4145-a03b-8bb08b2d7165",
+          "content": "Issues with the Issue Department",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 16 Sep 2026 05:00:02 GMT",
+          "summary": "Issues with the Issue Department..."
+        },
+        {
+          "title": "\n        What Africa’s biggest IPO can do for its stock markets\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
+          "content": "A new generation of investors is buying up African stocks",
+          "source": "The Economist",
+          "publishedAt": "Tue, 15 Sep 2026 20:44:13 +0000",
+          "summary": "A new generation of investors is buying up African stocks..."
+        },
+        {
+          "title": "\n        Scott Bessent should stop blaming the bond market\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/15/scott-bessent-should-stop-blaming-the-bond-market",
+          "content": "It is working just fine; his interventions, less so",
+          "source": "The Economist",
+          "publishedAt": "Tue, 15 Sep 2026 19:43:54 +0000",
+          "summary": "It is working just fine; his interventions, less so..."
+        },
+        {
+          "title": "Lineage declares $0.5325 dividend",
+          "url": "https://seekingalpha.com/news/4643240-lineage-declares-0_5325-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 16 Sep 2026 02:26:25 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Fulton Financial declares $0.19 dividend",
+          "url": "https://seekingalpha.com/news/4643241-fulton-financial-declares-0_19-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 16 Sep 2026 02:26:19 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Sensex rises 400 points, Nifty nears 23,250 as investors await Fed meeting outcome. What to expect? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-400-points-nifty-nears-23250-as-investors-await-fed-meeting-outcome-what-to-expect/articleshow/134279785.cms",
+          "content": "Sensex and Nifty rebounded around 0.5% on Wednesday after Tuesday’s selloff wiped out more than Rs 9 lakh crore from Dalal Street. Investors await the Federal Reserve’s policy decision, while elevated US bond yields and crude prices continue to weigh on sentiment. Analysts expect volatility and stock-specific opportunities amid the weak market.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 16 Sep 2026 11:44:02 +0530",
+          "summary": "Sensex and Nifty rebounded around 0.5% on Wednesday after Tuesday’s selloff wiped out more than Rs 9 lakh crore from Dalal Street. Investors await the Federal Reserve’s policy decision, while elevated..."
+        },
+        {
+          "title": "Hero Motors IPO Day 1: Check subscription status, GMP at 23%. Should you subscribe? ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-day-1-check-subscription-status-gmp-at-23-should-you-subscribe/articleshow/134279544.cms",
+          "content": "Hero Motors IPO opened for subscription on September 16 and was subscribed 17% on Day 1. The Rs 1,000 crore issue has a grey market premium of 23%, while brokerages cite its automotive technology portfolio and long-term growth potential.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 16 Sep 2026 11:35:20 +0530",
+          "summary": "Hero Motors IPO opened for subscription on September 16 and was subscribed 17% on Day 1. The Rs 1,000 crore issue has a grey market premium of 23%, while brokerages cite its automotive technology port..."
+        }
+      ],
+      "generatedAt": "2026-09-16T06:31:22.642Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
+          "url": "https://www.nature.com/articles/s41586-026-11139-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-15T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+          "url": "https://www.nature.com/articles/s41586-026-11137-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-15T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists reversed biological age in older adults in just 4 weeks",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915100000.htm",
+          "content": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four weeks. The strongest result appeared in participants eating an omnivorous, lower-fat, higher-carbohydrate diet.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 15 Sep 2026 21:35:54 EDT",
+          "summary": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four weeks. The strongest result appeared in participant..."
+        },
+        {
+          "title": "Scientists stunned as volcano cloud starts destroying methane",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915095750.htm",
+          "content": "The Hunga Tonga eruption may have triggered a surprising chemical reaction that destroyed some of the methane released into the atmosphere. Scientists say the discovery could reshape estimates of methane pollution and inspire new methods for slowing near-term global warming.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 15 Sep 2026 11:15:31 EDT",
+          "summary": "The Hunga Tonga eruption may have triggered a surprising chemical reaction that destroyed some of the methane released into the atmosphere. Scientists say the discovery could reshape estimates of meth..."
+        },
+        {
+          "title": "How chimps teach their kids tool tricks",
+          "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+          "content": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 16 Sep 2026 04:00:39 +0000",
+          "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior...."
+        },
+        {
+          "title": "Trump EPA moves to wipe out climate rules for power plants",
+          "url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
+          "content": "EPA says power plant emissions have no material impact on climate change.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 15 Sep 2026 13:43:51 +0000",
+          "summary": "EPA says power plant emissions have no material impact on climate change...."
+        }
+      ],
+      "generatedAt": "2026-09-16T06:31:24.083Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Datamimic – don't let your coding agent invent its own test world",
+          "url": "https://github.com/rapiddweller/datamimic",
+          "content": "Article URL: https://github.com/rapiddweller/datamimic\nComments URL: https://news.ycombinator.com/item?id=49722276\nPoints: 15\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 16 Sep 2026 04:58:36 +0000",
+          "summary": "Article URL: https://github.com/rapiddweller/datamimic\nComments URL: https://news.ycombinator.com/item?id=49722276\nPoints: 15\n# Comments: 2..."
+        },
+        {
+          "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+          "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+          "content": "Article URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\nComments URL: https://news.ycombinator.com/item?id=49721548\nPoints: 65\n# Comments: 17",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 16 Sep 2026 02:46:06 +0000",
+          "summary": "Article URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\nComments URL: https://news.ycombinator.com/item?id=49721548\nPoints: 65\n# Comments: 17..."
+        },
+        {
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+          "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+          "content": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 16 Sep 2026 00:20:39 +0000",
+          "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker...."
+        },
+        {
+          "title": "The AI data center boom is colliding with cities scarred by big industry ",
+          "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+          "content": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 15 Sep 2026 21:47:38 +0000",
+          "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery...."
+        }
+      ],
+      "generatedAt": "2026-09-16T06:31:27.184Z"
+    }
+  ]
+}
