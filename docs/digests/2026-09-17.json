@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T06:31:03.582Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - September 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Bank of England/Savanta Inflation Attitudes Survey - August 2026",
+          "url": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
+          "content": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work...."
+        }
+      ],
+      "generatedAt": "2026-09-17T06:30:57.981Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 15 Sep 2026 16:00:44 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+          "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "Meet a mouse whose brain cortex is made up of human cells",
+          "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+          "content": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 16 Sep 2026 15:00:00 +0000",
+          "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? N..."
+        },
+        {
+          "title": "Building the materials foundation for AI",
+          "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+          "content": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 16 Sep 2026 12:47:34 +0000",
+          "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon..."
+        }
+      ],
+      "generatedAt": "2026-09-17T06:30:59.430Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "US rate rise jolts yen ahead of Bank of Japan meeting",
+          "url": "https://www.ft.com/content/5226dcb7-d89d-4b68-981f-b2736d7e4dca?syn-25a6b1a6=1",
+          "content": "Fed increase adds to pressure on central bank to tighten monetary policy",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 17 Sep 2026 04:15:56 GMT",
+          "summary": "Fed increase adds to pressure on central bank to tighten monetary policy..."
+        },
+        {
+          "title": "Vue explores London IPO as cinemas emerge from ‘six years of hell’",
+          "url": "https://www.ft.com/content/8767b80b-3fd8-4747-b538-98ed8a4afe11?syn-25a6b1a6=1",
+          "content": "Owners of European cinema chain look to capitalise on blockbuster summer with £1.5bn listing",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 17 Sep 2026 04:00:31 GMT",
+          "summary": "Owners of European cinema chain look to capitalise on blockbuster summer with £1.5bn listing..."
+        },
+        {
+          "title": "\n        Soaring bond yields, gaping deficits and towering debts: what could go wrong?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong",
+          "content": "The rich world is flirting with fiscal disaster",
+          "source": "The Economist",
+          "publishedAt": "Wed, 16 Sep 2026 18:22:11 +0000",
+          "summary": "The rich world is flirting with fiscal disaster..."
+        },
+        {
+          "title": "\n        What Africa’s biggest IPO can do for its stock markets\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
+          "content": "A new generation of investors is buying up African stocks",
+          "source": "The Economist",
+          "publishedAt": "Tue, 15 Sep 2026 20:44:13 +0000",
+          "summary": "A new generation of investors is buying up African stocks..."
+        },
+        {
+          "title": "Ferrari enters partnership agreement with Rakuten, starting in 2027",
+          "url": "https://seekingalpha.com/news/4643640-ferrari-enters-partnership-agreement-with-rakuten-starting-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 17 Sep 2026 02:20:03 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "TORM announces closing of 9M share secondary offering by Oaktree affiliate",
+          "url": "https://seekingalpha.com/news/4643636-torm-announces-closing-of-9m-share-secondary-offering-by-oaktree-affiliate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 17 Sep 2026 02:12:20 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "A-One Steels fixes price band for Rs 405-crore IPO opening on September 24 ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/a-one-steels-fixes-price-band-for-rs-405-crore-ipo-opening-on-september-24/articleshow/134303488.cms",
+          "content": "A-One Steels IPO has fixed its price band at Rs 385-405 per share and will open for subscription on September 24. The Rs 405 crore issue comprises a fresh issue and OFS, with proceeds primarily earmarked for repayment of outstanding borrowings.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 17 Sep 2026 11:55:07 +0530",
+          "summary": "A-One Steels IPO has fixed its price band at Rs 385-405 per share and will open for subscription on September 24. The Rs 405 crore issue comprises a fresh issue and OFS, with proceeds primarily earmar..."
+        },
+        {
+          "title": "Juniper Hotels shares rise 2% on proposed Rs 248 crore acquisition of Novotel Imagicaa ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/juniper-hotels-shares-rise-2-on-proposed-rs-248-crore-acquisition-of-novotel-imagicaa/articleshow/134303242.cms",
+          "content": "Juniper Hotels shares rose on Thursday after the company proposed acquiring the operating Novotel Imagicaa hotel in Maharashtra for Rs 248 crore. The 287-key property, located in Khopoli, spans around 11 acres and includes restaurants, banquet and meeting facilities. The acquisition is aimed at expanding Juniper’s presence in the Mumbai-Pune corridor.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 17 Sep 2026 11:46:51 +0530",
+          "summary": "Juniper Hotels shares rose on Thursday after the company proposed acquiring the operating Novotel Imagicaa hotel in Maharashtra for Rs 248 crore. The 287-key property, located in Khopoli, spans around..."
+        }
+      ],
+      "generatedAt": "2026-09-17T06:31:01.483Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Inflection points and transitions in Alzheimer’s disease",
+          "url": "https://www.nature.com/articles/s41586-026-11110-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
+          "url": "https://www.nature.com/articles/s41586-026-11123-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260916232525.htm",
+          "content": "Scientists have found the first evidence that liquid may have flowed across Pluto’s surface in the recent past. Dark features on the enormous Sputnik Planitia glacier appear consistent with liquid nitrogen rising through cracks from deep beneath the ice. Computer models show that nitrogen could melt at the glacier’s base and travel upward like fluid through small conduits. The finding reveals that Pluto may be much more geologically active than its frozen appearance suggests.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 17 Sep 2026 00:02:29 EDT",
+          "summary": "Scientists have found the first evidence that liquid may have flowed across Pluto’s surface in the recent past. Dark features on the enormous Sputnik Planitia glacier appear consistent with liquid nit..."
+        },
+        {
+          "title": "Scientists find a hidden health advantage in black and green rice",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
+          "content": "Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white rice. The combination could make these colorful varieties promising ingredients for foods designed to support blood sugar and metabolic health.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 16 Sep 2026 23:52:12 EDT",
+          "summary": "Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white rice. The combination could make these colorful var..."
+        },
+        {
+          "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+          "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+          "content": "Group plans to be largely out of commission for several weeks.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 16 Sep 2026 21:08:14 +0000",
+          "summary": "Group plans to be largely out of commission for several weeks...."
+        },
+        {
+          "title": "Researchers swap in human brain cells for a mouse's cortex",
+          "url": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
+          "content": "The results are only a slight improvement over missing the entire brain structure.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 16 Sep 2026 19:08:34 +0000",
+          "summary": "The results are only a slight improvement over missing the entire brain structure...."
+        }
+      ],
+      "generatedAt": "2026-09-17T06:31:02.588Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Cloudflare/Security-Audit-Skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "content": "Article URL: https://github.com/cloudflare/security-audit-skill\nComments URL: https://news.ycombinator.com/item?id=49736466\nPoints: 10\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 17 Sep 2026 04:36:55 +0000",
+          "summary": "Article URL: https://github.com/cloudflare/security-audit-skill\nComments URL: https://news.ycombinator.com/item?id=49736466\nPoints: 10\n# Comments: 1..."
+        },
+        {
+          "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+          "url": "https://github.com/browser-use/jev-ultrafast",
+          "content": "Article URL: https://github.com/browser-use/jev-ultrafast\nComments URL: https://news.ycombinator.com/item?id=49735979\nPoints: 19\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 17 Sep 2026 03:12:05 +0000",
+          "summary": "Article URL: https://github.com/browser-use/jev-ultrafast\nComments URL: https://news.ycombinator.com/item?id=49735979\nPoints: 19\n# Comments: 1..."
+        },
+        {
+          "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+          "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+          "content": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 17 Sep 2026 05:00:00 +0000",
+          "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies..."
+        },
+        {
+          "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+          "content": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 17 Sep 2026 03:30:00 +0000",
+          "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or..."
+        }
+      ],
+      "generatedAt": "2026-09-17T06:31:03.582Z"
+    }
+  ]
+}
