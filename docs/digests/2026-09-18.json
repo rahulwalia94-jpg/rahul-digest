@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T06:25:56.858Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 16 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/16-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 17 Sep 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Agents' summary of business conditions - September 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 11 Sep 2026 09:30:00 +0100",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        }
+      ],
+      "generatedAt": "2026-09-18T06:25:53.171Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 15 Sep 2026 16:00:44 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+          "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "The Download: mice with part-human brains and climate tech innovators",
+          "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 17 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Mult..."
+        },
+        {
+          "title": "Meet the innovators under 35 shaping climate tech",
+          "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+          "content": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 17 Sep 2026 10:00:00 +0000",
+          "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the n..."
+        }
+      ],
+      "generatedAt": "2026-09-18T06:25:53.992Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "The QT endgame at the BoE",
+          "url": "https://www.ft.com/content/901d5aca-e0ab-4728-8a24-6b0e616c5139?syn-25a6b1a6=1",
+          "content": "Still trying for boring",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 18 Sep 2026 05:30:08 GMT",
+          "summary": "Still trying for boring..."
+        },
+        {
+          "title": "Venezuela nears deal to move $4bn gold reserve from London  to New York",
+          "url": "https://www.ft.com/content/8f1f3047-372d-425f-bcd6-cfe9d5d4890c?syn-25a6b1a6=1",
+          "content": "Agreement would allow interim government of Delcy Rodríguez to access funding",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 18 Sep 2026 04:00:29 GMT",
+          "summary": "Agreement would allow interim government of Delcy Rodríguez to access funding..."
+        },
+        {
+          "title": "\n        The GDP-per-person slowdown threatens global living standards\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
+          "content": "Brazil, China, Germany and Russia have recently joined an unfortunate club",
+          "source": "The Economist",
+          "publishedAt": "Thu, 17 Sep 2026 10:30:49 +0000",
+          "summary": "Brazil, China, Germany and Russia have recently joined an unfortunate club..."
+        },
+        {
+          "title": "\n        The trickle-down economics of the AI boom\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+          "content": "How fast are AI investments translating into broader gains? Taiwan and South Korea offer hints",
+          "source": "The Economist",
+          "publishedAt": "Thu, 17 Sep 2026 09:27:11 +0000",
+          "summary": "How fast are AI investments translating into broader gains? Taiwan and South Korea offer hints..."
+        },
+        {
+          "title": "Cambria LargeCap Shareholder Yield ETF declares $0.183 dividend",
+          "url": "https://seekingalpha.com/news/4644173-cambria-largecap-shareholder-yield-etf-declares-0_183-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 18 Sep 2026 02:23:38 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Cambria Foreign Shareholder Yield ETF declares $0.256202 dividend",
+          "url": "https://seekingalpha.com/news/4644172-cambria-foreign-shareholder-yield-etf-declares-0_2595-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 18 Sep 2026 02:19:40 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Motilal Oswal sees surging steel prices to offset cost inflation for metal majors. Here are its top stock picks ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-sees-surging-steel-prices-to-offset-cost-inflation-for-metal-majors-here-are-its-top-stock-picks/articleshow/134327119.cms",
+          "content": "Motilal Oswal expects firm steel prices, lean inventories and resilient demand to support a shift toward pricing- and cost-led earnings growth for domestic steelmakers. The brokerage sees stronger realisations ahead and favours companies with cost advantages and raw-material access, naming JSW Steel and Tata Steel as its top picks.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 18 Sep 2026 11:18:46 +0530",
+          "summary": "Motilal Oswal expects firm steel prices, lean inventories and resilient demand to support a shift toward pricing- and cost-led earnings growth for domestic steelmakers. The brokerage sees stronger rea..."
+        },
+        {
+          "title": "Even JPMorgan can’t predict oil’s next move as Iran war crosses more red lines ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/even-jpmorgan-cant-predict-oils-next-move-as-iran-war-crosses-more-red-lines/articleshow/134327059.cms",
+          "content": "JPMorgan says it no longer has a clear baseline for oil prices as Middle East tensions deepen supply risks. Brent remains above $100 a barrel, while lower demand and inventory buffers have helped the market absorb disruptions.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 18 Sep 2026 11:14:20 +0530",
+          "summary": "JPMorgan says it no longer has a clear baseline for oil prices as Middle East tensions deepen supply risks. Brent remains above $100 a barrel, while lower demand and inventory buffers have helped the ..."
+        }
+      ],
+      "generatedAt": "2026-09-18T06:25:55.469Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Cognitive resilience helps to predict Alzheimer’s dementia ",
+          "url": "https://www.nature.com/articles/d41586-026-02897-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Chinese companies doubled down on science after US tech restrictions",
+          "url": "https://www.nature.com/articles/d41586-026-02946-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This popular fermented food may help flush nanoplastics from the body",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917101058.htm",
+          "content": "A kimchi-derived bacterium can bind to nanoplastics under gut-like conditions and may help carry them out of the body. In mice, the probiotic more than doubled the amount of nanoplastics detected in feces, pointing to a surprising potential use for microbes from fermented foods.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 17 Sep 2026 10:42:52 EDT",
+          "summary": "A kimchi-derived bacterium can bind to nanoplastics under gut-like conditions and may help carry them out of the body. In mice, the probiotic more than doubled the amount of nanoplastics detected in f..."
+        },
+        {
+          "title": "Scientists discover a mysterious new frog hiding in the Amazon",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
+          "content": "Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights how much Amazonian biodiversity remains hidden even as habitat loss and climate change threaten these poorly understood species.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 17 Sep 2026 10:08:44 EDT",
+          "summary": "Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights h..."
+        },
+        {
+          "title": "EPA immediately sued over plans to repeal climate rules for power plants",
+          "url": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+          "content": "Public health groups warn EPA rule will cost Americans billions in health bills.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 17 Sep 2026 15:38:04 +0000",
+          "summary": "Public health groups warn EPA rule will cost Americans billions in health bills...."
+        },
+        {
+          "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
+          "url": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+          "content": "\"Dolphins are predators and actively hunt their prey, whether it's been stolen from another species or not.”",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 17 Sep 2026 13:57:14 +0000",
+          "summary": "\"Dolphins are predators and actively hunt their prey, whether it's been stolen from another species or not.”..."
+        }
+      ],
+      "generatedAt": "2026-09-18T06:25:56.253Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Jemalloc 5.4.0",
+          "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+          "content": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\nComments URL: https://news.ycombinator.com/item?id=49750152\nPoints: 18\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 18 Sep 2026 04:20:24 +0000",
+          "summary": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\nComments URL: https://news.ycombinator.com/item?id=49750152\nPoints: 18\n# Comments: 4..."
+        },
+        {
+          "title": "The Scourge of x86 Emulation",
+          "url": "https://fex-emu.com/Scourge-of-emulation/",
+          "content": "Article URL: https://fex-emu.com/Scourge-of-emulation/\nComments URL: https://news.ycombinator.com/item?id=49750094\nPoints: 22\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 18 Sep 2026 04:09:48 +0000",
+          "summary": "Article URL: https://fex-emu.com/Scourge-of-emulation/\nComments URL: https://news.ycombinator.com/item?id=49750094\nPoints: 22\n# Comments: 0..."
+        },
+        {
+          "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+          "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+          "content": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 18 Sep 2026 00:02:36 +0000",
+          "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7...."
+        },
+        {
+          "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+          "content": "The round values the data center giant at $30.9 billion.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 17 Sep 2026 23:25:52 +0000",
+          "summary": "The round values the data center giant at $30.9 billion...."
+        }
+      ],
+      "generatedAt": "2026-09-18T06:25:56.858Z"
+    }
+  ]
+}
