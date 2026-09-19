@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T06:24:24.106Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "One dollar, many prices: dealer-specific pricing of synthetic dollar funding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/one-dollar-many-prices-dealer-specific-pricing-of-synthetic-dollar-funding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 18 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Market Participants Survey results – September 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-september-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 18 Sep 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        }
+      ],
+      "generatedAt": "2026-09-19T06:24:19.848Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 15 Sep 2026 16:00:44 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+          "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "The Download: AI’s extinction risk and bioweapons threat",
+          "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 18 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wedne..."
+        },
+        {
+          "title": "Could AI really kill us all? Your questions, answered.",
+          "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+          "content": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 18 Sep 2026 11:29:22 +0000",
+          "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more que..."
+        }
+      ],
+      "generatedAt": "2026-09-19T06:24:20.809Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "How should investors position for the robot apocalypse?",
+          "url": "https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1",
+          "content": "The end of human existence might be bad for financial markets",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 19 Sep 2026 04:00:33 GMT",
+          "summary": "The end of human existence might be bad for financial markets..."
+        },
+        {
+          "title": "Five ways the Iran energy shock is wrongfooting the world",
+          "url": "https://www.ft.com/content/09c2e11c-1632-42e3-8fc6-809468b7f87e?syn-25a6b1a6=1",
+          "content": "Don’t obsess about the crude price and don’t think this crisis is like its predecessors",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 19 Sep 2026 04:00:24 GMT",
+          "summary": "Don’t obsess about the crude price and don’t think this crisis is like its predecessors..."
+        },
+        {
+          "title": "\n        The GDP-per-person slowdown threatens global living standards\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
+          "content": "Brazil, China, Germany and Russia have recently joined an unfortunate club",
+          "source": "The Economist",
+          "publishedAt": "Thu, 17 Sep 2026 10:30:49 +0000",
+          "summary": "Brazil, China, Germany and Russia have recently joined an unfortunate club..."
+        },
+        {
+          "title": "\n        The trickle-down economics of the AI boom\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+          "content": "How fast are AI investments translating into broader gains? Taiwan and South Korea offer hints",
+          "source": "The Economist",
+          "publishedAt": "Thu, 17 Sep 2026 09:27:11 +0000",
+          "summary": "How fast are AI investments translating into broader gains? Taiwan and South Korea offer hints..."
+        },
+        {
+          "title": "Warner Bros. jumps on report of settlement talks with California AG",
+          "url": "https://seekingalpha.com/news/4644557-warner-bros-jumps-on-report-of-settlement-talks-with-california-ag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 18 Sep 2026 21:14:33 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Oil falls for third straight day as Saudi supply disruptions look less severe than feared",
+          "url": "https://seekingalpha.com/news/4644555-oil-falls-for-third-straight-day-as-saudi-supply-disruptions-look-less-severe-than-feared?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 18 Sep 2026 19:30:21 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Warren Buffett’s culture, values he championed will stay and his son will be the guardian, says CEO Greg Abel ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffetts-culture-values-he-championed-will-stay-and-his-son-will-be-the-guardian-says-ceo-greg-abel/articleshow/134348711.cms",
+          "content": "Warren Buffett has stepped down as Berkshire Hathaway chairman after more than 60 years, handing the role to his son Howard Buffett while Greg Abel continues as CEO. Abel said Buffett’s culture and values will remain central to the $1.1 trillion conglomerate as it moves into its next chapter.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 19 Sep 2026 11:29:46 +0530",
+          "summary": "Warren Buffett has stepped down as Berkshire Hathaway chairman after more than 60 years, handing the role to his son Howard Buffett while Greg Abel continues as CEO. Abel said Buffett’s culture and va..."
+        },
+        {
+          "title": "Concurrent Gainers: 10 smallcap stocks that gain for 5 days in a row ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-10-smallcap-stocks-that-gain-for-5-days-in-a-row/slideshow/134348701.cms",
+          "content": "Ten BSE SmallCap stocks, led by Moneyboxx Finance with a 47% gain, rose in each of the five trading sessions through September 18 despite broader market weakness.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 19 Sep 2026 11:14:44 +0530",
+          "summary": "Ten BSE SmallCap stocks, led by Moneyboxx Finance with a 47% gain, rose in each of the five trading sessions through September 18 despite broader market weakness...."
+        }
+      ],
+      "generatedAt": "2026-09-19T06:24:22.324Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+          "url": "https://www.nature.com/articles/d41586-026-02897-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+          "url": "https://www.nature.com/articles/d41586-026-02984-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
+          "content": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface. The breakthrough could pave the way for dramatically faster photonic communications, computing, and sensing technologies.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 18 Sep 2026 07:50:13 EDT",
+          "summary": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface. The breakthrough could pave the way for dramatically faster photonic c..."
+        },
+        {
+          "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
+          "content": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake, Lielaphis slashi, is a species scientists had never formally recognized before. The nonvenomous snake may use large rear teeth to catch slippery lizards and reptile eggs.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 18 Sep 2026 08:07:03 EDT",
+          "summary": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish..."
+        },
+        {
+          "title": "Finding the cells that put our brain to sleep",
+          "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+          "content": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 18 Sep 2026 17:49:50 +0000",
+          "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep...."
+        },
+        {
+          "title": "Meet the winner of Nikon's Small World in Motion video contest",
+          "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+          "content": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 18 Sep 2026 13:56:57 +0000",
+          "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder...."
+        }
+      ],
+      "generatedAt": "2026-09-19T06:24:23.361Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+          "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+          "content": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\nComments URL: https://news.ycombinator.com/item?id=49763697\nPoints: 16\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 19 Sep 2026 05:48:50 +0000",
+          "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\nComments URL: https://news.ycombinator.com/item?id=49763697\nPoints: 16\n# Comments: 3..."
+        },
+        {
+          "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+          "content": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/\nComments URL: https://news.ycombinator.com/item?id=49763379\nPoints: 10\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 19 Sep 2026 04:44:35 +0000",
+          "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/\nComments URL: https://news.ycombinator.com/item?id=49763379\nPoints: 10\n# Comment..."
+        },
+        {
+          "title": "India forces caller-ID apps to feed spam reports to telcos",
+          "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+          "content": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 19 Sep 2026 01:00:00 +0000",
+          "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators...."
+        },
+        {
+          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+          "content": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 19 Sep 2026 00:12:07 +0000",
+          "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese...."
+        }
+      ],
+      "generatedAt": "2026-09-19T06:24:24.106Z"
+    }
+  ]
+}
