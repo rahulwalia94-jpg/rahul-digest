@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T06:46:47.166Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "One dollar, many prices: dealer-specific pricing of synthetic dollar funding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/one-dollar-many-prices-dealer-specific-pricing-of-synthetic-dollar-funding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 18 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Market Participants Survey results – September 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-september-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 18 Sep 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        }
+      ],
+      "generatedAt": "2026-09-20T06:46:41.077Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 15 Sep 2026 16:00:44 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+          "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "The Download: AI’s extinction risk and bioweapons threat",
+          "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 18 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wedne..."
+        },
+        {
+          "title": "Could AI really kill us all? Your questions, answered.",
+          "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+          "content": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 18 Sep 2026 11:29:22 +0000",
+          "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more que..."
+        }
+      ],
+      "generatedAt": "2026-09-20T06:46:41.786Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "The Gulf cargo trade that vanished",
+          "url": "https://www.ft.com/content/c9d13509-7a93-40a9-b2d4-c3292028813a?syn-25a6b1a6=1",
+          "content": "The Strait of Hormuz was a transit hub for goods from helium to corn. Businesses have battled to find alternative routes",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 20 Sep 2026 04:00:04 GMT",
+          "summary": "The Strait of Hormuz was a transit hub for goods from helium to corn. Businesses have battled to find alternative routes..."
+        },
+        {
+          "title": "Biodiesel for shipping now cheaper than conventional fuels after price fall",
+          "url": "https://www.ft.com/content/e2cbfd2e-ee56-4d8b-a403-cbaae4cce191?syn-25a6b1a6=1",
+          "content": "Supplies racing to hit emissions targets push cost to record low, in move that could accelerate industry’s shift to greener fuels",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 20 Sep 2026 04:00:03 GMT",
+          "summary": "Supplies racing to hit emissions targets push cost to record low, in move that could accelerate industry’s shift to greener fuels..."
+        },
+        {
+          "title": "\n        The GDP-per-person slowdown threatens global living standards\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
+          "content": "Brazil, China, Germany and Russia have recently joined an unfortunate club",
+          "source": "The Economist",
+          "publishedAt": "Thu, 17 Sep 2026 10:30:49 +0000",
+          "summary": "Brazil, China, Germany and Russia have recently joined an unfortunate club..."
+        },
+        {
+          "title": "\n        The trickle-down economics of the AI boom\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+          "content": "How fast are AI investments translating into broader gains? Taiwan and South Korea offer hints",
+          "source": "The Economist",
+          "publishedAt": "Thu, 17 Sep 2026 09:27:11 +0000",
+          "summary": "How fast are AI investments translating into broader gains? Taiwan and South Korea offer hints..."
+        },
+        {
+          "title": "Exxon raises 2050 global emissions forecast, warns coal will push levels past climate targets",
+          "url": "https://seekingalpha.com/news/4644556-exxon-raises-2050-global-emissions-forecast-warns-coal-will-push-levels-past-climate-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 19 Sep 2026 20:25:52 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Trump to form “AI Force”; says AI will make up 25% of U.S. GDP",
+          "url": "https://seekingalpha.com/news/4644567-trump-to-form-ai-force-says-ai-will-make-up-25-percent-of-u-s-gdp?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 19 Sep 2026 14:04:12 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Rs 4,169 crore IPO rush this week: 19 issues to open for subscription; NSE to lead 12 listings ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-4169-crore-ipo-rush-this-week-19-issues-to-open-for-subscription-nse-to-lead-12-listings/articleshow/134364576.cms",
+          "content": "India’s primary market is set for a busy week, with 19 IPOs aiming to raise around Rs 4,169 crore, led by Elevate Campuses and Varmora Granito. The week will also see 12 listings, including NSE, as investors track grey market trends.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 20 Sep 2026 11:59:13 +0530",
+          "summary": "India’s primary market is set for a busy week, with 19 IPOs aiming to raise around Rs 4,169 crore, led by Elevate Campuses and Varmora Granito. The week will also see 12 listings, including NSE, as in..."
+        },
+        {
+          "title": "NSE GMP falls to its lowest level since the IPO announcement. Is the listing pop fading? ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-gmp-falls-to-its-lowest-level-since-the-ipo-announcement-is-the-listing-pop-fading/articleshow/134364080.cms",
+          "content": "NSE IPO’s grey market premium has fallen from Rs 192 to around Rs 58, implying a listing premium of just over 3% at the upper price band. The decline comes despite the Rs 22,562-crore issue crossing full subscription on day two.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 20 Sep 2026 11:03:40 +0530",
+          "summary": "NSE IPO’s grey market premium has fallen from Rs 192 to around Rs 58, implying a listing premium of just over 3% at the upper price band. The decline comes despite the Rs 22,562-crore issue crossing f..."
+        }
+      ],
+      "generatedAt": "2026-09-20T06:46:42.832Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+          "url": "https://www.nature.com/articles/d41586-026-02897-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+          "url": "https://www.nature.com/articles/d41586-026-02984-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A deadly ebola relative is surging after years in the shadows",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260919031042.htm",
+          "content": "A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for familiar pathogens could leave the world vulnerable when rare but deadly viruses suddenly reemerge.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 19 Sep 2026 22:26:36 EDT",
+          "summary": "A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for fam..."
+        },
+        {
+          "title": "A giant crater may reveal the origin of Mars’ doomed moon",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm",
+          "content": "A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcoming MMX sample return mission could provide the measurements and physical evidence needed to solve the mystery.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 19 Sep 2026 08:12:41 EDT",
+          "summary": "A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcomin..."
+        },
+        {
+          "title": "Learning another language may be one of the best ways to keep your brain healthy",
+          "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+          "content": "Research suggests that bilingualism can offer cognitive benefits.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 19 Sep 2026 11:10:43 +0000",
+          "summary": "Research suggests that bilingualism can offer cognitive benefits...."
+        },
+        {
+          "title": "Rings around a tiny body have changed over the past decade",
+          "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+          "content": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 19 Sep 2026 10:00:06 +0000",
+          "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing...."
+        }
+      ],
+      "generatedAt": "2026-09-20T06:46:43.668Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Telling a Computer to Do Things",
+          "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+          "content": "Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/\nComments URL: https://news.ycombinator.com/item?id=49772662\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 20 Sep 2026 05:11:33 +0000",
+          "summary": "Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/\nComments URL: https://news.ycombinator.com/item?id=49772662\nPoints: 6\n# Comments: 0..."
+        },
+        {
+          "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+          "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+          "content": "Article URL: https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0\nComments URL: https://news.ycombinator.com/item?id=49772541\nPoints: 19\n# Comments: 10",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 20 Sep 2026 04:38:00 +0000",
+          "summary": "Article URL: https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0\nComments URL: https://news.ycombinator.com/item?id=49772541\nPoints: 19\n# Comments: 10..."
+        },
+        {
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+          "content": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 19 Sep 2026 20:39:13 +0000",
+          "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff...."
+        },
+        {
+          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "content": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 19 Sep 2026 19:57:47 +0000",
+          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax...."
+        }
+      ],
+      "generatedAt": "2026-09-20T06:46:47.166Z"
+    }
+  ]
+}
