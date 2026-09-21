@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T06:53:40.638Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "One dollar, many prices: dealer-specific pricing of synthetic dollar funding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/one-dollar-many-prices-dealer-specific-pricing-of-synthetic-dollar-funding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 18 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Market Participants Survey results – September 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-september-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 18 Sep 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        }
+      ],
+      "generatedAt": "2026-09-21T06:53:33.221Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 15 Sep 2026 16:00:44 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+          "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "The Download: AI’s extinction risk and bioweapons threat",
+          "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 18 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wedne..."
+        },
+        {
+          "title": "Could AI really kill us all? Your questions, answered.",
+          "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+          "content": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 18 Sep 2026 11:29:22 +0000",
+          "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more que..."
+        }
+      ],
+      "generatedAt": "2026-09-21T06:53:34.295Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Trafigura to float supertanker arm in first IPO of a business",
+          "url": "https://www.ft.com/content/a1c9d298-8af9-4cf4-9c47-e2eb50cd03d9?syn-25a6b1a6=1",
+          "content": "Commodities trader to take Volare Shipping public in Oslo as Gulf crisis drives tanker rates to record highs",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 21 Sep 2026 06:30:09 GMT",
+          "summary": "Commodities trader to take Volare Shipping public in Oslo as Gulf crisis drives tanker rates to record highs..."
+        },
+        {
+          "title": "Nepotism at Berkshire",
+          "url": "https://www.ft.com/content/9f3fd7bc-ca51-4401-8f63-b6b25e88621f?syn-25a6b1a6=1",
+          "content": "Plus, fear gives gold a boost",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 21 Sep 2026 05:30:08 GMT",
+          "summary": "Plus, fear gives gold a boost..."
+        },
+        {
+          "title": "\n        House prices survived the last interest-rate rise. Will they this time?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+          "content": "Supports that shored up the housing market when borrowing costs last rose are gone",
+          "source": "The Economist",
+          "publishedAt": "Sun, 20 Sep 2026 09:05:41 +0000",
+          "summary": "Supports that shored up the housing market when borrowing costs last rose are gone..."
+        },
+        {
+          "title": "\n        The GDP-per-person slowdown threatens global living standards\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
+          "content": "Brazil, China, Germany and Russia have recently joined an unfortunate club",
+          "source": "The Economist",
+          "publishedAt": "Thu, 17 Sep 2026 10:30:49 +0000",
+          "summary": "Brazil, China, Germany and Russia have recently joined an unfortunate club..."
+        },
+        {
+          "title": "Specialised Therapeutics to commercialize Incyte’s Opzelura in Australia",
+          "url": "https://seekingalpha.com/news/4644608-specialised-therapeutics-to-commercialize-incytes-opzelura-in-australia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 21 Sep 2026 02:51:54 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Facebook, Instagram recover after brief outage hits users in U.S. and other markets",
+          "url": "https://seekingalpha.com/news/4644617-facebook-instagram-recover-after-brief-outage-hits-users-in-us-and-other-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 21 Sep 2026 02:23:45 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "OFSS shares tumble 7%; Wipro, Coforge, Infosys shares down up to 2%. Why are IT stocks under pressure today? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ofss-shares-tumble-7-wipro-coforge-infosys-shares-down-up-to-2-why-are-it-stocks-under-pressure-today/articleshow/134381888.cms",
+          "content": "Shares of OFSS fell over 7% while top IT stocks including Infosys, Wipro, and Coforge dropped up to 2% on Monday. The drag comes following reports of Oracle's $18 billion data centre debt pressure and US President Donald Trump extending the $100,000 H-1B visa fee by another year.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 21 Sep 2026 11:52:19 +0530",
+          "summary": "Shares of OFSS fell over 7% while top IT stocks including Infosys, Wipro, and Coforge dropped up to 2% on Monday. The drag comes following reports of Oracle's $18 billion data centre debt pressure and..."
+        },
+        {
+          "title": "Global Markets: 5 key things to watch out for this week ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-things-to-watch-out-for-this-week/slideshow/134382188.cms",
+          "content": "Global markets face a busy week as investors track US-China talks, Treasury yields, the UN General Assembly, AI risks and Indonesia’s rate decision, with geopolitical tensions and monetary policy shaping sentiment.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 21 Sep 2026 11:50:45 +0530",
+          "summary": "Global markets face a busy week as investors track US-China talks, Treasury yields, the UN General Assembly, AI risks and Indonesia’s rate decision, with geopolitical tensions and monetary policy shap..."
+        }
+      ],
+      "generatedAt": "2026-09-21T06:53:35.730Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+          "url": "https://www.nature.com/articles/d41586-026-02897-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+          "url": "https://www.nature.com/articles/d41586-026-02984-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+          "content": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to keep scientists wondering whether hidden experimental errors or something more surprising is involved.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 20 Sep 2026 06:30:31 EDT",
+          "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The..."
+        },
+        {
+          "title": "8 common food additives linked to high blood pressure and heart disease",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
+          "content": "Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Researchers identified eight widely used preservatives associated with hypertension, although the observational study cannot prove they were directly responsible.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 20 Sep 2026 08:43:41 EDT",
+          "summary": "Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Research..."
+        },
+        {
+          "title": "T. rex teeth indicate it ran as warm as an elephant",
+          "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+          "content": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 20 Sep 2026 09:00:11 +0000",
+          "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures...."
+        },
+        {
+          "title": "Learning another language may be one of the best ways to keep your brain healthy",
+          "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+          "content": "Research suggests that bilingualism can offer cognitive benefits.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 19 Sep 2026 11:10:43 +0000",
+          "summary": "Research suggests that bilingualism can offer cognitive benefits...."
+        }
+      ],
+      "generatedAt": "2026-09-21T06:53:36.772Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+          "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+          "content": "Article URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf\nComments URL: https://news.ycombinator.com/item?id=49783495\nPoints: 31\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 21 Sep 2026 05:55:22 +0000",
+          "summary": "Article URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf\nComments URL: https://news.ycombinator.com/item?id=49783495\nPoints: 31\n# Comments: 2..."
+        },
+        {
+          "title": "Far-left party wins Berlin election, pledging to nationalise housing",
+          "url": "https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/",
+          "content": "Article URL: https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/\nComments URL: https://news.ycombinator.com/item?id=49783406\nPoints: 28\n# Comments: 17",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 21 Sep 2026 05:36:24 +0000",
+          "summary": "Article URL: https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/\nComments URL: https://news.ycombinator.com/item?id=49783406\nPoints: 28\n# Comment..."
+        },
+        {
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+          "content": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 20 Sep 2026 21:41:08 +0000",
+          "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then...."
+        },
+        {
+          "title": "World model companies are keeping a lot of secrets",
+          "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+          "content": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 20 Sep 2026 20:29:07 +0000",
+          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil..."
+        }
+      ],
+      "generatedAt": "2026-09-21T06:53:40.638Z"
+    }
+  ]
+}
