@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T06:39:25.258Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "One dollar, many prices: dealer-specific pricing of synthetic dollar funding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/one-dollar-many-prices-dealer-specific-pricing-of-synthetic-dollar-funding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 18 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Market Participants Survey results – September 2026",
+          "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-september-2026",
+          "content": "Expectations for monetary policy from experts in UK rates markets.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 18 Sep 2026 12:00:00 +0100",
+          "summary": "Expectations for monetary policy from experts in UK rates markets...."
+        }
+      ],
+      "generatedAt": "2026-09-22T06:39:18.938Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 21 Sep 2026 13:44:34 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "tokenizers v1: encode, decode and scaling, measured",
+          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 21 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+          "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 21 Sep 2026 12:20:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it cat..."
+        },
+        {
+          "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+          "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+          "content": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
+          "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a..."
+        }
+      ],
+      "generatedAt": "2026-09-22T06:39:19.686Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Quiet please, the currencies are sleeping",
+          "url": "https://www.ft.com/content/89ea4c20-b9e2-4875-9439-721ca9ba9fdb?syn-25a6b1a6=1",
+          "content": "Plus, the end of stocks’ summer of ‘meh’?",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 22 Sep 2026 05:30:01 GMT",
+          "summary": "Plus, the end of stocks’ summer of ‘meh’?..."
+        },
+        {
+          "title": "Deutsche Bank’s asset manager explores curbs on German property funds",
+          "url": "https://www.ft.com/content/d773c1d5-b515-48d7-9713-14c253972e3a?syn-25a6b1a6=1",
+          "content": "DWS considers emergency measures as investors pull money from open-ended retail product",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 22 Sep 2026 04:00:12 GMT",
+          "summary": "DWS considers emergency measures as investors pull money from open-ended retail product..."
+        },
+        {
+          "title": "\n        House prices survived the last interest-rate rise. Will they this time?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+          "content": "Supports that shored up the housing market when borrowing costs last rose are gone",
+          "source": "The Economist",
+          "publishedAt": "Sun, 20 Sep 2026 09:05:41 +0000",
+          "summary": "Supports that shored up the housing market when borrowing costs last rose are gone..."
+        },
+        {
+          "title": "\n        The GDP-per-person slowdown threatens global living standards\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
+          "content": "Brazil, China, Germany and Russia have recently joined an unfortunate club",
+          "source": "The Economist",
+          "publishedAt": "Thu, 17 Sep 2026 10:30:49 +0000",
+          "summary": "Brazil, China, Germany and Russia have recently joined an unfortunate club..."
+        },
+        {
+          "title": "Braskem creditors demand $3B equity injection amid debt restructuring",
+          "url": "https://seekingalpha.com/news/4645230-braskem-creditors-demand-3b-equity-injection-amid-debt-restructuring?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 22 Sep 2026 02:35:24 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "AbbVie gains EU approval for Rinvoq to treat pediatric arthritis",
+          "url": "https://seekingalpha.com/news/4645238-abbvie-gains-eu-approval-for-rinvoq-to-treat-pediatric-arthritis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 22 Sep 2026 02:30:19 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Hindustan Copper shares gain 3% as company plans Rs 7,000 crore capital investment in next 5 years ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-gain-3-as-company-plans-rs-7000-crore-capital-investment-in-next-5-years/articleshow/134404296.cms",
+          "content": "Hindustan Copper shares rose after the company announced a Rs 7,000 crore investment over the next 5-6 years and signed MoUs with major PSUs to expand its mining portfolio, while also partnering with Chile’s CODELCO on mining expertise and capacity building.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 22 Sep 2026 11:45:11 +0530",
+          "summary": "Hindustan Copper shares rose after the company announced a Rs 7,000 crore investment over the next 5-6 years and signed MoUs with major PSUs to expand its mining portfolio, while also partnering with ..."
+        },
+        {
+          "title": "Embassy Developments rallies 8% after Rs 711 crore residential tower deal with Angel One founder ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/embassy-developments-rallies-8-after-rs-711-crore-residential-tower-deal-with-angel-one-founder/articleshow/134404167.cms",
+          "content": "Embassy Developments shares rallied up to 8% to Rs 63.80 after signing an MoU to sell an entire residential tower at Embassy Terazza in Juhu to Angel One CMD Dinesh Thakkar for Rs 711 crore. Spanning 63,000 sq ft, it is India’s largest single residential property transaction.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 22 Sep 2026 11:40:20 +0530",
+          "summary": "Embassy Developments shares rallied up to 8% to Rs 63.80 after signing an MoU to sell an entire residential tower at Embassy Terazza in Juhu to Angel One CMD Dinesh Thakkar for Rs 711 crore. Spanning ..."
+        }
+      ],
+      "generatedAt": "2026-09-22T06:39:20.737Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
+          "url": "https://www.nature.com/articles/s41586-026-11160-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Six principles for supporting academic freedom in universities",
+          "url": "https://www.nature.com/articles/d41586-026-02932-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Stem cells reverse stroke damage and restore movement in mice",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+          "content": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 21 Sep 2026 21:49:32 EDT",
+          "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the b..."
+        },
+        {
+          "title": "NASA just powered up Roman’s massive 300-megapixel camera",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
+          "content": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working as expected, putting Roman another major step closer to beginning science operations in 2027.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 21 Sep 2026 08:10:58 EDT",
+          "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagrap..."
+        },
+        {
+          "title": "Russel Vought will reportedly be given veto power over all NIH grants",
+          "url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+          "content": "Pending move comes over the objections of the NIH director.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 21 Sep 2026 16:40:26 +0000",
+          "summary": "Pending move comes over the objections of the NIH director...."
+        },
+        {
+          "title": "T. rex teeth indicate it ran as warm as an elephant",
+          "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+          "content": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 20 Sep 2026 09:00:11 +0000",
+          "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures...."
+        }
+      ],
+      "generatedAt": "2026-09-22T06:39:21.594Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Firmware Freedom",
+          "url": "https://playtaurus.com/blog/firmware-freedom",
+          "content": "Article URL: https://playtaurus.com/blog/firmware-freedom\nComments URL: https://news.ycombinator.com/item?id=49797226\nPoints: 7\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 22 Sep 2026 05:49:04 +0000",
+          "summary": "Article URL: https://playtaurus.com/blog/firmware-freedom\nComments URL: https://news.ycombinator.com/item?id=49797226\nPoints: 7\n# Comments: 1..."
+        },
+        {
+          "title": "Apple Music to open concert venue in Battersea Power Station",
+          "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+          "content": "Article URL: https://www.bbc.com/news/articles/c607l2j2rj8ro\nComments URL: https://news.ycombinator.com/item?id=49797139\nPoints: 28\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 22 Sep 2026 05:32:55 +0000",
+          "summary": "Article URL: https://www.bbc.com/news/articles/c607l2j2rj8ro\nComments URL: https://news.ycombinator.com/item?id=49797139\nPoints: 28\n# Comments: 7..."
+        },
+        {
+          "title": "Morphotonics raises €40M to expand its display tech into data centers",
+          "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+          "content": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 22 Sep 2026 06:00:00 +0000",
+          "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL...."
+        },
+        {
+          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+          "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+          "content": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 21 Sep 2026 23:44:28 +0000",
+          "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people...."
+        }
+      ],
+      "generatedAt": "2026-09-22T06:39:25.258Z"
+    }
+  ]
+}
