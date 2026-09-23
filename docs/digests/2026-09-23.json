@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T06:28:27.191Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "The Bank of England’s fees regime for recognised payment systems and specified service providers supervision 2026/27",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-recognised-payment-systems-and-ssps-supervision-2026-27",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 22 Sep 2026 12:00:00 +0100",
+          "summary": "Consultation paper..."
+        },
+        {
+          "title": "One dollar, many prices: dealer-specific pricing of synthetic dollar funding",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/one-dollar-many-prices-dealer-specific-pricing-of-synthetic-dollar-funding",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 18 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-09-23T06:28:20.093Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 22 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Transformers now runs llama.cpp quants",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 22 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome...."
+        },
+        {
+          "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+          "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+          "content": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 22 Sep 2026 13:42:05 +0000",
+          "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live..."
+        },
+        {
+          "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+          "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype  —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 22 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype  —Timnit Gebru, exec..."
+        }
+      ],
+      "generatedAt": "2026-09-23T06:28:21.296Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Oil price on track for longest losing streak in more than 12 months",
+          "url": "https://www.ft.com/content/0a5a5b70-adea-40af-9933-1f7679f9f359?syn-25a6b1a6=1",
+          "content": "Brent crude falls below $99 a barrel in Asian trading amid talks over Middle East conflict",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 23 Sep 2026 05:35:38 GMT",
+          "summary": "Brent crude falls below $99 a barrel in Asian trading amid talks over Middle East conflict..."
+        },
+        {
+          "title": "Private credit’s “soft” defaults",
+          "url": "https://www.ft.com/content/04c5abf0-d7c4-47ca-9391-4a154c14e178?syn-25a6b1a6=1",
+          "content": "How the can gets kicked, and why",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 23 Sep 2026 05:30:08 GMT",
+          "summary": "How the can gets kicked, and why..."
+        },
+        {
+          "title": "\n        You can’t trade your way through the AI apocalypse\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
+          "content": "It’s hard to price the threats posed by a misaligned superintelligence",
+          "source": "The Economist",
+          "publishedAt": "Tue, 22 Sep 2026 19:51:26 +0000",
+          "summary": "It’s hard to price the threats posed by a misaligned superintelligence..."
+        },
+        {
+          "title": "\n        Data centres are straining the insurance market\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/22/data-centres-are-straining-the-insurance-market",
+          "content": "The premiums are juicy, but the financial stakes are hard to digest",
+          "source": "The Economist",
+          "publishedAt": "Tue, 22 Sep 2026 17:36:59 +0000",
+          "summary": "The premiums are juicy, but the financial stakes are hard to digest..."
+        },
+        {
+          "title": "Diageo names WPP’s Joanne Wilson as CFO starting in 2027",
+          "url": "https://seekingalpha.com/news/4645816-diageo-names-wpps-joanne-wilson-as-cfo-starting-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 23 Sep 2026 02:24:54 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Asian stocks trade mixed following Wall Street; Chinese equities edge lower ahead of summit",
+          "url": "https://seekingalpha.com/news/4645805-asian-stocks-trade-mixed-following-wall-street-chinese-equities-edge-lower-ahead-of-summit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 23 Sep 2026 02:13:34 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: China, Hong Kong stocks fall as investors temper Trump-Xi meeting hopes; property shares gain ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-fall-as-investors-temper-trump-xi-meeting-hopes-property-shares-gain/articleshow/134427229.cms",
+          "content": "China and Hong Kong stocks declined on Wednesday as investor expectations surrounding the upcoming summit between US President Donald Trump and Chinese President Xi Jinping cooled. Rising trade friction with Europe further dampened sentiment, although property shares bucked the broader market trend on government support measures for China Vanke.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 23 Sep 2026 11:36:26 +0530",
+          "summary": "China and Hong Kong stocks declined on Wednesday as investor expectations surrounding the upcoming summit between US President Donald Trump and Chinese President Xi Jinping cooled. Rising trade fricti..."
+        },
+        {
+          "title": "IonQ's South Korea Push: What investors need to know ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ionqs-south-korea-push-what-investors-need-to-know/slideshow/134427429.cms",
+          "content": "IonQ shares surged 9.3% following significant updates on its Asia-Pacific expansion and technological advancements. The quantum-computing firm is deepening its presence in South Korea through a strategic partnership with SDT to deploy its Superion 256 system, alongside reporting key breakthroughs in quantum error correction and engineering simulation acceleration.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 23 Sep 2026 11:35:24 +0530",
+          "summary": "IonQ shares surged 9.3% following significant updates on its Asia-Pacific expansion and technological advancements. The quantum-computing firm is deepening its presence in South Korea through a strate..."
+        }
+      ],
+      "generatedAt": "2026-09-23T06:28:22.908Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Biosecurity must protect human functional capacity",
+          "url": "https://www.nature.com/articles/d41586-026-02996-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Why insects need their own protected areas",
+          "url": "https://www.nature.com/articles/d41586-026-02997-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This emerging treatment could help people avoid knee replacement surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260922052030.htm",
+          "content": "A minimally invasive procedure called genicular artery embolization could offer a new middle ground between conservative treatments and knee replacement for osteoarthritis. By blocking tiny blood vessels associated with inflammation, GAE can significantly reduce pain, with some patients reporting little or no pain afterward. Studies suggest the benefits may last two to four years in people who respond well.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 22 Sep 2026 09:31:54 EDT",
+          "summary": "A minimally invasive procedure called genicular artery embolization could offer a new middle ground between conservative treatments and knee replacement for osteoarthritis. By blocking tiny blood vess..."
+        },
+        {
+          "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
+          "content": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity varies dramatically, meaning even caffeine consumed earlier in the day could affect nighttime recovery for some people.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 22 Sep 2026 09:42:49 EDT",
+          "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Ind..."
+        },
+        {
+          "title": "Effort begins to fill the void left by terminated US climate report",
+          "url": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
+          "content": "First paper added to community collection is a roadmap for research.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 22 Sep 2026 16:26:30 +0000",
+          "summary": "First paper added to community collection is a roadmap for research...."
+        },
+        {
+          "title": "Russel Vought will reportedly be given veto power over all NIH grants",
+          "url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+          "content": "Pending move comes over the objections of the NIH director.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 21 Sep 2026 16:40:26 +0000",
+          "summary": "Pending move comes over the objections of the NIH director...."
+        }
+      ],
+      "generatedAt": "2026-09-23T06:28:24.155Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+          "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+          "content": "Article URL: https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/\nComments URL: https://news.ycombinator.com/item?id=49811484\nPoints: 43\n# Comments: 8",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 23 Sep 2026 04:00:43 +0000",
+          "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/\nComments URL: https://news.ycombinator.com/item?id=49811484\nPoints: 43\n# Comments: 8..."
+        },
+        {
+          "title": "Data-only attacks are easier than you think (2024)",
+          "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+          "content": "Article URL: https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think\nComments URL: https://news.ycombinator.com/item?id=49811429\nPoints: 21\n# Comments: 9",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 23 Sep 2026 03:49:28 +0000",
+          "summary": "Article URL: https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think\nComments URL: https://news.ycombinator.com/item?id=49811429\nPoints: 21\n# Comments: 9..."
+        },
+        {
+          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+          "content": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 23 Sep 2026 04:59:08 +0000",
+          "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do...."
+        },
+        {
+          "title": "Discord’s age verification era is upon us, despite community backlash",
+          "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+          "content": "According to Discord, 90% of users will not have to verify their age.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 23 Sep 2026 03:31:12 +0000",
+          "summary": "According to Discord, 90% of users will not have to verify their age...."
+        }
+      ],
+      "generatedAt": "2026-09-23T06:28:27.191Z"
+    }
+  ]
+}
