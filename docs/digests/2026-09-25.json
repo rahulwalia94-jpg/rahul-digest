@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T06:28:27.096Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 23 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/23-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 24 Sep 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "The Bank of England’s fees regime for recognised payment systems and specified service providers supervision 2026/27",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-recognised-payment-systems-and-ssps-supervision-2026-27",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 22 Sep 2026 12:00:00 +0100",
+          "summary": "Consultation paper..."
+        }
+      ],
+      "generatedAt": "2026-09-25T06:28:21.965Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 24 Sep 2026 14:08:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 23 Sep 2026 18:41:40 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 24 Sep 2026 16:20:39 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "content": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 23 Sep 2026 16:00:57 +0000",
+          "summary": "Introducing private, server-side memory to Private AI Compute for personal AI...."
+        },
+        {
+          "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+          "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 24 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s..."
+        },
+        {
+          "title": "AI is dominating the conversation at Climate Week",
+          "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+          "content": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 24 Sep 2026 10:00:00 +0000",
+          "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fan..."
+        }
+      ],
+      "generatedAt": "2026-09-25T06:28:22.775Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Japanese government bond yields hit new high as global sell-off continues ",
+          "url": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
+          "content": "Sharp increase in interest rate expectations across advanced economies, says Capital Economics",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 25 Sep 2026 05:41:20 GMT",
+          "summary": "Sharp increase in interest rate expectations across advanced economies, says Capital Economics..."
+        },
+        {
+          "title": "Bonds can keep falling ",
+          "url": "https://www.ft.com/content/b8817c5a-fc54-4add-bd5c-d1247729b95d?syn-25a6b1a6=1",
+          "content": "Easy to explain, hard to live with",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 25 Sep 2026 05:30:08 GMT",
+          "summary": "Easy to explain, hard to live with..."
+        },
+        {
+          "title": "\n        How the Fed should measure inflation\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
+          "content": "Pinning down the underlying rate may be harder than Kevin Warsh thinks",
+          "source": "The Economist",
+          "publishedAt": "Thu, 24 Sep 2026 09:44:07 +0000",
+          "summary": "Pinning down the underlying rate may be harder than Kevin Warsh thinks..."
+        },
+        {
+          "title": "\n        Israel’s war economy is thriving\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving",
+          "content": "But conflict is worsening its industrial divide",
+          "source": "The Economist",
+          "publishedAt": "Thu, 24 Sep 2026 09:43:14 +0000",
+          "summary": "But conflict is worsening its industrial divide..."
+        },
+        {
+          "title": "Ecopetrol appoints Joaquín Gutiérrez Caballero as CEO",
+          "url": "https://seekingalpha.com/news/4646960-ecopetrol-appoints-joaquin-gutierrez-caballero-as-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 25 Sep 2026 01:57:51 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Oracle-Blue Owl project delay puts spotlight on AI financing - report",
+          "url": "https://seekingalpha.com/news/4646962-oracle-blue-owl-project-delay-puts-spotlight-on-ai-financing---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 25 Sep 2026 01:43:31 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "IPO multibagger ESDS shares hit 5% lower circuit as Q1 net profit more than halves. Time to sell? ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-multibagger-esds-shares-hit-5-lower-circuit-as-q1-net-profit-more-than-halves-time-to-sell/articleshow/134475720.cms",
+          "content": "Newly-listed ESDS Software Solution hit the 5% lower circuit at Rs 1,758 after Q1 FY27 net profit fell 57% sequentially to Rs 29.3 crore. Despite stellar post-IPO gains, analysts advise fresh investors to avoid chasing elevated valuations and suggest allotted investors book partial profits.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 25 Sep 2026 10:36:48 +0530",
+          "summary": "Newly-listed ESDS Software Solution hit the 5% lower circuit at Rs 1,758 after Q1 FY27 net profit fell 57% sequentially to Rs 29.3 crore. Despite stellar post-IPO gains, analysts advise fresh investor..."
+        },
+        {
+          "title": "Welspun Corp shares rise 4% after US subsidiary bags $412.5 million HFIW pipe order ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-rise-4-after-us-subsidiary-bags-412-5-million-hfiw-pipe-order/articleshow/134475500.cms",
+          "content": "Welspun Corp shares rose after its US subsidiary secured a record $412.5 million HFIW pipe order, lifting its global order book to $4.7 billion and strengthening its US manufacturing footprint.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 25 Sep 2026 10:33:56 +0530",
+          "summary": "Welspun Corp shares rose after its US subsidiary secured a record $412.5 million HFIW pipe order, lifting its global order book to $4.7 billion and strengthening its US manufacturing footprint...."
+        }
+      ],
+      "generatedAt": "2026-09-25T06:28:24.435Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "AI bots are flooding researchers with requests for money and time",
+          "url": "https://www.nature.com/articles/d41586-026-03005-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Bumblebees don’t mind a little plastic in their honeypots",
+          "url": "https://www.nature.com/articles/d41586-026-02988-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
+          "content": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 24 Sep 2026 23:19:34 EDT",
+          "summary": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astrono..."
+        },
+        {
+          "title": "Scientists gave worms magnetic bacteria. They lived 43% longer",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260924020357.htm",
+          "content": "A magnet-producing bacterium extended the average lifespan of C. elegans worms by more than 43% while helping protect their neurological and intestinal health. Researchers traced much of the effect to suppression of ferroptosis, a damaging form of cell death linked to iron buildup and oxidative stress.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 24 Sep 2026 23:52:22 EDT",
+          "summary": "A magnet-producing bacterium extended the average lifespan of C. elegans worms by more than 43% while helping protect their neurological and intestinal health. Researchers traced much of the effect to..."
+        },
+        {
+          "title": "Contrary to some reports, you don't have two brains",
+          "url": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
+          "content": "A bad press release makes a good excuse to look at how developmental biology works.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 23 Sep 2026 18:47:36 +0000",
+          "summary": "A bad press release makes a good excuse to look at how developmental biology works...."
+        },
+        {
+          "title": "Small undersea volcanoes may unleash outsized tsunamis",
+          "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+          "content": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 23 Sep 2026 11:15:30 +0000",
+          "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse...."
+        }
+      ],
+      "generatedAt": "2026-09-25T06:28:25.559Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Goodbye Google",
+          "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+          "content": "Article URL: https://robert.ocallahan.org/2026/09/goodbye-google.html\nComments URL: https://news.ycombinator.com/item?id=49840314\nPoints: 110\n# Comments: 82",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 25 Sep 2026 04:52:02 +0000",
+          "summary": "Article URL: https://robert.ocallahan.org/2026/09/goodbye-google.html\nComments URL: https://news.ycombinator.com/item?id=49840314\nPoints: 110\n# Comments: 82..."
+        },
+        {
+          "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+          "url": "https://koi.rest",
+          "content": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.\nThis last part, along with everything else this past year, has caused me a great deal of stress.\nWhile our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.\nIt's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.\nSo I let perfect be the enemy of good and, well... just kept the idea to myself.\nThen I said \"fuck it\" and used AI to make the thing I really wanted to make.\nI realized I didn't want \"perfect\". I wanted \"good enough\".\nI tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.\nSo now, instead of occupying my brain, it now lives on the internet for others to enjoy.\nYes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?\nSo here I am. I made the thing. The weird, little, quiet koi pond.\nThe silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.\nI hope this pond helps you as much as it helped me.\nComments URL: https://news.ycombinator.com/item?id=49837006\nPoints: 165\n# Comments: 41",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 24 Sep 2026 21:33:03 +0000",
+          "summary": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.\nThis last part, along with everything else this past year, has caused me ..."
+        },
+        {
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+          "content": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 25 Sep 2026 05:00:00 +0000",
+          "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period...."
+        },
+        {
+          "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+          "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+          "content": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 24 Sep 2026 23:24:33 +0000",
+          "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well...."
+        }
+      ],
+      "generatedAt": "2026-09-25T06:28:27.096Z"
+    }
+  ]
+}
