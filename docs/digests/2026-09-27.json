@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T06:57:25.649Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Inflation composition and monetary stabilization",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-composition-and-monetary-stabilization",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 25 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 23 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/23-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 24 Sep 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-09-27T06:57:20.579Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 24 Sep 2026 14:08:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 23 Sep 2026 18:41:40 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+          "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 25 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie dete..."
+        },
+        {
+          "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+          "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+          "content": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 25 Sep 2026 09:16:25 +0000",
+          "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly..."
+        }
+      ],
+      "generatedAt": "2026-09-27T06:57:21.292Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Value of old supertankers soars past new builds as market goes ‘bananas’",
+          "url": "https://www.ft.com/content/a2c22bca-f50a-440d-82f8-1a373859770d?syn-25a6b1a6=1",
+          "content": "As freight rates soar, vessel prices are being determined by how quickly a ship can be delivered to buyers",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 27 Sep 2026 04:00:20 GMT",
+          "summary": "As freight rates soar, vessel prices are being determined by how quickly a ship can be delivered to buyers..."
+        },
+        {
+          "title": "Big dreams and tiny revenue are the new norm for AI IPOs",
+          "url": "https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1",
+          "content": "The nature of the AI boom and the size of valuations make the contrast between ambition and income more striking",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 27 Sep 2026 04:00:20 GMT",
+          "summary": "The nature of the AI boom and the size of valuations make the contrast between ambition and income more striking..."
+        },
+        {
+          "title": "\n        How the Fed should measure inflation\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
+          "content": "Pinning down the underlying rate may be harder than Kevin Warsh thinks",
+          "source": "The Economist",
+          "publishedAt": "Thu, 24 Sep 2026 09:44:07 +0000",
+          "summary": "Pinning down the underlying rate may be harder than Kevin Warsh thinks..."
+        },
+        {
+          "title": "\n        Israel’s war economy is thriving\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving",
+          "content": "But conflict is worsening its industrial divide",
+          "source": "The Economist",
+          "publishedAt": "Thu, 24 Sep 2026 09:43:14 +0000",
+          "summary": "But conflict is worsening its industrial divide..."
+        },
+        {
+          "title": "Sheffield says Exxon launched 'smear campaign' to keep him off company's board",
+          "url": "https://seekingalpha.com/news/4647174-sheffield-says-exxon-launched-smear-campaign-to-keep-him-off-companys-board?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 26 Sep 2026 20:25:52 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Apple owes Taction Technology $5.7B for violating haptics patents",
+          "url": "https://seekingalpha.com/news/4647381-apple-owes-taction-technology-5_7b-violating-haptics-patents?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 26 Sep 2026 17:31:04 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Will Nifty, Sensex tumble on Monday? 5 factors which will drive D-Street action this week ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-tumble-on-monday-5-factors-which-will-drive-d-street-action-this-week/articleshow/134515821.cms",
+          "content": "Following a 7-week decline in Nifty, Dalal Street faces a holiday-shortened week driven by five key factors: escalating US-Iran conflict, Brent crude trading above $104, US 10-year Treasury yields above 5.1%, continued FII outflows, and rupee volatility within the 95.50-96.50 trading band.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 27 Sep 2026 11:54:51 +0530",
+          "summary": "Following a 7-week decline in Nifty, Dalal Street faces a holiday-shortened week driven by five key factors: escalating US-Iran conflict, Brent crude trading above $104, US 10-year Treasury yields abo..."
+        },
+        {
+          "title": "ETMarkets NRI Talk| Want to invest in US IPOs? Ankita Pathak on what Indian investors need to know ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-nri-talk-want-to-invest-in-us-ipos-ankita-pathak-on-what-indian-investors-need-to-know/articleshow/134515708.cms",
+          "content": "Under the Liberalised Remittance Scheme, Indian investors have the opportunity to participate in US IPOs, including Anthropic. However, the path for retail investors may be fraught with challenges. Many prominent AI firms are postponing their IPOs due to fluctuating market conditions and strategic considerations. To identify true long-term successes, investors must discern between robust companies and those merely capitalizing on the AI craze, remaining vigilant for potential price volatility.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 27 Sep 2026 11:53:05 +0530",
+          "summary": "Under the Liberalised Remittance Scheme, Indian investors have the opportunity to participate in US IPOs, including Anthropic. However, the path for retail investors may be fraught with challenges. Ma..."
+        }
+      ],
+      "generatedAt": "2026-09-27T06:57:22.869Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+          "url": "https://www.nature.com/articles/d41586-026-03041-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-03032-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+          "content": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity and diabetes.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 26 Sep 2026 08:31:07 EDT",
+          "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding c..."
+        },
+        {
+          "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm",
+          "content": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts, but neurons’ immediately available energy, measured as ATP, then drops. The finding suggests that dreaming may require such intense internal processing that neurons consume energy faster than it can be replenished.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 26 Sep 2026 07:30:49 EDT",
+          "summary": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts, bu..."
+        },
+        {
+          "title": "Is solar's growth finally slowing in the US?",
+          "url": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+          "content": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 25 Sep 2026 18:27:18 +0000",
+          "summary": "Renewables easily cover changes in US demand, which is rising by 2% in 2026...."
+        },
+        {
+          "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+          "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+          "content": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 25 Sep 2026 14:07:46 +0000",
+          "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost...."
+        }
+      ],
+      "generatedAt": "2026-09-27T06:57:23.949Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "What is the size of Yemen? (2024)",
+          "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+          "content": "Article URL: https://theborys.substack.com/p/what-is-the-size-of-yemen\nComments URL: https://news.ycombinator.com/item?id=49862809\nPoints: 108\n# Comments: 18",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 27 Sep 2026 02:40:26 +0000",
+          "summary": "Article URL: https://theborys.substack.com/p/what-is-the-size-of-yemen\nComments URL: https://news.ycombinator.com/item?id=49862809\nPoints: 108\n# Comments: 18..."
+        },
+        {
+          "title": "Real-time feedback: My closing move in every interview",
+          "url": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
+          "content": "Article URL: https://mgrebler.substack.com/p/real-time-feedback-my-closing-move\nComments URL: https://news.ycombinator.com/item?id=49862244\nPoints: 24\n# Comments: 21",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 27 Sep 2026 01:01:18 +0000",
+          "summary": "Article URL: https://mgrebler.substack.com/p/real-time-feedback-my-closing-move\nComments URL: https://news.ycombinator.com/item?id=49862244\nPoints: 24\n# Comments: 21..."
+        },
+        {
+          "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+          "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+          "content": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 27 Sep 2026 01:40:30 +0000",
+          "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure ..."
+        },
+        {
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+          "content": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 27 Sep 2026 01:30:00 +0000",
+          "summary": "The limited test covers select products and users, with a broader rollout planned for later in October...."
+        }
+      ],
+      "generatedAt": "2026-09-27T06:57:25.649Z"
+    }
+  ]
+}
