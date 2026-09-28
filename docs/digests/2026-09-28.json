@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T07:25:33.374Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Inflation composition and monetary stabilization",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-composition-and-monetary-stabilization",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 25 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 23 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/23-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 24 Sep 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-09-28T07:25:27.397Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 24 Sep 2026 14:08:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 23 Sep 2026 18:41:40 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 24 Sep 2026 16:20:39 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "content": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 23 Sep 2026 16:00:57 +0000",
+          "summary": "Introducing private, server-side memory to Private AI Compute for personal AI...."
+        },
+        {
+          "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+          "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 25 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie dete..."
+        },
+        {
+          "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+          "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+          "content": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 25 Sep 2026 09:16:25 +0000",
+          "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly..."
+        }
+      ],
+      "generatedAt": "2026-09-28T07:25:28.362Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Australia’s biggest gold miner rejects $27bn takeover bid",
+          "url": "https://www.ft.com/content/bce81a18-05cf-43a6-9c86-b3238b732230?syn-25a6b1a6=1",
+          "content": "Elliott Management calls on Northern Star Resources to hold talks with South Africa’s Gold Fields",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 28 Sep 2026 06:53:31 GMT",
+          "summary": "Elliott Management calls on Northern Star Resources to hold talks with South Africa’s Gold Fields..."
+        },
+        {
+          "title": "Oil price rise puts more pressure on government bonds",
+          "url": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+          "content": "Brent trades above $107 a barrel as 10-year Treasury yields hit 5.2%",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 28 Sep 2026 06:39:09 GMT",
+          "summary": "Brent trades above $107 a barrel as 10-year Treasury yields hit 5.2%..."
+        },
+        {
+          "title": "\n        How the Fed should measure inflation\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
+          "content": "Pinning down the underlying rate may be harder than Kevin Warsh thinks",
+          "source": "The Economist",
+          "publishedAt": "Thu, 24 Sep 2026 09:44:07 +0000",
+          "summary": "Pinning down the underlying rate may be harder than Kevin Warsh thinks..."
+        },
+        {
+          "title": "\n        Israel’s war economy is thriving\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving",
+          "content": "But conflict is worsening its industrial divide",
+          "source": "The Economist",
+          "publishedAt": "Thu, 24 Sep 2026 09:43:14 +0000",
+          "summary": "But conflict is worsening its industrial divide..."
+        },
+        {
+          "title": "Thales expands Google Cloud partnership to secure agentic AI workflows",
+          "url": "https://seekingalpha.com/news/4647433-thales-expands-google-cloud-partnership-to-secure-agentic-ai-workflows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 28 Sep 2026 03:17:41 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Arcadis expands AI strategic collaboration with Autodesk",
+          "url": "https://seekingalpha.com/news/4647427-arcadis-expands-ai-strategic-collaboration-with-autodesk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 28 Sep 2026 03:16:05 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "IPO allotments today: How to check allotment status for Elevate Campuses, Swastika Infra &amp; ArMee Infotech on NSE, BSE &amp; registrars? ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-allotments-today-how-to-check-allotment-status-for-elevate-campuses-swastika-infra-armee-infotech-on-nse-bse-registrars/articleshow/134534834.cms",
+          "content": "IPO allotments for Elevate Campuses, Swastika Infra and ArMee Infotech are expected on September 28, following subscription between September 23 and 25. Investors can check status through NSE, BSE and respective registrars. The three companies are scheduled to list on September 30, with refunds expected by September 29 for unsuccessful applicants.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 28 Sep 2026 12:34:36 +0530",
+          "summary": "IPO allotments for Elevate Campuses, Swastika Infra and ArMee Infotech are expected on September 28, following subscription between September 23 and 25. Investors can check status through NSE, BSE and..."
+        },
+        {
+          "title": "Global Market: DayOne pushes ahead with potential November IPO amid data center scrutiny ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-dayone-pushes-ahead-with-potential-november-ipo-amid-data-center-scrutiny/articleshow/134534726.cms",
+          "content": "Data center operator DayOne is preparing for a potential US IPO in November, targeting a valuation near $20 billion. The company plans to file with the SEC in October amid heightened investor scrutiny of AI infrastructure, financing costs, customer concentration, secured power capacity and contracted revenues as IPO markets become more selective.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 28 Sep 2026 12:23:41 +0530",
+          "summary": "Data center operator DayOne is preparing for a potential US IPO in November, targeting a valuation near $20 billion. The company plans to file with the SEC in October amid heightened investor scrutiny..."
+        }
+      ],
+      "generatedAt": "2026-09-28T07:25:29.564Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+          "content": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 27 Sep 2026 09:53:39 EDT",
+          "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint su..."
+        },
+        {
+          "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+          "content": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity and diabetes.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 26 Sep 2026 08:31:07 EDT",
+          "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding c..."
+        },
+        {
+          "title": "Is solar's growth finally slowing in the US?",
+          "url": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+          "content": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 25 Sep 2026 18:27:18 +0000",
+          "summary": "Renewables easily cover changes in US demand, which is rising by 2% in 2026...."
+        },
+        {
+          "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+          "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+          "content": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 25 Sep 2026 14:07:46 +0000",
+          "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost...."
+        }
+      ],
+      "generatedAt": "2026-09-28T07:25:31.256Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+          "url": "https://arxiv.org/abs/2110.01834",
+          "content": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 64\n# Comments: 10",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 28 Sep 2026 03:23:53 +0000",
+          "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 64\n# Comments: 10..."
+        },
+        {
+          "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+          "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
+          "content": "Article URL: https://efraingaray.com/en/blog/tabpfn-vs-xgboost/\nComments URL: https://news.ycombinator.com/item?id=49872864\nPoints: 18\n# Comments: 9",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 28 Sep 2026 02:27:40 +0000",
+          "summary": "Article URL: https://efraingaray.com/en/blog/tabpfn-vs-xgboost/\nComments URL: https://news.ycombinator.com/item?id=49872864\nPoints: 18\n# Comments: 9..."
+        },
+        {
+          "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+          "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+          "content": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 28 Sep 2026 04:30:00 +0000",
+          "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market...."
+        },
+        {
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+          "content": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 27 Sep 2026 20:34:28 +0000",
+          "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump..."
+        }
+      ],
+      "generatedAt": "2026-09-28T07:25:33.374Z"
+    }
+  ]
+}
