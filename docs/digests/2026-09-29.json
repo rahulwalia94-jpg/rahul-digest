@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T07:21:49.472Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Inflation composition and monetary stabilization",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-composition-and-monetary-stabilization",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 25 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 23 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/23-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 24 Sep 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-09-29T07:21:40.748Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Holo4: powering generalist computer-use agents",
+          "url": "https://huggingface.co/blog/Hcompany/holo4",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 28 Sep 2026 09:44:05 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 24 Sep 2026 14:08:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+          "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+          "content": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 28 Sep 2026 22:17:07 +0000",
+          "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap..."
+        },
+        {
+          "title": "When can we say AI made a scientific discovery?",
+          "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 28 Sep 2026 17:03:16 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it ..."
+        }
+      ],
+      "generatedAt": "2026-09-29T07:21:41.835Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Rethinking the dollar",
+          "url": "https://www.ft.com/content/3976a165-960a-4f04-98e4-6c39386ef785?syn-25a6b1a6=1",
+          "content": "Strong and stable, somewhat surprisingly",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 29 Sep 2026 05:30:10 GMT",
+          "summary": "Strong and stable, somewhat surprisingly..."
+        },
+        {
+          "title": "Private equity wrestles with its own generational wealth gap",
+          "url": "https://www.ft.com/content/8415255e-3828-4b0b-941b-6415cffbcf28?syn-25a6b1a6=1",
+          "content": "Joe Baratta of Blackstone will retire a billionaire, but future up-and-comers will struggle to match his record",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 29 Sep 2026 04:00:31 GMT",
+          "summary": "Joe Baratta of Blackstone will retire a billionaire, but future up-and-comers will struggle to match his record..."
+        },
+        {
+          "title": "\n        How the Fed should measure inflation\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
+          "content": "Pinning down the underlying rate may be harder than Kevin Warsh thinks",
+          "source": "The Economist",
+          "publishedAt": "Thu, 24 Sep 2026 09:44:07 +0000",
+          "summary": "Pinning down the underlying rate may be harder than Kevin Warsh thinks..."
+        },
+        {
+          "title": "\n        Israel’s war economy is thriving\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving",
+          "content": "But conflict is worsening its industrial divide",
+          "source": "The Economist",
+          "publishedAt": "Thu, 24 Sep 2026 09:43:14 +0000",
+          "summary": "But conflict is worsening its industrial divide..."
+        },
+        {
+          "title": "Lilly’s Foundayo 17.2 mg beats oral semaglutide 25 mg on weight loss",
+          "url": "https://seekingalpha.com/news/4647855-lillys-foundayo-172-mg-beats-oral-semaglutide-25-mg-on-weight-loss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 29 Sep 2026 03:14:42 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Julong Holding announces $897.75K private placement",
+          "url": "https://seekingalpha.com/news/4647840-julong-holding-announces-89775k-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 29 Sep 2026 03:08:05 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Motilal Oswal sees Aster DM EBITDA rising 25% CAGR through FY28; sets Rs 910 target ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-sees-aster-dm-ebitda-rising-25-cagr-through-fy28-sets-rs-910-target/articleshow/134559218.cms",
+          "content": "Motilal Oswal has initiated coverage on Aster DM Quality Care with a Buy rating and Rs 910 target, citing merger synergies, capacity expansion and improving operating metrics. The brokerage expects revenue, EBITDA and PAT to grow at CAGRs of 19.5%, 25% and 33%, respectively, through FY28.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 29 Sep 2026 12:40:29 +0530",
+          "summary": "Motilal Oswal has initiated coverage on Aster DM Quality Care with a Buy rating and Rs 910 target, citing merger synergies, capacity expansion and improving operating metrics. The brokerage expects re..."
+        },
+        {
+          "title": "Nifty Bank crashes 1,800 points in 2 days, slips below 54K for first time in 4 months. What’s next? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-crashes-1800-points-in-2-days-slips-below-54k-for-first-time-in-4-months-whats-next/articleshow/134559248.cms",
+          "content": "Banking stocks have come under heavy pressure, with the Nifty Bank index plunging nearly 1,800 points in two days and slipping below 54,000 for the first time since early June. The selloff has been driven by concerns over potential RBI rate hikes and rising bond yields.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 29 Sep 2026 12:36:24 +0530",
+          "summary": "Banking stocks have come under heavy pressure, with the Nifty Bank index plunging nearly 1,800 points in two days and slipping below 54,000 for the first time since early June. The selloff has been dr..."
+        }
+      ],
+      "generatedAt": "2026-09-29T07:21:43.429Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Is the universe infinite? The answer gets weird fast",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm",
+          "content": "Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a small patch of a much larger curved universe. Space could even be flat while wrapping around on itself in exotic ways.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 27 Sep 2026 23:18:42 EDT",
+          "summary": "Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a s..."
+        },
+        {
+          "title": "Blood tests reveal why astronauts get constipated in space",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
+          "content": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an important concern for future missions to Mars.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 28 Sep 2026 08:49:59 EDT",
+          "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipat..."
+        },
+        {
+          "title": "New device captures carbon dioxide by pumping it across a battery",
+          "url": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+          "content": "The design requires less energy to capture CO2 than current systems.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 28 Sep 2026 20:31:06 +0000",
+          "summary": "The design requires less energy to capture CO2 than current systems...."
+        },
+        {
+          "title": "Scientists solve 1840s space weather mystery",
+          "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+          "content": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 28 Sep 2026 17:56:36 +0000",
+          "summary": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo...."
+        }
+      ],
+      "generatedAt": "2026-09-29T07:21:45.944Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "US Forces Exit Iraq",
+          "url": "https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/",
+          "content": "Article URL: https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/\nComments URL: https://news.ycombinator.com/item?id=49889275\nPoints: 3\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 29 Sep 2026 07:04:26 +0000",
+          "summary": "Article URL: https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/\nComments URL: https://news.ycombinator.com/item?id=49889275\nPoints: 3\n# Co..."
+        },
+        {
+          "title": "Tank Body Problem",
+          "url": "http://www.jimsitu.com",
+          "content": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 73\n# Comments: 16",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 29 Sep 2026 00:41:45 +0000",
+          "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 73\n# Comments: 16..."
+        },
+        {
+          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+          "content": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 29 Sep 2026 05:13:43 +0000",
+          "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity...."
+        },
+        {
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+          "content": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 29 Sep 2026 00:30:00 +0000",
+          "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India...."
+        }
+      ],
+      "generatedAt": "2026-09-29T07:21:49.472Z"
+    }
+  ]
+}
