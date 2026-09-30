@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T07:11:57.749Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Inflation composition and monetary stabilization",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-composition-and-monetary-stabilization",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 25 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 23 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/23-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 24 Sep 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-09-30T07:11:52.282Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 29 Sep 2026 15:30:38 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 29 Sep 2026 13:07:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 24 Sep 2026 16:20:39 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "content": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 23 Sep 2026 16:00:57 +0000",
+          "summary": "Introducing private, server-side memory to Private AI Compute for personal AI...."
+        },
+        {
+          "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+          "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 29 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch ..."
+        },
+        {
+          "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+          "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+          "content": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 29 Sep 2026 11:00:00 +0000",
+          "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achiev..."
+        }
+      ],
+      "generatedAt": "2026-09-30T07:11:53.253Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Bond markets steady after sell-off",
+          "url": "https://www.ft.com/content/cd22d20a-3b65-4534-ac04-f5008810e10a?syn-25a6b1a6=1",
+          "content": "US long-term borrowing costs hit their highest level in almost 25 years on Tuesday",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 30 Sep 2026 05:43:59 GMT",
+          "summary": "US long-term borrowing costs hit their highest level in almost 25 years on Tuesday..."
+        },
+        {
+          "title": "Midterms and the market",
+          "url": "https://www.ft.com/content/b17c3f84-518c-4838-a3ae-8474d23157b7?syn-25a6b1a6=1",
+          "content": "How much will it matter?",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 30 Sep 2026 05:30:04 GMT",
+          "summary": "How much will it matter?..."
+        },
+        {
+          "title": "\n        Investing for babies involves knotty trade-offs\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs",
+          "content": "Should new parents favour financial capital, human capital or something else?",
+          "source": "The Economist",
+          "publishedAt": "Tue, 29 Sep 2026 17:28:26 +0000",
+          "summary": "Should new parents favour financial capital, human capital or something else?..."
+        },
+        {
+          "title": "\n        The AI boom meets a new kind of crypto scam\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
+          "content": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models",
+          "source": "The Economist",
+          "publishedAt": "Tue, 29 Sep 2026 16:05:58 +0000",
+          "summary": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models..."
+        },
+        {
+          "title": "France's September CPI hits 3.0% as August producer prices rise 1.0% M/M",
+          "url": "https://seekingalpha.com/news/4648339-france-september-cpi-hits-30-as-august-producer-prices-rise-10-mm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 30 Sep 2026 03:05:06 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "US lawmakers, including Sen. Warren, push regulators to block $33B AES buyout: Reuters",
+          "url": "https://seekingalpha.com/news/4648337-us-lawmakers-including-sen-warren-push-regulators-to-block-aes-buyout?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 30 Sep 2026 02:40:04 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-factory-activity-returns-to-growth-in-september-as-ai-boom-supports-industrial-sector/articleshow/134583926.cms",
+          "content": "China’s factory activity returned to growth in September, with the official manufacturing PMI rising above the expansion threshold. Strong production and AI-linked demand supported the rebound, though weak domestic demand, employment and property activity remained concerns.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 30 Sep 2026 12:04:47 +0530",
+          "summary": "China’s factory activity returned to growth in September, with the official manufacturing PMI rising above the expansion threshold. Strong production and AI-linked demand supported the rebound, though..."
+        },
+        {
+          "title": "Global Market: Japan 10-Year bond yield heads for record fifth quarterly gain ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-10-year-bond-yield-heads-for-record-fifth-quarterly-gain/articleshow/134583925.cms",
+          "content": "Japan’s 10-year government bond yield is poised for a fifth consecutive quarter of double-digit gains, reflecting global bond-market pressure and concerns over Japan’s fiscal outlook. Mid-term yields are influenced by expectations of a possible October Bank of Japan rate hike, though market-implied odds have declined amid changing U.S. rate expectations and yen pressures.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 30 Sep 2026 12:01:37 +0530",
+          "summary": "Japan’s 10-year government bond yield is poised for a fifth consecutive quarter of double-digit gains, reflecting global bond-market pressure and concerns over Japan’s fiscal outlook. Mid-term yields ..."
+        }
+      ],
+      "generatedAt": "2026-09-30T07:11:54.975Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
+          "url": "https://www.nature.com/articles/s41586-026-11083-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Strange and beautiful creatures spotted on the <i>Challenger</i> expedition",
+          "url": "https://www.nature.com/articles/d41586-026-02972-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
+          "content": "Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for organic compounds and clues to life.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 29 Sep 2026 05:58:00 EDT",
+          "summary": "Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain c..."
+        },
+        {
+          "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm",
+          "content": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilometers beneath our feet.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 29 Sep 2026 01:08:47 EDT",
+          "summary": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world..."
+        },
+        {
+          "title": "Less protein for maggots means longer lives for fruit flies",
+          "url": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
+          "content": "Eating less protein as larvae may limit their ability to produce proteins as adults.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 29 Sep 2026 14:39:25 +0000",
+          "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults...."
+        },
+        {
+          "title": "New device captures carbon dioxide by pumping it across a battery",
+          "url": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+          "content": "The design requires less energy to capture CO2 than current systems.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 28 Sep 2026 20:31:06 +0000",
+          "summary": "The design requires less energy to capture CO2 than current systems...."
+        }
+      ],
+      "generatedAt": "2026-09-30T07:11:56.138Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "PSSA: A non-transformer language model written from scratch in Rust",
+          "url": "https://github.com/Sparticle62ops/pssa",
+          "content": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 68\n# Comments: 23",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 30 Sep 2026 03:19:54 +0000",
+          "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 68\n# Comments: 23..."
+        },
+        {
+          "title": "RSS Feeds for Last.fm",
+          "url": "https://lfm.xiffy.nl/",
+          "content": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 37\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 30 Sep 2026 03:00:05 +0000",
+          "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 37\n# Comments: 5..."
+        },
+        {
+          "title": "Apple Pay finally launches in India after years on the sidelines",
+          "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+          "content": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 30 Sep 2026 04:08:00 +0000",
+          "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially...."
+        },
+        {
+          "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+          "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+          "content": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 29 Sep 2026 23:30:55 +0000",
+          "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry...."
+        }
+      ],
+      "generatedAt": "2026-09-30T07:11:57.749Z"
+    }
+  ]
+}
