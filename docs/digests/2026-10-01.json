@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T07:36:34.632Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Systemic Risk Survey Results - 2026 H2",
+          "url": "https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h2",
+          "content": "The Systemic Risk Survey is conducted on a biannual basis, to quantify and track market participants’ views of risks to, and their confidence in, the stability of the UK financial system.",
+          "source": "Bank of England",
+          "publishedAt": "Wed, 30 Sep 2026 10:30:00 +0100",
+          "summary": "The Systemic Risk Survey is conducted on a biannual basis, to quantify and track market participants’ views of risks to, and their confidence in, the stability of the UK financial system...."
+        },
+        {
+          "title": "Inflation composition and monetary stabilization",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-composition-and-monetary-stabilization",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 25 Sep 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-10-01T07:36:24.151Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "url": "https://huggingface.co/blog/open-tts-leaderboard",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 30 Sep 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 29 Sep 2026 15:30:38 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 30 Sep 2026 20:01:45 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing SynthID Bio",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "content": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 30 Sep 2026 15:03:07 +0000",
+          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function...."
+        },
+        {
+          "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+          "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 30 Sep 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fal..."
+        },
+        {
+          "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+          "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+          "content": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 30 Sep 2026 10:40:30 +0000",
+          "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr..."
+        }
+      ],
+      "generatedAt": "2026-10-01T07:36:24.838Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "An optimist’s guide to the bond market",
+          "url": "https://www.ft.com/content/4ab6df98-f14d-49d1-a170-8087dc517b08?syn-25a6b1a6=1",
+          "content": "It could be a lot worse. Really!",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 01 Oct 2026 05:30:04 GMT",
+          "summary": "It could be a lot worse. Really!..."
+        },
+        {
+          "title": "Global bond sell-off deepens as 10-year Treasury yield hits highest since 2002",
+          "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
+          "content": "Japanese and Australian sovereign debt costs mount despite oil price dipping",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 01 Oct 2026 05:29:49 GMT",
+          "summary": "Japanese and Australian sovereign debt costs mount despite oil price dipping..."
+        },
+        {
+          "title": "\n        Investing for babies involves knotty trade-offs\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs",
+          "content": "Should new parents favour financial capital, human capital or something else?",
+          "source": "The Economist",
+          "publishedAt": "Tue, 29 Sep 2026 17:28:26 +0000",
+          "summary": "Should new parents favour financial capital, human capital or something else?..."
+        },
+        {
+          "title": "\n        The AI boom meets a new kind of crypto scam\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
+          "content": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models",
+          "source": "The Economist",
+          "publishedAt": "Tue, 29 Sep 2026 16:05:58 +0000",
+          "summary": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models..."
+        },
+        {
+          "title": "Infineon opens new Thailand manufacturing plant in $1.4B expansion",
+          "url": "https://seekingalpha.com/news/4648836-infineon-opens-new-thailand-manufacturing-plant-in-14b-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 01 Oct 2026 03:18:04 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Xtrackers US 0-1 Year Treasury ETF declares $0.0892 dividend",
+          "url": "https://seekingalpha.com/news/4648853-xtrackers-us-0-1-year-treasury-etf-declares-00892-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 01 Oct 2026 03:14:30 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "US Market: 10-year yield surges to 5.31%, highest since 2007 ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-10-year-yield-surges-to-5-31-highest-since-2007/articleshow/134611550.cms",
+          "content": "US Treasury yields reached multi-year highs as a historic bond selloff extended into a seventh session. The 10-year yield touched 5.31%, while the 30-year exceeded 5.65%. Persistent inflation, energy costs, strong AI investment and shifting Fed expectations pressured bonds. Falling oil prices offered some relief, but global yields remained elevated.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 01 Oct 2026 12:44:22 +0530",
+          "summary": "US Treasury yields reached multi-year highs as a historic bond selloff extended into a seventh session. The 10-year yield touched 5.31%, while the 30-year exceeded 5.65%. Persistent inflation, energy ..."
+        },
+        {
+          "title": "Highway Infrastructure shares jump 9% after Rs 245 crore toll operations win from UP authority, NHAI ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/highway-infrastructure-shares-jump-9-after-rs-245-crore-toll-operations-win-from-up-authority-nhai/articleshow/134610442.cms",
+          "content": "Highway Infrastructure shares jumped after the company secured toll operations orders worth Rs 254 crore from UPEIDA and NHAI. The key order, worth Rs 220.66 crore, involves toll collection and plaza operations on the Gorakhpur Link Expressway, along with deployment of patrol-cum-safety vehicles.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 01 Oct 2026 12:02:37 +0530",
+          "summary": "Highway Infrastructure shares jumped after the company secured toll operations orders worth Rs 254 crore from UPEIDA and NHAI. The key order, worth Rs 220.66 crore, involves toll collection and plaza ..."
+        }
+      ],
+      "generatedAt": "2026-10-01T07:36:26.089Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "The 'missed disease' that affects 190 million: endometriosis drug shows early promise",
+          "url": "https://www.nature.com/articles/d41586-026-03042-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "These optical illusions are why butterflies are so hard to catch",
+          "url": "https://www.nature.com/articles/d41586-026-03124-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
+          "content": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest U.S. spacecraft journey to the ISS in history.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 30 Sep 2026 04:36:42 EDT",
+          "summary": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, mak..."
+        },
+        {
+          "title": "Cannabis users were twice as likely to commit violence, review finds",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm",
+          "content": "A review of more than 265,000 people found that cannabis use was associated with higher rates of both committing violence and becoming a victim of it. The researchers say the link is significant but does not prove cannabis itself is the cause.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 30 Sep 2026 08:49:01 EDT",
+          "summary": "A review of more than 265,000 people found that cannabis use was associated with higher rates of both committing violence and becoming a victim of it. The researchers say the link is significant but d..."
+        },
+        {
+          "title": "Dinosaur-killing impact crater might have been teeming with life",
+          "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+          "content": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 30 Sep 2026 21:54:12 +0000",
+          "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact...."
+        },
+        {
+          "title": "A local network of implants uses your body as the wiring",
+          "url": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
+          "content": "It's possible to send electrical signals right through human tissues.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 30 Sep 2026 21:06:56 +0000",
+          "summary": "It's possible to send electrical signals right through human tissues...."
+        }
+      ],
+      "generatedAt": "2026-10-01T07:36:26.893Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Fuck Android Developer Verification Program",
+          "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
+          "content": "Article URL: https://twitter.com/0xcrypto/status/2105515822643114182\nComments URL: https://news.ycombinator.com/item?id=49917761\nPoints: 186\n# Comments: 51",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 01 Oct 2026 04:32:38 +0000",
+          "summary": "Article URL: https://twitter.com/0xcrypto/status/2105515822643114182\nComments URL: https://news.ycombinator.com/item?id=49917761\nPoints: 186\n# Comments: 51..."
+        },
+        {
+          "title": "Is sandboxing sufficient to contain rogue agents?",
+          "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+          "content": "Article URL: https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\nComments URL: https://news.ycombinator.com/item?id=49917378\nPoints: 19\n# Comments: 21",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 01 Oct 2026 03:27:41 +0000",
+          "summary": "Article URL: https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\nComments URL: https://news.ycombinator.com/item?id=49917378\nPoints: 19\n# Comments: 21..."
+        },
+        {
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+          "content": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 30 Sep 2026 23:43:07 +0000",
+          "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work...."
+        },
+        {
+          "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+          "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+          "content": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 30 Sep 2026 23:08:00 +0000",
+          "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administrati..."
+        }
+      ],
+      "generatedAt": "2026-10-01T07:36:34.632Z"
+    }
+  ]
+}
