@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T07:17:40.315Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Monthly Decision Maker Panel data - September 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 02 Oct 2026 09:30:00 +0100",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        },
+        {
+          "title": "Bank of England Weekly Report 30 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/30-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 01 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-10-04T07:17:34.471Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 03 Oct 2026 22:56:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 02 Oct 2026 15:19:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 30 Sep 2026 20:01:45 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing SynthID Bio",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "content": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 30 Sep 2026 15:03:07 +0000",
+          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function...."
+        },
+        {
+          "title": "Redefining enterprise intelligence with autonomous AI",
+          "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+          "content": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 02 Oct 2026 15:49:04 +0000",
+          "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f..."
+        },
+        {
+          "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+          "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 02 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to..."
+        }
+      ],
+      "generatedAt": "2026-10-04T07:17:35.321Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Wall Street’s IPO fervour cools on tepid demand and valuation worries ",
+          "url": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
+          "content": "Several listings have been paused in recent weeks as delay in Anthropic’s public debut sends a chill through markets",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 04 Oct 2026 04:01:05 GMT",
+          "summary": "Several listings have been paused in recent weeks as delay in Anthropic’s public debut sends a chill through markets..."
+        },
+        {
+          "title": "What’s driving the global bond sell-off?",
+          "url": "https://www.ft.com/content/f212d7b9-95e0-4aa0-84bf-4df7b43bc80a?syn-25a6b1a6=1",
+          "content": "Looking at the most cited factors reveals a mixed picture",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 03 Oct 2026 09:30:10 GMT",
+          "summary": "Looking at the most cited factors reveals a mixed picture..."
+        },
+        {
+          "title": "\n        Governments want to hold America’s shares more than its debts\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts",
+          "content": "When countries switch towards riskier assets, the global economy feels the consequences",
+          "source": "The Economist",
+          "publishedAt": "Thu, 01 Oct 2026 09:08:56 +0000",
+          "summary": "When countries switch towards riskier assets, the global economy feels the consequences..."
+        },
+        {
+          "title": "\n        Research on grasping bureaucrats startles Singapore\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
+          "content": "It is more revealing about its academic culture than its civil service",
+          "source": "The Economist",
+          "publishedAt": "Thu, 01 Oct 2026 09:07:03 +0000",
+          "summary": "It is more revealing about its academic culture than its civil service..."
+        },
+        {
+          "title": "Middle East crude exports recover to near pre-war levels but oil products still lag, analysts say",
+          "url": "https://seekingalpha.com/news/4650004-middle-east-crude-exports-recover-to-near-pre-war-levels-but-oil-products-still-lag-analysts-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 03 Oct 2026 20:25:38 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Key deals this week: Onsemi, Mattel, Nebius, Advanced Micro Devices, and more",
+          "url": "https://seekingalpha.com/news/4650021-key-deals-this-week-onsemi-mattel-nebius-advanced-micro-devices-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 03 Oct 2026 15:15:36 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "After Nifty’s longest losing streak in 25 years, what should investors do now? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/afterniftys-longest-losing-streak-in-25-years-what-should-investors-do-now/articleshow/134670772.cms",
+          "content": "After Nifty’s longest weekly losing streak in 25 years, analysts advise caution as the index trades below its 200-week moving average. The 22,600 level remains crucial, with further downside possible if Nifty fails to reclaim it decisively.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 04 Oct 2026 12:07:35 +0530",
+          "summary": "After Nifty’s longest weekly losing streak in 25 years, analysts advise caution as the index trades below its 200-week moving average. The 22,600 level remains crucial, with further downside possible ..."
+        },
+        {
+          "title": "Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-picks-5-smallcap-stocks-with-up-to-40-upside-potential-how-many-do-you-have/slideshow/134670761.cms",
+          "content": "After eight consecutive weeks of market losses, Axis has identified five small-cap stocks offering up to 40% upside following the sharp correction.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 04 Oct 2026 11:51:39 +0530",
+          "summary": "After eight consecutive weeks of market losses, Axis has identified five small-cap stocks offering up to 40% upside following the sharp correction...."
+        }
+      ],
+      "generatedAt": "2026-10-04T07:17:36.571Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Location, location, location: how to edit genes only in the cells you want",
+          "url": "https://www.nature.com/articles/d41586-026-03037-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
+          "url": "https://www.nature.com/articles/d41586-026-03057-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
+          "content": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged mitochondria and break down fat, potentially preventing the inflammation, scarring, and cell damage associated with the more dangerous condition MASH.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 03 Oct 2026 09:46:11 EDT",
+          "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps l..."
+        },
+        {
+          "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+          "content": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased its speed by 3.5 km/s, while also giving scientists a rare chance to test its instruments on Earth and the Moon.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 03 Oct 2026 09:34:11 EDT",
+          "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 deg..."
+        },
+        {
+          "title": "The dawn of the age of the exoskeleton",
+          "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+          "content": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 03 Oct 2026 11:15:33 +0000",
+          "summary": "The devices continue to show noticeable benefits for users in various real-world tasks...."
+        },
+        {
+          "title": "The 2008 economic crisis changed the US's relationship with energy",
+          "url": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+          "content": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 02 Oct 2026 18:56:21 +0000",
+          "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth...."
+        }
+      ],
+      "generatedAt": "2026-10-04T07:17:37.473Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Why don't more developers \"use the platform\"?",
+          "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+          "content": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\nComments URL: https://news.ycombinator.com/item?id=49950554\nPoints: 71\n# Comments: 41",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 04 Oct 2026 04:10:47 +0000",
+          "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\nComments URL: https://news.ycombinator.com/item?id=49950554\nPoints: 71\n# Comments: 41..."
+        },
+        {
+          "title": "We're working on a new RuneScape MMO",
+          "url": "https://play.runescape.com/4",
+          "content": "Article URL: https://play.runescape.com/4\nComments URL: https://news.ycombinator.com/item?id=49949588\nPoints: 36\n# Comments: 14",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 04 Oct 2026 01:12:22 +0000",
+          "summary": "Article URL: https://play.runescape.com/4\nComments URL: https://news.ycombinator.com/item?id=49949588\nPoints: 36\n# Comments: 14..."
+        },
+        {
+          "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+          "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+          "content": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 03 Oct 2026 19:33:15 +0000",
+          "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant...."
+        },
+        {
+          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "content": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 03 Oct 2026 18:43:57 +0000",
+          "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers...."
+        }
+      ],
+      "generatedAt": "2026-10-04T07:17:40.315Z"
+    }
+  ]
+}
