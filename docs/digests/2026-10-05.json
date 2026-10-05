@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T07:32:23.661Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Monthly Decision Maker Panel data - September 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 02 Oct 2026 09:30:00 +0100",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        },
+        {
+          "title": "Bank of England Weekly Report 30 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/30-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 01 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-10-05T07:32:16.696Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 03 Oct 2026 22:56:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 02 Oct 2026 15:19:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 30 Sep 2026 20:01:45 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing SynthID Bio",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "content": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 30 Sep 2026 15:03:07 +0000",
+          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function...."
+        },
+        {
+          "title": "EmTech Future 2026: When AI Meets Everything",
+          "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+          "content": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.  Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 05 Oct 2026 04:00:00 +0000",
+          "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it inters..."
+        },
+        {
+          "title": "Redefining enterprise intelligence with autonomous AI",
+          "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+          "content": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 02 Oct 2026 15:49:04 +0000",
+          "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f..."
+        }
+      ],
+      "generatedAt": "2026-10-05T07:32:17.926Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Euro slides to 17-month low against dollar",
+          "url": "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1",
+          "content": "High energy prices and concerns over France’s public finances add to pressure on the single currency",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 05 Oct 2026 06:38:47 GMT",
+          "summary": "High energy prices and concerns over France’s public finances add to pressure on the single currency..."
+        },
+        {
+          "title": "The jobs market is still fine",
+          "url": "https://www.ft.com/content/b26c324e-0384-4c6a-9ccd-56b1cf0939b8?syn-25a6b1a6=1",
+          "content": "But the stock market is losing a lot of weight",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 05 Oct 2026 05:30:02 GMT",
+          "summary": "But the stock market is losing a lot of weight..."
+        },
+        {
+          "title": "\n        The world is facing an almighty LNG crunch\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
+          "content": "In time it could bring about an equally disruptive glut",
+          "source": "The Economist",
+          "publishedAt": "Sun, 04 Oct 2026 17:11:12 +0000",
+          "summary": "In time it could bring about an equally disruptive glut..."
+        },
+        {
+          "title": "\n        Governments want to hold America’s shares more than its debts\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts",
+          "content": "When countries switch towards riskier assets, the global economy feels the consequences",
+          "source": "The Economist",
+          "publishedAt": "Thu, 01 Oct 2026 09:08:56 +0000",
+          "summary": "When countries switch towards riskier assets, the global economy feels the consequences..."
+        },
+        {
+          "title": "Qualcomm, Huawei reach multi-year patent licensing agreement",
+          "url": "https://seekingalpha.com/news/4650073-qualcomm-huawei-reach-multi-year-patent-licensing-agreement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 05 Oct 2026 03:00:05 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Ex-Anthropic researcher Coxon to testify alongside AI giants at NYC hearing",
+          "url": "https://seekingalpha.com/news/4650075-ex-anthropic-researcher-coxon-to-testify-alongside-ai-giants-at-nyc-hearing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 05 Oct 2026 02:54:52 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Avenue Supermarts shares fall 4% despite 18% YoY revenue growth in Q2 update ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-shares-fall-4-despite-18-yoy-revenue-growth-in-q2-update/articleshow/134689213.cms",
+          "content": "Avenue Supermarts achieved an impressive 18.4% increase in year-on-year revenue for Q2, totaling Rs 19,206.18 crore. As of September 30, 2026, the company operates 518 stores, although one is temporarily closed for renovations. However, following this positive news, shares dropped 4.07% on the NSE, indicating market concerns. Additionally, Avenue Supermarts issued Rs 500 crore in commercial paper with a 6.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 05 Oct 2026 12:41:04 +0530",
+          "summary": "Avenue Supermarts achieved an impressive 18.4% increase in year-on-year revenue for Q2, totaling Rs 19,206.18 crore. As of September 30, 2026, the company operates 518 stores, although one is temporar..."
+        },
+        {
+          "title": "Can Nifty break the 8-week deadlock or will pain continue? Here’s what charts indicate ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-break-the-8-week-deadlock-or-will-pain-continue-heres-what-charts-indicate/articleshow/134688975.cms",
+          "content": "Nifty rebounded after its longest weekly losing streak in 25 years, but technical indicators suggest the broader downtrend remains intact. The index is near key support at 21,743–22,182, while 22,550–22,600 is the immediate hurdle. A break below support could expose Nifty to 19,000 and 16,700.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 05 Oct 2026 12:28:39 +0530",
+          "summary": "Nifty rebounded after its longest weekly losing streak in 25 years, but technical indicators suggest the broader downtrend remains intact. The index is near key support at 21,743–22,182, while 22,550–..."
+        }
+      ],
+      "generatedAt": "2026-10-05T07:32:20.144Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Location, location, location: how to edit genes only in the cells you want",
+          "url": "https://www.nature.com/articles/d41586-026-03037-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
+          "url": "https://www.nature.com/articles/d41586-026-03057-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+          "content": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave background and the expansion rate inferred from it.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 04 Oct 2026 08:05:54 EDT",
+          "summary": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields c..."
+        },
+        {
+          "title": "The “glue” holding your cells together has a surprising second job",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+          "content": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf cellular debris while keeping their upper surfaces stable, allowing protective barriers to remain sealed.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 04 Oct 2026 23:12:55 EDT",
+          "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Usin..."
+        },
+        {
+          "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+          "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+          "content": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 05 Oct 2026 04:00:52 +0000",
+          "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls..."
+        },
+        {
+          "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+          "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+          "content": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+          "source": "Ars Technica",
+          "publishedAt": "Sun, 04 Oct 2026 15:34:14 +0000",
+          "summary": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home..."
+        }
+      ],
+      "generatedAt": "2026-10-05T07:32:21.362Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Replacement of petroleum based products with plant-based materials (2025)",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+          "content": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 41\n# Comments: 10",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 05 Oct 2026 05:09:43 +0000",
+          "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 41\n# Comments: 10..."
+        },
+        {
+          "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+          "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+          "content": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857\nComments URL: https://news.ycombinator.com/item?id=49960084\nPoints: 194\n# Comments: 159",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 05 Oct 2026 02:31:45 +0000",
+          "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857\nComments URL: https://news.ycombinator.com/item?id=49960084\n..."
+        },
+        {
+          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "content": "AI slop seems to be overwhelming bug bounty programs.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 04 Oct 2026 20:31:07 +0000",
+          "summary": "AI slop seems to be overwhelming bug bounty programs...."
+        },
+        {
+          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+          "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+          "content": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 04 Oct 2026 20:08:34 +0000",
+          "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI...."
+        }
+      ],
+      "generatedAt": "2026-10-05T07:32:23.661Z"
+    }
+  ]
+}
