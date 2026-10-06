@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T07:58:35.455Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Monthly Decision Maker Panel data - September 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 02 Oct 2026 09:30:00 +0100",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        },
+        {
+          "title": "Bank of England Weekly Report 30 September 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/30-september-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 01 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-10-06T07:58:30.241Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 06 Oct 2026 06:44:39 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 03 Oct 2026 22:56:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Connecting AI agents to enterprise knowledge",
+          "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+          "content": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 05 Oct 2026 15:47:52 +0000",
+          "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha..."
+        },
+        {
+          "title": "Bringing predictive analytics to the agentic AI era ",
+          "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+          "content": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 05 Oct 2026 13:29:32 +0000",
+          "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t..."
+        }
+      ],
+      "generatedAt": "2026-10-06T07:58:31.140Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "How AI could scupper the dollar",
+          "url": "https://www.ft.com/content/47061507-f20e-4ff6-961d-e1f1b919cb89?syn-25a6b1a6=1",
+          "content": "Things are fine until they’re not",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 06 Oct 2026 05:30:07 GMT",
+          "summary": "Things are fine until they’re not..."
+        },
+        {
+          "title": "ICE launches trading in gold futures in London",
+          "url": "https://www.ft.com/content/a896cda0-cd0c-4aae-bc51-daec26157e56?syn-25a6b1a6=1",
+          "content": "Move is latest attempt to establish precious metals derivatives in the City",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 06 Oct 2026 04:00:17 GMT",
+          "summary": "Move is latest attempt to establish precious metals derivatives in the City..."
+        },
+        {
+          "title": "\n        The bond market sell-off is helping the dollar\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
+          "content": "But the strength of the greenback is not as reliable as in the past",
+          "source": "The Economist",
+          "publishedAt": "Mon, 05 Oct 2026 19:31:48 +0000",
+          "summary": "But the strength of the greenback is not as reliable as in the past..."
+        },
+        {
+          "title": "\n        The world is facing an almighty LNG crunch\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
+          "content": "In time it could bring about an equally disruptive glut",
+          "source": "The Economist",
+          "publishedAt": "Sun, 04 Oct 2026 17:11:12 +0000",
+          "summary": "In time it could bring about an equally disruptive glut..."
+        },
+        {
+          "title": "Arthur J. Gallagher buys Winter & Co Solicitors",
+          "url": "https://seekingalpha.com/news/4650428-arthur-j-gallagher-buys-winter-co-solicitors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 06 Oct 2026 03:50:36 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "ATERRA Metals upsizes private placement to up to $8.35M",
+          "url": "https://seekingalpha.com/news/4650410-aterra-metals-upsizes-private-placement-to-up-to-835m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 06 Oct 2026 03:48:02 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Orient Cables shares tumble 10% a day after strong market debut ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/orient-cables-shares-tumble-10-a-day-after-strong-market-debut/articleshow/134727066.cms",
+          "content": "Orient Cables' shares faced a notable drop of 10% soon after a promising IPO launch, leading to a dip in investor sentiment. However, the stock continues to hold firm above the initial issue price of Rs 272. Analysts are now focused on the firm’s capability to maintain revenue growth and its profitability, urging investors to carefully evaluate its financial soundness and operational strategies in the near future.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 06 Oct 2026 13:11:22 +0530",
+          "summary": "Orient Cables' shares faced a notable drop of 10% soon after a promising IPO launch, leading to a dip in investor sentiment. However, the stock continues to hold firm above the initial issue price of ..."
+        },
+        {
+          "title": "Banks vs NBFCs: Which stocks could benefit as RBI set to hike rates for the first time in 3 years? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-vs-nbfcs-which-stocks-could-benefit-as-rbi-set-to-hike-rates-for-the-first-time-in-3-years/articleshow/134726852.cms",
+          "content": "The RBI’s expected first rate hike in three years could have a mixed impact on banks and NBFCs. While higher funding costs may pressure NBFC margins, lenders with floating-rate assets and strong liquidity could benefit. Brokerages favour HDFC Bank, ICICI Bank, Kotak Mahindra Bank, Bajaj Finance and Tata Capital.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 06 Oct 2026 12:54:05 +0530",
+          "summary": "The RBI’s expected first rate hike in three years could have a mixed impact on banks and NBFCs. While higher funding costs may pressure NBFC margins, lenders with floating-rate assets and strong liqui..."
+        }
+      ],
+      "generatedAt": "2026-10-06T07:58:32.684Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
+          "content": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the best viewing should come before dawn after the Moon sets.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 05 Oct 2026 07:59:17 EDT",
+          "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some ..."
+        },
+        {
+          "title": "Scientists reveal what seven days of fasting does to the human body",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
+          "content": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that go beyond weight loss and could eventually inspire treatments that mimic its effects.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 05 Oct 2026 08:26:03 EDT",
+          "summary": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fast..."
+        },
+        {
+          "title": "Controlling the brain with light earns a physiology Nobel",
+          "url": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+          "content": "The entire field of optogenetics traces back to light-seeking algae.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 05 Oct 2026 17:59:27 +0000",
+          "summary": "The entire field of optogenetics traces back to light-seeking algae...."
+        },
+        {
+          "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+          "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+          "content": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 05 Oct 2026 04:00:52 +0000",
+          "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls...."
+        }
+      ],
+      "generatedAt": "2026-10-06T07:58:34.466Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "'Pull the plug': protesters resort to direct action against AI firms",
+          "url": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+          "content": "Article URL: https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms\nComments URL: https://news.ycombinator.com/item?id=49975464\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 06 Oct 2026 07:46:22 +0000",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms\nComments URL: https://news.ycombinator.com/item?id=49975464\nPoints: 4\n..."
+        },
+        {
+          "title": "We are going to kill \"unalive\"",
+          "url": "https://www.anildash.com/2026/10/06/kill-unalive/",
+          "content": "Article URL: https://www.anildash.com/2026/10/06/kill-unalive/\nComments URL: https://news.ycombinator.com/item?id=49975083\nPoints: 23\n# Comments: 8",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 06 Oct 2026 06:49:39 +0000",
+          "summary": "Article URL: https://www.anildash.com/2026/10/06/kill-unalive/\nComments URL: https://news.ycombinator.com/item?id=49975083\nPoints: 23\n# Comments: 8..."
+        },
+        {
+          "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+          "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+          "content": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 05 Oct 2026 21:54:01 +0000",
+          "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs...."
+        },
+        {
+          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+          "content": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 05 Oct 2026 20:36:48 +0000",
+          "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says...."
+        }
+      ],
+      "generatedAt": "2026-10-06T07:58:35.455Z"
+    }
+  ]
+}
