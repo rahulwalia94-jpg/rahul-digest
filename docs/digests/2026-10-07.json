@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T07:36:28.995Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Consolidated balance sheet - 30 June 2025",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-30-june-2025",
+          "content": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 06 Oct 2026 14:00:00 +0100",
+          "summary": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier...."
+        },
+        {
+          "title": "Monthly Decision Maker Panel data - September 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 02 Oct 2026 09:30:00 +0100",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        }
+      ],
+      "generatedAt": "2026-10-07T07:36:22.306Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 06 Oct 2026 06:44:39 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Sat, 03 Oct 2026 22:56:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 06 Oct 2026 19:57:04 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 30 Sep 2026 20:01:45 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+          "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+          "content": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looking at changes to DNA that accumulate…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 06 Oct 2026 16:40:36 +0000",
+          "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, accord..."
+        },
+        {
+          "title": "The Download: 10 climate tech companies to watch",
+          "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 06 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology R..."
+        }
+      ],
+      "generatedAt": "2026-10-07T07:36:23.366Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "IMF’s Georgieva urges governments to rein in spending",
+          "url": "https://www.ft.com/content/7eb5da58-d909-4cec-9a30-1c6ec8ffb0a6?syn-25a6b1a6=1",
+          "content": "Fund’s managing director says officials face ‘very tough political choices’ as they seek to combat soaring bond yields",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 07 Oct 2026 06:00:02 GMT",
+          "summary": "Fund’s managing director says officials face ‘very tough political choices’ as they seek to combat soaring bond yields..."
+        },
+        {
+          "title": "Neat tricks to help French bonds",
+          "url": "https://www.ft.com/content/16df642e-dc1a-4d17-8f18-b97f32efc5db?syn-25a6b1a6=1",
+          "content": "And why they won’t work",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 07 Oct 2026 05:30:02 GMT",
+          "summary": "And why they won’t work..."
+        },
+        {
+          "title": "\n        American investors’ trick to lower taxes: lose money\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/06/american-investors-trick-to-lower-taxes-lose-money",
+          "content": "The taxman is losing patience with the shrewd use of tax losses",
+          "source": "The Economist",
+          "publishedAt": "Tue, 06 Oct 2026 17:41:20 +0000",
+          "summary": "The taxman is losing patience with the shrewd use of tax losses..."
+        },
+        {
+          "title": "\n        The bond market sell-off is helping the dollar\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
+          "content": "But the strength of the greenback is not as reliable as in the past",
+          "source": "The Economist",
+          "publishedAt": "Mon, 05 Oct 2026 19:31:48 +0000",
+          "summary": "But the strength of the greenback is not as reliable as in the past..."
+        },
+        {
+          "title": "Trump weighs suspending federal gas tax",
+          "url": "https://seekingalpha.com/news/4650811-trump-weighs-suspending-federal-gas-tax?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 07 Oct 2026 03:18:55 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Blue Owl plans ‘big push’ into insurance capital: FT",
+          "url": "https://seekingalpha.com/news/4650809-blue-owl-plans-big-push-into-insurance-capital-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 07 Oct 2026 03:01:56 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "RBI hikes rate, but analysts see shift to ‘calibrated tightening’ as bigger takeaway. How can this impact markets? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-hikes-rate-but-analysts-see-shift-to-calibrated-tightening-as-bigger-takeaway-how-can-this-impact-markets/articleshow/134758783.cms",
+          "content": "RBI’s 25-bps repo rate hike to 5.50% was largely expected, but its shift to ‘calibrated tightening’ surprised markets and signals that near-term rate cuts are unlikely. Analysts expect selective pressure on rate-sensitive sectors, while banks with stronger balance sheets may remain relatively better placed amid rising inflation and crude prices.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 07 Oct 2026 12:40:32 +0530",
+          "summary": "RBI’s 25-bps repo rate hike to 5.50% was largely expected, but its shift to ‘calibrated tightening’ surprised markets and signals that near-term rate cuts are unlikely. Analysts expect selective press..."
+        },
+        {
+          "title": "Trent’s Rs 1.80 lakh crore rout from peak: Has Q2 just flipped the script for Tata group’s retail crown jewel? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/trents-rs-1-80-lakh-crore-rout-from-peak-has-q2-just-flipped-the-script-for-tata-groups-retail-crown-jewel/articleshow/134758918.cms",
+          "content": "In Q2FY27, Trent demonstrated impressive financial performance, achieving a remarkable 23% increase in revenue compared to the previous year. This achievement is particularly noteworthy given the challenges other retailers faced during the festive period. With continued expansion in store locations for both Zudio and Westside, analysts are split on future prospects, balancing optimism for recovery against caution as the market awaits consistent revenue growth.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 07 Oct 2026 12:34:55 +0530",
+          "summary": "In Q2FY27, Trent demonstrated impressive financial performance, achieving a remarkable 23% increase in revenue compared to the previous year. This achievement is particularly noteworthy given the chal..."
+        }
+      ],
+      "generatedAt": "2026-10-07T07:36:25.369Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: Anodic Pd membrane H<sub>2</sub> extraction enhances thermochemical dehydrogenation",
+          "url": "https://www.nature.com/articles/s41586-026-11244-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Maintaining global science collaboration during conflict requires fairer rules",
+          "url": "https://www.nature.com/articles/d41586-026-03176-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Humans may not be as hardwired for violence as we thought",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
+          "content": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild aggression are not necessarily more likely to kill rivals, while extreme acts such as infanticide and lethal attacks appear to follow their own evolutionary patterns.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 06 Oct 2026 23:22:55 EDT",
+          "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fi..."
+        },
+        {
+          "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
+          "content": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the best viewing should come before dawn after the Moon sets.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 05 Oct 2026 07:59:17 EDT",
+          "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some ..."
+        },
+        {
+          "title": "It looks like the Atlantic storm season may finally produce a hurricane",
+          "url": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
+          "content": "To date, this Atlantic tropics year has been exceptionally quiet.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 06 Oct 2026 19:55:50 +0000",
+          "summary": "To date, this Atlantic tropics year has been exceptionally quiet...."
+        },
+        {
+          "title": "Neutrino physicist wins 2026 Nobel Physics Prize",
+          "url": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
+          "content": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 06 Oct 2026 16:53:17 +0000",
+          "summary": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory...."
+        }
+      ],
+      "generatedAt": "2026-10-07T07:36:26.664Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+          "url": "https://github.com/shader-effects-inc/shaders",
+          "content": "Article URL: https://github.com/shader-effects-inc/shaders\nComments URL: https://news.ycombinator.com/item?id=49988709\nPoints: 12\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 07 Oct 2026 05:38:35 +0000",
+          "summary": "Article URL: https://github.com/shader-effects-inc/shaders\nComments URL: https://news.ycombinator.com/item?id=49988709\nPoints: 12\n# Comments: 5..."
+        },
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "content": "Article URL: https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/\nComments URL: https://news.ycombinator.com/item?id=49988230\nPoints: 36\n# Comments: 6",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 07 Oct 2026 04:37:05 +0000",
+          "summary": "Article URL: https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/\nComments URL: https://news.ycombinator.com/item?id=49988230\nPoint..."
+        },
+        {
+          "title": "Spotify expands audiobooks to over 180 markets",
+          "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+          "content": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 07 Oct 2026 07:00:00 +0000",
+          "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion..."
+        },
+        {
+          "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+          "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+          "content": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 06 Oct 2026 22:55:39 +0000",
+          "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads...."
+        }
+      ],
+      "generatedAt": "2026-10-07T07:36:28.995Z"
+    }
+  ]
+}
