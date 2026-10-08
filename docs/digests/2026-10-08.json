@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T07:52:48.800Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Consolidated balance sheet - 30 June 2025",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-30-june-2025",
+          "content": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 06 Oct 2026 14:00:00 +0100",
+          "summary": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier...."
+        },
+        {
+          "title": "Monthly Decision Maker Panel data - September 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 02 Oct 2026 09:30:00 +0100",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        }
+      ],
+      "generatedAt": "2026-10-08T07:52:45.396Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Multimodal open d1 decision models for the edge",
+          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 07 Oct 2026 16:54:33 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 07 Oct 2026 12:45:31 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+          "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 07 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say ..."
+        },
+        {
+          "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+          "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+          "content": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looking at changes to DNA that accumulate…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 06 Oct 2026 16:40:36 +0000",
+          "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, accord..."
+        }
+      ],
+      "generatedAt": "2026-10-08T07:52:46.033Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Tips and Linkers",
+          "url": "https://www.ft.com/content/edb717f9-6512-424c-a3a5-50e43239adf8?syn-25a6b1a6=1",
+          "content": "Not as safe as they seem",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 08 Oct 2026 05:30:06 GMT",
+          "summary": "Not as safe as they seem..."
+        },
+        {
+          "title": "Crowding out pits sovereigns against AI",
+          "url": "https://www.ft.com/content/bf40e0fb-9542-4ddf-9ac3-c216be55a5a6",
+          "content": "A battle for capital between rate-insensitive borrowers could end badly",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 08 Oct 2026 05:00:06 GMT",
+          "summary": "A battle for capital between rate-insensitive borrowers could end badly..."
+        },
+        {
+          "title": "\n        Why shares are the new bricks and mortar\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
+          "content": "Household wealth is flowing from property to stocks",
+          "source": "The Economist",
+          "publishedAt": "Wed, 07 Oct 2026 18:47:53 +0000",
+          "summary": "Household wealth is flowing from property to stocks..."
+        },
+        {
+          "title": "\n        American investors’ trick to lower taxes: lose money\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/06/american-investors-trick-to-lower-taxes-lose-money",
+          "content": "The taxman is losing patience with the shrewd use of tax losses",
+          "source": "The Economist",
+          "publishedAt": "Tue, 06 Oct 2026 17:41:20 +0000",
+          "summary": "The taxman is losing patience with the shrewd use of tax losses..."
+        },
+        {
+          "title": "Trump plays down Iran deal as U.S. military prepares for possible strikes",
+          "url": "https://seekingalpha.com/news/4651219-trump-plays-down-iran-deal-as-us-military-prepares-for-possible-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 08 Oct 2026 03:42:31 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "AI bubble could burst within two years, triggering severe market crash, strategist warns",
+          "url": "https://seekingalpha.com/news/4651225-ai-bubble-could-burst-within-two-years-triggering-severe-market-crash-strategist-warns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 08 Oct 2026 03:30:32 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Multibagger stock! Cupid shares jump 4%, soar 238% in 2026. What's driving the rally? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-stock-cupid-shares-jump-4-soar-238-in-2026-whats-driving-the-rally/articleshow/134782891.cms",
+          "content": "Cupid shares rose 3.76% to hit a high of Rs 356.90 on Thursday, extending their rally since the September 30 business update to around 16%. The stock has gained 238.78% in 2026 so far, sharply outperforming the Nifty 50, which is down 14% over the same period.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 08 Oct 2026 12:44:23 +0530",
+          "summary": "Cupid shares rose 3.76% to hit a high of Rs 356.90 on Thursday, extending their rally since the September 30 business update to around 16%. The stock has gained 238.78% in 2026 so far, sharply outperf..."
+        },
+        {
+          "title": "Paytm shares crash 10%, wipe off Rs 10,970 crore m-cap. More pain ahead? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-crash-10-wipe-off-rs-10970-crore-m-cap-more-pain-ahead/articleshow/134783164.cms",
+          "content": "Paytm shares crashed on Wednesday after reports suggested a possible delay in the rollout of UPI MDR. Analysts said the stock faces immediate support at Rs 1,560-1,550, while a decisive break below could trigger further selling.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 08 Oct 2026 12:43:08 +0530",
+          "summary": "Paytm shares crashed on Wednesday after reports suggested a possible delay in the rollout of UPI MDR. Analysts said the stock faces immediate support at Rs 1,560-1,550, while a decisive break below co..."
+        }
+      ],
+      "generatedAt": "2026-10-08T07:52:47.232Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Woody ‘blankets’ deployed on Arctic permafrost to reduce carbon emissions",
+          "url": "https://www.nature.com/articles/d41586-026-03045-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-08T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A guide to Nature Index tables",
+          "url": "https://www.nature.com/articles/d41586-026-02999-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
+          "content": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body's levels of vitamin D3, the form naturally produced by sunlight and more effective at boosting overall vitamin D. Previous studies also suggest that vitamin D3 may provide stronger immune protection against viruses and bacteria.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 08 Oct 2026 00:06:26 EDT",
+          "summary": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body's ..."
+        },
+        {
+          "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+          "content": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 07 Oct 2026 09:09:15 EDT",
+          "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the M..."
+        },
+        {
+          "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
+          "url": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
+          "content": "Altering molecular handedness has implications for the origins of life.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 07 Oct 2026 18:48:18 +0000",
+          "summary": "Altering molecular handedness has implications for the origins of life...."
+        },
+        {
+          "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+          "url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+          "content": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 07 Oct 2026 11:00:40 +0000",
+          "summary": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"..."
+        }
+      ],
+      "generatedAt": "2026-10-08T07:52:47.949Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+          "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+          "content": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9\nComments URL: https://news.ycombinator.com/item?id=50002665\nPoints: 15\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 08 Oct 2026 07:07:34 +0000",
+          "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9\nComments URL: https://news.ycombinator.com/item?id=50002665\nPoints: 15\n# Comments: 3..."
+        },
+        {
+          "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+          "url": "https://dat-ecosystem.org/",
+          "content": "Article URL: https://dat-ecosystem.org/\nComments URL: https://news.ycombinator.com/item?id=50002505\nPoints: 6\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 08 Oct 2026 06:43:13 +0000",
+          "summary": "Article URL: https://dat-ecosystem.org/\nComments URL: https://news.ycombinator.com/item?id=50002505\nPoints: 6\n# Comments: 1..."
+        },
+        {
+          "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+          "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+          "content": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 08 Oct 2026 06:14:11 +0000",
+          "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India...."
+        },
+        {
+          "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+          "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+          "content": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 07 Oct 2026 23:36:57 +0000",
+          "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks...."
+        }
+      ],
+      "generatedAt": "2026-10-08T07:52:48.800Z"
+    }
+  ]
+}
