@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T07:37:24.103Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Navigating climate policy shocks: optimal monetary policy responses",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/navigating-climate-policy-shocks-optimal-monetary-policy-responses",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 09 Oct 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Domestic and foreign insurer corporate bond demand and monetary policy",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/domestic-and-foreign-insurer-corporate-bond-demand-and-monetary-policy",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 09 Oct 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-10-10T07:37:16.973Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Impactful scheduling for GPU clusters",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 09 Oct 2026 15:20:29 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The model that didn't exist, so you made it yourself",
+          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 08 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+          "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 09 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s..."
+        },
+        {
+          "title": "We’re putting too much faith in AI’s ability to say no",
+          "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+          "content": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recently, the idea that AI shouldn’t…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 09 Oct 2026 09:00:00 +0000",
+          "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu..."
+        }
+      ],
+      "generatedAt": "2026-10-10T07:37:18.175Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Slowing deals are another flashing red sign for equity markets ",
+          "url": "https://www.ft.com/content/a7532546-d9b2-4889-b2a6-ff68658a1782?syn-25a6b1a6=1",
+          "content": "Some deals will still squeak through, but appetite for risk has been hit by rising yields and AI jitters",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 10 Oct 2026 04:00:37 GMT",
+          "summary": "Some deals will still squeak through, but appetite for risk has been hit by rising yields and AI jitters..."
+        },
+        {
+          "title": "Manchester City scandal pushes BDO and UK audit regime into spotlight",
+          "url": "https://www.ft.com/content/4d105b07-1922-4ab0-bd1d-26a8c6ad9dbe?syn-25a6b1a6=1",
+          "content": "Club’s connection with accounting firm is under scrutiny as Premier League findings raise questions over regulatory system",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 10 Oct 2026 04:00:16 GMT",
+          "summary": "Club’s connection with accounting firm is under scrutiny as Premier League findings raise questions over regulatory system..."
+        },
+        {
+          "title": "\n        Governments are mishandling the affordability crisis\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+          "content": "They should lift incomes, not suppress prices",
+          "source": "The Economist",
+          "publishedAt": "Thu, 08 Oct 2026 09:26:41 +0000",
+          "summary": "They should lift incomes, not suppress prices..."
+        },
+        {
+          "title": "\n        Indian celebrations will be more expensive this year\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/08/indian-celebrations-will-be-more-expensive-this-year",
+          "content": "Blame soaring sugar prices",
+          "source": "The Economist",
+          "publishedAt": "Thu, 08 Oct 2026 09:25:56 +0000",
+          "summary": "Blame soaring sugar prices..."
+        },
+        {
+          "title": "Trump turns to Russia in bid to lower diesel prices, but analysts see minimal impact",
+          "url": "https://seekingalpha.com/news/4651899-trump-turns-to-russia-in-bid-to-lower-diesel-prices-but-analysts-see-minimal-impact?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 09 Oct 2026 19:50:41 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats",
+          "url": "https://seekingalpha.com/news/4651898-lockheed-unveils-next-gen-patriot-interceptor-to-defend-against-hypersonic-threats?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 09 Oct 2026 18:17:08 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Exclusive | Akash, Isha Ambani take Rs 30,000 crore Jio IPO pitch global; marquee investors seek bigger stakes ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-akash-isha-ambani-take-rs-30000-crore-jio-ipo-pitch-global-marquee-investors-seek-bigger-stake/articleshow/134849084.cms",
+          "content": "Jio Platforms’ proposed Rs 30,000 crore IPO is set to be one of India’s biggest public issues, with Akash and Isha Ambani leading global investor outreach. Existing investors, including Meta and Google, are not looking to exit, with some reportedly seeking to raise their stakes as Jio targets a valuation of up to Rs 10.3 lakh crore.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 10 Oct 2026 12:05:45 +0530",
+          "summary": "Jio Platforms’ proposed Rs 30,000 crore IPO is set to be one of India’s biggest public issues, with Akash and Isha Ambani leading global investor outreach. Existing investors, including Meta and Googl..."
+        },
+        {
+          "title": "Nifty bulls regain momentum, but can bears strike back? 5 factors to decide D-Street’s fate next week ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bulls-regain-momentum-but-can-bears-strike-back-5-factors-to-decide-d-streets-fate-next-week/articleshow/134848721.cms",
+          "content": "Indian equities snapped an eight-week losing streak as the Nifty 50 and Sensex rebounded on Friday. However, elevated crude prices, foreign investor outflows, inflation data, bond yields and the September-quarter earnings season could shape the market’s next move. Here are five key factors investors should track next week.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 10 Oct 2026 12:01:16 +0530",
+          "summary": "Indian equities snapped an eight-week losing streak as the Nifty 50 and Sensex rebounded on Friday. However, elevated crude prices, foreign investor outflows, inflation data, bond yields and the Septe..."
+        }
+      ],
+      "generatedAt": "2026-10-10T07:37:19.712Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+          "url": "https://www.nature.com/articles/d41586-026-03159-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
+          "url": "https://www.nature.com/articles/d41586-026-03216-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "NASA astronauts splash down after 100 million miles in space",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+          "content": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 08 Oct 2026 23:56:28 EDT",
+          "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future ..."
+        },
+        {
+          "title": "October’s night sky is full of cosmic tricks and treats",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
+          "content": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 08 Oct 2026 22:37:22 EDT",
+          "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting ..."
+        },
+        {
+          "title": "Neanderthal wooden tools from Spain found preserved in stone",
+          "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+          "content": "Dissolved rock precipitated around the tools, which then decayed.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 09 Oct 2026 22:34:03 +0000",
+          "summary": "Dissolved rock precipitated around the tools, which then decayed...."
+        },
+        {
+          "title": "What's been driving Hawaii's lava fountains?",
+          "url": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+          "content": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 09 Oct 2026 21:05:01 +0000",
+          "summary": "Before the lava fountains started, the ground was expanding by half a meter a day...."
+        }
+      ],
+      "generatedAt": "2026-10-10T07:37:20.960Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Computers Cannot Make Decisions",
+          "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+          "content": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions\nComments URL: https://news.ycombinator.com/item?id=50029982\nPoints: 12\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 10 Oct 2026 05:47:46 +0000",
+          "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions\nComments URL: https://news.ycombinator.com/item?id=50029982\nPoints: 12\n# Comments: 5..."
+        },
+        {
+          "title": "Food processing influences metabolism and brain activity",
+          "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+          "content": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html\nComments URL: https://news.ycombinator.com/item?id=50029830\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 10 Oct 2026 05:22:30 +0000",
+          "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html\nComments URL: https://news.ycombinator.com/item?id=50029830\nPoints: 6\n# Comments: 0..."
+        },
+        {
+          "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+          "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+          "content": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 10 Oct 2026 03:10:06 +0000",
+          "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition...."
+        },
+        {
+          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "content": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 10 Oct 2026 00:18:32 +0000",
+          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice...."
+        }
+      ],
+      "generatedAt": "2026-10-10T07:37:24.103Z"
+    }
+  ]
+}
