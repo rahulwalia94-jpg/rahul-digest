@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T07:50:28.703Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Navigating climate policy shocks: optimal monetary policy responses",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/navigating-climate-policy-shocks-optimal-monetary-policy-responses",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 09 Oct 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Domestic and foreign insurer corporate bond demand and monetary policy",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/domestic-and-foreign-insurer-corporate-bond-demand-and-monetary-policy",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 09 Oct 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-10-12T07:50:24.963Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Impactful scheduling for GPU clusters",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 09 Oct 2026 15:20:29 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The model that didn't exist, so you made it yourself",
+          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 08 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 06 Oct 2026 19:57:04 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 30 Sep 2026 20:01:45 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+          "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 09 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s..."
+        },
+        {
+          "title": "We’re putting too much faith in AI’s ability to say no",
+          "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+          "content": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recently, the idea that AI shouldn’t…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 09 Oct 2026 09:00:00 +0000",
+          "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu..."
+        }
+      ],
+      "generatedAt": "2026-10-12T07:50:25.705Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Oil prices volatile after Trump claims ‘energy ceasefire’ in Ukraine war",
+          "url": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
+          "content": "Announcement follows diesel deal with Putin as US president tries to contain impact of higher fuel costs ahead of election",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 12 Oct 2026 07:22:42 GMT",
+          "summary": "Announcement follows diesel deal with Putin as US president tries to contain impact of higher fuel costs ahead of election..."
+        },
+        {
+          "title": "Is the US economy as narrow as its stock market?",
+          "url": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
+          "content": "No*",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 12 Oct 2026 05:30:05 GMT",
+          "summary": "No*..."
+        },
+        {
+          "title": "\n        Don’t feel sorry for millennials. They are living it up now\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/11/dont-feel-sorry-for-millennials-they-are-living-it-up-now",
+          "content": "It is easy to exaggerate their economic woes",
+          "source": "The Economist",
+          "publishedAt": "Sun, 11 Oct 2026 15:27:00 +0000",
+          "summary": "It is easy to exaggerate their economic woes..."
+        },
+        {
+          "title": "\n        Governments are mishandling the affordability crisis\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+          "content": "They should lift incomes, not suppress prices",
+          "source": "The Economist",
+          "publishedAt": "Thu, 08 Oct 2026 09:26:41 +0000",
+          "summary": "They should lift incomes, not suppress prices..."
+        },
+        {
+          "title": "ASE Technology Q3 sales jump nearly 45% Y/Y",
+          "url": "https://seekingalpha.com/news/4651976-ase-technology-q3-sales-jump-nearly-45-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 12 Oct 2026 03:31:35 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Trump fails to reverse slide in popularity as voters sour on economy, FT poll shows",
+          "url": "https://seekingalpha.com/news/4651974-trump-fails-to-reverse-slide-in-popularity-as-voters-sour-on-economy-ft-poll-shows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 12 Oct 2026 03:16:06 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Information, Speed or Smart Decisions? What Will Give Investors the Next Big Edge? | Sandeep Tandon ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/information-speed-or-smart-decisions-what-will-give-investors-the-next-big-edge-sandeep-tandon/videoshow/134886106.cms",
+          "content": " ",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 12 Oct 2026 12:59:36 +0530",
+          "summary": " ..."
+        },
+        {
+          "title": "Moneyview shares rally 93% from IPO price in 7 sessions. What lies ahead? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/moneyview-shares-rally-93-from-ipo-price-in-7-sessions-what-lies-ahead/articleshow/134886000.cms",
+          "content": "Moneyview shares have surged since listing, but sustaining the rally will depend on the company’s financial performance and asset quality. Analysts say investors should track revenue growth, loan disbursals, managed assets under management (AUM), profitability, margins and operating cash flow. The digital lending platform’s ability to sustain growth while maintaining asset quality will be key to its long-term prospects.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 12 Oct 2026 12:57:32 +0530",
+          "summary": "Moneyview shares have surged since listing, but sustaining the rally will depend on the company’s financial performance and asset quality. Analysts say investors should track revenue growth, loan disb..."
+        }
+      ],
+      "generatedAt": "2026-10-12T07:50:26.954Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+          "url": "https://www.nature.com/articles/d41586-026-03159-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
+          "url": "https://www.nature.com/articles/d41586-026-03216-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261009025434.htm",
+          "content": "A surprisingly simple change in how you walk could help relieve knee arthritis pain and even slow joint damage. In a year-long clinical trial, researchers found that adjusting the angle of a person's foot while walking reduced osteoarthritis pain by an amount comparable to medication, without requiring drugs or surgery. Even more promising, MRI scans revealed that participants who adopted the personalized walking technique experienced slower deterioration in a marker of knee cartilage health.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 10 Oct 2026 20:00:24 EDT",
+          "summary": "A surprisingly simple change in how you walk could help relieve knee arthritis pain and even slow joint damage. In a year-long clinical trial, researchers found that adjusting the angle of a person's ..."
+        },
+        {
+          "title": "NASA astronauts splash down after 100 million miles in space",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+          "content": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 08 Oct 2026 23:56:28 EDT",
+          "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future ..."
+        },
+        {
+          "title": "One with the world? A new look at brains transformed by psychedelics.",
+          "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+          "content": "Participants meditated inside an MRI tube, with and without psilocybin.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 10 Oct 2026 11:15:35 +0000",
+          "summary": "Participants meditated inside an MRI tube, with and without psilocybin...."
+        },
+        {
+          "title": "Neanderthal wooden tools from Spain found preserved in stone",
+          "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+          "content": "Dissolved rock precipitated around the tools, which then decayed.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 09 Oct 2026 22:34:03 +0000",
+          "summary": "Dissolved rock precipitated around the tools, which then decayed...."
+        }
+      ],
+      "generatedAt": "2026-10-12T07:50:27.984Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Postgres isn't slow, your storage is",
+          "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+          "content": "Article URL: https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is\nComments URL: https://news.ycombinator.com/item?id=50052163\nPoints: 9\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 12 Oct 2026 06:36:53 +0000",
+          "summary": "Article URL: https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is\nComments URL: https://news.ycombinator.com/item?id=50052163\nPoints: 9\n# Comments: 2..."
+        },
+        {
+          "title": "Attack of the Vibe Coded Photoshop Clones",
+          "url": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
+          "content": "Article URL: https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones\nComments URL: https://news.ycombinator.com/item?id=50052156\nPoints: 99\n# Comments: 96",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 12 Oct 2026 06:35:05 +0000",
+          "summary": "Article URL: https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones\nComments URL: https://news.ycombinator.com/item?id=50052156\nPoints: 99\n# Comments: 96..."
+        },
+        {
+          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "content": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 12 Oct 2026 00:59:01 +0000",
+          "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that...."
+        },
+        {
+          "title": "Will the HomeView be Apple’s first smart home success?",
+          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "content": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 11 Oct 2026 21:14:40 +0000",
+          "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date...."
+        }
+      ],
+      "generatedAt": "2026-10-12T07:50:28.703Z"
+    }
+  ]
+}
