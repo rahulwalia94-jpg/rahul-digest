@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T06:17:00.941Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Navigating climate policy shocks: optimal monetary policy responses",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/navigating-climate-policy-shocks-optimal-monetary-policy-responses",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 09 Oct 2026 14:02:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Domestic and foreign insurer corporate bond demand and monetary policy",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/domestic-and-foreign-insurer-corporate-bond-demand-and-monetary-policy",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 09 Oct 2026 14:01:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-10-15T06:16:57.401Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 14 Oct 2026 16:12:42 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 13 Oct 2026 17:05:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
+          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress...."
+        },
+        {
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 13 Oct 2026 19:43:07 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: faking blood and the future of batteries",
+          "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 14 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a ..."
+        },
+        {
+          "title": "The US military’s race to make fake blood",
+          "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+          "content": "Its call sign was Morphine 1-2.   In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad daylight. Typically, helicopters would be in a spot like…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 14 Oct 2026 09:00:00 +0000",
+          "summary": "Its call sign was Morphine 1-2.   In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when an..."
+        }
+      ],
+      "generatedAt": "2026-10-15T06:16:58.167Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "CPI comes in hot, AI goes cold",
+          "url": "https://www.ft.com/content/789307ae-5109-465c-9b79-7ce71308f0d2?syn-25a6b1a6=1",
+          "content": "Plus: the EM index is just an AI bet now",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 15 Oct 2026 05:30:09 GMT",
+          "summary": "Plus: the EM index is just an AI bet now..."
+        },
+        {
+          "title": "Global AI sell-off deepens as Asian markets tumble",
+          "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+          "content": "Sharp falls trigger trading halt on South Korea’s Kospi and Japan’s Nikkei 225 sinks 5%, following Wall Street lower",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 15 Oct 2026 04:04:16 GMT",
+          "summary": "Sharp falls trigger trading halt on South Korea’s Kospi and Japan’s Nikkei 225 sinks 5%, following Wall Street lower..."
+        },
+        {
+          "title": "\n        Another warning sign for China’s economy: falling consumer credit\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
+          "content": "A crackdown on aggressive debt collectors is good news and bad news",
+          "source": "The Economist",
+          "publishedAt": "Wed, 14 Oct 2026 17:52:55 +0000",
+          "summary": "A crackdown on aggressive debt collectors is good news and bad news..."
+        },
+        {
+          "title": "\n        How to lose money betting against Europe\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/13/how-to-lose-money-betting-against-europe",
+          "content": "In a sovereign-debt crisis, even understanding politics may not be enough",
+          "source": "The Economist",
+          "publishedAt": "Tue, 13 Oct 2026 17:01:13 +0000",
+          "summary": "In a sovereign-debt crisis, even understanding politics may not be enough..."
+        },
+        {
+          "title": "UK GDP rises more than expected in August as goods trade gap narrows",
+          "url": "https://seekingalpha.com/news/4653240-uk-gdp-rises-more-than-expected-in-august-as-goods-trade-gap-narrows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 15 Oct 2026 02:12:23 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Nordea Bank Abp GAAP EPS of €0.35, net interest income of €1.8B",
+          "url": "https://seekingalpha.com/news/4653241-nordea-bank-abp-gaap-eps-of-035-net-interest-income-of-18b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 15 Oct 2026 02:07:25 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Canara Bank shares slide over 6% after Q2 earnings. Buy, sell or hold the state lender? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-shares-slide-over-6-after-q2-earnings-buy-sell-or-hold-the-state-lender/articleshow/134958573.cms",
+          "content": "Canara Bank shares fell sharply on Thursday despite reporting an 8% year-on-year rise in Q2 FY27 standalone net profit to Rs 5,175 crore. Brokerages remain divided, with Morgan Stanley retaining an Underweight rating, while Motilal Oswal and JM Financial recommend buying the stock.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 15 Oct 2026 11:20:13 +0530",
+          "summary": "Canara Bank shares fell sharply on Thursday despite reporting an 8% year-on-year rise in Q2 FY27 standalone net profit to Rs 5,175 crore. Brokerages remain divided, with Morgan Stanley retaining an Un..."
+        },
+        {
+          "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
+          "content": "TSMC is expected to report its sixth consecutive quarter of record earnings, driven by surging AI chip demand and technology investments. Analysts forecast a 65% profit increase, while investors await updated guidance amid interest-rate concerns and expanding global manufacturing plans, including major US investments to strengthen semiconductor production capacity.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 15 Oct 2026 10:42:43 +0530",
+          "summary": "TSMC is expected to report its sixth consecutive quarter of record earnings, driven by surging AI chip demand and technology investments. Analysts forecast a 65% profit increase, while investors await..."
+        }
+      ],
+      "generatedAt": "2026-10-15T06:16:59.208Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+          "url": "https://www.nature.com/articles/s41586-026-11242-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-14T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This is why butterflies are so hard to catch",
+          "url": "https://www.nature.com/articles/d41586-026-03301-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-14T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
+          "content": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of people turn to GLP-1 medications.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 15 Oct 2026 00:14:55 EDT",
+          "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although t..."
+        },
+        {
+          "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+          "content": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first evidence of megaraptorans in Europe, helping explain how these mysterious dinosaurs eventually became gigantic hunters.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 14 Oct 2026 18:51:56 EDT",
+          "summary": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also..."
+        },
+        {
+          "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+          "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+          "content": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 14 Oct 2026 20:48:07 +0000",
+          "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"..."
+        },
+        {
+          "title": "Researchers use AI to design proteins that cut up other proteins",
+          "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+          "content": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 14 Oct 2026 17:10:15 +0000",
+          "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years...."
+        }
+      ],
+      "generatedAt": "2026-10-15T06:17:00.118Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
+          "url": "https://github.com/andunieee/flipflop",
+          "content": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.\nComments URL: https://news.ycombinator.com/item?id=50099136\nPoints: 5\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 15 Oct 2026 04:25:28 +0000",
+          "summary": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most impo..."
+        },
+        {
+          "title": "An Apology",
+          "url": "https://www.elevationlab.com/blogs/news/an-apology",
+          "content": "Article URL: https://www.elevationlab.com/blogs/news/an-apology\nComments URL: https://news.ycombinator.com/item?id=50099121\nPoints: 38\n# Comments: 24",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 15 Oct 2026 04:23:27 +0000",
+          "summary": "Article URL: https://www.elevationlab.com/blogs/news/an-apology\nComments URL: https://news.ycombinator.com/item?id=50099121\nPoints: 38\n# Comments: 24..."
+        },
+        {
+          "title": "Figma announces new features to define how agents work on its platform",
+          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "content": "Figma is also releasing its code layers feature in open beta.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 15 Oct 2026 04:30:00 +0000",
+          "summary": "Figma is also releasing its code layers feature in open beta...."
+        },
+        {
+          "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "content": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 15 Oct 2026 01:01:32 +0000",
+          "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des..."
+        }
+      ],
+      "generatedAt": "2026-10-15T06:17:00.941Z"
+    }
+  ]
+}
