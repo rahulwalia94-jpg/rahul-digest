@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T06:13:01.222Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 14 October 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Review of CCP collateral rules - letters of credit",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 10:00:00 +0100",
+          "summary": "Consultation paper..."
+        }
+      ],
+      "generatedAt": "2026-10-16T06:12:58.116Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 16 Oct 2026 01:44:47 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 15 Oct 2026 20:34:01 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+          "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 15 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought ba..."
+        },
+        {
+          "title": "How much more can nuclear power plants give?",
+          "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+          "content": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans to add nearly a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 15 Oct 2026 10:00:00 +0000",
+          "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power pla..."
+        }
+      ],
+      "generatedAt": "2026-10-16T06:12:58.852Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Hiding from the everything trade",
+          "url": "https://www.ft.com/content/6533c873-29df-453b-9ac4-7b17e5a3576f?syn-25a6b1a6=1",
+          "content": "Unhedged readers on how to hedge AI risk",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 16 Oct 2026 05:30:07 GMT",
+          "summary": "Unhedged readers on how to hedge AI risk..."
+        },
+        {
+          "title": "So. About next year’s earnings . . . ",
+          "url": "https://www.ft.com/content/d36787c1-f0b0-4445-8237-90eb4d521081",
+          "content": "Beat IT",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 16 Oct 2026 05:00:08 GMT",
+          "summary": "Beat IT..."
+        },
+        {
+          "title": "\n        How Ukraine’s biggest bank is run in a war zone\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/15/how-ukraines-biggest-bank-is-run-in-a-war-zone",
+          "content": "PrivatBank is a case study in adaptation",
+          "source": "The Economist",
+          "publishedAt": "Thu, 15 Oct 2026 09:34:30 +0000",
+          "summary": "PrivatBank is a case study in adaptation..."
+        },
+        {
+          "title": "\n        A shortage of sulphur could hurt mines and farms everywhere\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere",
+          "content": "Another commodity shock from the Iran war",
+          "source": "The Economist",
+          "publishedAt": "Thu, 15 Oct 2026 09:32:42 +0000",
+          "summary": "Another commodity shock from the Iran war..."
+        },
+        {
+          "title": "Netflix hires ex-Disney exec Peter Rice as chief content officer",
+          "url": "https://seekingalpha.com/news/4653680-netflix-hires-ex-disney-exec-peter-rice-as-chief-content-officer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 16 Oct 2026 01:54:25 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Collective Metals announces $515K non-brokered private placement",
+          "url": "https://seekingalpha.com/news/4653686-collective-metals-announces-515k-non-brokered-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 16 Oct 2026 01:36:51 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Shanti Gold, PC Jeweller &amp; other jewellery stocks rally up to 10% as gold ETF FoF subscriptions face curbs ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/shanti-gold-pc-jeweller-other-jewellery-stocks-rally-up-to-10-as-gold-etf-fof-subscriptions-face-curbs/articleshow/134983846.cms",
+          "content": "Jewellery stocks, including Shanti Gold International, PC Jeweller and Sky Gold and Diamonds, rose sharply on Friday as mutual fund houses temporarily restricted fresh subscriptions to gold ETF Fund of Funds. With the festive and wedding season approaching, analysts expect resilient gold demand, while organised retailers could benefit from market share gains.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 16 Oct 2026 11:19:57 +0530",
+          "summary": "Jewellery stocks, including Shanti Gold International, PC Jeweller and Sky Gold and Diamonds, rose sharply on Friday as mutual fund houses temporarily restricted fresh subscriptions to gold ETF Fund o..."
+        },
+        {
+          "title": "Persistent Systems shares slide 5% despite Q2 revenue growth. Buy, sell or hold? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-5-despite-q2-revenue-growth-buy-sell-or-hold/articleshow/134983124.cms",
+          "content": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brokerages remained divided on the stock amid valuation concerns and acquisition-related costs.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 16 Oct 2026 10:49:41 +0530",
+          "summary": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brokerages remained divi..."
+        }
+      ],
+      "generatedAt": "2026-10-16T06:12:59.907Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+          "url": "https://www.nature.com/articles/d41586-026-03178-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-15T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
+          "url": "https://www.nature.com/articles/d41586-026-03329-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-15T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Arctic sea ice hits another troubling low in 2026",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
+          "content": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting. Despite a recent slowdown in summer losses, scientists warn that the Arctic could experience a nearly ice-free summer before 2050.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 15 Oct 2026 08:40:44 EDT",
+          "summary": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting. Despite a recent s..."
+        },
+        {
+          "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+          "content": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable than scientists previously realized.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 15 Oct 2026 08:52:05 EDT",
+          "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researche..."
+        },
+        {
+          "title": "What did the Liberty Bell sound like? Science is on the case.",
+          "url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+          "content": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 15 Oct 2026 19:10:03 +0000",
+          "summary": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend...."
+        },
+        {
+          "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
+          "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
+          "content": "Its effect on people remains an ongoing question.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 15 Oct 2026 18:39:17 +0000",
+          "summary": "Its effect on people remains an ongoing question...."
+        }
+      ],
+      "generatedAt": "2026-10-16T06:13:00.611Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Tesla makes cars that fly? [video]",
+          "url": "https://www.youtube.com/watch?v=7p5LxFdc-Qg",
+          "content": "Article URL: https://www.youtube.com/watch?v=7p5LxFdc-Qg\nComments URL: https://news.ycombinator.com/item?id=50114077\nPoints: 33\n# Comments: 11",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 16 Oct 2026 04:27:54 +0000",
+          "summary": "Article URL: https://www.youtube.com/watch?v=7p5LxFdc-Qg\nComments URL: https://news.ycombinator.com/item?id=50114077\nPoints: 33\n# Comments: 11..."
+        },
+        {
+          "title": "Comparing Chromium Development at Google and Igalia",
+          "url": "https://lwn.net/Articles/1094721/",
+          "content": "Article URL: https://lwn.net/Articles/1094721/\nComments URL: https://news.ycombinator.com/item?id=50112887\nPoints: 29\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 16 Oct 2026 01:56:37 +0000",
+          "summary": "Article URL: https://lwn.net/Articles/1094721/\nComments URL: https://news.ycombinator.com/item?id=50112887\nPoints: 29\n# Comments: 2..."
+        },
+        {
+          "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+          "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+          "content": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 16 Oct 2026 05:16:46 +0000",
+          "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep...."
+        },
+        {
+          "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+          "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+          "content": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 16 Oct 2026 01:17:43 +0000",
+          "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas...."
+        }
+      ],
+      "generatedAt": "2026-10-16T06:13:01.222Z"
+    }
+  ]
+}
