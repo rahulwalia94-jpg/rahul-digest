@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T05:58:42.320Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 14 October 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Review of CCP collateral rules - letters of credit",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 10:00:00 +0100",
+          "summary": "Consultation paper..."
+        }
+      ],
+      "generatedAt": "2026-10-17T05:58:34.590Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 16 Oct 2026 01:44:47 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "content": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 16 Oct 2026 18:00:00 +0000",
+          "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose ..."
+        },
+        {
+          "title": "The Download: failed social media bans, and extending pets’ lives",
+          "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 16 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem w..."
+        }
+      ],
+      "generatedAt": "2026-10-17T05:58:35.442Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "UK dividend payments jump 14% in a year ",
+          "url": "https://www.ft.com/content/169bbf6e-d0af-4c8d-afd0-2c561a58c855?syn-25a6b1a6=1",
+          "content": "Banks and miners lead payouts to investors",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 17 Oct 2026 04:00:21 GMT",
+          "summary": "Banks and miners lead payouts to investors..."
+        },
+        {
+          "title": "The dress rehearsal for an AI reckoning",
+          "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+          "content": "Ructions point to what a true bursting of the bubble might do to financial markets",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 17 Oct 2026 04:00:21 GMT",
+          "summary": "Ructions point to what a true bursting of the bubble might do to financial markets..."
+        },
+        {
+          "title": "\n        It’s not just Commerzbank: Italians are eating up German business\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
+          "content": "The takeover of the bank by UniCredit is only the start",
+          "source": "The Economist",
+          "publishedAt": "Fri, 16 Oct 2026 17:58:53 +0000",
+          "summary": "The takeover of the bank by UniCredit is only the start..."
+        },
+        {
+          "title": "\n        How Ukraine’s biggest bank is run in a war zone\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/15/how-ukraines-biggest-bank-is-run-in-a-war-zone",
+          "content": "PrivatBank is a case study in adaptation",
+          "source": "The Economist",
+          "publishedAt": "Thu, 15 Oct 2026 09:34:30 +0000",
+          "summary": "PrivatBank is a case study in adaptation..."
+        },
+        {
+          "title": "Brent crude hits $110 for first time since May; U.S. WTI tops $100",
+          "url": "https://seekingalpha.com/news/4654025-brent-crude-hits-110-for-first-time-since-may-us-wti-tops-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 16 Oct 2026 20:06:25 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Boeing commercial sales chief McMullen set to retire - Reuters",
+          "url": "https://seekingalpha.com/news/4654027-boeing-commercial-sales-chief-mcmullen-set-to-retire-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 16 Oct 2026 19:17:40 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "ET Alpha Wealth Summit 2.0 | Why alternatives are becoming essential for wealth creation beyond stocks and bonds, says Rahul Jain ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/et-alpha-wealth-summit-2-0-why-alternatives-are-becoming-essential-for-wealth-creation-beyond-stocks-and-bonds-says-rahul-jain/articleshow/135008310.cms",
+          "content": "Nuvama Wealth Management’s Rahul Jain says alternative investments can diversify portfolios through private markets, AIFs, private credit, REITs and InvITs. He recommends evaluating risk before returns and taxes, while considering global equities and liquidity constraints when determining portfolio allocations.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 17 Oct 2026 11:23:27 +0530",
+          "summary": "Nuvama Wealth Management’s Rahul Jain says alternative investments can diversify portfolios through private markets, AIFs, private credit, REITs and InvITs. He recommends evaluating risk before return..."
+        },
+        {
+          "title": "Why India's steel demand is defying global weakness ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-indias-steel-demand-is-defying-global-weakness/articleshow/135008082.cms",
+          "content": "India’s steel prices are rising despite weak global markets, supported by infrastructure spending, manufacturing growth and higher input costs. While Chinese oversupply pressures international prices, robust domestic consumption and capacity utilisation underpin India’s outlook, with cheaper imports remaining a key risk.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 17 Oct 2026 11:08:59 +0530",
+          "summary": "India’s steel prices are rising despite weak global markets, supported by infrastructure spending, manufacturing growth and higher input costs. While Chinese oversupply pressures international prices,..."
+        }
+      ],
+      "generatedAt": "2026-10-17T05:58:36.922Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+          "url": "https://www.nature.com/articles/d41586-026-03341-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-16T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The pianist who never played",
+          "url": "https://www.nature.com/articles/d41586-026-03112-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-16T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm",
+          "content": "A nationwide search for giant crayfish uncovered a record-breaking Tennessee specimen and a surprising mystery about how big these freshwater creatures can grow. Scientists found that North American crayfish seem to hit a biological size limit, possibly because of their muscles or protective shells.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 15 Oct 2026 23:45:22 EDT",
+          "summary": "A nationwide search for giant crayfish uncovered a record-breaking Tennessee specimen and a surprising mystery about how big these freshwater creatures can grow. Scientists found that North American c..."
+        },
+        {
+          "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
+          "content": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes and wartime documents reveals that Germany lacked the enormous quantities of uranium and heavy water needed to make its reactor operational.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 16 Oct 2026 08:32:52 EDT",
+          "summary": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of survi..."
+        },
+        {
+          "title": "What did the Liberty Bell sound like? Science is on the case.",
+          "url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+          "content": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 15 Oct 2026 19:10:03 +0000",
+          "summary": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend...."
+        },
+        {
+          "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
+          "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
+          "content": "Its effect on people remains an ongoing question.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 15 Oct 2026 18:39:17 +0000",
+          "summary": "Its effect on people remains an ongoing question...."
+        }
+      ],
+      "generatedAt": "2026-10-17T05:58:41.149Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "\"In every study that considered the question\"",
+          "url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+          "content": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/\nComments URL: https://news.ycombinator.com/item?id=50127839\nPoints: 15\n# Comments: 9",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 17 Oct 2026 04:08:27 +0000",
+          "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/\nComments URL: https://news.ycombinator.com/item?id=50127839\nPoints: 15\n# Comments: 9..."
+        },
+        {
+          "title": "Butlerian Jihad",
+          "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+          "content": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad\nComments URL: https://news.ycombinator.com/item?id=50127274\nPoints: 148\n# Comments: 82",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 17 Oct 2026 02:21:08 +0000",
+          "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad\nComments URL: https://news.ycombinator.com/item?id=50127274\nPoints: 148\n# Comments: 82..."
+        },
+        {
+          "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+          "content": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 17 Oct 2026 02:36:18 +0000",
+          "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing ..."
+        },
+        {
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "content": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 16 Oct 2026 21:22:28 +0000",
+          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ..."
+        }
+      ],
+      "generatedAt": "2026-10-17T05:58:42.320Z"
+    }
+  ]
+}
