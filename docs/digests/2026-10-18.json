@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T06:26:36.416Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 14 October 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Review of CCP collateral rules - letters of credit",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 10:00:00 +0100",
+          "summary": "Consultation paper..."
+        }
+      ],
+      "generatedAt": "2026-10-18T06:26:32.976Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 16 Oct 2026 01:44:47 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "content": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 16 Oct 2026 18:00:00 +0000",
+          "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose ..."
+        },
+        {
+          "title": "The Download: failed social media bans, and extending pets’ lives",
+          "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 16 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem w..."
+        }
+      ],
+      "generatedAt": "2026-10-18T06:26:33.606Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "‘Cash is making a comeback’ in digital India",
+          "url": "https://www.ft.com/content/886006f8-284c-4a20-9411-3cfd9deead3f?syn-25a6b1a6=1",
+          "content": "Shadow economy drives demand for physical currency as new charge could hit popularity of the UPI digital payments interface",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 18 Oct 2026 04:11:11 GMT",
+          "summary": "Shadow economy drives demand for physical currency as new charge could hit popularity of the UPI digital payments interface..."
+        },
+        {
+          "title": "Listings in south-east Asia gain momentum with $1bn IPO",
+          "url": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
+          "content": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 18 Oct 2026 01:00:06 GMT",
+          "summary": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year..."
+        },
+        {
+          "title": "\n        It’s not just Commerzbank: Italians are eating up German business\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
+          "content": "The takeover of the bank by UniCredit is only the start",
+          "source": "The Economist",
+          "publishedAt": "Fri, 16 Oct 2026 17:58:53 +0000",
+          "summary": "The takeover of the bank by UniCredit is only the start..."
+        },
+        {
+          "title": "\n        How Ukraine’s biggest bank is run in a war zone\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/15/how-ukraines-biggest-bank-is-run-in-a-war-zone",
+          "content": "PrivatBank is a case study in adaptation",
+          "source": "The Economist",
+          "publishedAt": "Thu, 15 Oct 2026 09:34:30 +0000",
+          "summary": "PrivatBank is a case study in adaptation..."
+        },
+        {
+          "title": "New England faces record-high heating oil costs this winter",
+          "url": "https://seekingalpha.com/news/4654046-new-england-faces-record-high-heating-oil-costs-this-winter?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 17 Oct 2026 20:45:38 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Key deals this week: International Paper, IonQ, Bumble, and more",
+          "url": "https://seekingalpha.com/news/4654028-key-deals-this-week-international-paper-ionq-bumble-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 17 Oct 2026 15:15:55 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Bonus issues, stock splits &amp; dividends: HDB Financial, IRFC, TechM among 19 stocks turning ex-record date this week ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-hdb-financial-irfc-techm-among-19-stocks-turning-ex-record-date-this-week/articleshow/135024511.cms",
+          "content": "Around 19 companies including LTIMindtree, Tech Mahindra, IRFC, HDB Financial Services, and Angel One have fixed their record dates for dividends, stock splits, and bonus issues during the week of October 19-23. Investors must hold shares in their demat accounts by the record date to qualify.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 18 Oct 2026 11:23:26 +0530",
+          "summary": "Around 19 companies including LTIMindtree, Tech Mahindra, IRFC, HDB Financial Services, and Angel One have fixed their record dates for dividends, stock splits, and bonus issues during the week of Oct..."
+        },
+        {
+          "title": "LG Electronics, Polycab among picks as premiumisation and infrastructure demand drive growth: Siddhartha Khemka ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/lg-electronics-polycab-among-picks-as-premiumisation-and-infrastructure-demand-drive-growth-siddhartha-khemka/articleshow/135024487.cms",
+          "content": "Consumer durable demand is showing an uneven festive recovery, with premiumisation and weather-led sales supporting select categories. Siddhartha Khemka picks LG Electronics and Polycab, citing their growth prospects, infrastructure demand and premiumisation. LG has a target price of Rs 2,075, while Polycab has a target of Rs 10,600.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 18 Oct 2026 11:19:22 +0530",
+          "summary": "Consumer durable demand is showing an uneven festive recovery, with premiumisation and weather-led sales supporting select categories. Siddhartha Khemka picks LG Electronics and Polycab, citing their ..."
+        }
+      ],
+      "generatedAt": "2026-10-18T06:26:34.721Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+          "url": "https://www.nature.com/articles/d41586-026-03341-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-16T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The pianist who never played",
+          "url": "https://www.nature.com/articles/d41586-026-03112-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-16T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+          "content": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatments for sleep and neurological disorders.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 17 Oct 2026 01:14:50 EDT",
+          "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help ex..."
+        },
+        {
+          "title": "New drug reverses severe fatty liver disease by repairing the gut",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
+          "content": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakthrough could pave the way for new treatments for liver disease and potentially other serious conditions, including cardiovascular disease.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 17 Oct 2026 09:45:06 EDT",
+          "summary": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakt..."
+        },
+        {
+          "title": "Science says your boss should talk less in meetings",
+          "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+          "content": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 17 Oct 2026 11:15:11 +0000",
+          "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too...."
+        },
+        {
+          "title": "What did the Liberty Bell sound like? Science is on the case.",
+          "url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+          "content": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 15 Oct 2026 19:10:03 +0000",
+          "summary": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend...."
+        }
+      ],
+      "generatedAt": "2026-10-18T06:26:35.813Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The game industry is broken – can we fix it?",
+          "url": "https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash",
+          "content": "Article URL: https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash\nComments URL: https://news.ycombinator.com/item?id=50138156\nPoints: 7\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 18 Oct 2026 05:27:58 +0000",
+          "summary": "Article URL: https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash\nComments URL: https://news.ycombinator.com/item?id=50138156\nPoints: 7\n# Comments: 1..."
+        },
+        {
+          "title": "Matthew Prince on why Cloudflare offers a free version and always will",
+          "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+          "content": "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685\nComments URL: https://news.ycombinator.com/item?id=50138087\nPoints: 19\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 18 Oct 2026 05:09:14 +0000",
+          "summary": "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685\nComments URL: https://news.ycombinator.com/item?id=50138087\nP..."
+        },
+        {
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "content": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 17 Oct 2026 21:31:32 +0000",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web...."
+        },
+        {
+          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+          "content": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 17 Oct 2026 20:55:52 +0000",
+          "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms...."
+        }
+      ],
+      "generatedAt": "2026-10-18T06:26:36.416Z"
+    }
+  ]
+}
