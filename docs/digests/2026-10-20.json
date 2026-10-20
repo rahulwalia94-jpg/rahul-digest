@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T06:24:05.798Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 14 October 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Review of CCP collateral rules - letters of credit",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 10:00:00 +0100",
+          "summary": "Consultation paper..."
+        }
+      ],
+      "generatedAt": "2026-10-20T06:23:58.475Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 19 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 16 Oct 2026 01:44:47 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
+          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science...."
+        },
+        {
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
+          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress...."
+        },
+        {
+          "title": "Making the internet better for AI agents might make it worse for everyone else",
+          "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 19 Oct 2026 18:22:47 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two ..."
+        },
+        {
+          "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+          "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+          "content": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 19 Oct 2026 17:45:55 +0000",
+          "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that ha..."
+        }
+      ],
+      "generatedAt": "2026-10-20T06:23:59.286Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Waiting for good IPO",
+          "url": "https://www.ft.com/content/6c6fb412-5eca-4ed3-8b3d-f1c367712c5c?syn-25a6b1a6=1",
+          "content": "Anthropic’s shrinking window to list",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 20 Oct 2026 05:30:09 GMT",
+          "summary": "Anthropic’s shrinking window to list..."
+        },
+        {
+          "title": "What has actually battered the bond market?",
+          "url": "https://www.ft.com/content/e5585991-c884-4b22-867e-5d70efbb0a87",
+          "content": "A fixed-income whodunit",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 20 Oct 2026 05:00:09 GMT",
+          "summary": "A fixed-income whodunit..."
+        },
+        {
+          "title": "\n        Who will buy $120bn-worth of fresh Japanese government bonds?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
+          "content": "Japan wants its pension fund and households to buy more government debt",
+          "source": "The Economist",
+          "publishedAt": "Mon, 19 Oct 2026 18:11:37 +0000",
+          "summary": "Japan wants its pension fund and households to buy more government debt..."
+        },
+        {
+          "title": "\n        It’s not just Commerzbank: Italians are eating up German business\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
+          "content": "The takeover of the bank by UniCredit is only the start",
+          "source": "The Economist",
+          "publishedAt": "Fri, 16 Oct 2026 17:58:53 +0000",
+          "summary": "The takeover of the bank by UniCredit is only the start..."
+        },
+        {
+          "title": "Nvidia to back four German AI startups as part of near-$10B European push",
+          "url": "https://seekingalpha.com/news/4654457-nvidia-to-back-four-german-ai-startups-as-part-of-near-10b-european-push?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 20 Oct 2026 02:13:22 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Asian markets slide as South Korea sinks 4.4%; U.S. futures mixed",
+          "url": "https://seekingalpha.com/news/4654455-asian-markets-slide-as-south-korea-sinks-44-us-futures-mixed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 20 Oct 2026 02:02:46 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Tonbo Imaging’s Rs 852 crore IPO subscribed 140x. Check GMP, allotment, other details ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imagings-rs-852-crore-ipo-subscribed-140x-check-gmp-allotment-other-details/articleshow/135062276.cms",
+          "content": "The issue received bids for 1,15,86,91,464 shares against 85,26,033 shares on offer. Qualified institutional buyers led the demand, subscribing to their allotted portion 293.56 times. The non-institutional investor category was subscribed 170.94 times, while the retail portion saw 31.06 times subscription.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 20 Oct 2026 11:15:38 +0530",
+          "summary": "The issue received bids for 1,15,86,91,464 shares against 85,26,033 shares on offer. Qualified institutional buyers led the demand, subscribing to their allotted portion 293.56 times. The non-institut..."
+        },
+        {
+          "title": "Global Market: China and Hong Kong shares weaken as stable growth eases stimulus bets ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-and-hong-kong-shares-weaken-as-stable-growth-eases-stimulus-bets/articleshow/135061983.cms",
+          "content": "China and Hong Kong stocks weakened on Tuesday, joining a broader retreat in the region, after Beijing kept key lending rates unchanged and stronger GDP data dampened",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 20 Oct 2026 10:52:35 +0530",
+          "summary": "China and Hong Kong stocks weakened on Tuesday, joining a broader retreat in the region, after Beijing kept key lending rates unchanged and stronger GDP data dampened..."
+        }
+      ],
+      "generatedAt": "2026-10-20T06:24:00.522Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Toxic chemicals in fentanyl revealed by speedy technique ",
+          "url": "https://www.nature.com/articles/d41586-026-03317-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Light and mirrors move large quantum computers closer to reality",
+          "url": "https://www.nature.com/articles/d41586-026-03237-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+          "content": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early signs of the disease. The strongest benefits appeared at 5,000 to 7,500 daily steps, suggesting that the popular 10,000-step goal may not be necessary.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 19 Oct 2026 07:23:26 EDT",
+          "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau prot..."
+        },
+        {
+          "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
+          "content": "A massive landslide in Alaska triggered the second-highest tsunami ever recorded, sending water and debris 1,580 feet up a mountainside just hours after tourists visited the area. Scientists discovered that the disaster was preceded by several warning signs, including rapid glacier retreat, heavy rainfall, and thousands of tiny seismic tremors. As glaciers retreat, similar disasters could become a growing danger in mountainous coastal regions.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 19 Oct 2026 09:09:18 EDT",
+          "summary": "A massive landslide in Alaska triggered the second-highest tsunami ever recorded, sending water and debris 1,580 feet up a mountainside just hours after tourists visited the area. Scientists discovere..."
+        },
+        {
+          "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+          "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+          "content": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 19 Oct 2026 20:54:17 +0000",
+          "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"..."
+        },
+        {
+          "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+          "url": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+          "content": "One way to make batteries cleaner is to make fewer of them.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 19 Oct 2026 20:03:55 +0000",
+          "summary": "One way to make batteries cleaner is to make fewer of them...."
+        }
+      ],
+      "generatedAt": "2026-10-20T06:24:01.168Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+          "url": "https://deathplanswitch.com/",
+          "content": "Hi HN,\nI'm Peter Bishop and I've been working in graphics and web tech for over 25yrs.\nI've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or die? The right people are told and my business can continue to operate for my clients.\nThere's a backstory to this project, I was hospitalised in 2012 and lost my business back then and I couldn't get the data to my technical 2IC in time without frustrating my clients.\nDeath Plan Switch solves this problem, it's free to download and use or study under the MIT license.\nI've been using it for the last few weeks. It was authored with the help of Claude Code after writing an extensive MD document and it passed 42 unit tests.\nI hope you get some use out of it, or it inspires your own succession plans. My clients are telling me this is a strong sales feature when they trust me with their hosting and technology accounts.\nHappy to answer any questions.\nKind regards,\nPeter Bishop.\nComments URL: https://news.ycombinator.com/item?id=50161408\nPoints: 25\n# Comments: 11",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 20 Oct 2026 04:37:43 +0000",
+          "summary": "Hi HN,\nI'm Peter Bishop and I've been working in graphics and web tech for over 25yrs.\nI've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or ..."
+        },
+        {
+          "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+          "url": "https://github.com/golang/go/issues/82345",
+          "content": "Article URL: https://github.com/golang/go/issues/82345\nComments URL: https://news.ycombinator.com/item?id=50160877\nPoints: 49\n# Comments: 17",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 20 Oct 2026 03:05:07 +0000",
+          "summary": "Article URL: https://github.com/golang/go/issues/82345\nComments URL: https://news.ycombinator.com/item?id=50160877\nPoints: 49\n# Comments: 17..."
+        },
+        {
+          "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+          "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+          "content": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 20 Oct 2026 02:00:00 +0000",
+          "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch...."
+        },
+        {
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+          "content": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 20 Oct 2026 01:27:03 +0000",
+          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands...."
+        }
+      ],
+      "generatedAt": "2026-10-20T06:24:05.798Z"
+    }
+  ]
+}
