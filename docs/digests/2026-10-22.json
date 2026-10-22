@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T06:27:29.406Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 14 October 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Review of CCP collateral rules - letters of credit",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 10:00:00 +0100",
+          "summary": "Consultation paper..."
+        }
+      ],
+      "generatedAt": "2026-10-22T06:27:20.666Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 21 Oct 2026 18:26:30 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 21 Oct 2026 17:35:36 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
+          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science...."
+        },
+        {
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
+          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress...."
+        },
+        {
+          "title": "The Download: introducing the Impossible issue",
+          "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 21 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edi..."
+        },
+        {
+          "title": "We can do impossible things",
+          "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+          "content": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”  I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 21 Oct 2026 09:00:00 +0000",
+          "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breat..."
+        }
+      ],
+      "generatedAt": "2026-10-22T06:27:21.705Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "‘Eat. Sleep. Securitize. Repeat.’",
+          "url": "https://www.ft.com/content/7092a3c3-e62d-47d8-bb2d-757e38fd2346?syn-25a6b1a6=1",
+          "content": "The corporate debt machine looked unstoppable at this week’s ABS East conference in Miami Beach",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 22 Oct 2026 04:00:21 GMT",
+          "summary": "The corporate debt machine looked unstoppable at this week’s ABS East conference in Miami Beach..."
+        },
+        {
+          "title": "India mounts costly defence of rupee",
+          "url": "https://www.ft.com/content/4577cc43-d98b-43fc-8183-72777286ab80?syn-25a6b1a6=1",
+          "content": "Central bank has spent about $90bn of money raised from diaspora to shore up currency",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 22 Oct 2026 04:00:21 GMT",
+          "summary": "Central bank has spent about $90bn of money raised from diaspora to shore up currency..."
+        },
+        {
+          "title": "\n        The late Perry Mehrling explained the hierarchy of money\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+          "content": "The course for par",
+          "source": "The Economist",
+          "publishedAt": "Tue, 20 Oct 2026 18:32:09 +0000",
+          "summary": "The course for par..."
+        },
+        {
+          "title": "\n        Who will buy $120bn-worth of fresh Japanese government bonds?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
+          "content": "Japan wants its pension fund and households to buy more government debt",
+          "source": "The Economist",
+          "publishedAt": "Mon, 19 Oct 2026 18:11:37 +0000",
+          "summary": "Japan wants its pension fund and households to buy more government debt..."
+        },
+        {
+          "title": "LG Display swings to Q3 profit",
+          "url": "https://seekingalpha.com/news/4655696-lg-display-swings-to-q3-profit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 22 Oct 2026 02:23:07 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Tencent and CATL back DeepSeek's $15B funding round to challenge top US AI labs: report",
+          "url": "https://seekingalpha.com/news/4655694-tencent-and-catl-back-deepseeks-15b-funding-round-to-challenge-top-us-ai-labs-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 22 Oct 2026 01:58:39 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: Japanese bond yields fall to multiweek lows ahead of BOJ meeting ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/global-market-japanese-bond-yields-fall-to-multiweek-lows-ahead-of-boj-meeting/articleshow/135108616.cms",
+          "content": "Japanese government bond yields fell to multiweek lows on Thursday as geopolitical tensions and inflation concerns boosted safe-haven demand. The 10-year yield dropped to 2.88%, while investors awaited the Bank of Japan’s policy meeting, with markets weighing potential rate hikes and global economic uncertainties.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 22 Oct 2026 11:05:13 +0530",
+          "summary": "Japanese government bond yields fell to multiweek lows on Thursday as geopolitical tensions and inflation concerns boosted safe-haven demand. The 10-year yield dropped to 2.88%, while investors awaite..."
+        },
+        {
+          "title": "Global Market: Indonesia imposes record $117 million in fines for stock market violations ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-imposes-record-117-million-in-fines-for-stock-market-violations/articleshow/135105734.cms",
+          "content": "Indonesia’s financial regulator imposed record fines of 2.1 trillion rupiah ($116.67 million) for trading violations involving three listed companies. The crackdown targets stock manipulation and IPO disclosure breaches, addressing concerns over market transparency following MSCI’s warning about potential downgrade of Indonesian equities from emerging-market status.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 22 Oct 2026 10:59:39 +0530",
+          "summary": "Indonesia’s financial regulator imposed record fines of 2.1 trillion rupiah ($116.67 million) for trading violations involving three listed companies. The crackdown targets stock manipulation and IPO ..."
+        }
+      ],
+      "generatedAt": "2026-10-22T06:27:23.126Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
+          "url": "https://www.nature.com/articles/s41586-026-11317-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists put a salt marsh in a giant wave-machine: here's what they learned",
+          "url": "https://www.nature.com/articles/d41586-026-03376-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-21T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
+          "content": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain of rock and water 1.5 kilometers into the air and triggered a tsunami more than 100 meters high.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 21 Oct 2026 00:08:28 EDT",
+          "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroi..."
+        },
+        {
+          "title": "Just 4 minutes a day can dramatically improve strength after 65",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261020085025.htm",
+          "content": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningful gains in balance, leg strength, and their ability to stand up from a chair, all important factors for maintaining independence and reducing fall risk.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 21 Oct 2026 05:52:28 EDT",
+          "summary": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningf..."
+        },
+        {
+          "title": "Quantum error correction goes well beyond breakeven",
+          "url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+          "content": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 20 Oct 2026 18:08:57 +0000",
+          "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow...."
+        },
+        {
+          "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+          "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+          "content": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 20 Oct 2026 05:59:56 +0000",
+          "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos...."
+        }
+      ],
+      "generatedAt": "2026-10-22T06:27:24.331Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "OpenAI CLI",
+          "url": "https://github.com/openai/openai-cli",
+          "content": "Article URL: https://github.com/openai/openai-cli\nComments URL: https://news.ycombinator.com/item?id=50191507\nPoints: 7\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 22 Oct 2026 05:23:11 +0000",
+          "summary": "Article URL: https://github.com/openai/openai-cli\nComments URL: https://news.ycombinator.com/item?id=50191507\nPoints: 7\n# Comments: 2..."
+        },
+        {
+          "title": "I can't believe PowerShell is good",
+          "url": "https://www.spacebar.news/powershell-is-actually-good/",
+          "content": "Article URL: https://www.spacebar.news/powershell-is-actually-good/\nComments URL: https://news.ycombinator.com/item?id=50190959\nPoints: 45\n# Comments: 38",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 22 Oct 2026 03:47:37 +0000",
+          "summary": "Article URL: https://www.spacebar.news/powershell-is-actually-good/\nComments URL: https://news.ycombinator.com/item?id=50190959\nPoints: 45\n# Comments: 38..."
+        },
+        {
+          "title": "Tesla says it will start selling Cybercabs by end of year",
+          "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+          "content": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 22 Oct 2026 00:17:54 +0000",
+          "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, a..."
+        },
+        {
+          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+          "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+          "content": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 21 Oct 2026 22:51:22 +0000",
+          "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters...."
+        }
+      ],
+      "generatedAt": "2026-10-22T06:27:29.406Z"
+    }
+  ]
+}
