@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T06:22:35.232Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 21 October 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/21-october-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 22 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Bank of England Weekly Report 14 October 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 15 Oct 2026 15:00:00 +0100",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-10-23T06:22:29.530Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 22 Oct 2026 22:24:34 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 22 Oct 2026 16:11:31 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 22 Oct 2026 14:30:24 +0000",
+          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types...."
+        },
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
+          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science...."
+        },
+        {
+          "title": "Designing an AI serving harness built to last",
+          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "content": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 22 Oct 2026 21:17:29 +0000",
+          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con..."
+        },
+        {
+          "title": "The Foundations of Scalable AI",
+          "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+          "content": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 22 Oct 2026 18:48:04 +0000",
+          "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future ..."
+        }
+      ],
+      "generatedAt": "2026-10-23T06:22:30.719Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Global tech sell-off sparks flight to safety",
+          "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+          "content": "Japanese bonds and yen rally as Asian stock markets follow Wall Street lower",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 23 Oct 2026 04:42:02 GMT",
+          "summary": "Japanese bonds and yen rally as Asian stock markets follow Wall Street lower..."
+        },
+        {
+          "title": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
+          "url": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1",
+          "content": "Lorries waiting at the border to export agricultural produce into the bloc have become a target for Moscow’s attacks",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 23 Oct 2026 04:00:37 GMT",
+          "summary": "Lorries waiting at the border to export agricultural produce into the bloc have become a target for Moscow’s attacks..."
+        },
+        {
+          "title": "\n        Sam Bankman-Fried says he has paid his debts\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+          "content": "The crypto tycoon speaks with The Economist from prison in California",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 15:51:39 +0000",
+          "summary": "The crypto tycoon speaks with The Economist from prison in California..."
+        },
+        {
+          "title": "\n        New research tries to defuse the “China shock”\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+          "content": "An almighty fight over an influential finding",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 09:12:40 +0000",
+          "summary": "An almighty fight over an influential finding..."
+        },
+        {
+          "title": "Evolution Q3 profit falls despite revenue growth",
+          "url": "https://seekingalpha.com/news/4656437-evolution-q3-profit-falls-despite-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 23 Oct 2026 02:13:18 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "UK retail sales rise 0.8% Y/Y in September, below expectations",
+          "url": "https://seekingalpha.com/news/4656436-uk-retail-sales-rise-08-yy-in-september-below-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 23 Oct 2026 02:09:09 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Christopher Wood swapped Nvidia for a Greek infrastructure stock. The bet is paying off ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-swapped-nvidia-for-a-greek-infrastructure-stock-the-bet-is-paying-off/articleshow/135136490.cms",
+          "content": "Jefferies’ Christopher Wood replaced Nvidia with Greek infrastructure company GEK TERNA in his global long-only equity portfolio in October 2025. Since then, GEK TERNA has gained 65% in US-dollar terms, compared with Nvidia’s 15%. The shift reflects Wood’s preference for infrastructure, fiscal reform and improving economic fundamentals over crowded AI trades.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 23 Oct 2026 11:29:42 +0530",
+          "summary": "Jefferies’ Christopher Wood replaced Nvidia with Greek infrastructure company GEK TERNA in his global long-only equity portfolio in October 2025. Since then, GEK TERNA has gained 65% in US-dollar term..."
+        },
+        {
+          "title": "China stocks extend losses as global tech selloff weighs on sentiment ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-stocks-extend-losses-as-global-tech-selloff-weighs-on-sentiment/articleshow/135136625.cms",
+          "content": "Chinese stocks extend losses as a global technology selloff, Middle East tensions and French debt concerns weigh on sentiment. The CSI300 falls into bear-market territory under some definitions, while Hong Kong’s Hang Seng remains relatively steady.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 23 Oct 2026 11:28:14 +0530",
+          "summary": "Chinese stocks extend losses as a global technology selloff, Middle East tensions and French debt concerns weigh on sentiment. The CSI300 falls into bear-market territory under some definitions, while..."
+        }
+      ],
+      "generatedAt": "2026-10-23T06:22:32.138Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Can a 'lullaby' save coral reefs from extinction?",
+          "url": "https://www.nature.com/articles/d41586-026-03414-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-22T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+          "url": "https://www.nature.com/articles/d41586-026-03371-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-22T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+          "content": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other health markers without invasive procedures.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 22 Oct 2026 21:21:47 EDT",
+          "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plasti..."
+        },
+        {
+          "title": "Birds are more afraid of women than men. Scientists have no idea why",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+          "content": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and respond to humans.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 22 Oct 2026 08:06:14 EDT",
+          "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no..."
+        },
+        {
+          "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+          "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+          "content": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 22 Oct 2026 19:34:40 +0000",
+          "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper...."
+        },
+        {
+          "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+          "url": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+          "content": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 22 Oct 2026 11:15:36 +0000",
+          "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal...."
+        }
+      ],
+      "generatedAt": "2026-10-23T06:22:33.226Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "This I Believe (1952)",
+          "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+          "content": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468\nComments URL: https://news.ycombinator.com/item?id=50203759\nPoints: 38\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 23 Oct 2026 02:19:38 +0000",
+          "summary": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468\nComments URL: https://news.ycombinator.com/item?id=50203759\nPoints: 38\n# Comments: 5..."
+        },
+        {
+          "title": "The foolishness of \"natural language programming\" (1978)",
+          "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+          "content": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 97\n# Comments: 62",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 23 Oct 2026 00:52:01 +0000",
+          "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 97\n# Comments: 62..."
+        },
+        {
+          "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+          "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+          "content": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 23 Oct 2026 04:22:57 +0000",
+          "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents...."
+        },
+        {
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "content": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 23 Oct 2026 04:00:00 +0000",
+          "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027...."
+        }
+      ],
+      "generatedAt": "2026-10-23T06:22:35.232Z"
+    }
+  ]
+}
