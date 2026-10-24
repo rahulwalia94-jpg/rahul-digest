@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T06:17:59.377Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Lighting the shadows: central bank policy transmission through banks and non-banks",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/lighting-the-shadows-central-bank-policy-transmission-through-banks-and-non-banks",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 23 Oct 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Global-to-UK SVAR",
+          "url": "https://www.bankofengland.co.uk/macro-technical-paper/2026/global-to-uk-svar",
+          "content": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 23 Oct 2026 14:00:00 +0100",
+          "summary": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and fost..."
+        }
+      ],
+      "generatedAt": "2026-10-24T06:17:53.206Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 23 Oct 2026 16:15:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 23 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 22 Oct 2026 14:30:24 +0000",
+          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types...."
+        },
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
+          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science...."
+        },
+        {
+          "title": "The Download: testing six tech promises and biotech’s blind spots",
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 23 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Som..."
+        },
+        {
+          "title": "In the biotech world, you can’t see everything",
+          "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+          "content": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 23 Oct 2026 09:00:00 +0000",
+          "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’..."
+        }
+      ],
+      "generatedAt": "2026-10-24T06:17:54.241Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "A little bit of luck is lifting UK Budget expectations ",
+          "url": "https://www.ft.com/content/6a059ab0-a9fc-4e4c-8ae7-1d110faf5adf",
+          "content": "Healey is poised to deliver his plans just as this year’s drag on global bonds appears to be turning",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 24 Oct 2026 04:00:33 GMT",
+          "summary": "Healey is poised to deliver his plans just as this year’s drag on global bonds appears to be turning..."
+        },
+        {
+          "title": "‘Disrupter’ exchanges battle for ETFs in challenge to NYSE and Nasdaq",
+          "url": "https://www.ft.com/content/8dd8e115-c45e-4b66-8390-b5eeea4671d5?syn-25a6b1a6=1",
+          "content": "Cboe captures nearly half of US listings as intensifying competition reflects rapid growth in derivative-heavy funds",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 24 Oct 2026 04:00:04 GMT",
+          "summary": "Cboe captures nearly half of US listings as intensifying competition reflects rapid growth in derivative-heavy funds..."
+        },
+        {
+          "title": "\n        Sam Bankman-Fried says he has paid his debts\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+          "content": "The crypto tycoon speaks with The Economist from prison in California",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 15:51:39 +0000",
+          "summary": "The crypto tycoon speaks with The Economist from prison in California..."
+        },
+        {
+          "title": "\n        New research tries to defuse the “China shock”\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+          "content": "An almighty fight over an influential finding",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 09:12:40 +0000",
+          "summary": "An almighty fight over an influential finding..."
+        },
+        {
+          "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
+          "url": "https://seekingalpha.com/news/4656924-global-x-equal-weight-can-insurance-idx-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 23 Oct 2026 23:32:59 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend",
+          "url": "https://seekingalpha.com/news/4656923-global-x-russell-2000-covered-cll-etf-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 23 Oct 2026 23:32:16 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Jio IPO breaks multiple records: From fundraising to investor demand, how the mega issue rewrote India’s IPO history ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-breaks-multiple-records-from-fundraising-to-investor-demand-how-the-mega-issue-rewrote-indias-ipo-history/articleshow/135163295.cms",
+          "content": "The issue set records across fundraising, anchor investor demand and applications, while attracting the highest qualified institutional buyer (QIB) subscription among India’s five largest IPOs. It was fully subscribed within 100 minutes of opening and received nearly 1.4 crore applications, according to figures compiled for the issue.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 24 Oct 2026 11:20:10 +0530",
+          "summary": "The issue set records across fundraising, anchor investor demand and applications, while attracting the highest qualified institutional buyer (QIB) subscription among India’s five largest IPOs. It was..."
+        },
+        {
+          "title": "Sebi orders Avadhut Sathe, academy to refund Rs 546 crore ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
+          "content": "The Securities and Exchange Board of India has directed Avadhut Sathe Trading Academy to refund ₹546.18 crore to investors. Avadhut Sathe and his academy provided unregistered investment advisory services under the pretext of education. The regulator found that misleading testimonials were circulated while concealing overall trading losses. A penalty of ₹11.5 crore was imposed on Sathe and the academy for their actions.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 24 Oct 2026 11:01:13 +0530",
+          "summary": "The Securities and Exchange Board of India has directed Avadhut Sathe Trading Academy to refund ₹546.18 crore to investors. Avadhut Sathe and his academy provided unregistered investment advisory serv..."
+        }
+      ],
+      "generatedAt": "2026-10-24T06:17:55.836Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+          "url": "https://www.nature.com/articles/s41586-026-11303-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Elusive snow leopards and evasive particles: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-03395-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+          "content": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient catastrophe. The discovery could help explain how supervolcanoes like Yellowstone and Toba rebuild their magma supplies.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 23 Oct 2026 07:23:19 EDT",
+          "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwate..."
+        },
+        {
+          "title": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
+          "content": "Switzerland’s glaciers are disappearing at an alarming rate, losing more than 5% of their ice volume in 2026 alone. Some of the country’s most famous glaciers experienced their worst melting on record, while several smaller glaciers vanished completely. Nearly 20% of Switzerland’s glacier ice has disappeared in just five years, driven by unusually snowless winters and extreme summer heat.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 23 Oct 2026 05:42:58 EDT",
+          "summary": "Switzerland’s glaciers are disappearing at an alarming rate, losing more than 5% of their ice volume in 2026 alone. Some of the country’s most famous glaciers experienced their worst melting on record..."
+        },
+        {
+          "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
+          "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
+          "content": "Space Force considering options: public-private, federal installation, state land.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 23 Oct 2026 19:33:58 +0000",
+          "summary": "Space Force considering options: public-private, federal installation, state land...."
+        },
+        {
+          "title": "Crows can evaluate visual info twice as fast as mammals",
+          "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+          "content": "Birds' compact nervous system seems to help them handle tasks very quickly.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 23 Oct 2026 17:32:58 +0000",
+          "summary": "Birds' compact nervous system seems to help them handle tasks very quickly...."
+        }
+      ],
+      "generatedAt": "2026-10-24T06:17:56.974Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "How close can pure functional programming get to C?",
+          "url": "https://rtfeldman.com/fp-vs-c",
+          "content": "Article URL: https://rtfeldman.com/fp-vs-c\nComments URL: https://news.ycombinator.com/item?id=50218195\nPoints: 35\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 24 Oct 2026 03:43:54 +0000",
+          "summary": "Article URL: https://rtfeldman.com/fp-vs-c\nComments URL: https://news.ycombinator.com/item?id=50218195\nPoints: 35\n# Comments: 2..."
+        },
+        {
+          "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+          "content": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm\nComments URL: https://news.ycombinator.com/item?id=50217683\nPoints: 64\n# Comments: 18",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 24 Oct 2026 01:53:10 +0000",
+          "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm\nComments URL: https://news.ycombinator.com/item?id=50217683\nPoints: 64\n# Comments: 18..."
+        },
+        {
+          "title": "Startups don’t need to go viral to win customers",
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "content": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 23 Oct 2026 23:07:45 +0000",
+          "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one...."
+        },
+        {
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "content": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000",
+          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work...."
+        }
+      ],
+      "generatedAt": "2026-10-24T06:17:59.377Z"
+    }
+  ]
+}
