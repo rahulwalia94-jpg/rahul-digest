@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T06:36:41.381Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Lighting the shadows: central bank policy transmission through banks and non-banks",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/lighting-the-shadows-central-bank-policy-transmission-through-banks-and-non-banks",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 23 Oct 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Global-to-UK SVAR",
+          "url": "https://www.bankofengland.co.uk/macro-technical-paper/2026/global-to-uk-svar",
+          "content": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 23 Oct 2026 14:00:00 +0100",
+          "summary": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and fost..."
+        }
+      ],
+      "generatedAt": "2026-10-25T06:36:38.350Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 23 Oct 2026 16:15:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 23 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 22 Oct 2026 14:30:24 +0000",
+          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types...."
+        },
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
+          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science...."
+        },
+        {
+          "title": "The Download: testing six tech promises and biotech’s blind spots",
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 23 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Som..."
+        },
+        {
+          "title": "In the biotech world, you can’t see everything",
+          "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+          "content": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 23 Oct 2026 09:00:00 +0000",
+          "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’..."
+        }
+      ],
+      "generatedAt": "2026-10-25T06:36:39.087Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses",
+          "url": "https://www.ft.com/content/eedb7159-65df-45de-91f9-fde8de99e61c?syn-25a6b1a6=1",
+          "content": "Case will test the Baltic Exchange’s decision to keep publishing price estimates for shipping oil through the Strait of Hormuz during the war",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 25 Oct 2026 05:00:10 GMT",
+          "summary": "Case will test the Baltic Exchange’s decision to keep publishing price estimates for shipping oil through the Strait of Hormuz during the war..."
+        },
+        {
+          "title": "The Black Sea is now the world’s deadliest shipping route",
+          "url": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1",
+          "content": "Fatalities of commercial sailors caught in battle between Russia and Ukraine are outstripping deaths in the Gulf",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 25 Oct 2026 05:00:02 GMT",
+          "summary": "Fatalities of commercial sailors caught in battle between Russia and Ukraine are outstripping deaths in the Gulf..."
+        },
+        {
+          "title": "\n        Sam Bankman-Fried says he has paid his debts\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+          "content": "The crypto tycoon speaks with The Economist from prison in California",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 15:51:39 +0000",
+          "summary": "The crypto tycoon speaks with The Economist from prison in California..."
+        },
+        {
+          "title": "\n        New research tries to defuse the “China shock”\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+          "content": "An almighty fight over an influential finding",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 09:12:40 +0000",
+          "summary": "An almighty fight over an influential finding..."
+        },
+        {
+          "title": "Audi to build $4.2B auto plant in Georgia, pledging long-term investment in U.S. market",
+          "url": "https://seekingalpha.com/news/4656939-audi-to-build-42b-auto-plant-in-georgia-pledging-long-term-investment-in-us-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 24 Oct 2026 20:50:22 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Musk says Ukraine violated Starlink terms with offensive drone strikes",
+          "url": "https://seekingalpha.com/news/4656938-musk-says-ukraine-violated-starlink-terms-offensive-drone-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 24 Oct 2026 17:30:47 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Swiggymayrebound to Rs 190, butchartsdonotsignal a trendreversal: LKP’s VatsalBhuva ",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/swiggymayrebound-to-rs-190-butchartsdonotsignal-a-trendreversal-lkps-vatsalbhuva/articleshow/135184363.cms",
+          "content": "LKP Securities’ Vatsal Bhuva sees continued downside risks for Nifty and Bank Nifty, while identifying potential rebounds in Swiggy and HDFC Bank. He also recommends Oriental Hotels and Apollo Hospitals, citing improving technical indicators and favourable chart setups.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 25 Oct 2026 11:11:46 +0530",
+          "summary": "LKP Securities’ Vatsal Bhuva sees continued downside risks for Nifty and Bank Nifty, while identifying potential rebounds in Swiggy and HDFC Bank. He also recommends Oriental Hotels and Apollo Hospita..."
+        },
+        {
+          "title": "Dividends &amp; stock splits: L&amp;T Tech, Shriram Finance among 24 stocks turning ex-record date this week. Do you own? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-stock-splits-lt-tech-shriram-finance-among-24-stocks-turning-ex-record-date-this-week-do-you-own/articleshow/135183913.cms",
+          "content": "As many as 24 companies will turn ex-record date for dividends, stock splits and rights issues during the week starting October 26. Key names include Shriram Finance, CRISIL, Cyient, Chennai Petroleum and L&T Technology Services.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 25 Oct 2026 10:48:18 +0530",
+          "summary": "As many as 24 companies will turn ex-record date for dividends, stock splits and rights issues during the week starting October 26. Key names include Shriram Finance, CRISIL, Cyient, Chennai Petroleum..."
+        }
+      ],
+      "generatedAt": "2026-10-25T06:36:40.166Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+          "url": "https://www.nature.com/articles/s41586-026-11303-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Elusive snow leopards and evasive particles: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-03395-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A hidden bias in human language challenges 70 years of science",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+          "content": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even more surprisingly, human language shows a powerful hidden preference for safety, suggesting that our words may reflect ancient survival instincts.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 24 Oct 2026 09:01:22 EDT",
+          "summary": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and ..."
+        },
+        {
+          "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+          "content": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 24 Oct 2026 08:50:06 EDT",
+          "summary": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System ..."
+        },
+        {
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "content": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 24 Oct 2026 11:50:28 +0000",
+          "summary": "A new model suggests Mars may host ice-forming physics never directly observed before...."
+        },
+        {
+          "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+          "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+          "content": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 24 Oct 2026 11:00:09 +0000",
+          "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny...."
+        }
+      ],
+      "generatedAt": "2026-10-25T06:36:40.901Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+          "url": "https://github.com/slee-persis/GVS5H",
+          "content": "Article URL: https://github.com/slee-persis/GVS5H\nComments URL: https://news.ycombinator.com/item?id=50228167\nPoints: 114\n# Comments: 35",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 25 Oct 2026 03:56:01 +0000",
+          "summary": "Article URL: https://github.com/slee-persis/GVS5H\nComments URL: https://news.ycombinator.com/item?id=50228167\nPoints: 114\n# Comments: 35..."
+        },
+        {
+          "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+          "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+          "content": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report\nComments URL: https://news.ycombinator.com/item?id=50227639\nPoints: 121\n# Comments: 39",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 25 Oct 2026 02:18:35 +0000",
+          "summary": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report\nComments URL: https://news.ycombinator.com/item?id=50227639\nPoints: 121..."
+        },
+        {
+          "title": "Starlink seems to be working normally again in Ukraine",
+          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+          "content": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 24 Oct 2026 20:46:34 +0000",
+          "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access...."
+        },
+        {
+          "title": "Will AI expose the rickety infrastructure of the internet?",
+          "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+          "content": "The moment you realize the internet is \"held together by glue and dreams.\"",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 24 Oct 2026 20:15:33 +0000",
+          "summary": "The moment you realize the internet is \"held together by glue and dreams.\"..."
+        }
+      ],
+      "generatedAt": "2026-10-25T06:36:41.381Z"
+    }
+  ]
+}
