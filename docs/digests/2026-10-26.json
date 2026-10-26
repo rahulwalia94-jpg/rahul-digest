@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T06:47:17.039Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Lighting the shadows: central bank policy transmission through banks and non-banks",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/lighting-the-shadows-central-bank-policy-transmission-through-banks-and-non-banks",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 23 Oct 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Global-to-UK SVAR",
+          "url": "https://www.bankofengland.co.uk/macro-technical-paper/2026/global-to-uk-svar",
+          "content": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 23 Oct 2026 14:00:00 +0100",
+          "summary": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and fost..."
+        }
+      ],
+      "generatedAt": "2026-10-26T06:47:10.748Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 23 Oct 2026 16:15:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 23 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 22 Oct 2026 14:30:24 +0000",
+          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types...."
+        },
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
+          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science...."
+        },
+        {
+          "title": "The Download: testing six tech promises and biotech’s blind spots",
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 23 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Som..."
+        },
+        {
+          "title": "In the biotech world, you can’t see everything",
+          "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+          "content": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 23 Oct 2026 09:00:00 +0000",
+          "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’..."
+        }
+      ],
+      "generatedAt": "2026-10-26T06:47:11.439Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Bon Secours nears $6bn takeover of Bain-backed Surgery Partners",
+          "url": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
+          "content": "US hospital chain is the latest not-for-profit healthcare provider to seek a large deal",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 25 Oct 2026 18:56:37 GMT",
+          "summary": "US hospital chain is the latest not-for-profit healthcare provider to seek a large deal..."
+        },
+        {
+          "title": "Carney’s energy ambitions boosted by Conservative victory in British Columbia",
+          "url": "https://www.ft.com/content/397d5d63-1d60-4218-b2bd-8ce6e8f527b1?syn-25a6b1a6=1",
+          "content": "Party leader wants to end emissions limits and replace province’s carbon tax framework",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 25 Oct 2026 14:25:30 GMT",
+          "summary": "Party leader wants to end emissions limits and replace province’s carbon tax framework..."
+        },
+        {
+          "title": "\n        Sam Bankman-Fried says he has paid his debts\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+          "content": "The crypto tycoon speaks with The Economist from prison in California",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 15:51:39 +0000",
+          "summary": "The crypto tycoon speaks with The Economist from prison in California..."
+        },
+        {
+          "title": "\n        New research tries to defuse the “China shock”\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+          "content": "An almighty fight over an influential finding",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 09:12:40 +0000",
+          "summary": "An almighty fight over an influential finding..."
+        },
+        {
+          "title": "Anthropic’s Claude bypasses paywall to access Georgia voter data without authorization",
+          "url": "https://seekingalpha.com/news/4657023-anthropics-claude-bypasses-paywall-to-access-georgia-voter-data-without-authorization?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 26 Oct 2026 02:30:15 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Anthropic posts $8B operating loss in 2025 as accounting charges drive net loss to $42B",
+          "url": "https://seekingalpha.com/news/4657021-anthropic-posts-8b-operating-loss-in-2025-as-accounting-charges-drive-net-loss-to-42b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 26 Oct 2026 01:47:47 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Global Market: Japan bond yields edge higher ahead of key central bank meetings ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-edge-higher-ahead-of-key-central-bank-meetings/articleshow/135204344.cms",
+          "content": "Japanese government bond yields edged higher as investors assessed the monetary-policy outlook ahead of meetings by the Bank of Japan and the US Federal Reserve. Markets expected both central banks to keep rates unchanged while monitoring signals about possible December rate increases, inflation and economic growth.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 26 Oct 2026 11:39:59 +0530",
+          "summary": "Japanese government bond yields edged higher as investors assessed the monetary-policy outlook ahead of meetings by the Bank of Japan and the US Federal Reserve. Markets expected both central banks to..."
+        },
+        {
+          "title": "Tonbo Imaging shares soar another 17% after a 64% listing pop. Buy, sell or hold the stock? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/tonbo-imaging-shares-soar-another-17-after-a-64-listing-pop-buy-sell-or-hold-the-stock/articleshow/135204062.cms",
+          "content": "Tonbo Imaging shares rallied after a strong stock market debut, following heavy demand for its IPO. Investors will track revenue growth, order execution, profitability, working capital and cash flows to assess the defence electronics company’s long-term prospects.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 26 Oct 2026 11:23:41 +0530",
+          "summary": "Tonbo Imaging shares rallied after a strong stock market debut, following heavy demand for its IPO. Investors will track revenue growth, order execution, profitability, working capital and cash flows ..."
+        }
+      ],
+      "generatedAt": "2026-10-26T06:47:12.557Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+          "url": "https://www.nature.com/articles/s41586-026-11328-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-25T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+          "url": "https://www.nature.com/articles/s41586-026-11303-y",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-23T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A simple liquid can stop cavities without drilling, major study confirms",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+          "content": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 25 Oct 2026 22:41:13 EDT",
+          "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment cou..."
+        },
+        {
+          "title": "Just two drinks a day may be far riskier than you think",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261024222030.htm",
+          "content": "A major new study reveals that drinking just two alcoholic beverages a day is associated with a 1 in 25 lifetime risk of death from alcohol-related causes, challenging the idea that moderate drinking is harmless. Researchers also found no significant overall health benefits from alcohol, with risks rising as consumption increases.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 25 Oct 2026 08:18:13 EDT",
+          "summary": "A major new study reveals that drinking just two alcoholic beverages a day is associated with a 1 in 25 lifetime risk of death from alcohol-related causes, challenging the idea that moderate drinking ..."
+        },
+        {
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "content": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 24 Oct 2026 11:50:28 +0000",
+          "summary": "A new model suggests Mars may host ice-forming physics never directly observed before...."
+        },
+        {
+          "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+          "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+          "content": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 24 Oct 2026 11:00:09 +0000",
+          "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny...."
+        }
+      ],
+      "generatedAt": "2026-10-26T06:47:13.462Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+          "url": "https://proc-cli.com/",
+          "content": "Article URL: https://proc-cli.com/\nComments URL: https://news.ycombinator.com/item?id=50239041\nPoints: 6\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 26 Oct 2026 04:14:35 +0000",
+          "summary": "Article URL: https://proc-cli.com/\nComments URL: https://news.ycombinator.com/item?id=50239041\nPoints: 6\n# Comments: 0..."
+        },
+        {
+          "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+          "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+          "content": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism\nComments URL: https://news.ycombinator.com/item?id=50239027\nPoints: 38\n# Comments: 10",
+          "source": "Hacker News",
+          "publishedAt": "Mon, 26 Oct 2026 04:11:40 +0000",
+          "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism\nComments URL: https://news.ycombinator.com/item?id=50239027\nPoints: 38\n# Comments: 10..."
+        },
+        {
+          "title": "The best apps for tracking your reading and discovering new books",
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "content": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 26 Oct 2026 01:10:00 +0000",
+          "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you...."
+        },
+        {
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 25 Oct 2026 21:31:16 +0000",
+          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest...."
+        }
+      ],
+      "generatedAt": "2026-10-26T06:47:17.039Z"
+    }
+  ]
+}
