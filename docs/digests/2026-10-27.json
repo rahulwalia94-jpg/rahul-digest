@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T06:40:48.014Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Artificial intelligence in UK financial services - 2026",
+          "url": "https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026",
+          "content": "The Bank of England and Financial Conduct Authority conducted a fourth survey of artificial intelligence and machine learning in UK financial services.",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 26 Oct 2026 10:00:00 Z",
+          "summary": "The Bank of England and Financial Conduct Authority conducted a fourth survey of artificial intelligence and machine learning in UK financial services...."
+        },
+        {
+          "title": "Lighting the shadows: central bank policy transmission through banks and non-banks",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/lighting-the-shadows-central-bank-policy-transmission-through-banks-and-non-banks",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 23 Oct 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-10-27T06:40:32.508Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 23 Oct 2026 16:15:50 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 23 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Will the real Anthropic please stand up",
+          "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 26 Oct 2026 17:45:43 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I..."
+        },
+        {
+          "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+          "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 26 Oct 2026 12:40:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday har..."
+        }
+      ],
+      "generatedAt": "2026-10-27T06:40:33.319Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Anthropic’s constitutional order",
+          "url": "https://www.ft.com/content/69a623e0-8605-4b1d-b147-770649efb53a?syn-25a6b1a6=1",
+          "content": "Plus, Lula’s victory",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 27 Oct 2026 05:30:08 GMT",
+          "summary": "Plus, Lula’s victory..."
+        },
+        {
+          "title": "Global equity markets rise as AI trade regains steam",
+          "url": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
+          "content": "Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 27 Oct 2026 05:14:43 GMT",
+          "summary": "Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing..."
+        },
+        {
+          "title": "\n        Sam Bankman-Fried says he has paid his debts\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+          "content": "The crypto tycoon speaks with The Economist from prison in California",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 15:51:39 +0000",
+          "summary": "The crypto tycoon speaks with The Economist from prison in California..."
+        },
+        {
+          "title": "\n        New research tries to defuse the “China shock”\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+          "content": "An almighty fight over an influential finding",
+          "source": "The Economist",
+          "publishedAt": "Thu, 22 Oct 2026 09:12:40 +0000",
+          "summary": "An almighty fight over an influential finding..."
+        },
+        {
+          "title": "Nvidia to invest $3B in Meta stock, expand AI collaboration on Muse models",
+          "url": "https://seekingalpha.com/news/4657665-nvidia-to-invest-3b-in-meta-stock-expand-ai-collaboration-on-muse-models?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 27 Oct 2026 02:32:40 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Novartis Q3 Non-GAAP EPS of $2.46 beats by $0.22; FY core operating income outlook upgraded",
+          "url": "https://seekingalpha.com/news/4657664-novartis-q3-non-gaap-eps-of-246-beats-by-022-fy-core-operating-income-outlook-upgraded?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 27 Oct 2026 02:20:25 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Jio Platforms shares to list on BSE, NSE tomorrow;  GMP signals 22% premium ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-to-list-on-bse-nse-tomorrow-gmp-signals-22-premium/articleshow/135226292.cms",
+          "content": "Jio Platforms shares are set to list on the BSE and NSE on October 28, with the IPO commanding a grey market premium of around 22%. The Rs 30,213-crore issue was subscribed 22.19 times, led by strong institutional demand. Investors will watch the listing amid Jio’s growth ambitions and financial performance.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 27 Oct 2026 11:46:21 +0530",
+          "summary": "Jio Platforms shares are set to list on the BSE and NSE on October 28, with the IPO commanding a grey market premium of around 22%. The Rs 30,213-crore issue was subscribed 22.19 times, led by strong ..."
+        },
+        {
+          "title": "Global Market: Yuan holds near four-year high as China tempers appreciation pace ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-yuan-holds-near-four-year-high-as-china-tempers-appreciation-pace/articleshow/135225936.cms",
+          "content": "China’s yuan held near a four-year high against the US dollar as the central bank moderated its daily fixing. Export-related demand and stronger industrial profits supported the currency, while global markets awaited key central bank decisions.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 27 Oct 2026 11:31:56 +0530",
+          "summary": "China’s yuan held near a four-year high against the US dollar as the central bank moderated its daily fixing. Export-related demand and stronger industrial profits supported the currency, while global..."
+        }
+      ],
+      "generatedAt": "2026-10-27T06:40:34.823Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Nerve activity initiates autoimmune hair loss",
+          "url": "https://www.nature.com/articles/d41586-026-03258-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-26T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Women might have invented language — but not alone",
+          "url": "https://www.nature.com/articles/d41586-026-03392-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-26T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Exercise doesn't just strengthen your heart. It rewires it",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+          "content": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 26 Oct 2026 07:35:53 EDT",
+          "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the l..."
+        },
+        {
+          "title": "A simple liquid can stop cavities without drilling, major study confirms",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+          "content": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 25 Oct 2026 22:41:13 EDT",
+          "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment cou..."
+        },
+        {
+          "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+          "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+          "content": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 26 Oct 2026 20:15:07 +0000",
+          "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes...."
+        },
+        {
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "content": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 24 Oct 2026 11:50:28 +0000",
+          "summary": "A new model suggests Mars may host ice-forming physics never directly observed before...."
+        }
+      ],
+      "generatedAt": "2026-10-27T06:40:35.666Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "UK to charge universities $1,200 per international student",
+          "url": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
+          "content": "Article URL: https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe\nComments URL: https://news.ycombinator.com/item?id=50254935\nPoints: 17\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 27 Oct 2026 05:13:08 +0000",
+          "summary": "Article URL: https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe\nComments URL: https://news.ycombinator.com/ite..."
+        },
+        {
+          "title": "There are now 5 inference providers for abliterated DeepSeek",
+          "url": "https://allmodels.io/llm/abliterated",
+          "content": "Article URL: https://allmodels.io/llm/abliterated\nComments URL: https://news.ycombinator.com/item?id=50254836\nPoints: 52\n# Comments: 49",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 27 Oct 2026 04:53:52 +0000",
+          "summary": "Article URL: https://allmodels.io/llm/abliterated\nComments URL: https://news.ycombinator.com/item?id=50254836\nPoints: 52\n# Comments: 49..."
+        },
+        {
+          "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+          "content": "Whose hand is behind this travesty?",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 27 Oct 2026 06:34:44 +0000",
+          "summary": "Whose hand is behind this travesty?..."
+        },
+        {
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "content": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 27 Oct 2026 02:00:00 +0000",
+          "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent...."
+        }
+      ],
+      "generatedAt": "2026-10-27T06:40:48.014Z"
+    }
+  ]
+}
