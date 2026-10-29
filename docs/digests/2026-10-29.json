@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T07:33:48.056Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Artificial intelligence in UK financial services - 2026",
+          "url": "https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026",
+          "content": "The Bank of England and Financial Conduct Authority conducted a fourth survey of artificial intelligence and machine learning in UK financial services.",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 26 Oct 2026 10:00:00 Z",
+          "summary": "The Bank of England and Financial Conduct Authority conducted a fourth survey of artificial intelligence and machine learning in UK financial services...."
+        },
+        {
+          "title": "Lighting the shadows: central bank policy transmission through banks and non-banks",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/lighting-the-shadows-central-bank-policy-transmission-through-banks-and-non-banks",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 23 Oct 2026 14:00:00 +0100",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-10-29T07:33:42.321Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 28 Oct 2026 14:58:17 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Build specialized multimodal models with LFM3",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 27 Oct 2026 17:16:52 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
+          "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation...."
+        },
+        {
+          "title": "Creating AI value with enterprise context",
+          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+          "content": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 28 Oct 2026 20:32:02 +0000",
+          "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati..."
+        },
+        {
+          "title": "The Download: dead startups fueling AI and interspecies communication",
+          "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 28 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their mode..."
+        }
+      ],
+      "generatedAt": "2026-10-29T07:33:44.216Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
+          "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+          "content": "Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 29 Oct 2026 06:32:40 GMT",
+          "summary": "Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex..."
+        },
+        {
+          "title": "The Fed plays for time (but doesn’t have much)",
+          "url": "https://www.ft.com/content/65d84258-7b04-4064-ab76-6610bd522d65?syn-25a6b1a6=1",
+          "content": "Plus, tech results and UK bank taxes",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 29 Oct 2026 06:30:00 GMT",
+          "summary": "Plus, tech results and UK bank taxes..."
+        },
+        {
+          "title": "\n        China’s stock markets are the great global exception\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
+          "content": "If the country is winning the future, why are its investors so glum?",
+          "source": "The Economist",
+          "publishedAt": "Wed, 28 Oct 2026 19:48:19 +0000",
+          "summary": "If the country is winning the future, why are its investors so glum?..."
+        },
+        {
+          "title": "\n        In an AI blow-up, would insurance pay out?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
+          "content": "Credit default swaps are back in vogue amid fears of a debt disaster",
+          "source": "The Economist",
+          "publishedAt": "Tue, 27 Oct 2026 22:26:42 +0000",
+          "summary": "Credit default swaps are back in vogue amid fears of a debt disaster..."
+        },
+        {
+          "title": "Core Laboratories declares $0.01 dividend",
+          "url": "https://seekingalpha.com/news/4659903-core-laboratories-declares-0_01-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 29 Oct 2026 03:26:41 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Houlihan Lokey declares $0.70 dividend",
+          "url": "https://seekingalpha.com/news/4659902-houlihan-lokey-declares-0_70-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 29 Oct 2026 03:26:38 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "HUL shares rise 3% after Q2 results. Jefferies, Nomura cut target price but forecast 29% upside potential ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-rise-3-after-q2-results-jefferies-nomura-cut-target-price-but-forecast-29-upside-potential/articleshow/135295044.cms",
+          "content": "Hindustan Unilever shares rose on Thursday after the FMCG major reported a 4% year-on-year increase in Q2 FY27 net profit to Rs 2,790 crore and 15% revenue growth to Rs 18,226 crore. Jefferies, Nomura and JM Financial cut their target prices but continue to see upside potential of up to 29%.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 29 Oct 2026 12:44:36 +0530",
+          "summary": "Hindustan Unilever shares rose on Thursday after the FMCG major reported a 4% year-on-year increase in Q2 FY27 net profit to Rs 2,790 crore and 15% revenue growth to Rs 18,226 crore. Jefferies, Nomura..."
+        },
+        {
+          "title": "Indian bonds track US Treasuries higher amid oil-price relief ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-track-us-treasuries-higher-amid-oil-price-relief/articleshow/135294873.cms",
+          "content": "Indian government bonds increased on Thursday due to support from a rally in Treasuries and lower oil prices. However, the upcoming large bond sale and a weak rupee limited the extent of the gains observed. The benchmark 6.94% 2036 bond yield fell slightly below the significant 7.40% level during early trading hours. Meanwhile, the Reserve Bank of India previously raised the repo rate amid ongoing inflation concerns.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 29 Oct 2026 12:37:27 +0530",
+          "summary": "Indian government bonds increased on Thursday due to support from a rally in Treasuries and lower oil prices. However, the upcoming large bond sale and a weak rupee limited the extent of the gains obs..."
+        }
+      ],
+      "generatedAt": "2026-10-29T07:33:45.737Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Switchable Chlorine Atom Transfer Radical Reactions",
+          "url": "https://www.nature.com/articles/s41586-026-11348-z",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
+          "url": "https://www.nature.com/articles/s41586-026-11335-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-28T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A single sauna session sends immune cells surging through your body",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
+          "content": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response resembles the immune boost seen during exercise and may help explain some of the health benefits linked to sauna bathing.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 28 Oct 2026 08:37:31 EDT",
+          "summary": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect th..."
+        },
+        {
+          "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
+          "content": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be linked to changes in gut bacteria and the hormone GLP-1, revealing a promising new approach to arthritis relief.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 27 Oct 2026 23:56:09 EDT",
+          "summary": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers d..."
+        },
+        {
+          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+          "content": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 28 Oct 2026 22:51:15 +0000",
+          "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters...."
+        },
+        {
+          "title": "A hidden ocean change near Antarctica could have global consequences",
+          "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+          "content": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 28 Oct 2026 13:38:53 +0000",
+          "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation...."
+        }
+      ],
+      "generatedAt": "2026-10-29T07:33:46.909Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+          "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+          "content": "Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/\nComments URL: https://news.ycombinator.com/item?id=50284342\nPoints: 32\n# Comments: 9",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 29 Oct 2026 03:48:05 +0000",
+          "summary": "Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/\nComments URL: https://news.ycombinator.com/item?id=5028434..."
+        },
+        {
+          "title": "Claude Code regularly sends each background agent’s transcript to its model",
+          "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+          "content": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\nComments URL: https://news.ycombinator.com/item?id=50284255\nPoints: 273\n# Comments: 82",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 29 Oct 2026 03:33:42 +0000",
+          "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\nComments URL: https://news.ycombinator.com/item?id=50284255\nPoints: 273\n# Comments: 82..."
+        },
+        {
+          "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+          "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+          "content": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 28 Oct 2026 23:15:00 +0000",
+          "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price...."
+        },
+        {
+          "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+          "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+          "content": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 28 Oct 2026 22:47:50 +0000",
+          "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade...."
+        }
+      ],
+      "generatedAt": "2026-10-29T07:33:48.056Z"
+    }
+  ]
+}
