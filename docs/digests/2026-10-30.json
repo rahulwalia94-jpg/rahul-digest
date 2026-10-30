@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T07:37:43.174Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 28 October 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/28-october-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 29 Oct 2026 15:00:00 Z",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Consultation on supervisory expectations for central counterparties seeking to accept tokenised collateral",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/supervisory-expectations-for-ccps-seeking-to-accept-tokenised-collateral",
+          "content": "Consultation paper",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 29 Oct 2026 10:00:00 Z",
+          "summary": "Consultation paper..."
+        }
+      ],
+      "generatedAt": "2026-10-30T07:37:38.517Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 29 Oct 2026 13:37:07 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "url": "https://huggingface.co/blog/announcing-project-protostar",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 29 Oct 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
+          "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation...."
+        },
+        {
+          "title": "The Download: AI agent tracking and climate feedback loops",
+          "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 29 Oct 2026 12:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in rea..."
+        },
+        {
+          "title": "We urgently need to monitor AI agents’ actions in real time",
+          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+          "content": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 29 Oct 2026 10:11:12 +0000",
+          "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about..."
+        }
+      ],
+      "generatedAt": "2026-10-30T07:37:39.621Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "BP’s profits surge to record on back of  high fuel prices",
+          "url": "https://www.ft.com/content/979e4cd0-1683-4a9f-a528-bb03c1b4ad45?syn-25a6b1a6=1",
+          "content": "Oil and gas major paying off debt with windfall while competitors hand more cash back to shareholders",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 30 Oct 2026 07:20:07 GMT",
+          "summary": "Oil and gas major paying off debt with windfall while competitors hand more cash back to shareholders..."
+        },
+        {
+          "title": "Binance halts withdrawals after record $6.3bn heist",
+          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+          "content": "World’s largest crypto exchange says an engineer’s laptop was compromised in one of sector’s biggest security breaches",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 30 Oct 2026 06:54:19 GMT",
+          "summary": "World’s largest crypto exchange says an engineer’s laptop was compromised in one of sector’s biggest security breaches..."
+        },
+        {
+          "title": "\n        Christine Lagarde departs at a moment of peril\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+          "content": "Her successor as ECB chief will have an unenviable job",
+          "source": "The Economist",
+          "publishedAt": "Thu, 29 Oct 2026 11:26:26 +0000",
+          "summary": "Her successor as ECB chief will have an unenviable job..."
+        },
+        {
+          "title": "\n        The never-ending absurdity of global oil markets\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets",
+          "content": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
+          "source": "The Economist",
+          "publishedAt": "Thu, 29 Oct 2026 11:16:13 +0000",
+          "summary": "Despite stronger Gulf exports, Brent is near its Iran-war peak..."
+        },
+        {
+          "title": "BP p.l.c. declares $0.5196/ADS quarterly dividend",
+          "url": "https://seekingalpha.com/news/4661192-bp-plc-declares-05196ads-quarterly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 30 Oct 2026 03:30:17 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Transportadora de Gas del Sur reports Q3 results",
+          "url": "https://seekingalpha.com/news/4661191-transportadora-de-gas-del-sur-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 30 Oct 2026 03:25:46 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Bitcoin hits 6-week low, drops below $78,000 as Binance’s $6 billion hack rattles crypto markets. What should investors do? ",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hits-6-week-low-drops-below-78000-as-binances-6-billion-hack-rattles-crypto-markets-what-should-investors-do/articleshow/135349699.cms",
+          "content": "Bitcoin fell more than 4% to a six-week low below $78,000, while Ether and BNB also slumped after a reported $6.3 billion security breach at Binance rattled crypto markets. Analysts flagged key support levels and advised investors against panic selling or aggressive dip-buying, favouring staggered entries and smaller positions.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 30 Oct 2026 12:59:59 +0530",
+          "summary": "Bitcoin fell more than 4% to a six-week low below $78,000, while Ether and BNB also slumped after a reported $6.3 billion security breach at Binance rattled crypto markets. Analysts flagged key suppor..."
+        },
+        {
+          "title": "Coal India shares fall 3% after Q2 results; Jefferies, Motilal Oswal, others cut target price ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-shares-fall-3-after-q2-results-jefferies-motilal-oswal-others-cut-target-price/articleshow/135349282.cms",
+          "content": "Coal India shares fell 3% despite a 57% year-on-year rise in Q2 FY27 net profit to Rs 6,547 crore. Jefferies and JM Financial cut their target prices to Rs 460 and Rs 438, respectively, while Motilal Oswal retained its Buy rating with a Rs 450 target, citing a potential volume recovery.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 30 Oct 2026 12:46:49 +0530",
+          "summary": "Coal India shares fell 3% despite a 57% year-on-year rise in Q2 FY27 net profit to Rs 6,547 crore. Jefferies and JM Financial cut their target prices to Rs 460 and Rs 438, respectively, while Motilal ..."
+        }
+      ],
+      "generatedAt": "2026-10-30T07:37:40.944Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Even stupendous black holes can’t explain dark matter",
+          "url": "https://www.nature.com/articles/d41586-026-03386-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "How the US mid-term elections could shake up science",
+          "url": "https://www.nature.com/articles/d41586-026-03479-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Six popular sugar substitutes linked to faster brain aging",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+          "content": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns about the long-term brain health effects of common sugar substitutes, although causation was not established.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 29 Oct 2026 09:04:04 EDT",
+          "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional ye..."
+        },
+        {
+          "title": "Einstein's equations may explain the universe without dark energy",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+          "content": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe could accelerate naturally under Einstein's original theory of gravity. The findings also raise surprising questions about whether our location in the universe is as ordinary as scientists have long assumed.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 29 Oct 2026 08:07:58 EDT",
+          "summary": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathema..."
+        },
+        {
+          "title": "Turning a solar power system into its own backup",
+          "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+          "content": "Plant design allows it to run on either stored solar heat or combustion.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 29 Oct 2026 18:02:26 +0000",
+          "summary": "Plant design allows it to run on either stored solar heat or combustion...."
+        },
+        {
+          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+          "content": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 28 Oct 2026 22:51:15 +0000",
+          "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters...."
+        }
+      ],
+      "generatedAt": "2026-10-30T07:37:42.268Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+          "url": "https://www.workatastartup.com/jobs/98722",
+          "content": "Article URL: https://www.workatastartup.com/jobs/98722\nComments URL: https://news.ycombinator.com/item?id=50300643\nPoints: 0\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 30 Oct 2026 07:00:35 +0000",
+          "summary": "Article URL: https://www.workatastartup.com/jobs/98722\nComments URL: https://news.ycombinator.com/item?id=50300643\nPoints: 0\n# Comments: 0..."
+        },
+        {
+          "title": "Pico CSS is no longer maintained",
+          "url": "https://github.com/picocss/pico/discussions/754",
+          "content": "Article URL: https://github.com/picocss/pico/discussions/754\nComments URL: https://news.ycombinator.com/item?id=50298964\nPoints: 105\n# Comments: 39",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 30 Oct 2026 01:58:44 +0000",
+          "summary": "Article URL: https://github.com/picocss/pico/discussions/754\nComments URL: https://news.ycombinator.com/item?id=50298964\nPoints: 105\n# Comments: 39..."
+        },
+        {
+          "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+          "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+          "content": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 30 Oct 2026 07:01:00 +0000",
+          "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker...."
+        },
+        {
+          "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+          "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+          "content": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+          "source": "TechCrunch",
+          "publishedAt": "Fri, 30 Oct 2026 01:20:48 +0000",
+          "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace...."
+        }
+      ],
+      "generatedAt": "2026-10-30T07:37:43.174Z"
+    }
+  ]
+}
