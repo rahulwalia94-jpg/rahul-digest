@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T07:23:57.324Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - October 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/october-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Monthly Decision Maker Panel data - October 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        }
+      ],
+      "generatedAt": "2026-10-31T07:23:50.806Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "nemotron-halloween",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 30 Oct 2026 17:57:24 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 29 Oct 2026 13:37:07 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
+          "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation...."
+        },
+        {
+          "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+          "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 30 Oct 2026 11:30:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things wor..."
+        },
+        {
+          "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+          "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+          "content": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 30 Oct 2026 09:00:00 +0000",
+          "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating d..."
+        }
+      ],
+      "generatedAt": "2026-10-31T07:23:52.127Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "US midterms loom over jittery investors",
+          "url": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+          "content": "Caution certainly seems warranted for the coming weeks",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 31 Oct 2026 05:00:39 GMT",
+          "summary": "Caution certainly seems warranted for the coming weeks..."
+        },
+        {
+          "title": "Bank of England explores easing key limit on riskier mortgage lending",
+          "url": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1",
+          "content": "Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 31 Oct 2026 05:00:31 GMT",
+          "summary": "Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership..."
+        },
+        {
+          "title": "\n        Christine Lagarde departs at a moment of peril\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+          "content": "Her successor as ECB chief will have an unenviable job",
+          "source": "The Economist",
+          "publishedAt": "Thu, 29 Oct 2026 11:26:26 +0000",
+          "summary": "Her successor as ECB chief will have an unenviable job..."
+        },
+        {
+          "title": "\n        The never-ending absurdity of global oil markets\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets",
+          "content": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
+          "source": "The Economist",
+          "publishedAt": "Thu, 29 Oct 2026 11:16:13 +0000",
+          "summary": "Despite stronger Gulf exports, Brent is near its Iran-war peak..."
+        },
+        {
+          "title": "Entergy raises dividend by 6% to $0.68",
+          "url": "https://seekingalpha.com/news/4661804-entergy-raises-dividend-by-6-to-068?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 31 Oct 2026 03:06:16 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "First Business outlines ~10% annual loan growth and sees NIM staying above 3.60%–3.65% long-term range",
+          "url": "https://seekingalpha.com/news/4661803-first-business-outlines-10-percent-annual-loan-growth-and-sees-nim-staying-above-3_60-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 30 Oct 2026 21:09:13 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "Concurrent Gainers: 8 stocks that gain for 5 days in a row ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-that-gain-for-5-days-in-a-row/slideshow/135392399.cms",
+          "content": "Eight BSE 500 stocks gained in each of the five sessions between October 26 and 30, delivering cumulative returns of 10% to 21%.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 31 Oct 2026 12:30:17 +0530",
+          "summary": "Eight BSE 500 stocks gained in each of the five sessions between October 26 and 30, delivering cumulative returns of 10% to 21%...."
+        },
+        {
+          "title": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
+          "content": "ICICI Prudential MF's S Naren warns investors against chasing assets after spectacular rallies, highlighting how silver's 216% surge drew record ETF inflows before a 27% correction. At the ET Wealth Expo, he explained why genuine asset allocation means buying unpopular assets and why gold still deserves a place in portfolios.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 31 Oct 2026 12:05:25 +0530",
+          "summary": "ICICI Prudential MF's S Naren warns investors against chasing assets after spectacular rallies, highlighting how silver's 216% surge drew record ETF inflows before a 27% correction. At the ET Wealth E..."
+        }
+      ],
+      "generatedAt": "2026-10-31T07:23:53.707Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Astronauts just gave the International Space Station a powerful upgrade",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+          "content": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 30 Oct 2026 02:12:55 EDT",
+          "summary": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is ..."
+        },
+        {
+          "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+          "content": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed them in tropical refuges that remained habitable even after the catastrophic impact.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 30 Oct 2026 07:34:16 EDT",
+          "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their pre..."
+        },
+        {
+          "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+          "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+          "content": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 30 Oct 2026 18:13:42 +0000",
+          "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust...."
+        },
+        {
+          "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+          "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+          "content": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 30 Oct 2026 11:00:35 +0000",
+          "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight...."
+        }
+      ],
+      "generatedAt": "2026-10-31T07:23:55.900Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Tell HN: Scribd Breached",
+          "url": "https://news.ycombinator.com/item?id=50312756",
+          "content": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:\nSubject: Notice of Security Incident\nThis notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner.\nHello,\nWe are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data.\nWe detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details).\nWe have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information.\nWatch for phishing\nWe encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable.\nRemember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that:\n    Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser.\n    Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time.\n    Report it through Scribd, Inc.'s Help Center.\n\nWe regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time.\nThe National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here.\nWhat Scribd, Inc. is doing\n    We have secured the affected system and ended the unauthorized access.\n    We have notified law enforcement as well as the relevant data protection authorities.\n    We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring.\n\nScribd, Inc.\nComments URL: https://news.ycombinator.com/item?id=50312756\nPoints: 144\n# Comments: 60",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 31 Oct 2026 02:46:36 +0000",
+          "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:\nSubject: Notice of Security Incident\nThis notice is being sent on behalf of Scribd, Inc., the parent company of Sc..."
+        },
+        {
+          "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+          "url": "https://tng.episodle.com/",
+          "content": "Article URL: https://tng.episodle.com/\nComments URL: https://news.ycombinator.com/item?id=50311686\nPoints: 172\n# Comments: 46",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 30 Oct 2026 23:51:24 +0000",
+          "summary": "Article URL: https://tng.episodle.com/\nComments URL: https://news.ycombinator.com/item?id=50311686\nPoints: 172\n# Comments: 46..."
+        },
+        {
+          "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "content": "The money behind the money is thrilled, mostly.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 31 Oct 2026 04:16:50 +0000",
+          "summary": "The money behind the money is thrilled, mostly...."
+        },
+        {
+          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "content": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 31 Oct 2026 01:20:05 +0000",
+          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan...."
+        }
+      ],
+      "generatedAt": "2026-10-31T07:23:57.324Z"
+    }
+  ]
+}
