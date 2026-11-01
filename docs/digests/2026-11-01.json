@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T07:57:13.694Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - October 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/october-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Monthly Decision Maker Panel data - October 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        }
+      ],
+      "generatedAt": "2026-11-01T07:57:07.541Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "nemotron-halloween",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 30 Oct 2026 17:57:24 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 29 Oct 2026 13:37:07 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
+          "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation...."
+        },
+        {
+          "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+          "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 30 Oct 2026 11:30:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things wor..."
+        },
+        {
+          "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+          "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+          "content": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 30 Oct 2026 09:00:00 +0000",
+          "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating d..."
+        }
+      ],
+      "generatedAt": "2026-11-01T07:57:08.586Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Quant hedge fund to spin out of Tudor in record $9bn launch",
+          "url": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1",
+          "content": "Xantium to separate from company controlled by billionaire Paul Tudor Jones II next year",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 01 Nov 2026 05:00:18 GMT",
+          "summary": "Xantium to separate from company controlled by billionaire Paul Tudor Jones II next year..."
+        },
+        {
+          "title": "Oil majors resist pressure to invest in new refineries as fuel prices keep rising",
+          "url": "https://www.ft.com/content/4d63f08d-3556-4d84-8e1d-40f866741d15?syn-25a6b1a6=1",
+          "content": "Conflicts in the Middle East and Ukraine have slashed fuel production capacity and sent margins way up",
+          "source": "FT Markets",
+          "publishedAt": "Sun, 01 Nov 2026 05:00:18 GMT",
+          "summary": "Conflicts in the Middle East and Ukraine have slashed fuel production capacity and sent margins way up..."
+        },
+        {
+          "title": "\n        Christine Lagarde departs at a moment of peril\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+          "content": "Her successor as ECB chief will have an unenviable job",
+          "source": "The Economist",
+          "publishedAt": "Thu, 29 Oct 2026 11:26:26 +0000",
+          "summary": "Her successor as ECB chief will have an unenviable job..."
+        },
+        {
+          "title": "\n        The never-ending absurdity of global oil markets\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets",
+          "content": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
+          "source": "The Economist",
+          "publishedAt": "Thu, 29 Oct 2026 11:16:13 +0000",
+          "summary": "Despite stronger Gulf exports, Brent is near its Iran-war peak..."
+        },
+        {
+          "title": "Average U.S. pump prices during Trump's term now exceed Biden's",
+          "url": "https://seekingalpha.com/news/4661802-average-u-s-pump-prices-during-trumps-term-now-exceed-bidens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 31 Oct 2026 20:20:56 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "SA Asks: What's the most attractive oil stock right now?",
+          "url": "https://seekingalpha.com/news/4661864-sa-asks-whats-the-most-attractive-oil-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 31 Oct 2026 16:57:10 -0400",
+          "summary": "..."
+        },
+        {
+          "title": "10 penny stocks plunge up to 70% in three months. Do you own any? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-70-in-three-months-do-you-own-any/slideshow/135420900.cms",
+          "content": "Ten actively traded penny stocks have fallen between 34% and 73% over the past three months, highlighting the risks associated with low-priced shares. Cropster Agro recorded the steepest decline at 73%, followed by Bridge Securities and Empower India, which dropped 55% and 50%, respectively.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 01 Nov 2026 12:53:24 +0530",
+          "summary": "Ten actively traded penny stocks have fallen between 34% and 73% over the past three months, highlighting the risks associated with low-priced shares. Cropster Agro recorded the steepest decline at 73..."
+        },
+        {
+          "title": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
+          "content": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This profitability surge defied the ongoing freeze on petrol and diesel prices since May. Indian Oil Corporation achieved its highest standalone quarterly net profit, buoyed by strong refining margins, yet faces ongoing challenges related to fuel under-recoveries.",
+          "source": "ET Markets",
+          "publishedAt": "Sun, 01 Nov 2026 12:22:22 +0530",
+          "summary": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This pr..."
+        }
+      ],
+      "generatedAt": "2026-11-01T07:57:10.094Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
+          "url": "https://www.nature.com/articles/d41586-026-03553-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: Rh<sup>3+</sup> stabilized in KRh@MFI catalyses regioselective hydroformylation",
+          "url": "https://www.nature.com/articles/s41586-026-11337-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists say a forgotten particle may explain why the universe exists",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+          "content": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cosmos’s deepest mysteries.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 01 Nov 2026 00:33:36 EDT",
+          "summary": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the e..."
+        },
+        {
+          "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
+          "content": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacterium, Bacteroides fragilis, produces a toxin that damages the colon’s protective lining, triggers chronic inflammation, and promotes tumor formation.",
+          "source": "Science Daily",
+          "publishedAt": "Sat, 31 Oct 2026 09:49:23 EDT",
+          "summary": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacte..."
+        },
+        {
+          "title": "Seabirds racing home over the ocean can get jet-lagged",
+          "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+          "content": "A long flight home from feeding grounds messes with birds' internal clocks.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 31 Oct 2026 11:15:26 +0000",
+          "summary": "A long flight home from feeding grounds messes with birds' internal clocks...."
+        },
+        {
+          "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+          "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+          "content": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 31 Oct 2026 11:02:34 +0000",
+          "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?..."
+        }
+      ],
+      "generatedAt": "2026-11-01T07:57:11.541Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+          "content": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\nComments URL: https://news.ycombinator.com/item?id=50323088\nPoints: 7\n# Comments: 3",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 01 Nov 2026 06:06:19 +0000",
+          "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\nComments URL: https://news.ycombinator.com/item?id=50323088\nPoints: 7\n# Comments: 3..."
+        },
+        {
+          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+          "content": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\nComments URL: https://news.ycombinator.com/item?id=50322173\nPoints: 92\n# Comments: 36",
+          "source": "Hacker News",
+          "publishedAt": "Sun, 01 Nov 2026 02:19:53 +0000",
+          "summary": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\nComments URL: https://news.ycombinator.com/item?id=50322173\nPoints: 92\n# Comments: 36..."
+        },
+        {
+          "title": "Data centers are now a midterm issue, even in Brooklyn",
+          "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+          "content": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 01 Nov 2026 02:22:10 +0000",
+          "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers...."
+        },
+        {
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "content": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 31 Oct 2026 21:41:00 +0000",
+          "summary": "Apple's new CEO defended the company's current position in the AI landscape...."
+        }
+      ],
+      "generatedAt": "2026-11-01T07:57:13.694Z"
+    }
+  ]
+}
