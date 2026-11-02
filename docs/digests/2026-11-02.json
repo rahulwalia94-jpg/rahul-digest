@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T08:02:17.059Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - October 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/october-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Monthly Decision Maker Panel data - October 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        }
+      ],
+      "generatedAt": "2026-11-02T08:02:01.139Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "nemotron-halloween",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 30 Oct 2026 17:57:24 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Thu, 29 Oct 2026 13:37:07 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
+          "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation...."
+        },
+        {
+          "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+          "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 30 Oct 2026 11:30:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things wor..."
+        },
+        {
+          "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+          "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+          "content": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 30 Oct 2026 09:00:00 +0000",
+          "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating d..."
+        }
+      ],
+      "generatedAt": "2026-11-02T08:02:02.034Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Unpicking Microsoft’s free cash flow",
+          "url": "https://www.ft.com/content/f16babea-fd38-440b-8278-5871d3a47b17?syn-25a6b1a6=1",
+          "content": "Plus: stock-bond correlations (again)",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 02 Nov 2026 06:30:07 GMT",
+          "summary": "Plus: stock-bond correlations (again)..."
+        },
+        {
+          "title": "What data centre construction delays mean for debt holders",
+          "url": "https://www.ft.com/content/824fcec4-bded-44f3-9e42-565ba0d2cfa8",
+          "content": "Boom?",
+          "source": "FT Markets",
+          "publishedAt": "Mon, 02 Nov 2026 06:00:08 GMT",
+          "summary": "Boom?..."
+        },
+        {
+          "title": "\n        Intensive parenting is no longer the preserve of the rich\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+          "content": "But wealthy families still come out on top",
+          "source": "The Economist",
+          "publishedAt": "Sun, 01 Nov 2026 16:08:43 +0000",
+          "summary": "But wealthy families still come out on top..."
+        },
+        {
+          "title": "\n        Christine Lagarde departs at a moment of peril\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+          "content": "Her successor as ECB chief will have an unenviable job",
+          "source": "The Economist",
+          "publishedAt": "Thu, 29 Oct 2026 11:26:26 +0000",
+          "summary": "Her successor as ECB chief will have an unenviable job..."
+        },
+        {
+          "title": "Nuveen High Yield Municipal Income ETF declares monthly distribution of $0.0949",
+          "url": "https://seekingalpha.com/news/4661953-nuveen-high-yield-municipal-income-etf-declares-monthly-distribution-of-00949?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 02 Nov 2026 02:58:35 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Anthropic's IPO plans include up to $3.5B share sale in Japan - report",
+          "url": "https://seekingalpha.com/news/4661921-anthropics-ipo-plans-include-up-to-35b-share-sale-in-japan---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Mon, 02 Nov 2026 02:58:29 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Explained: Why gold investors should tone down expectations as yellow metal plunges to a 1-year low ",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/explained-why-gold-investors-should-tone-down-expectations-as-yellow-metal-plunges-to-a-1-year-low/articleshow/135449976.cms",
+          "content": "Gold has fallen more than 30% from its January record high, with rising oil prices, inflation concerns and expectations of further Fed rate hikes adding to pressure. Analysts remain cautious about a near-term recovery, even as major banks retain bullish forecasts for 2027.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 02 Nov 2026 13:01:09 +0530",
+          "summary": "Gold has fallen more than 30% from its January record high, with rising oil prices, inflation concerns and expectations of further Fed rate hikes adding to pressure. Analysts remain cautious about a n..."
+        },
+        {
+          "title": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks? ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",
+          "content": "Wall Street’s AI-led rally faced a sharp setback as the Nasdaq recorded its biggest single-day fall since June. Heavy losses in technology stocks reflected growing investor concerns over hyperscaler spending and the returns on artificial intelligence investments.",
+          "source": "ET Markets",
+          "publishedAt": "Mon, 02 Nov 2026 13:00:25 +0530",
+          "summary": "Wall Street’s AI-led rally faced a sharp setback as the Nasdaq recorded its biggest single-day fall since June. Heavy losses in technology stocks reflected growing investor concerns over hyperscaler s..."
+        }
+      ],
+      "generatedAt": "2026-11-02T08:02:03.465Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Measles made a stealthy return as another virus took the spotlight",
+          "url": "https://www.nature.com/articles/d41586-026-03387-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
+          "url": "https://www.nature.com/articles/d41586-026-03553-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-10-30T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
+          "content": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per day, with black tea showing more consistent benefits than green tea.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 01 Nov 2026 06:29:04 EST",
+          "summary": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six ..."
+        },
+        {
+          "title": "Scientists say a forgotten particle may explain why the universe exists",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+          "content": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cosmos’s deepest mysteries.",
+          "source": "Science Daily",
+          "publishedAt": "Sun, 01 Nov 2026 00:33:36 EDT",
+          "summary": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the e..."
+        },
+        {
+          "title": "Seabirds racing home over the ocean can get jet-lagged",
+          "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+          "content": "A long flight home from feeding grounds messes with birds' internal clocks.",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 31 Oct 2026 11:15:26 +0000",
+          "summary": "A long flight home from feeding grounds messes with birds' internal clocks...."
+        },
+        {
+          "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+          "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+          "content": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+          "source": "Ars Technica",
+          "publishedAt": "Sat, 31 Oct 2026 11:02:34 +0000",
+          "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?..."
+        }
+      ],
+      "generatedAt": "2026-11-02T08:02:04.578Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Borrowed reading: stories from our extended colleagues",
+          "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+          "content": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 02 Nov 2026 04:23:48 +0000",
+          "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld...."
+        },
+        {
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "content": "Data centers are deeply unpopular. But what if we called them something else?",
+          "source": "TechCrunch",
+          "publishedAt": "Sun, 01 Nov 2026 21:55:23 +0000",
+          "summary": "Data centers are deeply unpopular. But what if we called them something else?..."
+        }
+      ],
+      "generatedAt": "2026-11-02T08:02:17.059Z"
+    }
+  ]
+}
