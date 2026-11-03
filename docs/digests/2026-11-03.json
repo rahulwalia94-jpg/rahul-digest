@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T08:24:40.222Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - October 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/october-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Monthly Decision Maker Panel data - October 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        }
+      ],
+      "generatedAt": "2026-11-03T08:24:35.281Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Transformers Model Integration Contracts",
+          "url": "https://huggingface.co/blog/transformers-mic",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 03 Nov 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "nemotron-halloween",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 30 Oct 2026 17:57:24 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Speeding up planning decisions with AI",
+          "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+          "content": "Google DeepMind and UK government work together to reduce planning assessment times",
+          "source": "DeepMind",
+          "publishedAt": "Fri, 30 Oct 2026 14:18:30 +0000",
+          "summary": "Google DeepMind and UK government work together to reduce planning assessment times..."
+        },
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+          "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 03 Nov 2026 04:18:47 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o..."
+        },
+        {
+          "title": "Raising the quality of insights in agentic analytics",
+          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+          "content": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 02 Nov 2026 17:00:00 +0000",
+          "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa..."
+        }
+      ],
+      "generatedAt": "2026-11-03T08:24:36.369Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Australia raises rates to highest level since 2008 financial crisis",
+          "url": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1",
+          "content": "Central bank’s fifth increase this year comes as inflation remains above target",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 03 Nov 2026 06:40:16 GMT",
+          "summary": "Central bank’s fifth increase this year comes as inflation remains above target..."
+        },
+        {
+          "title": "A new threat to the New York-based stock exchanges",
+          "url": "https://www.ft.com/content/21cb314f-47d3-4d83-ba8a-e70c018eb80c?syn-25a6b1a6=1",
+          "content": "Texas Stock Exchange tries to join the big leagues",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 03 Nov 2026 06:30:04 GMT",
+          "summary": "Texas Stock Exchange tries to join the big leagues..."
+        },
+        {
+          "title": "\n        Intensive parenting is no longer the preserve of the rich\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+          "content": "But wealthy families still come out on top",
+          "source": "The Economist",
+          "publishedAt": "Sun, 01 Nov 2026 16:08:43 +0000",
+          "summary": "But wealthy families still come out on top..."
+        },
+        {
+          "title": "\n        Christine Lagarde departs at a moment of peril\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+          "content": "Her successor as ECB chief will have an unenviable job",
+          "source": "The Economist",
+          "publishedAt": "Thu, 29 Oct 2026 11:26:26 +0000",
+          "summary": "Her successor as ECB chief will have an unenviable job..."
+        },
+        {
+          "title": "Sigma Lithium prices upsized $125M bond deal to replace higher-cost debt",
+          "url": "https://seekingalpha.com/news/4663170-sigma-lithium-prices-upsized-125m-bond-deal-to-replace-higher-cost-debt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 03 Nov 2026 03:02:50 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Hugo Boss GAAP EPS of €0.70, revenue of €946M; updates FY2026 outlook",
+          "url": "https://seekingalpha.com/news/4663173-hugo-boss-gaap-eps-of-070-revenue-of-946m-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 03 Nov 2026 03:02:23 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "GRSE shares jump 9% after signing Rs 32,000 crore Indian Navy contract for five next-generation corvettes ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/grse-shares-jump-9-after-signing-rs-32000-crore-indian-navy-contract-for-five-next-generation-corvettes/articleshow/135487819.cms",
+          "content": "GRSE shares surged nearly 9% after securing a Rs 32,000-crore Indian Navy contract to build five Next Generation Corvettes. The nine-year project will strengthen indigenous defence manufacturing, enhance maritime capabilities and reinforce GRSE's warship-building position, adding significantly to its order book and long-term business prospects.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 03 Nov 2026 13:11:59 +0530",
+          "summary": "GRSE shares surged nearly 9% after securing a Rs 32,000-crore Indian Navy contract to build five Next Generation Corvettes. The nine-year project will strengthen indigenous defence manufacturing, enha..."
+        },
+        {
+          "title": "4 reasons why Reliance Industries shares can rally after Monday magic sparked historic 12% surge ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/4-reasons-why-reliance-industries-shares-can-rally-after-monday-magic-sparked-historic-12-surge/articleshow/135487709.cms",
+          "content": "Reliance Industries shares surged, their biggest single-day gain since April 2020, adding nearly Rs 2 lakh crore to the company's market capitalisation after strong Q2 results. Despite remaining down over 17% in 2026, analysts see further upside potential, citing positive fundamental and technical cues.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 03 Nov 2026 13:07:38 +0530",
+          "summary": "Reliance Industries shares surged, their biggest single-day gain since April 2020, adding nearly Rs 2 lakh crore to the company's market capitalisation after strong Q2 results. Despite remaining down ..."
+        }
+      ],
+      "generatedAt": "2026-11-03T08:24:37.858Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow",
+          "url": "https://www.nature.com/articles/d41586-026-03480-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-03T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+          "url": "https://www.nature.com/articles/s41586-026-11350-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-02T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
+          "content": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that target the disease at its roots.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 02 Nov 2026 23:11:58 EST",
+          "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for i..."
+        },
+        {
+          "title": "Experts say high blood pressure guidelines are missing half the equation",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102075553.htm",
+          "content": "Scientists are calling for a major rethink of how we manage high blood pressure, suggesting that eating more potassium could be just as important as cutting back on salt. A new report finds that combining increased potassium intake with reduced sodium consumption may offer greater benefits for blood pressure control than sodium reduction alone.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 02 Nov 2026 08:10:42 EST",
+          "summary": "Scientists are calling for a major rethink of how we manage high blood pressure, suggesting that eating more potassium could be just as important as cutting back on salt. A new report finds that combi..."
+        },
+        {
+          "title": "Why large dogs age faster than small ones, and other October research highlights",
+          "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+          "content": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 02 Nov 2026 22:54:35 +0000",
+          "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more...."
+        },
+        {
+          "title": "Most of our measures of a key cognitive process don't agree",
+          "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+          "content": "A big study with very little beyond negative results still gets published.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 02 Nov 2026 19:13:26 +0000",
+          "summary": "A big study with very little beyond negative results still gets published...."
+        }
+      ],
+      "generatedAt": "2026-11-03T08:24:39.005Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+          "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+          "content": "Article URL: https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html\nComments URL: https://news.ycombinator.com/item?id=50349155\nPoints: 40\n# Comments: 8",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 03 Nov 2026 07:36:47 +0000",
+          "summary": "Article URL: https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html\nComments URL: https://news.ycombinator.com/item?id=50349155\nPoints: 40\n# Comments: 8..."
+        },
+        {
+          "title": "Nvidia – open-source auto-ontology",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "content": "Article URL: https://github.com/NVIDIA/auto-ontology\nComments URL: https://news.ycombinator.com/item?id=50348962\nPoints: 13\n# Comments: 2",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 03 Nov 2026 07:04:50 +0000",
+          "summary": "Article URL: https://github.com/NVIDIA/auto-ontology\nComments URL: https://news.ycombinator.com/item?id=50348962\nPoints: 13\n# Comments: 2..."
+        },
+        {
+          "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+          "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+          "content": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 03 Nov 2026 08:01:00 +0000",
+          "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech...."
+        },
+        {
+          "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+          "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+          "content": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 03 Nov 2026 07:20:00 +0000",
+          "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations...."
+        }
+      ],
+      "generatedAt": "2026-11-03T08:24:40.222Z"
+    }
+  ]
+}
