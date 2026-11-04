@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T07:53:03.637Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Agents' summary of business conditions - October 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/october-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        },
+        {
+          "title": "Monthly Decision Maker Panel data - October 2026",
+          "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026",
+          "content": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views...."
+        }
+      ],
+      "generatedAt": "2026-11-04T07:53:00.672Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "StateBench: Testing how language models track state changes over long documents",
+          "url": "https://huggingface.co/blog/allenai/statebench",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 03 Nov 2026 17:15:21 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Palette: teaching a small model to build decks in your design language",
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 03 Nov 2026 16:35:36 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+          "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 03 Nov 2026 13:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new ..."
+        },
+        {
+          "title": "How “reverse game theory” could keep AI agents in check",
+          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+          "content": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 03 Nov 2026 10:43:41 +0000",
+          "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers ..."
+        }
+      ],
+      "generatedAt": "2026-11-04T07:53:01.333Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Live coverage: Trump admits Iran war a factor as Republicans routed",
+          "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+          "content": "President’s party defeated in battleground races from Kansas to South Carolina",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 04 Nov 2026 07:39:27 GMT",
+          "summary": "President’s party defeated in battleground races from Kansas to South Carolina..."
+        },
+        {
+          "title": "Seriously, stop worrying about market concentration",
+          "url": "https://www.ft.com/content/ddc15117-2e67-429c-8c47-233121ee1587?syn-25a6b1a6=1",
+          "content": "And maybe worry more about what markets are concentrated in",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 04 Nov 2026 06:30:08 GMT",
+          "summary": "And maybe worry more about what markets are concentrated in..."
+        },
+        {
+          "title": "\n        China’s AI stock-market struggles are a warning\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+          "content": "What happens when the supply of new tech catches up with demand?",
+          "source": "The Economist",
+          "publishedAt": "Tue, 03 Nov 2026 20:48:59 +0000",
+          "summary": "What happens when the supply of new tech catches up with demand?..."
+        },
+        {
+          "title": "\n        America’s renters are in serious trouble\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+          "content": "Several gauges of their financial health are flashing red",
+          "source": "The Economist",
+          "publishedAt": "Tue, 03 Nov 2026 19:06:57 +0000",
+          "summary": "Several gauges of their financial health are flashing red..."
+        },
+        {
+          "title": "Google defends school AI rules amid political criticism",
+          "url": "https://seekingalpha.com/news/4664480-google-defends-school-ai-rules-amid-political-criticism?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 04 Nov 2026 02:39:12 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Astellas Pharma ADR GAAP EPS of v134.47, revenue of ¥1270.86B; updates FY2027 outlook",
+          "url": "https://seekingalpha.com/news/4664483-astellas-pharma-adr-gaap-eps-of-v13447-revenue-of-127086b-updates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 04 Nov 2026 02:38:55 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Kopsi, Taiwan, other Asian stocks tumble after US midterm elections signal Democratic victory. What’s the connection? ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/kopsi-taiwan-other-asian-stocks-tumble-after-us-midterm-elections-signal-democratic-victory-whats-the-connection/articleshow/135529227.cms",
+          "content": "South Korean and Taiwanese equities tumbled as a potential Democratic sweep in the US midterm elections fuelled concerns over tighter AI regulations and slower data centre investments. Chipmakers led the sell-off, dragging regional markets lower, while Asian currencies strengthened against a weaker dollar.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 04 Nov 2026 12:47:53 +0530",
+          "summary": "South Korean and Taiwanese equities tumbled as a potential Democratic sweep in the US midterm elections fuelled concerns over tighter AI regulations and slower data centre investments. Chipmakers led ..."
+        },
+        {
+          "title": "Equitas Small Finance Bank shares jump 9% after Balaji Nuthalapadi’s appointment as interim CEO ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/equitas-small-finance-bank-shares-jump-9-after-balaji-nuthalapadis-appointment-as-interim-ceo/articleshow/135528943.cms",
+          "content": "The bank further said that appointment of Nuthalapadi as interim CEO, consequent to the resignation of P. N. Vasudevan as the MD & CEO, shall take effect from the date of RBI approval or such other date as may be stipulated by the RBI in this regard.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 04 Nov 2026 12:44:25 +0530",
+          "summary": "The bank further said that appointment of Nuthalapadi as interim CEO, consequent to the resignation of P. N. Vasudevan as the MD & CEO, shall take effect from the date of RBI approval or such other da..."
+        }
+      ],
+      "generatedAt": "2026-11-04T07:53:02.453Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Whence dragons?",
+          "url": "https://www.nature.com/articles/d41586-026-03277-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-03T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Research bonuses need clear and fair rules",
+          "url": "https://www.nature.com/articles/d41586-026-03562-6",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-03T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
+          "content": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far more than scientists predicted.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 03 Nov 2026 04:46:21 EST",
+          "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera w..."
+        },
+        {
+          "title": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
+          "content": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientific mission, while an unexplained 48-hour communications blackout recently gave NASA a scare. On November 18, Voyager 1 will reach a distance of one light-day from Earth, making even the simplest round-trip communication take 48 hours.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 03 Nov 2026 03:11:10 EST",
+          "summary": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver..."
+        },
+        {
+          "title": "Why large dogs age faster than small ones, and other October research highlights",
+          "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+          "content": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 02 Nov 2026 22:54:35 +0000",
+          "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more...."
+        },
+        {
+          "title": "Most of our measures of a key cognitive process don't agree",
+          "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+          "content": "A big study with very little beyond negative results still gets published.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 02 Nov 2026 19:13:26 +0000",
+          "summary": "A big study with very little beyond negative results still gets published...."
+        }
+      ],
+      "generatedAt": "2026-11-04T07:53:03.152Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Jelly Sheet",
+          "url": "https://mrdoob.github.io/codevember-2026/01/",
+          "content": "Article URL: https://mrdoob.github.io/codevember-2026/01/\nComments URL: https://news.ycombinator.com/item?id=50361268\nPoints: 153\n# Comments: 37",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 04 Nov 2026 03:40:50 +0000",
+          "summary": "Article URL: https://mrdoob.github.io/codevember-2026/01/\nComments URL: https://news.ycombinator.com/item?id=50361268\nPoints: 153\n# Comments: 37..."
+        },
+        {
+          "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+          "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+          "content": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients\nComments URL: https://news.ycombinator.com/item?id=50361154\nPoints: 59\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 04 Nov 2026 03:20:13 +0000",
+          "summary": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients\nComments URL: https://news.ycombin..."
+        },
+        {
+          "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+          "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+          "content": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 04 Nov 2026 04:45:00 +0000",
+          "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures..."
+        },
+        {
+          "title": "Anthropic is working on a system to prove AI models’ identity",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "content": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 03 Nov 2026 22:41:03 +0000",
+          "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from...."
+        }
+      ],
+      "generatedAt": "2026-11-04T07:53:03.637Z"
+    }
+  ]
+}
