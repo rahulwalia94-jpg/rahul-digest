@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T08:19:20.350Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Response to the RPIB consultation on the Design of the Future Retail Payments Infrastructure",
+          "url": "https://www.bankofengland.co.uk/paper/2026/cp/response-to-the-rpib-consultation",
+          "content": "Consultation Response",
+          "source": "Bank of England",
+          "publishedAt": "Wed, 04 Nov 2026 10:00:00 Z",
+          "summary": "Consultation Response..."
+        },
+        {
+          "title": "Agents' summary of business conditions - October 2026",
+          "url": "https://www.bankofengland.co.uk/agents-summary/2026/october-2026",
+          "content": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 30 Oct 2026 09:30:00 Z",
+          "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period...."
+        }
+      ],
+      "generatedAt": "2026-11-05T08:19:17.102Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 04 Nov 2026 17:50:10 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "StateBench: Testing how language models track state changes over long documents",
+          "url": "https://huggingface.co/blog/allenai/statebench",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 03 Nov 2026 17:15:21 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+          "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+          "content": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 04 Nov 2026 18:50:55 +0000",
+          "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat J..."
+        },
+        {
+          "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+          "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+          "content": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 04 Nov 2026 18:21:40 +0000",
+          "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor ..."
+        }
+      ],
+      "generatedAt": "2026-11-05T08:19:17.791Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Oil tumbles below $100 on post-election peace hopes",
+          "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+          "content": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 05 Nov 2026 07:20:20 GMT",
+          "summary": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war..."
+        },
+        {
+          "title": "Markets surf the blue wave ",
+          "url": "https://www.ft.com/content/04094401-1966-4bc1-8aa7-b91ea8bf680c?syn-25a6b1a6=1",
+          "content": "Clarity is good",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 05 Nov 2026 06:30:06 GMT",
+          "summary": "Clarity is good..."
+        },
+        {
+          "title": "\n        What markets make of the midterms\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+          "content": "Democrats triumph. Investors yawn",
+          "source": "The Economist",
+          "publishedAt": "Wed, 04 Nov 2026 21:48:18 +0000",
+          "summary": "Democrats triumph. Investors yawn..."
+        },
+        {
+          "title": "\n        China’s AI stock-market struggles are a warning\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+          "content": "What happens when the supply of new tech catches up with demand?",
+          "source": "The Economist",
+          "publishedAt": "Tue, 03 Nov 2026 20:48:59 +0000",
+          "summary": "What happens when the supply of new tech catches up with demand?..."
+        },
+        {
+          "title": "Netgear outlines Q4 revenue of $160M-$175M while expecting non-GAAP operating margin of 0%-3%",
+          "url": "https://seekingalpha.com/news/4666250-netgear-outlines-q4-revenue-of-160m-175m-while-expecting-non-gaap-operating-margin-of-0?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 05 Nov 2026 03:15:22 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "DHL Group reports 13% revenue growth in Q3, reaffirms FY2026 outlook",
+          "url": "https://seekingalpha.com/news/4666248-dhl-group-reports-13-revenue-growth-in-q3-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 05 Nov 2026 03:10:59 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "India bonds climb in step with Treasuries as oil sinks ",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-climb-in-step-with-treasuries-as-oil-sinks/articleshow/135564784.cms",
+          "content": "Indian government bonds increased for the fourth consecutive session following a Democratic win in the US midterm elections. This victory led to a decline in crude oil prices, easing inflation concerns for India. The 10-year US Treasury yield also fell significantly, impacting investors' expectations. A trader noted that upcoming inflation data would be critical for assessing the Reserve Bank of India's rate outlook.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 05 Nov 2026 13:32:52 +0530",
+          "summary": "Indian government bonds increased for the fourth consecutive session following a Democratic win in the US midterm elections. This victory led to a decline in crude oil prices, easing inflation concern..."
+        },
+        {
+          "title": "Sitaram Denims India files IPO papers with Sebi ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
+          "content": "Sitaram Denims India Ltd plans to launch an initial public offering with two components. The IPO includes a fresh issue of equity shares and an offer for sale by promoters. Proceeds from the fresh issue will be used for various purposes including repayment of borrowings and working capital requirements. The company aims to set up a new garment manufacturing facility in Bhilwara to expand capacity.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 05 Nov 2026 12:32:00 +0530",
+          "summary": "Sitaram Denims India Ltd plans to launch an initial public offering with two components. The IPO includes a fresh issue of equity shares and an offer for sale by promoters. Proceeds from the fresh iss..."
+        }
+      ],
+      "generatedAt": "2026-11-05T08:19:18.965Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Spider snooze stages",
+          "url": "https://www.nature.com/articles/d41586-026-03487-0",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Why not to wait even a few minutes before fleeing a tsunami",
+          "url": "https://www.nature.com/articles/d41586-026-03539-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-04T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+          "content": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets combine stability with the ability to efficiently carry information, potentially overcoming major limitations in today's electronics. The discovery could lead to faster computers, more efficient data centers, and breakthroughs in quantum technology.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 04 Nov 2026 05:43:44 EST",
+          "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncov..."
+        },
+        {
+          "title": "NASA is racing against time to save the Hubble Space Telescope",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+          "content": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 04 Nov 2026 06:22:33 EST",
+          "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is s..."
+        },
+        {
+          "title": "Uranium cubes reveal why the German nuclear project failed",
+          "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+          "content": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 04 Nov 2026 21:56:29 +0000",
+          "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"..."
+        },
+        {
+          "title": "Why large dogs age faster than small ones, and other October research highlights",
+          "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+          "content": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 02 Nov 2026 22:54:35 +0000",
+          "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more...."
+        }
+      ],
+      "generatedAt": "2026-11-05T08:19:19.651Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Want to Rent an Internet Address at the White House?",
+          "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+          "content": "Article URL: https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/\nComments URL: https://news.ycombinator.com/item?id=50375728\nPoints: 4\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 05 Nov 2026 05:59:13 +0000",
+          "summary": "Article URL: https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/\nComments URL: https://news.ycombinator.com/item?id=50375728\nPoints: 4\n# Comments: 0..."
+        },
+        {
+          "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+          "url": "https://www.altera.com/newsroom/agilex-2x",
+          "content": "Article URL: https://www.altera.com/newsroom/agilex-2x\nComments URL: https://news.ycombinator.com/item?id=50375653\nPoints: 19\n# Comments: 7",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 05 Nov 2026 05:47:14 +0000",
+          "summary": "Article URL: https://www.altera.com/newsroom/agilex-2x\nComments URL: https://news.ycombinator.com/item?id=50375653\nPoints: 19\n# Comments: 7..."
+        },
+        {
+          "title": "Apple is reportedly cutting budgets for its internal AI usage",
+          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "content": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 05 Nov 2026 01:26:22 +0000",
+          "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams...."
+        },
+        {
+          "title": "After the midterms, a bigger clash over data centers could be coming",
+          "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+          "content": "Data center opposition crossed party lines in Tuesday’s midterms.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 05 Nov 2026 01:02:14 +0000",
+          "summary": "Data center opposition crossed party lines in Tuesday’s midterms...."
+        }
+      ],
+      "generatedAt": "2026-11-05T08:19:20.350Z"
+    }
+  ]
+}
