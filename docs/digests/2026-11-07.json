@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T07:39:09.676Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Price efficiency in securities lending",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 06 Nov 2026 14:01:00 Z",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "The aggregate and distributional implications of credit shocks on housing and rental markets",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 06 Nov 2026 14:00:00 Z",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-11-07T07:39:06.614Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 06 Nov 2026 14:00:48 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 06 Nov 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 05 Nov 2026 17:05:16 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Agentic cheminformatics with Google Antigravity",
+          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "content": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 03 Nov 2026 17:01:49 +0000",
+          "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles...."
+        },
+        {
+          "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 06 Nov 2026 13:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a ..."
+        },
+        {
+          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "content": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 06 Nov 2026 10:00:00 +0000",
+          "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab..."
+        }
+      ],
+      "generatedAt": "2026-11-07T07:39:07.281Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "How Wall Street’s all-in bet on AI blew up",
+          "url": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
+          "content": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 07 Nov 2026 05:00:31 GMT",
+          "summary": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets..."
+        },
+        {
+          "title": "Russia ships metal via the Arctic to evade Ukrainian strikes",
+          "url": "https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1",
+          "content": "Pig iron will be exported through the northern port of Murmansk for the first time in 30 years as Black Sea battles rage",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 07 Nov 2026 05:00:22 GMT",
+          "summary": "Pig iron will be exported through the northern port of Murmansk for the first time in 30 years as Black Sea battles rage..."
+        },
+        {
+          "title": "\n        Markets realise they hate America’s blue wave\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+          "content": "Investors worry that Democratic dominance will slow down the AI boom",
+          "source": "The Economist",
+          "publishedAt": "Thu, 05 Nov 2026 23:41:07 +0000",
+          "summary": "Investors worry that Democratic dominance will slow down the AI boom..."
+        },
+        {
+          "title": "\n        Indebted tycoons haunt China’s banking system\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
+          "content": "Lenders are feeling the hangover from years of Wild East capitalism",
+          "source": "The Economist",
+          "publishedAt": "Thu, 05 Nov 2026 11:54:22 +0000",
+          "summary": "Lenders are feeling the hangover from years of Wild East capitalism..."
+        },
+        {
+          "title": "AES GAAP EPS of $0.76, revenue of $3.87B beats by $700M",
+          "url": "https://seekingalpha.com/news/4668704-aes-gaap-eps-of-0_76-revenue-of-3_87b-beats-by-700m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Sat, 07 Nov 2026 01:27:41 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Telus targets $900M annualized cash savings exiting 2028 while projecting $500M AI infrastructure revenue over 3 years",
+          "url": "https://seekingalpha.com/news/4668703-telus-targets-900m-annualized-cash-savings-exiting-2028-while-projecting-500m-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 06 Nov 2026 22:15:56 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+          "content": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure investments, scrutinizing valuations and corporate expenditures. The Democratic majority in Congress poses regulatory challenges, amplifying economic tensions. Investors are leaning towards more conservative sectors, yearning for assurance that AI investments will deliver anticipated results amidst these turbulent times.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 07 Nov 2026 11:31:15 +0530",
+          "summary": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure in..."
+        },
+        {
+          "title": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
+          "content": "In this environment, sustainable wealth creation is likely to depend less on broad-based market movements and more on identifying businesses capable of delivering consistent earnings growth.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 07 Nov 2026 11:13:51 +0530",
+          "summary": "In this environment, sustainable wealth creation is likely to depend less on broad-based market movements and more on identifying businesses capable of delivering consistent earnings growth...."
+        }
+      ],
+      "generatedAt": "2026-11-07T07:39:08.317Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-03595-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-06T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+          "url": "https://www.nature.com/articles/d41586-026-03630-x",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-06T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Major trial challenges how doctors decide who really needs statins",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224604.htm",
+          "content": "A study of nearly 5,800 adults found that heart scans measuring calcium buildup in the arteries led to the same observed rate of major cardiovascular events as traditional risk assessments, despite recommending statins to far fewer patients. Surprisingly, patients advised to take statins based on their scans were nearly three times as likely to stick with their medication, raising intriguing questions about how doctors should identify and treat heart disease risk.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 06 Nov 2026 05:59:18 EST",
+          "summary": "A study of nearly 5,800 adults found that heart scans measuring calcium buildup in the arteries led to the same observed rate of major cardiovascular events as traditional risk assessments, despite re..."
+        },
+        {
+          "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+          "content": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach a distance of one light-day from Earth.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 06 Nov 2026 03:21:08 EST",
+          "summary": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by..."
+        },
+        {
+          "title": "Earth's churning mantle may have created the Great Unconformity",
+          "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+          "content": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 06 Nov 2026 20:24:20 +0000",
+          "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks...."
+        },
+        {
+          "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+          "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+          "content": "Software optimizes a physical model of the telescope to reduce noise.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 05 Nov 2026 19:59:22 +0000",
+          "summary": "Software optimizes a physical model of the telescope to reduce noise...."
+        }
+      ],
+      "generatedAt": "2026-11-07T07:39:09.150Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "The Components of Agent Memory",
+          "url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "content": "Article URL: https://www.anthropic.com/research/components-of-agent-memory\nComments URL: https://news.ycombinator.com/item?id=50402212\nPoints: 4\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 07 Nov 2026 06:39:04 +0000",
+          "summary": "Article URL: https://www.anthropic.com/research/components-of-agent-memory\nComments URL: https://news.ycombinator.com/item?id=50402212\nPoints: 4\n# Comments: 1..."
+        },
+        {
+          "title": "Asahi Linux Progress Linux 7.3",
+          "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+          "content": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/\nComments URL: https://news.ycombinator.com/item?id=50401867\nPoints: 83\n# Comments: 43",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 07 Nov 2026 05:20:18 +0000",
+          "summary": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/\nComments URL: https://news.ycombinator.com/item?id=50401867\nPoints: 83\n# Comments: 43..."
+        },
+        {
+          "title": "Sequoia shutting down its Scouts program marks the end of an era",
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "content": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 07 Nov 2026 05:01:54 +0000",
+          "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form...."
+        },
+        {
+          "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+          "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+          "content": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+          "source": "TechCrunch",
+          "publishedAt": "Sat, 07 Nov 2026 04:16:43 +0000",
+          "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st..."
+        }
+      ],
+      "generatedAt": "2026-11-07T07:39:09.676Z"
+    }
+  ]
+}
