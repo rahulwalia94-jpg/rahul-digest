@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T08:44:25.024Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Price efficiency in securities lending",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 06 Nov 2026 14:01:00 Z",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "The aggregate and distributional implications of credit shocks on housing and rental markets",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 06 Nov 2026 14:00:00 Z",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-11-10T08:44:18.777Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 09 Nov 2026 15:05:57 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 09 Nov 2026 12:34:29 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 05 Nov 2026 17:05:16 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Agentic cheminformatics with Google Antigravity",
+          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "content": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 03 Nov 2026 17:01:49 +0000",
+          "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles...."
+        },
+        {
+          "title": "The backlash about data centers might really just be about electricity",
+          "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 09 Nov 2026 19:35:33 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in ..."
+        },
+        {
+          "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+          "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+          "content": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiener on Friday, only a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 09 Nov 2026 17:05:43 +0000",
+          "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s..."
+        }
+      ],
+      "generatedAt": "2026-11-10T08:44:19.387Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Too big to fire",
+          "url": "https://www.ft.com/content/e1c37583-0b76-48ab-96b7-8e7da453fa88?syn-25a6b1a6=1",
+          "content": "Should Jensen Huang stay or go?",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 10 Nov 2026 07:10:16 GMT",
+          "summary": "Should Jensen Huang stay or go?..."
+        },
+        {
+          "title": "Investors pile into defensive stocks amid fears AI bull market may be over",
+          "url": "https://www.ft.com/content/efe9653b-6802-485e-8eae-97fa2e6df770?syn-25a6b1a6=1",
+          "content": "Consumer staples and healthcare among sectors to perform strongly as investors fret over future tech earnings",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 10 Nov 2026 05:00:11 GMT",
+          "summary": "Consumer staples and healthcare among sectors to perform strongly as investors fret over future tech earnings..."
+        },
+        {
+          "title": "\n        The future of Trumponomics: compromise or failure\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+          "content": "How the art of the deal may yet prevail over the art of denial",
+          "source": "The Economist",
+          "publishedAt": "Mon, 09 Nov 2026 19:13:41 +0000",
+          "summary": "How the art of the deal may yet prevail over the art of denial..."
+        },
+        {
+          "title": "\n        Markets realise they hate America’s blue wave\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+          "content": "Investors worry that Democratic dominance will slow down the AI boom",
+          "source": "The Economist",
+          "publishedAt": "Thu, 05 Nov 2026 23:41:07 +0000",
+          "summary": "Investors worry that Democratic dominance will slow down the AI boom..."
+        },
+        {
+          "title": "Honda raises FY2027 profit outlook despite EV restructuring costs and China weakness",
+          "url": "https://seekingalpha.com/news/4669534-honda-raises-fy2027-profit-outlook-despite-ev-restructuring-costs-and-china-weakness?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 10 Nov 2026 03:42:57 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Neo Performance Materials Inc. declares CAD 0.10 dividend",
+          "url": "https://seekingalpha.com/news/4669544-neo-performance-materials-inc-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 10 Nov 2026 03:29:32 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Why Rocket Lab shares fell despite record revenue and booming Neutron demand ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-rocket-lab-shares-fell-despite-record-revenue-and-booming-neutron-demand/slideshow/135702575.cms",
+          "content": "Rocket Lab shares fell over 6% in after-hours trading after the company reported a wider-than-expected Q3 loss despite record revenue and a growing order backlog. Investors also weighed Neutron's delayed maiden launch, higher development costs and upbeat fourth-quarter revenue guidance.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 10 Nov 2026 11:47:40 +0530",
+          "summary": "Rocket Lab shares fell over 6% in after-hours trading after the company reported a wider-than-expected Q3 loss despite record revenue and a growing order backlog. Investors also weighed Neutron's dela..."
+        },
+        {
+          "title": "Why The Trade Desk stock surged 15% despite revenue decline ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-trade-desk-stock-surged-15-despite-revenue-decline/slideshow/135701057.cms",
+          "content": "The Trade Desk shares surged 15.5% following stronger-than-expected Q3 earnings and revenue, as AI innovations, Netflix integration, strong customer retention and optimistic Q4 guidance boosted investor confidence despite declining profitability.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 10 Nov 2026 11:01:01 +0530",
+          "summary": "The Trade Desk shares surged 15.5% following stronger-than-expected Q3 earnings and revenue, as AI innovations, Netflix integration, strong customer retention and optimistic Q4 guidance boosted invest..."
+        }
+      ],
+      "generatedAt": "2026-11-10T08:44:20.609Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+          "url": "https://www.nature.com/articles/d41586-026-03588-w",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-09T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The super El Niño is more than a climate shock – it’s a health one, too",
+          "url": "https://www.nature.com/articles/d41586-026-03628-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-09T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Alzheimer’s may have early warning signs outside the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+          "content": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 09 Nov 2026 20:47:34 EST",
+          "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutati..."
+        },
+        {
+          "title": "Scientists finally discover why we learn to love bitter coffee",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+          "content": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 09 Nov 2026 18:19:35 EST",
+          "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how t..."
+        },
+        {
+          "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+          "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+          "content": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 09 Nov 2026 19:08:37 +0000",
+          "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"..."
+        },
+        {
+          "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+          "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+          "content": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 09 Nov 2026 12:00:05 +0000",
+          "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"..."
+        }
+      ],
+      "generatedAt": "2026-11-10T08:44:21.333Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+          "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+          "content": "Article URL: https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize\nComments URL: https://news.ycombinator.com/item?id=50437242\nPoints: 22\n# Comments: 4",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 10 Nov 2026 07:40:52 +0000",
+          "summary": "Article URL: https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize\nComments URL: https://news.ycombinator.com/item?id=50437242\nPoints: 22\n# Comment..."
+        },
+        {
+          "title": "Fireworks AI security breach impacts Notion and their customers",
+          "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+          "content": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor\nComments URL: https://news.ycombinator.com/item?id=50437106\nPoints: 5\n# Comments: 1",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 10 Nov 2026 07:19:38 +0000",
+          "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor\nComments URL: https://news.ycombinator.com/item?id=50437106\nPoints: 5\n# Comments: 1..."
+        },
+        {
+          "title": "Otter AI can now follow conversations across 30+ languages",
+          "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+          "content": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 10 Nov 2026 07:00:00 +0000",
+          "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages...."
+        },
+        {
+          "title": "California’s proposed ‘billionaire tax’ fails to pass",
+          "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+          "content": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
+          "source": "TechCrunch",
+          "publishedAt": "Tue, 10 Nov 2026 05:18:43 +0000",
+          "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists Tech..."
+        }
+      ],
+      "generatedAt": "2026-11-10T08:44:25.024Z"
+    }
+  ]
+}
