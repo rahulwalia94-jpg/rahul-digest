@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T08:09:26.670Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q3",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q3",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 10 Nov 2026 12:00:00 Z",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        },
+        {
+          "title": "Price efficiency in securities lending",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 06 Nov 2026 14:01:00 Z",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-11-11T08:09:22.066Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 11 Nov 2026 05:01:16 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Tue, 10 Nov 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 10 Nov 2026 16:03:47 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "content": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+          "source": "DeepMind",
+          "publishedAt": "Tue, 10 Nov 2026 12:02:28 +0000",
+          "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption...."
+        },
+        {
+          "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+          "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 10 Nov 2026 13:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huck..."
+        },
+        {
+          "title": "Evolving metal extraction processes",
+          "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+          "content": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 10 Nov 2026 13:00:00 +0000",
+          "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for ..."
+        }
+      ],
+      "generatedAt": "2026-11-11T08:09:22.937Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Oil traders give peace a chance (but should they?)",
+          "url": "https://www.ft.com/content/aa40cb43-4d0f-4f3c-a7aa-fbc2606f5719?syn-25a6b1a6=1",
+          "content": "Plus Chris Waller, inflation hawk",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 11 Nov 2026 06:30:01 GMT",
+          "summary": "Plus Chris Waller, inflation hawk..."
+        },
+        {
+          "title": "The barriers to creating a European SpaceX",
+          "url": "https://www.ft.com/content/58d7ab59-688f-4d15-9c7f-96e621775777",
+          "content": "The continent’s ambition has yet to be matched by its capital markets",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 11 Nov 2026 05:11:49 GMT",
+          "summary": "The continent’s ambition has yet to be matched by its capital markets..."
+        },
+        {
+          "title": "\n        Lessons from a miserable month for hedge funds\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+          "content": "The struggle to invest in anything other than AI",
+          "source": "The Economist",
+          "publishedAt": "Tue, 10 Nov 2026 20:47:39 +0000",
+          "summary": "The struggle to invest in anything other than AI..."
+        },
+        {
+          "title": "\n        For boomers, economic boom times are over\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+          "content": "Across the rich world, the geriatric share of income and wealth is ebbing",
+          "source": "The Economist",
+          "publishedAt": "Tue, 10 Nov 2026 20:28:56 +0000",
+          "summary": "Across the rich world, the geriatric share of income and wealth is ebbing..."
+        },
+        {
+          "title": "The Growhub GAAP EPS of -S$0.09, revenue of S$0.06M",
+          "url": "https://seekingalpha.com/news/4670500-the-growhub-gaap-eps-of-s009-revenue-of-s006m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 11 Nov 2026 03:03:11 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Amapá Minerals Holdings reports Q3 results",
+          "url": "https://seekingalpha.com/news/4670499-amap-minerals-holdings-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 11 Nov 2026 02:59:58 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Bajaj Finance to launch share sale worth up to Rs 11,700 cr this week: Report ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-said-to-be-set-to-launch-up-to-1-2-billion-share-sale/articleshow/135729545.cms",
+          "content": "Bajaj Finance Ltd. is gearing up for a major share sale aimed at raising an impressive 117 billion rupees. The initiative seeks to draw in institutional investors, with the specifics of the offering currently being finalized. Following the completion of investor roadshows, a qualified institutions placement may take place soon.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 11 Nov 2026 13:06:59 +0530",
+          "summary": "Bajaj Finance Ltd. is gearing up for a major share sale aimed at raising an impressive 117 billion rupees. The initiative seeks to draw in institutional investors, with the specifics of the offering c..."
+        },
+        {
+          "title": "CoreWeave stock jumps after earnings: 7 things driving the AI cloud company's rally ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-jumps-after-earnings-7-things-driving-the-ai-cloud-companys-rally/slideshow/135729203.cms",
+          "content": "​CoreWeave shares surge after beating Q3 earnings expectations, reporting 168% revenue growth and a $132.5 billion backlog, while raising 2026 guidance despite mounting debt and infrastructure spending concerns.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 11 Nov 2026 12:31:16 +0530",
+          "summary": "​CoreWeave shares surge after beating Q3 earnings expectations, reporting 168% revenue growth and a $132.5 billion backlog, while raising 2026 guidance despite mounting debt and infrastructure spendin..."
+        }
+      ],
+      "generatedAt": "2026-11-11T08:09:24.592Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "PhD funding mechanisms should protect the right to disagree with supervisors",
+          "url": "https://www.nature.com/articles/d41586-026-03645-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-10T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A practically perfect plesiosaur",
+          "url": "https://www.nature.com/articles/d41586-026-03278-7",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-10T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+          "content": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 10 Nov 2026 20:36:04 EST",
+          "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhorna..."
+        },
+        {
+          "title": "Why heart attacks can still happen even when bad cholesterol is low",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+          "content": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond cholesterol buildup.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 09 Nov 2026 20:54:15 EST",
+          "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying parti..."
+        },
+        {
+          "title": "What happens to mathematics when AI becomes an oracle?",
+          "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+          "content": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 10 Nov 2026 20:30:01 +0000",
+          "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World...."
+        },
+        {
+          "title": "High oil prices have led to a dip in global carbon emissions",
+          "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+          "content": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
+          "source": "Ars Technica",
+          "publishedAt": "Tue, 10 Nov 2026 16:29:27 +0000",
+          "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent...."
+        }
+      ],
+      "generatedAt": "2026-11-11T08:09:25.582Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+          "url": "https://github.com/gmkurtzer/ginux",
+          "content": "Article URL: https://github.com/gmkurtzer/ginux\nComments URL: https://news.ycombinator.com/item?id=50450007\nPoints: 48\n# Comments: 22",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 11 Nov 2026 05:25:54 +0000",
+          "summary": "Article URL: https://github.com/gmkurtzer/ginux\nComments URL: https://news.ycombinator.com/item?id=50450007\nPoints: 48\n# Comments: 22..."
+        },
+        {
+          "title": "Protecting SSH Keys with macOS Secure Enclave",
+          "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+          "content": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/\nComments URL: https://news.ycombinator.com/item?id=50449748\nPoints: 130\n# Comments: 46",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 11 Nov 2026 04:28:57 +0000",
+          "summary": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/\nComments URL: https://news.ycombinator.com/item?id=50449748\nPoints: 130\n# Comments: 46..."
+        },
+        {
+          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+          "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+          "content": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 11 Nov 2026 07:30:51 +0000",
+          "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now...."
+        },
+        {
+          "title": "X launches its own clipping feature to spur influencer engagement",
+          "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+          "content": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 11 Nov 2026 01:02:13 +0000",
+          "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral...."
+        }
+      ],
+      "generatedAt": "2026-11-11T08:09:26.670Z"
+    }
+  ]
+}
