@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T08:43:46.385Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Asset Purchase Facility Quarterly Report - 2026 Q3",
+          "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q3",
+          "content": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 10 Nov 2026 12:00:00 Z",
+          "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of ..."
+        },
+        {
+          "title": "Price efficiency in securities lending",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 06 Nov 2026 14:01:00 Z",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        }
+      ],
+      "generatedAt": "2026-11-12T08:43:41.642Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 11 Nov 2026 05:01:16 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+          "url": "https://huggingface.co/blog/token-pooling",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 11 Nov 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "What to know about this year’s UN climate talks",
+          "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+          "content": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 11 Nov 2026 17:00:00 +0000",
+          "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on..."
+        },
+        {
+          "title": "The Download: preserving minds and weighing open AI risks",
+          "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 11 Nov 2026 13:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget..."
+        }
+      ],
+      "generatedAt": "2026-11-12T08:43:42.268Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Nvidia shares tumble in after-market trading",
+          "url": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
+          "content": "Stock sinks almost 9 per cent after-market as chief executive’s fate hangs in balance following more revelations",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 12 Nov 2026 08:10:33 GMT",
+          "summary": "Stock sinks almost 9 per cent after-market as chief executive’s fate hangs in balance following more revelations..."
+        },
+        {
+          "title": "How resilient is the US consumer?",
+          "url": "https://www.ft.com/content/c900f840-63c8-4bdd-8f13-a527b89ff9a5?syn-25a6b1a6=1",
+          "content": "A dialogue with Adam Josephson of Sakonnet Research",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 12 Nov 2026 06:30:01 GMT",
+          "summary": "A dialogue with Adam Josephson of Sakonnet Research..."
+        },
+        {
+          "title": "\n        Lessons from a miserable month for hedge funds\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+          "content": "The struggle to invest in anything other than AI",
+          "source": "The Economist",
+          "publishedAt": "Tue, 10 Nov 2026 20:47:39 +0000",
+          "summary": "The struggle to invest in anything other than AI..."
+        },
+        {
+          "title": "\n        For boomers, economic boom times are over\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+          "content": "Across the rich world, the geriatric share of income and wealth is ebbing",
+          "source": "The Economist",
+          "publishedAt": "Tue, 10 Nov 2026 20:28:56 +0000",
+          "summary": "Across the rich world, the geriatric share of income and wealth is ebbing..."
+        },
+        {
+          "title": "Sylogist reports Q3 results",
+          "url": "https://seekingalpha.com/news/4671159-sylogist-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 12 Nov 2026 03:40:37 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Mineros S.A. GAAP EPS of $0.30, revenue of $279.22M beats by $4.95M; raises FY 2026 outlook",
+          "url": "https://seekingalpha.com/news/4671157-mineros-sa-gaap-eps-of-030-revenue-of-27922m-beats-by-495m-raises-fy-2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 12 Nov 2026 03:38:03 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Bloom Energy shares jump 13%: Can the AI power stock sustain its rally? ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bloom-energy-shares-jump-13-can-the-ai-power-stock-sustain-its-rally/slideshow/135760252.cms",
+          "content": "Bloom Energy shares jumped 13% after strong CoreWeave results eased concerns over AI infrastructure spending. But with the stock well below its record high, can the rally last?",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 12 Nov 2026 12:38:20 +0530",
+          "summary": "Bloom Energy shares jumped 13% after strong CoreWeave results eased concerns over AI infrastructure spending. But with the stock well below its record high, can the rally last?..."
+        },
+        {
+          "title": "Mahindra &amp; Mahindra among 5 stocks showing White Marubozu Pattern ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/mahindra-amp-mahindra-among-5-stocks-showing-white-marubozu-pattern/slideshow/135758580.cms",
+          "content": "Five stocks in the Nifty500 with a change of more than 5% appeared on the ‘White Marubozu’ bullish scanner, according to StockEdge’s technical scan data.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 12 Nov 2026 11:59:25 +0530",
+          "summary": "Five stocks in the Nifty500 with a change of more than 5% appeared on the ‘White Marubozu’ bullish scanner, according to StockEdge’s technical scan data...."
+        }
+      ],
+      "generatedAt": "2026-11-12T08:43:43.443Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Scientists discover a common sugar may help cancer cells break free and spread",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
+          "content": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together, making it easier for cancer to spread. High dietary fructose levels and cholesterol-lowering statins also produced concerning effects in preclinical experiments.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 11 Nov 2026 23:39:31 EST",
+          "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surv..."
+        },
+        {
+          "title": "Walking and weight training may not be enough to keep your bones strong",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
+          "content": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction. Researchers found that activities such as football and handball increased markers of bone formation by up to 46%, potentially revealing a better way to protect bones against aging and osteoporosis.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 11 Nov 2026 19:10:23 EST",
+          "summary": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements..."
+        },
+        {
+          "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+          "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+          "content": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 11 Nov 2026 20:22:03 +0000",
+          "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"..."
+        },
+        {
+          "title": "IBM to offer access to a dual-processor quantum system in 2027",
+          "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+          "content": "The company plans on linking two 520-qubit chips before next year is over.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 11 Nov 2026 16:33:08 +0000",
+          "summary": "The company plans on linking two 520-qubit chips before next year is over...."
+        }
+      ],
+      "generatedAt": "2026-11-12T08:43:44.857Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Humble Bundle just killed most of their security through vibecoding",
+          "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+          "content": "Article URL: https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/\nComments URL: https://news.ycombinator.com/item?id=50463899\nPoints: 176\n# Comments: 67",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 12 Nov 2026 06:52:48 +0000",
+          "summary": "Article URL: https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/\nComments URL: https://news.ycombinator.com/item?id=50463899..."
+        },
+        {
+          "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+          "url": "https://www.getlazarus.org/forums/topic/17/",
+          "content": "Article URL: https://www.getlazarus.org/forums/topic/17/\nComments URL: https://news.ycombinator.com/item?id=50463540\nPoints: 28\n# Comments: 5",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 12 Nov 2026 05:49:34 +0000",
+          "summary": "Article URL: https://www.getlazarus.org/forums/topic/17/\nComments URL: https://news.ycombinator.com/item?id=50463540\nPoints: 28\n# Comments: 5..."
+        },
+        {
+          "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+          "content": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+          "source": "TechCrunch",
+          "publishedAt": "Thu, 12 Nov 2026 03:13:10 +0000",
+          "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist...."
+        },
+        {
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "content": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+          "source": "TechCrunch",
+          "publishedAt": "Wed, 11 Nov 2026 23:50:00 +0000",
+          "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure...."
+        }
+      ],
+      "generatedAt": "2026-11-12T08:43:46.385Z"
+    }
+  ]
+}
