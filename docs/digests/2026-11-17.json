@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T09:38:27.258Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Eleventh edition of the Regulatory Initiatives Grid",
+          "url": "https://www.bankofengland.co.uk/report/regulatory-initiatives-grid",
+          "content": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 17 Nov 2026 07:00:00 Z",
+          "summary": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum..."
+        },
+        {
+          "title": "Near-final statement of policy: The Bank of England’s approach to tiering non-UK CCPs",
+          "url": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-tiering-non-uk-ccps",
+          "content": "Near-final statement of policy",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 16 Nov 2026 11:00:00 Z",
+          "summary": "Near-final statement of policy..."
+        }
+      ],
+      "generatedAt": "2026-11-17T09:38:20.183Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "url": "https://huggingface.co/blog/openrouter",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 16 Nov 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 13 Nov 2026 18:00:39 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 4 Hydrogen",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 12 Nov 2026 18:00:50 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "content": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 11 Nov 2026 15:00:15 +0000",
+          "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease...."
+        },
+        {
+          "title": "The open-source movement wants Jensen Huang back",
+          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+          "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 16 Nov 2026 18:38:47 +0000",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvid..."
+        },
+        {
+          "title": "Building trustworthy AI by fencing it in, not predicting it",
+          "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+          "content": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Mon, 16 Nov 2026 16:04:28 +0000",
+          "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message..."
+        }
+      ],
+      "generatedAt": "2026-11-17T09:38:21.266Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Stocks slide as Nvidia results loom",
+          "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+          "content": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 17 Nov 2026 09:05:13 GMT",
+          "summary": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out..."
+        },
+        {
+          "title": "Japan proposes ‘Asian IEA’ to manage oil stockpiles",
+          "url": "https://www.ft.com/content/208b3dff-5d7a-4250-989a-821fb70fb896?syn-25a6b1a6=1",
+          "content": "Tokyo hopes joint reserves would insulate import-dependent region against future energy shocks",
+          "source": "FT Markets",
+          "publishedAt": "Tue, 17 Nov 2026 07:01:23 GMT",
+          "summary": "Tokyo hopes joint reserves would insulate import-dependent region against future energy shocks..."
+        },
+        {
+          "title": "\n        America does not produce world-beating statistics. Who does?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
+          "content": "We search for the world’s worst—and best—economic data",
+          "source": "The Economist",
+          "publishedAt": "Mon, 16 Nov 2026 18:28:18 +0000",
+          "summary": "We search for the world’s worst—and best—economic data..."
+        },
+        {
+          "title": "\n        The return of the snatch-and-grab state\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
+          "content": "A new history of confiscation sheds light on modern economic warfare",
+          "source": "The Economist",
+          "publishedAt": "Thu, 12 Nov 2026 10:40:24 +0000",
+          "summary": "A new history of confiscation sheds light on modern economic warfare..."
+        },
+        {
+          "title": "Bunge expands blockchain soy traceability to Vietnam",
+          "url": "https://seekingalpha.com/news/4673519-bunge-expands-blockchain-soy-traceability-to-vietnam?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 17 Nov 2026 04:26:00 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "U.S. stock futures lower as investors brace for Nvidia results",
+          "url": "https://seekingalpha.com/news/4673516-us-stock-futures-lower-as-investors-brace-for-nvidia-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Tue, 17 Nov 2026 04:19:58 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80% ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
+          "content": "FIIs and mutual funds have increased their stakes in five largecap stocks for two consecutive quarters, signalling rising institutional interest. All five stocks have delivered positive returns in FY27 so far, with gains ranging from 12% to 80%.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 17 Nov 2026 12:54:18 +0530",
+          "summary": "FIIs and mutual funds have increased their stakes in five largecap stocks for two consecutive quarters, signalling rising institutional interest. All five stocks have delivered positive returns in FY2..."
+        },
+        {
+          "title": "South Korean shares close at over 9-month low on Nvidia caution ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
+          "content": "South Korean shares experienced a significant decline of more than 2% amid concerns affecting chipmakers. The benchmark KOSPI closed at its lowest level since February due to persistent selling pressure. Foreign investors were noted as net sellers of shares worth approximately 1.4 trillion won. The Korean won weakened slightly against the dollar during this trading period. Additionally, South Korea's benchmark bond yields fell as market activities shifted.",
+          "source": "ET Markets",
+          "publishedAt": "Tue, 17 Nov 2026 12:26:18 +0530",
+          "summary": "South Korean shares experienced a significant decline of more than 2% amid concerns affecting chipmakers. The benchmark KOSPI closed at its lowest level since February due to persistent selling pressu..."
+        }
+      ],
+      "generatedAt": "2026-11-17T09:38:22.327Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "<b>The climate is in </b><b>crisis</b><b> — here’s four things we can do</b>",
+          "url": "https://www.nature.com/articles/d41586-026-03760-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-16T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Architecture of a portal complex embedded in the poxvirus core",
+          "url": "https://www.nature.com/articles/s41586-026-11399-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-16T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+          "content": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 16 Nov 2026 08:40:11 EST",
+          "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could unco..."
+        },
+        {
+          "title": "New wearable ultrasound patch boosts REM sleep without drugs or surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
+          "content": "A revolutionary new wearable patch could help people get more restorative sleep without medication or surgery. Developed by University of Texas researchers, the device uses gentle ultrasound to stimulate deep brain regions, helping participants enter REM sleep 43 minutes faster and remain there 16 minutes longer on average. The technology also showed promising effects on stress regulation and brain circuits involved in emotion.",
+          "source": "Science Daily",
+          "publishedAt": "Mon, 16 Nov 2026 05:22:15 EST",
+          "summary": "A revolutionary new wearable patch could help people get more restorative sleep without medication or surgery. Developed by University of Texas researchers, the device uses gentle ultrasound to stimul..."
+        },
+        {
+          "title": "Hyperscale data centers use 2% of US electricity",
+          "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+          "content": "Study attempts to tally hyperscalers’ energy use and emissions.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 16 Nov 2026 20:52:10 +0000",
+          "summary": "Study attempts to tally hyperscalers’ energy use and emissions...."
+        },
+        {
+          "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+          "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+          "content": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 16 Nov 2026 19:54:21 +0000",
+          "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds...."
+        }
+      ],
+      "generatedAt": "2026-11-17T09:38:23.099Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+          "url": "https://support.apple.com/en-us/149699",
+          "content": "Article URL: https://support.apple.com/en-us/149699\nComments URL: https://news.ycombinator.com/item?id=50526560\nPoints: 119\n# Comments: 63",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 17 Nov 2026 02:17:04 +0000",
+          "summary": "Article URL: https://support.apple.com/en-us/149699\nComments URL: https://news.ycombinator.com/item?id=50526560\nPoints: 119\n# Comments: 63..."
+        },
+        {
+          "title": "Mem Is Shutting Down",
+          "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+          "content": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down\nComments URL: https://news.ycombinator.com/item?id=50526537\nPoints: 58\n# Comments: 80",
+          "source": "Hacker News",
+          "publishedAt": "Tue, 17 Nov 2026 02:13:41 +0000",
+          "summary": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down\nComments URL: https://news.ycombinator.com/item?id=50526537\nPoints: 58\n# Comments: 80..."
+        },
+        {
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+          "content": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 16 Nov 2026 23:32:32 +0000",
+          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA...."
+        },
+        {
+          "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+          "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+          "content": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+          "source": "TechCrunch",
+          "publishedAt": "Mon, 16 Nov 2026 22:12:31 +0000",
+          "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach...."
+        }
+      ],
+      "generatedAt": "2026-11-17T09:38:27.258Z"
+    }
+  ]
+}
