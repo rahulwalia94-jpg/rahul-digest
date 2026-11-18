@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T08:57:40.786Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Eleventh edition of the Regulatory Initiatives Grid",
+          "url": "https://www.bankofengland.co.uk/report/regulatory-initiatives-grid",
+          "content": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 17 Nov 2026 07:00:00 Z",
+          "summary": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum..."
+        },
+        {
+          "title": "Near-final statement of policy: The Bank of England’s approach to supervisory processes (model changes, recognition orders and variations of recognition orders) and margin permissions",
+          "url": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-supervisory-processes-and-margin-permissions",
+          "content": "Near-final statement of policy",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 16 Nov 2026 11:00:00 Z",
+          "summary": "Near-final statement of policy..."
+        }
+      ],
+      "generatedAt": "2026-11-18T08:57:34.136Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "url": "https://huggingface.co/blog/openrouter",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Mon, 16 Nov 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 13 Nov 2026 18:00:39 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 4 Hydrogen",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Thu, 12 Nov 2026 18:00:50 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "content": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 11 Nov 2026 15:00:15 +0000",
+          "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease...."
+        },
+        {
+          "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+          "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+          "content": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 17 Nov 2026 18:46:47 +0000",
+          "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science ed..."
+        },
+        {
+          "title": "Hydropower hit record lows in the US Southwest this summer",
+          "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+          "content": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Tue, 17 Nov 2026 17:52:10 +0000",
+          "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower p..."
+        }
+      ],
+      "generatedAt": "2026-11-18T08:57:34.627Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "The name’s bond",
+          "url": "https://www.ft.com/content/38a2ce31-d7f5-48d0-a8b6-2b4f3ed45df6?syn-25a6b1a6=1",
+          "content": "Fixed income is so box office right now",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 18 Nov 2026 06:30:06 GMT",
+          "summary": "Fixed income is so box office right now..."
+        },
+        {
+          "title": "Brussels to tap Russian frozen asset profits to service new Ukraine loan",
+          "url": "https://www.ft.com/content/08ad089e-bc58-4e0d-b458-a2c4e1dc86f2?syn-25a6b1a6=1",
+          "content": "Also in this newsletter: Experts demand Brussels pay up to meet AI ambitions",
+          "source": "FT Markets",
+          "publishedAt": "Wed, 18 Nov 2026 06:00:08 GMT",
+          "summary": "Also in this newsletter: Experts demand Brussels pay up to meet AI ambitions..."
+        },
+        {
+          "title": "\n        Why startups still go public, eventually\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+          "content": "Costly regulation is not a big deterrent to IPOs",
+          "source": "The Economist",
+          "publishedAt": "Tue, 17 Nov 2026 18:38:26 +0000",
+          "summary": "Costly regulation is not a big deterrent to IPOs..."
+        },
+        {
+          "title": "\n        Does Donald Trump care about the economy?\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
+          "content": "His economic advisers have gone missing after a bruising midterm defeat",
+          "source": "The Economist",
+          "publishedAt": "Tue, 17 Nov 2026 17:54:03 +0000",
+          "summary": "His economic advisers have gone missing after a bruising midterm defeat..."
+        },
+        {
+          "title": "Freeport Indonesia prices $750M of senior notes due 2033",
+          "url": "https://seekingalpha.com/news/4674015-freeport-indonesia-prices-750m-of-senior-notes-due-2033?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 18 Nov 2026 03:23:12 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "UK inflation touches highest level in a year",
+          "url": "https://seekingalpha.com/news/4674023-uk-inflation-touches-highest-level-in-a-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Wed, 18 Nov 2026 03:09:45 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Govt weighs tax tweaks to boost stock trading, curb derivatives: Report ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/govt-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives/articleshow/135953824.cms",
+          "content": "The government is reviewing proposals to cut securities transaction tax on cash equities by 50% while raising levies on derivatives to curb speculative trading and encourage broader market participation. Officials are also considering a reduction in long-term capital gains tax. The recommendations will be presented to Finance Minister Nirmala Sitharaman ahead of Budget 2027.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 18 Nov 2026 12:54:58 +0530",
+          "summary": "The government is reviewing proposals to cut securities transaction tax on cash equities by 50% while raising levies on derivatives to curb speculative trading and encourage broader market participati..."
+        },
+        {
+          "title": "How Ashish Kacholia, Radhakishan Damani, Madhusudan Kela and other ace investors reshuffled their portfolios in Q2 ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-ashish-kacholia-radhakishan-damani-madhusudan-kela-and-other-ace-investors-reshuffled-their-portfolios-in-q2/slideshow/135953760.cms",
+          "content": "Mukul Agrawal, Akash Bhanshali and Ashish Kacholia emerge as the biggest portfolio gainers among prominent individual investors in the September quarter. Meanwhile, Radhakishan Damani records the steepest decline. The analysis examines their portfolio values, top stock holdings and changes in shareholding across listed companies.",
+          "source": "ET Markets",
+          "publishedAt": "Wed, 18 Nov 2026 12:39:19 +0530",
+          "summary": "Mukul Agrawal, Akash Bhanshali and Ashish Kacholia emerge as the biggest portfolio gainers among prominent individual investors in the September quarter. Meanwhile, Radhakishan Damani records the stee..."
+        }
+      ],
+      "generatedAt": "2026-11-18T08:57:35.613Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Meet the ‘celestial bodies of fathomless powerful darkness’",
+          "url": "https://www.nature.com/articles/d41586-026-03750-4",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-17T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
+          "url": "https://www.nature.com/articles/d41586-026-03744-2",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-17T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "This remarkable new material could solve a major carbon capture problem",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
+          "content": "Scientists have developed a new carbon capture material that turns moisture from an obstacle into an advantage, potentially solving a major problem with removing CO2 from industrial emissions. The material works even in extremely humid conditions and can be reused repeatedly, offering a promising path toward cheaper, more effective carbon capture.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 17 Nov 2026 06:29:36 EST",
+          "summary": "Scientists have developed a new carbon capture material that turns moisture from an obstacle into an advantage, potentially solving a major problem with removing CO2 from industrial emissions. The mat..."
+        },
+        {
+          "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+          "content": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Scientists suspect these drugs may be more effective at preserving memory and thinking abilities in people with obesity or diabetes, especially before cognitive problems appear.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 17 Nov 2026 06:39:45 EST",
+          "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked ..."
+        },
+        {
+          "title": "Hyperscale data centers use 2% of US electricity",
+          "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+          "content": "Study attempts to tally hyperscalers’ energy use and emissions.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 16 Nov 2026 20:52:10 +0000",
+          "summary": "Study attempts to tally hyperscalers’ energy use and emissions...."
+        },
+        {
+          "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+          "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+          "content": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 16 Nov 2026 19:54:21 +0000",
+          "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds...."
+        }
+      ],
+      "generatedAt": "2026-11-18T08:57:36.256Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Talos Linux",
+          "url": "https://www.siderolabs.com/talos-linux",
+          "content": "Article URL: https://www.siderolabs.com/talos-linux\nComments URL: https://news.ycombinator.com/item?id=50543343\nPoints: 5\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 18 Nov 2026 08:17:44 +0000",
+          "summary": "Article URL: https://www.siderolabs.com/talos-linux\nComments URL: https://news.ycombinator.com/item?id=50543343\nPoints: 5\n# Comments: 0..."
+        },
+        {
+          "title": "Australia's full national topographic library at your fingertips",
+          "url": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
+          "content": "Article URL: https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips\nComments URL: https://news.ycombinator.com/item?id=50542863\nPoints: 12\n# Comments: 6",
+          "source": "Hacker News",
+          "publishedAt": "Wed, 18 Nov 2026 07:10:46 +0000",
+          "summary": "Article URL: https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips\nComments URL: https://news.ycombinator.com/item?id=50542863\nPoints: 12\n# Comments: 6..."
+        }
+      ],
+      "generatedAt": "2026-11-18T08:57:40.786Z"
+    }
+  ]
+}
