@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T09:15:33.139Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Eleventh edition of the Regulatory Initiatives Grid",
+          "url": "https://www.bankofengland.co.uk/report/regulatory-initiatives-grid",
+          "content": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 17 Nov 2026 07:00:00 Z",
+          "summary": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum..."
+        },
+        {
+          "title": "Near-final statement of policy: The Bank of England’s approach to tiering non-UK CCPs",
+          "url": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-tiering-non-uk-ccps",
+          "content": "Near-final statement of policy",
+          "source": "Bank of England",
+          "publishedAt": "Mon, 16 Nov 2026 11:00:00 Z",
+          "summary": "Near-final statement of policy..."
+        }
+      ],
+      "generatedAt": "2026-11-19T09:15:28.858Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 18 Nov 2026 19:54:56 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 18 Nov 2026 18:53:43 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The AI Hype Index: AI is everywhere",
+          "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+          "content": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 18 Nov 2026 14:42:44 +0000",
+          "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you migh..."
+        },
+        {
+          "title": "The Download: AI learns to smell and hydropower struggles",
+          "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Wed, 18 Nov 2026 13:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In..."
+        }
+      ],
+      "generatedAt": "2026-11-19T09:15:29.553Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Anthropic raises $81bn in record IPO",
+          "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+          "content": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 19 Nov 2026 07:04:26 GMT",
+          "summary": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing..."
+        },
+        {
+          "title": "EU delays methane emission rules on fossil fuel imports",
+          "url": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
+          "content": "New rules will not be implemented for at least two years after sustained lobbying by the US, Qatar and the wider oil and gas sector",
+          "source": "FT Markets",
+          "publishedAt": "Thu, 19 Nov 2026 06:41:33 GMT",
+          "summary": "New rules will not be implemented for at least two years after sustained lobbying by the US, Qatar and the wider oil and gas sector..."
+        },
+        {
+          "title": "\n        Meet the European Central Bank’s new squad\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
+          "content": "A Spaniard, a German and a Frenchwoman",
+          "source": "The Economist",
+          "publishedAt": "Wed, 18 Nov 2026 19:24:30 +0000",
+          "summary": "A Spaniard, a German and a Frenchwoman..."
+        },
+        {
+          "title": "\n        Why startups still go public, eventually\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+          "content": "Costly regulation is not a big deterrent to IPOs",
+          "source": "The Economist",
+          "publishedAt": "Tue, 17 Nov 2026 18:38:26 +0000",
+          "summary": "Costly regulation is not a big deterrent to IPOs..."
+        },
+        {
+          "title": "Youdao Non-GAAP EPADS of $0.06 beats by $0.03, revenue of $213.1M misses by $32.85M",
+          "url": "https://seekingalpha.com/news/4674585-youdao-non-gaap-epads-of-006-beats-by-003-revenue-of-2131m-misses-by-3285m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 19 Nov 2026 04:08:27 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Germany, France lead European gains as UK market trades near six-week low",
+          "url": "https://seekingalpha.com/news/4674580-germany-france-lead-european-gains-as-uk-market-trades-near-six-week-low?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Thu, 19 Nov 2026 04:05:00 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Tiger-backed Razorpay set to file for India IPO as early as next week ",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-backed-razorpay-set-to-file-for-india-ipo-as-early-as-next-week/articleshow/135983381.cms",
+          "content": "Tiger Global-backed Razorpay is preparing to file its IPO papers in India as early as next week, with investor roadshows expected to follow immediately. The Bengaluru-based fintech firm could launch its public offering as early as February, aiming to raise up to $600 million through a mix of fresh and secondary share sales.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 19 Nov 2026 14:15:45 +0530",
+          "summary": "Tiger Global-backed Razorpay is preparing to file its IPO papers in India as early as next week, with investor roadshows expected to follow immediately. The Bengaluru-based fintech firm could launch i..."
+        },
+        {
+          "title": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
+          "content": "Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feature prominently.",
+          "source": "ET Markets",
+          "publishedAt": "Thu, 19 Nov 2026 12:35:20 +0530",
+          "summary": "Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feature prominently...."
+        }
+      ],
+      "generatedAt": "2026-11-19T09:15:31.334Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Conference networking made simple, in three short videos",
+          "url": "https://www.nature.com/articles/d41586-026-03678-9",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "First observation of a giant star swallowing its neighbour",
+          "url": "https://www.nature.com/articles/d41586-026-03784-8",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-18T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "A rare disease reveals a hidden flaw in the immune system",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+          "content": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infant already showing substantial improvement.",
+          "source": "Science Daily",
+          "publishedAt": "Wed, 18 Nov 2026 07:33:09 EST",
+          "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthr..."
+        },
+        {
+          "title": "NASA pushes Mars helicopter blades beyond the speed of sound",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033920.htm",
+          "content": "NASA has successfully tested Mars helicopter rotor blades at supersonic speeds, boosting potential lift by 30% and overcoming a major obstacle to more powerful aircraft on the Red Planet. The breakthrough could enable next-generation helicopters to carry heavier scientific equipment, fly farther, and explore places beyond the reach of traditional rovers.",
+          "source": "Science Daily",
+          "publishedAt": "Tue, 17 Nov 2026 22:16:19 EST",
+          "summary": "NASA has successfully tested Mars helicopter rotor blades at supersonic speeds, boosting potential lift by 30% and overcoming a major obstacle to more powerful aircraft on the Red Planet. The breakthr..."
+        },
+        {
+          "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+          "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+          "content": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+          "source": "Ars Technica",
+          "publishedAt": "Wed, 18 Nov 2026 21:29:24 +0000",
+          "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find...."
+        },
+        {
+          "title": "Hyperscale data centers use 2% of US electricity",
+          "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+          "content": "Study attempts to tally hyperscalers’ energy use and emissions.",
+          "source": "Ars Technica",
+          "publishedAt": "Mon, 16 Nov 2026 20:52:10 +0000",
+          "summary": "Study attempts to tally hyperscalers’ energy use and emissions...."
+        }
+      ],
+      "generatedAt": "2026-11-19T09:15:32.366Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+          "url": "https://kapteko.com/15-million-webservers/",
+          "content": "Article URL: https://kapteko.com/15-million-webservers/\nComments URL: https://news.ycombinator.com/item?id=50556533\nPoints: 97\n# Comments: 14",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 19 Nov 2026 05:56:36 +0000",
+          "summary": "Article URL: https://kapteko.com/15-million-webservers/\nComments URL: https://news.ycombinator.com/item?id=50556533\nPoints: 97\n# Comments: 14..."
+        },
+        {
+          "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+          "url": "https://verialabs.com/ruby2shell/",
+          "content": "Article URL: https://verialabs.com/ruby2shell/\nComments URL: https://news.ycombinator.com/item?id=50556287\nPoints: 51\n# Comments: 11",
+          "source": "Hacker News",
+          "publishedAt": "Thu, 19 Nov 2026 05:09:11 +0000",
+          "summary": "Article URL: https://verialabs.com/ruby2shell/\nComments URL: https://news.ycombinator.com/item?id=50556287\nPoints: 51\n# Comments: 11..."
+        }
+      ],
+      "generatedAt": "2026-11-19T09:15:33.139Z"
+    }
+  ]
+}
