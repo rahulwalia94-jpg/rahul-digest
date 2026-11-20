@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T08:58:30.291Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "Bank of England Weekly Report 18 November 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/18-november-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 19 Nov 2026 14:12:46 Z",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        },
+        {
+          "title": "Eleventh edition of the Regulatory Initiatives Grid",
+          "url": "https://www.bankofengland.co.uk/report/regulatory-initiatives-grid",
+          "content": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum",
+          "source": "Bank of England",
+          "publishedAt": "Tue, 17 Nov 2026 07:00:00 Z",
+          "summary": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum..."
+        }
+      ],
+      "generatedAt": "2026-11-20T08:58:26.685Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 18 Nov 2026 19:54:56 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Wed, 18 Nov 2026 18:53:43 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+          "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 19 Nov 2026 13:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a recor..."
+        },
+        {
+          "title": "A human liver has been kept alive outside the body for a record seven weeks",
+          "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+          "content": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Thu, 19 Nov 2026 12:00:00 +0000",
+          "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose ..."
+        }
+      ],
+      "generatedAt": "2026-11-20T08:58:27.396Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+          "url": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
+          "content": "Final COP31 sessions focusing on energy security rather than climate change, critics say",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 20 Nov 2026 08:52:29 GMT",
+          "summary": "Final COP31 sessions focusing on energy security rather than climate change, critics say..."
+        },
+        {
+          "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+          "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+          "content": "Markets in Europe and Asia follow Wall Street lower despite Claude AI maker’s record listing",
+          "source": "FT Markets",
+          "publishedAt": "Fri, 20 Nov 2026 07:29:48 GMT",
+          "summary": "Markets in Europe and Asia follow Wall Street lower despite Claude AI maker’s record listing..."
+        },
+        {
+          "title": "\n        Bond yields are rising everywhere—except China\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+          "content": "The Chinese central bank has cut interest rates despite itself",
+          "source": "The Economist",
+          "publishedAt": "Thu, 19 Nov 2026 10:04:37 +0000",
+          "summary": "The Chinese central bank has cut interest rates despite itself..."
+        },
+        {
+          "title": "\n        Europe tightens sanctions on Russia. America loosens them\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+          "content": "The West’s sanctions regimes are pulling in opposite directions",
+          "source": "The Economist",
+          "publishedAt": "Thu, 19 Nov 2026 10:03:23 +0000",
+          "summary": "The West’s sanctions regimes are pulling in opposite directions..."
+        },
+        {
+          "title": "Anthropic to join MSCI Large Cap, FTSE Global indexes after Nasdaq debut",
+          "url": "https://seekingalpha.com/news/4675056-anthropic-to-join-msci-large-cap-ftse-global-indexes-after-nasdaq-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 20 Nov 2026 03:51:59 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "PIMCO Global Income Opportunities Fund - Unit - Class A declares CAD 0.05688 dividend",
+          "url": "https://seekingalpha.com/news/4675052-pimco-global-income-opportunities-fund-unit-class-a-declares-cad-005688-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 20 Nov 2026 02:58:15 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Indian finance hub eyes dual share model to kickstart public offers: Report ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms",
+          "content": "Indian regulators are currently assessing a new proposal that would allow companies to introduce dual-class shares for listings in both domestic markets and GIFT City. This initiative seeks to invigorate equity market activity in GIFT City, which has faced challenges regarding limited primary market participation. One class of shares would be traded in rupees, while the other would be dollar-denominated, granting foreign investors easier access alongside reduced tax implications.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 20 Nov 2026 13:02:59 +0530",
+          "summary": "Indian regulators are currently assessing a new proposal that would allow companies to introduce dual-class shares for listings in both domestic markets and GIFT City. This initiative seeks to invigor..."
+        },
+        {
+          "title": "Who is Roaring Kitty? The man behind GameStop's meme rally ",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/who-is-roaring-kitty-the-man-behind-gamestops-meme-rally/slideshow/136017912.cms",
+          "content": "Keith Gill, better known as Roaring Kitty, is back on social media after nearly two years. His cryptic Cat Mario post sent GameStop shares higher, reviving memories of the 2021 meme-stock rally and sparking fresh interest among retail investors.",
+          "source": "ET Markets",
+          "publishedAt": "Fri, 20 Nov 2026 12:20:28 +0530",
+          "summary": "Keith Gill, better known as Roaring Kitty, is back on social media after nearly two years. His cryptic Cat Mario post sent GameStop shares higher, reviving memories of the 2021 meme-stock rally and sp..."
+        }
+      ],
+      "generatedAt": "2026-11-20T08:58:28.837Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "Lifting weights reduces muscle loss from obesity drugs",
+          "url": "https://www.nature.com/articles/d41586-026-03751-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+          "url": "https://www.nature.com/articles/s41586-026-11388-5",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-19T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Experimental compound burns fat without sacrificing muscle",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+          "content": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 19 Nov 2026 19:19:49 EST",
+          "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, ..."
+        },
+        {
+          "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+          "content": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially harmful fungal toxin. Known as mycotoxins, these naturally occurring compounds can contaminate grains, legumes, and seeds during farming and storage.",
+          "source": "Science Daily",
+          "publishedAt": "Thu, 19 Nov 2026 06:13:29 EST",
+          "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat mil..."
+        },
+        {
+          "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+          "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+          "content": "Some models fare better, but all fail in similar ways.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 19 Nov 2026 18:44:39 +0000",
+          "summary": "Some models fare better, but all fail in similar ways...."
+        },
+        {
+          "title": "Mouse fight club might explain why we like to watch violent things",
+          "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+          "content": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+          "source": "Ars Technica",
+          "publishedAt": "Thu, 19 Nov 2026 14:04:38 +0000",
+          "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there...."
+        }
+      ],
+      "generatedAt": "2026-11-20T08:58:29.681Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "\"I can tell you wrote this yourself\"",
+          "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+          "content": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/\nComments URL: https://news.ycombinator.com/item?id=50571189\nPoints: 73\n# Comments: 73",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 20 Nov 2026 07:13:21 +0000",
+          "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/\nComments URL: https://news.ycombinator.com/item?id=50571189\nPoints: 73\n# Comments: 73..."
+        },
+        {
+          "title": "Jujutsu Primer",
+          "url": "https://ethanlowman.com/posts/jj-primer/",
+          "content": "Article URL: https://ethanlowman.com/posts/jj-primer/\nComments URL: https://news.ycombinator.com/item?id=50570628\nPoints: 94\n# Comments: 53",
+          "source": "Hacker News",
+          "publishedAt": "Fri, 20 Nov 2026 05:46:01 +0000",
+          "summary": "Article URL: https://ethanlowman.com/posts/jj-primer/\nComments URL: https://news.ycombinator.com/item?id=50570628\nPoints: 94\n# Comments: 53..."
+        }
+      ],
+      "generatedAt": "2026-11-20T08:58:30.291Z"
+    }
+  ]
+}
