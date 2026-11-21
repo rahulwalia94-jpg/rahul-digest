@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T08:39:44.536Z",
+  "categories": [
+    {
+      "category": "credit_risk",
+      "label": "Credit Risk & Regulatory",
+      "color": "#e8c547",
+      "items": [
+        {
+          "title": "When vacancies become cheap: vacancy posting costs and equilibrium labour market tightness",
+          "url": "https://www.bankofengland.co.uk/working-paper/2026/when-vacancies-become-cheap-vacancy-posting-costs-and-equilibrium-labour-market-tightness",
+          "content": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+          "source": "Bank of England",
+          "publishedAt": "Fri, 20 Nov 2026 14:00:00 Z",
+          "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate...."
+        },
+        {
+          "title": "Bank of England Weekly Report 18 November 2026",
+          "url": "https://www.bankofengland.co.uk/weekly-report/2026/18-november-2026",
+          "content": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+          "source": "Bank of England",
+          "publishedAt": "Thu, 19 Nov 2026 14:12:46 Z",
+          "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday...."
+        }
+      ],
+      "generatedAt": "2026-11-21T08:39:38.730Z"
+    },
+    {
+      "category": "ai_research",
+      "label": "AI & ML Research",
+      "color": "#5e8aff",
+      "items": [
+        {
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 20 Nov 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "content": "",
+          "source": "Hugging Face",
+          "publishedAt": "Fri, 20 Nov 2026 00:00:00 GMT",
+          "summary": "..."
+        },
+        {
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 18 Nov 2026 21:35:43 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "Genie 4 is now available",
+          "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+          "content": "",
+          "source": "DeepMind",
+          "publishedAt": "Wed, 18 Nov 2026 18:13:42 +0000",
+          "summary": "..."
+        },
+        {
+          "title": "The most misunderstood graph in AI just got a major update",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "content": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 20 Nov 2026 18:15:15 +0000",
+          "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at t..."
+        },
+        {
+          "title": "The Download: inside the quest to make our minds immortal",
+          "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+          "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond…",
+          "source": "MIT Tech Review",
+          "publishedAt": "Fri, 20 Nov 2026 13:10:00 +0000",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to mak..."
+        }
+      ],
+      "generatedAt": "2026-11-21T08:39:39.391Z"
+    },
+    {
+      "category": "macro",
+      "label": "Macro & Markets",
+      "color": "#3dd6c8",
+      "items": [
+        {
+          "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
+          "url": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
+          "content": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 21 Nov 2026 05:00:35 GMT",
+          "summary": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says..."
+        },
+        {
+          "title": "US watchdogs pick a bad time to cut disclosure on executive pay",
+          "url": "https://www.ft.com/content/a8a45cf2-f096-4f33-8df5-46a689bde104?syn-25a6b1a6=1",
+          "content": "The Securities and Exchange Commission has decided a more ‘principles-based’ regime is needed",
+          "source": "FT Markets",
+          "publishedAt": "Sat, 21 Nov 2026 05:00:35 GMT",
+          "summary": "The Securities and Exchange Commission has decided a more ‘principles-based’ regime is needed..."
+        },
+        {
+          "title": "\n        Bond yields are rising everywhere—except China\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+          "content": "The Chinese central bank has cut interest rates despite itself",
+          "source": "The Economist",
+          "publishedAt": "Thu, 19 Nov 2026 10:04:37 +0000",
+          "summary": "The Chinese central bank has cut interest rates despite itself..."
+        },
+        {
+          "title": "\n        Europe tightens sanctions on Russia. America loosens them\n      ",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+          "content": "The West’s sanctions regimes are pulling in opposite directions",
+          "source": "The Economist",
+          "publishedAt": "Thu, 19 Nov 2026 10:03:23 +0000",
+          "summary": "The West’s sanctions regimes are pulling in opposite directions..."
+        },
+        {
+          "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
+          "url": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 20 Nov 2026 19:10:24 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says",
+          "url": "https://seekingalpha.com/news/4675382-exxon-greenlights-4b-angola-oilfield-development-with-new-discovery-anpg-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "content": "",
+          "source": "Seeking Alpha",
+          "publishedAt": "Fri, 20 Nov 2026 18:16:36 -0500",
+          "summary": "..."
+        },
+        {
+          "title": "Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-hsbc-lists-19-indian-stocks-that-saw-fy27-earnings-upgrades-check-target-prices/slideshow/136048231.cms",
+          "content": "HSBC identified 19 Indian stocks with Buy ratings that received FY27 earnings upgrades after Q2 results. Ather Energy, GAIL and IIFL Finance led revisions, while improving corporate profitability highlighted a broadening earnings recovery across market capitalisations and sectors.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 21 Nov 2026 12:51:34 +0530",
+          "summary": "HSBC identified 19 Indian stocks with Buy ratings that received FY27 earnings upgrades after Q2 results. Ather Energy, GAIL and IIFL Finance led revisions, while improving corporate profitability high..."
+        },
+        {
+          "title": "Concurrent Gainers: These 13 stocks gained for 5 days in a row, all rose over 27% ",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-these-13-stocks-gained-for-5-days-in-a-row-all-rose-over-27/slideshow/136047969.cms",
+          "content": "The Sensex gained 1.08% during the five sessions ending November 20, while 99 BSE 200 stocks advanced consecutively. Thirteen shortlisted stocks delivered impressive cumulative returns ranging from 27.51% to 31.02%, led by Sera Investments & Finance India.",
+          "source": "ET Markets",
+          "publishedAt": "Sat, 21 Nov 2026 12:27:10 +0530",
+          "summary": "The Sensex gained 1.08% during the five sessions ending November 20, while 99 BSE 200 stocks advanced consecutively. Thirteen shortlisted stocks delivered impressive cumulative returns ranging from 27..."
+        }
+      ],
+      "generatedAt": "2026-11-21T08:39:40.502Z"
+    },
+    {
+      "category": "breakthroughs",
+      "label": "Science Breakthroughs",
+      "color": "#ff6b6b",
+      "items": [
+        {
+          "title": "How AI is affecting science careers",
+          "url": "https://www.nature.com/articles/d41586-026-03680-1",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "Lifting weights reduces muscle loss from obesity drugs",
+          "url": "https://www.nature.com/articles/d41586-026-03751-3",
+          "content": "",
+          "source": "Nature",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "summary": "..."
+        },
+        {
+          "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+          "content": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 20 Nov 2026 21:24:22 EST",
+          "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years..."
+        },
+        {
+          "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+          "content": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells and tissues. This unexpected chemical activity could help explain growing evidence linking microplastic exposure to serious health problems, including heart attacks, strokes, and neurological disorders.",
+          "source": "Science Daily",
+          "publishedAt": "Fri, 20 Nov 2026 21:35:26 EST",
+          "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reacti..."
+        },
+        {
+          "title": "Watching as a giant star swallowed its neighbor and exploded",
+          "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+          "content": "A recent brightening turned out to be from a star orbiting inside another.",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 20 Nov 2026 20:41:17 +0000",
+          "summary": "A recent brightening turned out to be from a star orbiting inside another...."
+        },
+        {
+          "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+          "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+          "content": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+          "source": "Ars Technica",
+          "publishedAt": "Fri, 20 Nov 2026 20:26:33 +0000",
+          "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"..."
+        }
+      ],
+      "generatedAt": "2026-11-21T08:39:41.064Z"
+    },
+    {
+      "category": "builder",
+      "label": "Builder & Product",
+      "color": "#c084fc",
+      "items": [
+        {
+          "title": "Surprisingly Adorable Insect Portraits",
+          "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+          "content": "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/\nComments URL: https://news.ycombinator.com/item?id=50586648\nPoints: 12\n# Comments: 0",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 21 Nov 2026 06:44:14 +0000",
+          "summary": "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/\nComments URL: https://news.ycombinator.com/item?id=50586648\nPoints:..."
+        },
+        {
+          "title": "ClawDOS – An AI coding agent for DOS",
+          "url": "http://ricapar.net/ClawDOS/",
+          "content": "Article URL: http://ricapar.net/ClawDOS/\nComments URL: https://news.ycombinator.com/item?id=50586292\nPoints: 41\n# Comments: 9",
+          "source": "Hacker News",
+          "publishedAt": "Sat, 21 Nov 2026 05:38:01 +0000",
+          "summary": "Article URL: http://ricapar.net/ClawDOS/\nComments URL: https://news.ycombinator.com/item?id=50586292\nPoints: 41\n# Comments: 9..."
+        }
+      ],
+      "generatedAt": "2026-11-21T08:39:44.536Z"
+    }
+  ]
+}
